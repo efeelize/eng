@@ -194,16 +194,159 @@ schedule 与其他的词同时出现在合同中的时候，将其翻译为附�
 
 A.the head
 
-a. preamble导言
+  a). preamble导言
 
-1.definition
-2.content and scope of the contract
-3.
+     1.premises/commencement
+
+       1.1交代前因后果
+
+          1.1.1 the corpprate ot personal names of the parties to the contract and their nationalities, pricipal places of business or residential addresses.
+
+          1.1.2 the date and place of signing the contract
 
 
-b.whereas clause 鉴于条款
+       1.2 stru:
 
-c过渡条款
+       this contract/agreement (is) made/entered into /concluded/made and entered into +in place+the/on the/this
+
+       +__th day of (month),(year),+by and between/among+name of one party,+a+
+
+       corporation/company +duly+orgainzed/incorporated +(and existing )under the law of +name of 
+
+       country/state/state,+country+ with its legal address/principal/registered office+at address/domicile
+
+       ("party" A)/hereinafter referred to as party A,+name of the other party +...
+
+
+eg:
+
+   this contract,made and entered into in (place of signature)the (this/on)__th day of (month),(year),by and between (name of one party),a corporation duly organized and existing under the laws of (name of country)with its domicile at(adress)(hereinafter referred to as party A),and (name of theh other party ),a company incorporated and existing under the laws of (name of country)with its domicile at(address)(hereinafter referred to as party B)
+
+   本合同于__年 __月 __日在（签约地点）由按（国家名称）法律逐渐成立的，营业地点在（公司地址）的__公司（以下称作甲方）和按（国家名称）法律注册成立的，营业地点在（公司地址）的__公司（以下称作乙方）共同签订的
+
+
+
+registered office & principal office & legal adress
+
+公司的注册所在地 & 公司的主营业所 & 法定地址
+
+BVI british virgin island 
+英属维京群岛
+
+paper company
+纸上公司
+
+offshore company
+离岸公司
+
+made/entered into/concluded 
+usu 翻译为签订或订立，虽然 made 有制作、起草的含义，但是省略也不会造成信息的丢失
+
+esp： in janpan
+if合同是在国内 made ；else签约中的一方要为此缴纳税费
+
+
+
+2.whereas clause 
+  recital 叙述性条款
+
+in practice:
+国际贸易中，如果鉴于条款和具体条款有抵触的时候，根据国际一般做法，应以具体条款的内容为准，在一些金额不大或者比较简单的合同中，也可以从简或者不列明鉴于条款。
+
+在英美，合同正文无法确定合同内容的时候，鉴于条款的内容会成为明确合同内容，把握当事人真正意图的重要资料
+
+其多出现在一些英文合同的重大资产收购、专利许可、合作开发等合同中
+
+在我国不属于合同的必备条款
+
+
+   2.1 内容
+
+   1）一方拥有合同标的的某种合法权益（usu 所有权、使用权、其他权益）或从事某项与标的相关的业务，或者具备某种与标的相关的资格
+
+   2）上述该方愿意作为供方同利益方进行合同中约定的某项特定交易
+
+   3）为达成某种目的，上述该另一方愿意作为需方开展某项特定的交易
+
+   4)签署一份合同之后又签署了第二份补充合同（supplemental clasuses），在第二份的补充合同中，要在 whereas clauses 处说明其缔约的由来与补充的性质
+
+    
+    2.2 stru:
+
+    在 commencement 之后，冠以 recital/witnesseth/background 的字样
+随后以 whereas 引出三五个以逗号或分号间隔的并列陈述句
+
+   WHRERAS,
+
+   party A has the right of (processes).../is a corporation engaged in .../is eligible to ...
+
+   party A desires to .../wishes to .../will ...
+
+   party B agrees to .../has agreed to...
+
+
+ estoppels by representation
+ 禁止反言
+
+ desire & wish
+ 拟、有意  
+
+ presumption against tautology
+ 避免赘言推定
+
+ territory
+ 经销区
+
+distributor
+ 销售人
+
+
+
+
+3.transitional clause 过渡条款
+
+紧接在鉴于条款的后面，其目的在于提醒阅读合同的人，真正规范订约当事人权利义务关系的条款（operative part）在这句后之后就要开始了
+
+  3.1内容
+ 
+  1）承接鉴于条款，对鉴于条款中的事实进行确认
+  2）确认合同对价
+  3）开启合同的文本部分
+  
+
+  3.2 stru:
+
+  NOW THEREFORE,in consideration of 
+
+  the premise and the covenants herein/the payment to be made by_to_/the foregoing
+
+  (for other good and valuable consideration,the receiot and sufficiency of which are hereby acknowledged)
+
+  party A and party B/the parties hereto/the parties to this Agreement 
+
+  hereby cobenant and agree as follows
+
+
+  3.3 简版和变形
+
+  Now,therefore, in consideration of the premises and the covenants herein, contained the parties hereto agree as follows.
+  兹以上述个点和契约所载条款为约因，订约双方的协议如下
+
+
+  in consideration of the payment to be made by party A to party B,party B hereby covenants with party A to complete the building in conformity with the provisions of the contract.
+  乙方特此立约向甲方保证按合同规定完成工程建设，以取得甲方所付的报酬
+
+
+  NOW,THEREFORE,it's hereby agreed and understoood as follows:
+  兹特协议和谅解如下
+
+  NOW,THEREFORE,
+  这个短语用于鉴于条款之后引出具体的协商事项，常常与其后的 hereby 相结合，如无鉴于条款，该短语也可以省略
+
+  the parties to this Agreement, intending to be legally bound,agree as follows:
+  本协议各方自愿接受相关法律约束，并达成一致如下：
+
+
 
 
 B.the body
