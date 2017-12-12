@@ -28,14 +28,68 @@ eg:error(留下抄送的关键人物或是老板，然后将主题词精简归�
  I assume you understand 
  I hope that is fine with you 
 
+
+ correct:
+ Hi:
+ (for client):your company:
+ (for partner):first name
+
+
+content:
+I:Cover notes
+
+1） 律师修改客户提交的合同后，在邮件中就所作出的修改进行解释和说明
+ 即使已经在附件中说明
+ 
+ cuz:合同中的条款公司用了很多年，是基于国外的或公司的标准起草的条款，客户一
+般不希望进行修改，确有必要需要理由
+
+2）询问律师对合同的意见
+ USU SAMPLE:
+ 律师审阅了什么文件？
+ 该合同是否违反中国法？对合同做一个整体的判断
+ 提出对合同的整体意见（general comments）
+ 按照合同条款的顺序提出与条款相关的具体意见
+
+3）对附件的说明
+
+ case_准备了十几个申请文件， inclu 递交审批机关以及工商局的文件，需要总公司
+盖章
+
+ in cover notes:
+附件包含十个文件
+题目是什么
+是中文还是英文
+是应该中英文签，还是英文只是一个 FYI 的翻译件
+文件签几份
+签名应该签在第几页
+
+II:answer
+1) 客户希望直接回答“Y” or "N"
+2) 希望帮助理解为什么会出现这种问题，并且希望律师能够理解他们的思路
+背景情况
+政策法规
+
+
+
+tips:
+correct ways
+1)please note...
+2)it will be advisable
+3) 简述一些法律的基本要求：
+要求客户提交文件：required,need do,should do
+给客户提建议： we would suggest
+               ur company wish to 
+
+
  三、 附件
  1、Under the Shareholders Agreement(attached),at least four directors must
   be present at the board meeting to constitute quorum.
 
- 2、为了节约收件人（通常都是上级领导或客户）的时间，最好的办法就是找到 Constitute 
- Quorum 的相关条款，高亮标示，并在邮件正文中写明：“Under Section 7(c)(iii)of the
-  Shareholders Agreement(see page 10 of the attached),at least four 
-  directors must be present at the board meeting to constitute quorum.“
+ 2、为了节约收件人（通常都是上级领导或客户）的时间，最好的办法就是找到 Const
+itute Quorum 的相关条款，高亮标示，并在邮件正文中写明：“Under Section 7(c)(
+iii)of the  Shareholders Agreement(see page 10 of the attached),at least
+ four directors must be present at the board meeting to constitute quorum.“
 
 
  四、感谢用语
@@ -53,7 +107,9 @@ eg:error(留下抄送的关键人物或是老板，然后将主题词精简归�
 六、收尾
 Please let me know what you think／Please let me know if you have any 
 questions or concerns(usu)
-Please review the lengthy e-mail and provide feedback on how we canproceed.
+Please review the lengthy e-mail and provide feedback on how we can proceed.
+
+
 
 according to 
 据……说”，但不确认说的内容是否真实，如“根据路透社的新闻报道……”
@@ -67,7 +123,7 @@ in accordance with
 请求，使用时可以用“ as pre your request ”（根据你方要求）
 
 
-Commission，
+Commission
 是指某一机构或部委
 Committee 
 是指机构中的一个委员会
@@ -78,7 +134,6 @@ equity
 
 share 
 想表述一个股份有限公司、股权占多少份额时，股权可以用 share 
-
 对于股东的翻译，通行做法是将股东统称为 shareholders 
 
 
@@ -93,10 +148,10 @@ discussion
 2、evidence、equipment 等词没有复数
 
 3、语法错误
-如：Judging from the evidence, the case has no 
-merits，这是错句，主语与分词的关系不对。
+如：Judging from the evidence, the case has no merits，这是错句，主语与分词
+的关系不对。
 
-judging 只能由人来完成。此句可以改为：Judging from the evidence, I am of the 
+judging 只能由人来完成。此句可以改为：Judging from the evidence, I am of the
 view that the case has no merits.
 
 
