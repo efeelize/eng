@@ -1,4 +1,6 @@
-股权 eng
+EQUITY
+
+
 corporation 
  
  limited liability company 有限责任公司
@@ -14,7 +16,8 @@ corporation
  DVP 付款交单/银货对付交收
  
  SPV special purpose vehicle特殊目的载体
- SPE special purpose entity特殊目的实体
+ 
+SPE special purpose entity特殊目的实体
  
  warrants 认股证，权证
  
@@ -61,7 +64,7 @@ stagging打新股
  
  the green shoe绿鞋
  green shoe option绿鞋 期权
- 新股发行时超额配售权，如果人们对新股的需求量高于预期，承销商会销售超过发行公司
+ 新股发行时超额配售权，if人们对新股的需求量高于预期，承销商会销售超过发行公司
  最初敲定的发行数量的股票，可以防止股票在二级市场上市交易以后股价发生过度波动
  
  
@@ -134,9 +137,10 @@ stagging打新股
  
  P/E   price/earning ration 
  市盈率、本益比、股价收益比率、市场盈利比率
- current pe静态市盈率
- trailing pe 滞后市盈率
- forward pe预测市盈率
+
+ current p/e静态市盈率
+ trailing p/e 滞后市盈率
+ forward p/e预测市盈率
  
  P/B   price to book ration 
  市帐率
