@@ -1,26 +1,31 @@
-PRECISE_SENTENCE_STRU
+#**PRECISE_SENTENCE_STRU
 
 There are two things wrong with almost all legal writing,one is the style,the other is its content
 
-I.AIM
+##**I.AIM
 1) 结合法律和事实
+
 2）起草一份综合全面的，并与口头协议一致的记录
+
 3）定义目前及将来各方当事人之间的权利与义务
+
 4）当事人能够看懂法律文件所表达的意思
+
 5）法律文件必须有可执行性
 
 
-II.AVOID AMBIGUITY
-1）附带条件
+##**II.AVOID AMBIGUITY
+###1）附带条件
    in pra:usu use in +new duty/new message
+
    尽量用独立的句子进行表述：where /if  (not) provided that 
 
-2)PL
+###2)PL
   depends 买方一致行动;else the purchasers shall jointly notify the vendor...
   depends 买方可以单独行行动；else  each purchaser shall notify the vendor... 
 
 
-3) &&
+###3) &&
  eg:temporary and part-time employees
    a)两个类别的员工
    b)一个类别的员工既是...也是...
@@ -36,34 +41,34 @@ II.AVOID AMBIGUITY
    A may sell assets and/or make captial expenditures
    有权单独就一项做出决定
 
-4)||
+###4)||
  temporary or part-time employees
  a)tem emp, || par emp
  b) 兼有tem & par两种性质的 emp
  c) par emp,not inclu: b)
 
-5)SHALL
+###5)SHALL
  a)接受一项义务 -> replace:must
  b) 将来 -> will
 
-6)MAY
+###6)MAY
   a) 允许一方做某事  ->
   b) 某事发生的可能性 ->
 
-7)AVOID SHOULD
+###7)AVOID SHOULD
   a) 可能
   b) 必须
 
 
-III.典型表达
-1.in accordance with/pursuant to
+##III.典型表达
+###1.in accordance with/pursuant to
 
   after friendly consulations conducted in accordance with the principle of equality and mutual benefit,the parties 
   have agreed to enter into a sales contract in accordance with applicable laws and the provisons of this contract.
   各方在平等互利的基础上，经友好协商，一致同意依照相关法律和本合同的规定签订一份销售合同
 
 
-2.in respect of
+###2.in respect of
 
 the contract price does not cover costs and expenses that are for buyer's account under this contract,or any taxes (including but
 not limited to customs duty and value added tax)payable by buyer in respect of this contract.
@@ -84,7 +89,7 @@ premises shall be deemed to be in arrear if not paid in advance as stipulated by
 在租赁条例及本协议中，若上述物业租金未依本协议第1条规定提前予以支付，这将视为拖欠
 
 
-3.save.../except(for)/unless （otherwise）
+###3.save.../except(for)/unless （otherwise）
 
 notwithstanding any other provisions of this contract,(except for breach of confidentiality obligation or infringement of other
 party's IPR),neither party shall be liable to other party for damages for loss of revenues or profits,loss of goodwill or any
@@ -104,7 +109,7 @@ acquire the right to the subject matter insured in the proportion that the insur
 保险价值的比例取得对保险标的的部分权利。
 
 
-4.notwithstanding...
+###4.notwithstanding...
 
 notwithstanding the foregoing,the parties agree that each party has the right to seek temporary or permanent injunctive of other
 similar relief in any court or other authority of competent jurisdiction in respect of any claims of breach of confifentiality or
@@ -117,7 +122,7 @@ registered capital of the company to an affiliate (the "affiliate assignee")of t
 尽管有上述5.6条（a）(b)款的规定，转让方可见持有的合营公司注册资本份额全部或部分按照下列条款转让给某某以关联机构（“关联受让方”）
 
 
-5.provided that...
+###5.provided that...
 
 the chairman,following consultation with the vice chairman,shall decide on the timing and locatiion of such interim board meeting,
 provided that such interim board meeting shall be held not less than[fifteen(15)] days and not more than [forty-five(45)days 
@@ -152,7 +157,7 @@ is made,then only from the date and to the extent of each demand respectively.
 时效从贵方中一者或两者 要求履行时开始计算。如果贵方提出了一项以上的履约要求的，时效分别计算。
 
 
-6.for the purpose(s) of 
+###6.for the purpose(s) of 
 
 FACIMILE SIGNATURES,the signature on this agreement of any party that is faxed to the other party,will be deemed an original signature
 for the purpose of enforcement of this agreement.
@@ -180,16 +185,16 @@ attestation and without that of any other such person.
 for the purposes of this law,"invention-creation"means inventions,utility models and designs.
 本条例所称的发明创造指的是发明、实用新型和外观设计
 
-6.1 in order to 
+####6.1 in order to 
 this law is formulated in order to protect patent rights for invention-creations,encourage invention-creations and facilitate their
 popularization and application,promote the development of science and technology...
 为了保护发明创造专利权，鼓励发明创造，有利于发明创造的推广应用，促进科学技术的发展...特制定本法
 
-6.2 for commeicial purpose of
+####6.2 for commeicial purpose of
 为了商业目的
 
 
-7.otherwise...
+###7.otherwise...
 
 if two or more persons are defendants to claim,as partners or otherwise,a process may be served on any of them and an award may be
 obtained and execution issued against any person so served notwithstanding that any other persons jointly liable may not have been
@@ -209,13 +214,13 @@ codicil executed in accordance with section 5 and showing an intention to revive
 遗嘱的全部或任何部分，无论以何种方式撤销后，除非根据第5条重新签订或加入按照第5条签立的遗嘱更改附件，并表明意愿是恢复遗嘱的效力，否则该遗嘱的部分或全部
 均不能恢复效力
 
-7.1 otherthan
+####7.1 otherthan
 any person guilty of an offence under this part,other than an offence under section 3,shall be liable:on conviction on indictment;
 on summary conviction...
 除了第三条之外，任何人行本章所定罪行,应受如下处罚：经公诉程序裁定；经简易程序裁定
 
 
-8.subject to...
+###8.subject to...
 
 subject to subsection (4),the information referred to in section 13(2) and in section 14(2) may be required from a legal adviser
 as from any other person,notwithstanding that effect of compliance with such requirement would be to disclose any privileged
@@ -223,7 +228,7 @@ information or communication.
 受制于第（4）款规定，可向法律顾问或其他人要求提供第13（2）及14（2）条所指称的数据，即使履行该要求会造成专有数据和通讯被披露的后果
 
 
-9.without prejudice to...
+###9.without prejudice to...
 在不损害...的原则下
 
 if upon the hearing of a claim,the claimant does not appear,the board may strike out the claim,without prejudice,however,to the 
@@ -231,7 +236,7 @@ restoration of such claim by the board,on the application of the claimant,on suc
 在开庭时申请人未出席的，仲裁庭可按撤销仲裁处理。但申请人提出申诉且仲裁庭认为理由正当的，可恢复审理
 
 
-10.where
+###10.where
 
 where the defendant is fined and the same is not forth with paid,the magistrate may order the defendant to be searched.
 凡被告人被判处罚款，但没有随机缴付罚款的，裁判官可命令搜查该被告
@@ -244,7 +249,7 @@ where the exclusive right of an agricultural chemical product proved invalid or 
 resides,the administractive protection shall cease before the expiration of its duration.
 农业化学物质产品的专有权在申请人所在国无效或者失效的，行政保护在期限届满前终止
 
-10.1 whoever
+####10.1 whoever
 whoever does sth is to be sentenced to 
 ...的，处...年有期徒刑
 
@@ -253,18 +258,18 @@ of fix-term imprisonment.
 以暴力、胁迫或其他手段强奸妇女的，处三年以上十年以下有期徒刑
 
 
-11.absent...
+###11.absent...
 
 absent a contractual provision to the country,consequetial damages are genereally not recoverable against the Indemnitor.
 如果不存在相反的合同条款，通常不得向赔偿方要求补偿间接损失
 
 
-IV.合同常见句式调整
+##**IV.合同常见句式调整
 
 
-V.合同长句的翻译技巧
+##**V.合同长句的翻译技巧
 
-1.倒着翻译\分译
+###1.倒着翻译\分译
 
 it therefore becomes more and more important that,if students are not to waste their ipportunities,there will have to be much more
 detailed information about courses and more advice.
