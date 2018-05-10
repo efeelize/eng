@@ -3,11 +3,12 @@
 There are two things wrong with almost all legal writing,one is the style,the other is its content
 
 ## I.AIM
-1) 结合法律和事实
+    1) 结合法律和事实
 2）起草一份综合全面的，并与口头协议一致的记录
 3）定义目前及将来各方当事人之间的权利与义务
 4）当事人能够看懂法律文件所表达的意思
 5）法律文件必须有可执行性
+
 
 ## II.AVOID AMBIGUITY
 ### 1）附带条件
