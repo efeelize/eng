@@ -104,7 +104,7 @@
 - corp 是全世界通用的公司名称
   Inc. PLC ,LLC是某些国家的专有的，在我国不适宜使用
 
-##4.3 一些特殊的公司不使用这种
+## 4.3 一些特殊的公司不使用这种
 ### 1)line(s)
     Atlantic Container Line
     大西洋集装箱海运公司
@@ -123,7 +123,7 @@
     tesco stores(holdings)
     坦斯科百货公司
 
-#### d)associates
+### d)associates
     british nuclear associates
     英国核子联合公司
     subsea equipment associates Ltd.
@@ -174,7 +174,7 @@ schedule 与其他的词同时出现在合同中的时候，将其翻译为附�
 
 # 正文
 ## 1.the head
-###1.1 preamble导言
+### 1.1 preamble导言
 #### 1.1.1.premises/commencement
 ##### 1.1.1.1交代前因后果
 - the corpprate ot personal names of the parties to the contract and their nationalities, pricipal places of business or residential addresses.
@@ -224,64 +224,62 @@ in practice:
 ### 2.1 内容
 #### 1）一方拥有合同标的的某种合法权益（usu所有权、使用权、其他权益）或从事某项与标的相关的业务，或者具备某种与标的相关的资格
 
-### 2）上述该方愿意作为供方同利益方进行合同中约定的某项特定交易
+#### 2）上述该方愿意作为供方同利益方进行合同中约定的某项特定交易
 
-### 3）为达成某种目的，上述该另一方愿意作为需方开展某项特定的交易
+#### 3）为达成某种目的，上述该另一方愿意作为需方开展某项特定的交易
 
-### 4)签署一份合同之后又签署了第二份补充合同（supplemental clasuses），在第二份的补充合同中，要在 whereas clauses 处说明其缔约的由来与补充的性质
+#### 4)签署一份合同之后又签署了第二份补充合同（supplemental clasuses），在第二份的补充合同中，要在 whereas clauses 处说明其缔约的由来与补充的性质
 
 ### 2.2 stru:
-在 commencement 之后，冠以 recital/witnesseth/background 的字样随后以 whereas 引出三五个以逗号或分号间隔的并列陈述句
+- 在 commencement 之后，冠以 recital/witnesseth/background 的字样随后以 whereas 引出三五个以逗号或分号间隔的并列陈述句
 
-WHRERAS,
+- WHRERAS,
 party A has the right of (processes).../is a corporation engaged in .../is eligible to ...
 party A desires to .../wishes to .../will ...
 party B agrees to .../has agreed to...
 
- estoppels by representation
- 禁止反言
+#### estoppels by representation
+禁止反言
 
- desire & wish
- 拟、有意  
+#### desire & wish
+拟、有意  
 
- presumption against tautology
- 避免赘言推定
+#### presumption against tautology
+避免赘言推定
 
- territory
- 经销区
+#### territory
+经销区
 
-distributor
- 销售人
+#### distributor
+销售人
 
 ## 3.transitional clause 过渡条款
 - 紧接在鉴于条款的后面，其目的在于提醒阅读合同的人，真正规范订约当事人权利义务关系的条款（operative part）在这句后之后就要开始了
 
 ### 3.1内容
->1）承接鉴于条款，对鉴于条款中的事实进行确认
->2）确认合同对价
->3）开启合同的文本部分
+- 1）承接鉴于条款，对鉴于条款中的事实进行确认
+- 2）确认合同对价
+- 3）开启合同的文本部分
   
 
 ### 3.2 stru:
-  NOW THEREFORE,in consideration of 
-  the premise and the covenants herein/the payment to be made by_to_/the 
-  foregoing(for other good and valuable consideration,the receiot and sufficiency of which are hereby acknowledged)party A and party B/the parties hereto/the parties to this Agreement ,hereby cobenant and agree as follows
+     NOW THEREFORE,in consideration of the premise and the covenants herein/the payment to be made by_to_/the foregoing(for other good and valuable consideration,the receiot and sufficiency of which are hereby acknowledged)party A and party B/the parties hereto/the parties to this Agreement ,hereby cobenant and agree as follows
 
 ### 3.3 简版和变形
-Now,therefore, in consideration of the premises and the covenants herein, contained the parties hereto agree as follows.
-兹以上述个点和契约所载条款为约因，订约双方的协议如下
+     Now,therefore, in consideration of the premises and the covenants herein, contained the parties hereto agree as follows.
+     兹以上述个点和契约所载条款为约因，订约双方的协议如下
 
-in consideration of the payment to be made by party A to party B,party B hereby covenants with party A to complete the building in conformity with the provisions of the contract.
-乙方特此立约向甲方保证按合同规定完成工程建设，以取得甲方所付的报酬
+    in consideration of the payment to be made by party A to party B,party B hereby covenants with party A to complete the building in conformity with the provisions of the contract.
+    乙方特此立约向甲方保证按合同规定完成工程建设，以取得甲方所付的报酬
 
-NOW,THEREFORE,it's hereby agreed and understoood as follows:
-兹特协议和谅解如下
+    NOW,THEREFORE,it's hereby agreed and understoood as follows:
+    兹特协议和谅解如下
 
-NOW,THEREFORE,
-这个短语用于鉴于条款之后引出具体的协商事项，常常与其后的 hereby 相结合，如无鉴于条款，该短语也可以省略
+    NOW,THEREFORE,
+    这个短语用于鉴于条款之后引出具体的协商事项，常常与其后的 hereby 相结合，如无鉴于条款，该短语也可以省略
 
-the parties to this Agreement, intending to be legally bound,agree as follows:
-本协议各方自愿接受相关法律约束，并达成一致如下：
+    the parties to this Agreement, intending to be legally bound,agree as follows:
+    本协议各方自愿接受相关法律约束，并达成一致如下：
 
 
 # B.the body
@@ -352,13 +350,13 @@ documents against acceptance 承兑交单
 #### payer 
 付款人
 
-####in case of non-payment in collection 
+#### in case of non-payment in collection 
 如果付款人拒付托收金额/如果托收金额被拒付
 
-####at the disposal of 
+#### at the disposal of 
 available for sb to use as one wishes.
 
-####damages
+#### damages
 《联合国国际货物销售合同公约》74：
 >damages for breach of contrac† by one party consis† of a sum equal to †he
  loss,including loss of profit, suffered by †he other party as a 
@@ -368,7 +366,7 @@ available for sb to use as one wishes.
  which he then knew ought to have known, as a possible consequence of the
   breach of contract.
 
-违约金的偿付：无论是否造成了实际损失，也无论损失有多大都要按照合同向另一方偿付
+>违约金的偿付：无论是否造成了实际损失，也无论损失有多大都要按照合同向另一方偿付
 赔偿金的偿付：损害赔偿是一方违约并造成实际损失的时候才产生damages 
 
 #### liquidate 
@@ -398,18 +396,18 @@ through firendly negotiation 通过友好协商
 to be conducted by an aebitration body 由仲裁机构进行仲裁
 
 ###仲裁机构
->我国  
->arbitration commission
->国际商会仲裁院 
->the court of arbitration of the internation chamber of commerce
->美国仲裁协会  
->american arbitration association AAA
->斯德哥尔摩商会仲裁院  
->the  arbitration of the stockholm chamber of commence
->仲裁院 
->the arbitration institute
->仲裁庭 
->arbitration tribunal
+    我国  
+    arbitration commission
+    国际商会仲裁院 
+    the court of arbitration of the internation chamber of commerce
+    美国仲裁协会  
+    american arbitration association AAA
+    斯德哥尔摩商会仲裁院  
+    the  arbitration of the stockholm chamber of commence
+    仲裁院 
+    the arbitration institute
+    仲裁庭 
+    arbitration tribunal
 
 #### obligatory & binding
 >obligatory 出于良心道德而期望或必须做某事 
