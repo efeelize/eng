@@ -1,11 +1,10 @@
-clause_validity
+# validit
 
-1.preamble
-
- 1.1 content
-     1)各方名称和法定地址：
-       1st 出现的时候不能所写，在后面重复出现的时候
-           hereinafter referred to as Party A or Party B, the Buyer or Seller,the Licensor or Licensee.
+# 1.preamble
+## 1.1 content
+### 1)各方名称和法定地址：
+    1st 出现的时候不能所写，在后面重复出现的时候
+    hereinafter referred to as Party A or Party B, the Buyer or Seller,the Licensor or Licensee.
 
      2)定约时间和地点
        合同双方法律关系，在明确了当事人的全称之后，指明谁是买方谁是卖方，或出让方、受让方、贷款人、借款人等
