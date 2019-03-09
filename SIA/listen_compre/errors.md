@@ -4,8 +4,8 @@ errors
 ## 1、spot 
 |  words  |  meaning  | 
 | --- | --- | 
-| fuel-efficient vehicles |   |
-| a light bulb |    | 
+| fuel-efficient vehicles  
+| a light bulb 
 promote equitable economic growth
 offset global warming
 in the Earth's orbit
