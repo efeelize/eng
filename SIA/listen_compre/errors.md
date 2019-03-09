@@ -22,4 +22,8 @@ impolite
 tinkering
 humanity-humidity
 reliance on fossil fuels
-metamorphosis 
+| metamorphosis  | 蜕变 | 
+
+
+
+
