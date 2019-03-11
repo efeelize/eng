@@ -23,6 +23,13 @@ tinkering
 humanity-humidity
 reliance on fossil fuels
 | metamorphosis  | 蜕变 | 
+veteran
+disparate development | 发展不均衡
+| archetypal | 原型 | 
+contemporaries | 同辈 |
+modicum | 少量 | 
+skeletal | 骨科 | 
+ 
 
 
 
