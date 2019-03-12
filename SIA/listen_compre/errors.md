@@ -29,6 +29,46 @@ disparate development | 发展不均衡
 contemporaries | 同辈 |
 modicum | 少量 | 
 skeletal | 骨科 | 
+uncongenial | 志趣不相投的
+menial | 不体面的
+menial drudgery | 苦差事 
+exaggerartion
+alleviated | 减负
+infrastructure | 基础设施 
+lumber camps  | 驻扎营地 
+deteriorating | 恶化 
+prestigious | 久负盛名的
+brooding | 闷闷不乐
+psychoses | 精神病患者
+get past mistakes | 客服
+tourism | terrorism 
+untrustworthy | 不值得信任的
+inattentive | 漫不经心的
+impersonal  | 不随和的
+default risk  | 违约风险
+delinquency rate | 过期还款率
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
