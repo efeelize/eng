@@ -34,7 +34,17 @@ but especially when our previous beliefs(even though faulty)have proved useful t
 students ingored correct textual information when it confilicted with their previously held concepts.On measures of free recall and recognition,the students consistently let their incorrect prior knowledge override incoming correct information.
 学生们在正确的文本信息和他们先前持有的观念发生冲突时，他们会无视这些正确的信息，就进行自由回忆和认知程度而言，学生们始终会让他们先前不正确的知识凌驾于解除的正确信息之上。
 
+# 1603
+> 历史是一面镜子。以史为鉴，才能避免重蹈覆辙。对历史，我们要心怀敬畏、心怀良知。历史无法改变，但未来可以塑造。铭记历史，不是为了延续仇恨，而是要共同引以为戒。传承历史，不是为了纠结过去。而是要开创未来，让和平的薪火代代相传。“大道之行也，天下为公”。和平、发展、公平、正义、民主、自由，是全人类的共同价值，也是联合国的崇高目标。目标远未完成，我们仍需努力。当今世界，各国相互依存、休戚与共、我们要继承和弘扬联合国宪章的宗旨和原则，构建以合作共赢为核心的新型国际关系，打造人类命运共同体，为此，我们需要做出共同努力。
 
+History is a mirror.Only be drawing lessons from history can the world aviod repeating past **calamity**,We should view history with awe and human consciences.The past cannot be changed,but the future can be shaped.Bearing history in mind is not to perpetuate hatred.Rather,it is for mankind not to forget its lessons.Remembering history does not mean being obsessed with the past.Rather,in doing so,we aim to create a better future and pass the torch of peace form generation to generation.
+As an ancient Chinese adage goes.**The greast ideal to create a world truly shared by all/A public spirit will rule all under the heaven when the great Way prevails/When the great way is followed,all under heaven will be equal.** Peace,development,fairness,justice,democracy and freedom are common values of all mankind and the lofty goals of the United Nations.Yet these goals are far from being achieved,and we must continue our endeavor to meet them.In today's world,all countries are interdependent and share a common future.We should renew our commitment to the purposes and principles of the UN Charter,build a new type of international relations featuring win-win cooperation,and creat a community of shared future for mankind.To achieve this goal,we need to make joint efforts.
+
+In barely on generation we've moved from exulting in the time-saving devices that have so expanded our lives to trying to get away from them - often in order to make more times.
+仅仅一代人的时间，我们就变了：从为省时装置大大扩展了我们的生活而欢欣鼓舞，发展到试图远离他们——往往是为了腾出更多的时间。
+
+we appear to have gone from knowing nothing about the world to knowing too much all but overnight.
+几乎在一夜之间，我们从对世界一无所知变成了知道的太多
 
 
 
