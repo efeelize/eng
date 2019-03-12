@@ -29,7 +29,11 @@ disparate development | 发展不均衡
 contemporaries | 同辈 |
 modicum | 少量 | 
 skeletal | 骨科 | 
- 
+stylistcally | 文体上 | 
+enormous | 极大的 | 
+alumni (pl)  | alumnus | 
+burglaries(pl) |  burglary | 
+
 
 
 
