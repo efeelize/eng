@@ -57,9 +57,6 @@
 禁止流通                   |         non negotiable
 
 
- 
-                                     
-
 
 
 
