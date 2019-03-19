@@ -34,8 +34,6 @@ stylistcally | 文体上 |
 enormous | 极大的 | 
 alumni (pl)  | alumnus | 
 burglaries(pl) |  burglary | 
-
-=======
 uncongenial | 志趣不相投的
 menial | 不体面的
 menial drudgery | 苦差事 
