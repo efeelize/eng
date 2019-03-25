@@ -245,6 +245,11 @@
 已装运条款 |  on board clause or shipped on board clause |
 见提单背面条款第4条 | see clause 4 on the back of this bill of lading 、terms continued on the back hereof,please read carefully |
 本提单受中华人民共和国海商法管辖，本提单项下或与本提单的一切争议，均根据中华人民共和国法律加以裁定 |  this bill of lading is governed by the laws of people's republic of china.all disputes arising under or in connection with this bill of lading shall be determined by laws of people's republic of china |
+承运人负责安排或组织落实联合运输中的前一程运输及（或）续程运输  | the carrier undertakes to arranger or procure the pre-carrige and/or on-carriage segments of the combined tansport |
+本提单的条款应在任何时候都对货物运输产生的任何责任加以管辖，不仅在运输中，而且在运输前和（或）运输后的阶段都是如此 |  the terms of this bill of lading shall at all times govern all responsibilities of the carrier in connection with or arising out of the carriage of the Goods not only during the carriage,but also during the period to and/or subsequent to the carriage |
+如果能对联合运输中发生咩事或损害的阶段加以确定，承运人的责任便应适用该阶段的国内法或国际公约。如果在联合运输中发生灭失损害的阶段不能确定，货方和承运人经商订，货物的灭失或损害视为发生在承运人的船上  |  if the stage of the combined tansport during which loss or damage occurred can be determined,the liability of the carrier shall be governed by the national law(s) and/or international convention(s) applicable thereto.if the stage of the combined tansport during which loss or damage occured cannot be determined,the merchant and the carrier agree that it shall be deemed that the loss or damage occured aboard the carrier's vessel. |
+｜　承运人不保证，货物在某一特定日期或时间，也不保证为满足某一特定市场，或为某一特定用途而自接货或装运地点起运，准时运抵卸货地点、目的地或转运到
+某一特定船舶或其他运输工具  |　ｔｈｅ　ｃａｒｒｉｅｒ
 
 
 
