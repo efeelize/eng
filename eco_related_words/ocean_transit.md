@@ -239,7 +239,12 @@
 严格责任 | strict liability  |
 正面条款  |  front page clause |
 兹收到外表状况和条件明显良好（除另有说明者外）的本提单记载的下述总数集装箱或者其他包件或单位的货物 |  received in external good order and condition except as otherwise noted,the total number of containers or other packages or units shown in this Bill of lading receipt |
-
+兹收到外表状况和条件良好（除另有说明者外）的下述总数集装箱或其他包件或单位的货物，依据本提单所列条款和条件，从收货地运往交货地 | received in apparent good order and condition except as otherwise noted the total number of containers or other packages or units emumerated below for transportation from the place of receipt to the place of delivery subject to the terms and conditions hereof |
+提单记载的集装箱总数、或其他包件或单位数是托运人申报的，未经承运人适当检验 | the total number of containers or other packages or units shown in this bill of lading receipt,said by shipper to contain the goods described above.whish description the carrier has no reasonable means of checking and is not part of the bill of lading |
+承运人签发下述分数均属同一内容和日期的正本提单，必须提交、背书、签字其中一份正本提单提取货物后，其余各份即失效 | the carrier has issued the number of bill of lading stated below,all of this tenor and date,one of the original bill of lading must be surrendered and endorsed or signed against the delivery of the shipment and whereupon any other original bill of lading shall be void |
+已装运条款 |  on board clause or shipped on board clause |
+见提单背面条款第4条 | see clause 4 on the back of this bill of lading 、terms continued on the back hereof,please read carefully |
+本提单受中华人民共和国海商法管辖，本提单项下或与本提单的一切争议，均根据中华人民共和国法律加以裁定 |  this bill of lading is governed by the laws of people's republic of china.all disputes arising under or in connection with this bill of lading shall be determined by laws of people's republic of china |
 
 
 
