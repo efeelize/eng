@@ -248,5 +248,73 @@
 承运人负责安排或组织落实联合运输中的前一程运输及（或）续程运输  | the carrier undertakes to arranger or procure the pre-carrige and/or on-carriage segments of the combined tansport |
 本提单的条款应在任何时候都对货物运输产生的任何责任加以管辖，不仅在运输中，而且在运输前和（或）运输后的阶段都是如此 |  the terms of this bill of lading shall at all times govern all responsibilities of the carrier in connection with or arising out of the carriage of the Goods not only during the carriage,but also during the period to and/or subsequent to the carriage |
 如果能对联合运输中发生咩事或损害的阶段加以确定，承运人的责任便应适用该阶段的国内法或国际公约。如果在联合运输中发生灭失损害的阶段不能确定，货方和承运人经商订，货物的灭失或损害视为发生在承运人的船上  |  if the stage of the combined tansport during which loss or damage occurred can be determined,the liability of the carrier shall be governed by the national law(s) and/or international convention(s) applicable thereto.if the stage of the combined tansport during which loss or damage occured cannot be determined,the merchant and the carrier agree that it shall be deemed that the loss or damage occured aboard the carrier's vessel. |
+承运人不保证，货物在某一特定日期或时间，也不保证为满足某一特定市场，或为某一特定用途而自接货或装运地点起运，准时运抵卸货地点、目的地或转运到某一特定船舶或其他运输工具  |　the carrier does not undertake that the goods will be transported from or loaded at the place of receipt or loading or will arrive at the place of discharge,distination or tanshipment aboard any particular vessel or other conveyance at any particular date or time or to meet any particular market or in time for any particular use.
+承运人在任何情况下，不论是如何发生，对因延误造成的直接、间接、或随之发生的灭失或损害概不负责 | the carrier shall in no circumstance arising whatsoever and howsoever arising be liable for loss and damage or any consequential loss or damage caused by delay | 
+如果出了中华人民共和国海商法和美国1936年COGSA外的其他法律强制适用本提单，承运人的责任将不超过该法所规定的每件或每个货运单位的货物灭失或损害赔偿限制，除非货主已经将货物的性质及价值于装运前加以申报，并已载入提单，并且货主已就此项申请的价值加付运费  |　if a legal regime other than the maritime code of the people's republic of china or US COGSA is compulsorily applied to this bill of lading,the liability of the carrier,if any,shall not exceed the limits per package or shipping unit prescribed therein,unless the nature and value of the goods have been declared bythe merchant and clearly inserted in this bill of lading and the merchant has paid additional freight on such declared nature and value |
+承运人所使用的运价本的条款以及有关费用的其他要求等项，已被载入本提单，请特别注意运价本所载各项条款，包括但不限于免费保管期、集装箱和车辆的滞箱费等 |the terms of the carrier's applicable tariff and other requirement regarding charges are incorporated into this bill of lading.particular attention is drawn to the terms contained therein,including,but not limited to free storage time,container and vehicle demurrage,etc,...in case of any inconsistency between this bill of lading and the applicable tariff,the bill of lading shall prevail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
