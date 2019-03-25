@@ -155,6 +155,26 @@
 交货记录  | delivery record
 卸货报告、拆箱报告 | outtrun report \unstuffing report
 待提箱报告、待提货报告 | report of undelivery container or reoport of undelivery cargo
+不可转让 |  non-negotiable |
+积载（冷藏集装箱清单）/装船位置（危险品清单）  | stowage |
+要求温度 | temperature required |
+皮重(公斤)  |  TARE WT(KGS) |
+货重（公斤）|  CARGO WT(KGS)  |
+件数及包装 | No. OF P'KGS  |
+状况（冷藏集装箱清单）/运输方式（危险品清单） |  STATUS |
+铅封号 | seal no. |
+联合国编号 | UN NO. |
+货名 | commdity |
+前程运输 |   pre-carriage by |
+收货地点 |  place of receipt |
+装货港 |  place of loading |
+卸货港 | place of discharge |
+交货地点 | place of delivery |
+托运人提供详细情况 | partieulars furnis lsed by merchants |
+尺码（立方米） | measurement |
+大写 | in words |
+场站员签字  | by  terminal clerk |
+
 
 
 
