@@ -174,6 +174,118 @@
 尺码（立方米） | measurement |
 大写 | in words |
 场站员签字  | by  terminal clerk |
+已装船提单 | on board B/L 、shipped B/L |
+收货代运提单 | receipt for shipment B/L |
+清洁提单 | clean BL |
+不清洁提单 |  foul BL |
+记名提单 | straight BL |
+指示提单 |  order BL |
+不记名提单  | blank BL;open BL;bearer BL |
+直达提单  |  direct BL |
+转船提单 | transhipment BL;through BL |
+多式联运提单  | combined transport BL |
+多式联运经营人  | combined transport operator | 
+无船承运人  | non vessel operating common carrier  | NOVCC |
+班轮提单  |  liner bl |
+租船提单  |  charter bl  |
+全式提单 | long form bl |
+简式提单  | short form BL |
+倒签提单   |  anti-date BL |
+顺签提单  | post-date bl |
+预借提单  |  advanced bl |
+舱面货提单  | on deck bl  |
+包裹提单 |  parcel receipt bl |
+最低运费提单  |  minimum bl |
+并提单  |  omnibus bl |
+并装提单 | combined bl |
+分提单 | separate bl |
+交换提单 | switch bl  |
+受货人  | receiver 
+海牙规则/统一提单若干法律规定的国际公约 | international covention for the unification of certain rules of law relating to bill of lading |
+1968年布鲁塞尔议定书 | the 1968 Brussels protocol |
+关于统一修订提单若干法律规定的国际公约的议定书  | protocol to amend the international covention for the unification of certain rules of law relation to bill of lading |
+汉堡规则/1978年联合国海上货物运输公约  | united nations convention of the carreage of goods by sea,1978 |
+合理速遣 | reasonable despatch |
+哈特法 | Harter Act,1893 |
+通知人 |  notify party |
+首要条款 |  paramount clause |
+货方 | merchant |
+妥善的、谨慎的、装载、搬移、积载、运输、保管、照料、卸载 | properly、carefully、load、handle、stow、carry、keep、care for 、discharge |
+谨慎处理 | due diligence |
+开航以前和开航当时 | before and at begining of the voyage |
+船舶适货  |  cargo worthiness |
+责任期间条款  |  period of responsibility clause |
+火灾，但是由于承运人本人的过失所造成的损失除外  |  fire,unless causeed by the actual fault of the carrier |
+天灾，海上或其他可航水域的危险或意外事故 |  force majeure and perils,dangers and accidents of the sea or other navigable waters |
+战争或武装冲突 |  war or armed confilct |
+政府或主管部门的行为、检疫限制或者司法扣押  |  act of the government or competent authorities,quarantine restrictions or seizure under legal process | 
+罢工、停工或者劳动受限制  | strikes,stoppages or restranint of labour |
+附近地点 | as near as  |
+船长、船员、引航员或者承运人的其他受雇人在驾驶船舶或者管理船舶中的过失 |  fault of the master,crew members,pilot of servant of the carrier in the navigation of managemennt of the ship |
+在海上救助或企图救助人命或财产 |  saving or attempting to save life or property at sea |
+经谨慎处理认未发现的船舶潜在缺陷 |  latent defect of the ship not discoverable by due diligence |
+托运人、货物所有人或者他们代理人的行为  |  act of the shipper,owner of the goods or their agent  |
+货物包装不良或者标志欠缺、不清  | inadequacy of packing or insufficiency or illegibility of marks |
+货物的自然特性或固有缺陷 | nature or inherent vice of the goods |
+正常损耗 | nomal loss |
+非由承运人或者承运人的受雇人、代理人的过失造成的其他原因 | any other cause without the fault of the carrier or his servant or agent |
+赔偿责任限制  | limit of liability  | 
+诉讼时效  | time bar |
+国际海事委员会  |  | CMI |
+国际私法统一协会  |  | UNIDROIT |
+国际海事组织 |   |  IMO  |
+网状责任制 | network liability system | 
+统一责任制 |  uniform liability system |
+严格责任 | strict liability  |
+正面条款  |  front page clause |
+兹收到外表状况和条件明显良好（除另有说明者外）的本提单记载的下述总数集装箱或者其他包件或单位的货物 |  received in external good order and condition except as otherwise noted,the total number of containers or other packages or units shown in this Bill of lading receipt |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
