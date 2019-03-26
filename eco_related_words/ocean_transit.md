@@ -275,7 +275,8 @@
 货物的描述和货主责任条款 |　　description of the goods and merchant's liability |
  提单记载的货物信息是承运人接受货物的初步证据 |　the information of the goods in this bill of lading shall be prima facie evidence of the receiving by the carrier of the goods |
  除非在文本上或提单的正面另有类似的‘托运人衡重，装箱和计数，托运人装箱，计量和铅封’的批注或类似的表示，当提单已经转让正当的按照提单中所载货物情况行事的包括收货人在内的第三方时，则与此相反的证据便不予接受 |　proof to the contrary shall not to be admissible when this bill of lading has been transfered to the consignee as a third party for valuable consideration who is in good faith had relied and acted thereon unless otherwise noted such as the indication of "shipper's weight,load and count".'shipper packed,contained and sealed' or similar expression has been made in the printed text or superimposed on the front,of this bill of lading  |
- 
+即使托运人已经将提单转染，托运人也应对因信息不准确、不适当而引起的灭失、损坏和费用给承运人以赔偿 |　the shipper shall indemnify the carrier against all loss,damage and expense resulting from any inaccuracy or inadequent of such particulars,even if the bill of lading has been transferred by the shipper.|
+承运人对任何因货物包装的缺陷或不充分，或由托运人或由承运人以外的托运人的代表完成的不适当装箱或装入其他运输单位，或因托运人或他的代表提供的集装箱或其他运输单位的缺陷或不适当（如果是承运人提供的集装箱后其他运输单位，则应由托运人或他的代表进行明显的检验）而造成的所有灭失、损坏、和费用不承担责任。托运人对因此造成的所有灭失、损坏、责任和费用应给承运人以赔偿  |　　the carrier shall not be liable for any loss,damage or expense caused by defective or insuffcient packing of goods or by inadequate loading or packing within containers or other transport units when such has been performed by the shipper or on his behalf by a person other than the carrier,or by the defect or unsuitability of the containers or  other transport units supplied by the shipper,or on his behalf or if supplied by the carrier,if a defect or unsuitability of the container or other transport unit would have been apparent upon reasonable inspection by the shppper or on his behalf.the shipper shall indemnify the carrier against all loss,damage,liability and expense so caused. |
  
 
 
