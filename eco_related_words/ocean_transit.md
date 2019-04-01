@@ -313,8 +313,16 @@
  契约港口 | contract port
  事先无法预料或预见的 |　unexpected or unforseeable 
  解约日  |  cancelling date
+ 契约货物  |　contractual cargo
+ 亏舱运费 |　dead freight
+ 整租包价 |　lumpsum freight
+装货数量 |　intaken quantity
+卸货数量 |　delivery quantity
+按货物的卸货数量 |　on the delivery quantity of cargo
+装货完毕时支付 |　payable on completion of loading
+受益人和银行账户 |　state currency and method of payment on completion of discharging
+不论船舶或货物是否灭失，运费都不能减付或退回  |　freight to be discountless and non returnable,ship and/or cargo lost or not lost
  
-
 
 
 
