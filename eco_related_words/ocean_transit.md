@@ -1,11 +1,11 @@
-| meaning |  全称 | 简称 | 
-| ------- | ---- | ---- |
-| 揽载  |  cavassion |   | 
-| 订舱函件  |  booking memo |   | 
-| 舱位登记簿  | space book |    | 
-| 装船代理人 |  ship agent |    | 
-| 卸货 | discharge |    | 
-| 预定到港时间 | estimated time of arrival | ETA |
+ meaning |  全称 | 简称 
+------- | ---- | ---- 
+ 揽载  |  cavassion |   | 
+订舱函件  |  booking memo |   | 
+舱位登记簿  | space book |    | 
+装船代理人 |  ship agent |    | 
+卸货 | discharge |    | 
+预定到港时间 | estimated time of arrival | ETA |
 通知人               |           notify party
 提货单                |        delivery order     |   D/O   | 
 进口报关               |       import declaration
@@ -16,8 +16,8 @@
 货物查询单           |          cargo tracer
 背书                 |          endorsement
 选港货             |         option cargo
-|  保函  |  letter of guarantee | L/G |
-|  托运单 |  booking note |  B/N | 
+保函  |  letter of guarantee | L/G |
+托运单 |  booking note |  B/N | 
 船名                |          S/S
 标记及号码          |            Markss & Nos.
 货名                |              description of goods
@@ -25,9 +25,9 @@
 台头                  |            order of 
 托运单留底              |          counter foil
 装货单                   |         shipper order
-| 收货单 |  mate's receipt  | M/R | 
-| 兹将下列完好状况之货物装船后希签署收货单|  receive on board the undermentional goods apparent in good order and condition and sign the accompanying| 
-| 下开完好状况之货物业已收妥无损 | received on board the following good apparent in good order and condition | 
+收货单 |  mate's receipt  | M/R | 
+兹将下列完好状况之货物装船后希签署收货单|  receive on board the undermentional goods apparent in good order and condition and sign the accompanying
+下开完好状况之货物业已收妥无损 | received on board the following good apparent in good order and condition 
 不清洁提单             |            foul receipt
 清洁提单                |            clean receipt
 装货清单                 |           loading list         |     L/L
@@ -276,9 +276,44 @@
  提单记载的货物信息是承运人接受货物的初步证据 |　the information of the goods in this bill of lading shall be prima facie evidence of the receiving by the carrier of the goods |
  除非在文本上或提单的正面另有类似的‘托运人衡重，装箱和计数，托运人装箱，计量和铅封’的批注或类似的表示，当提单已经转让正当的按照提单中所载货物情况行事的包括收货人在内的第三方时，则与此相反的证据便不予接受 |　proof to the contrary shall not to be admissible when this bill of lading has been transfered to the consignee as a third party for valuable consideration who is in good faith had relied and acted thereon unless otherwise noted such as the indication of "shipper's weight,load and count".'shipper packed,contained and sealed' or similar expression has been made in the printed text or superimposed on the front,of this bill of lading  |
 即使托运人已经将提单转让，托运人也应对因信息不准确、不适当而引起的灭失、损坏和费用给承运人以赔偿 |　the shipper shall indemnify the carrier against all loss,damage and expense resulting from any inaccuracy or inadequent of such particulars,even if the bill of lading has been transferred by the shipper.|
-承运人对任何因货物包装的缺陷或不充分，或由托运人或由承运人以外的托运人的代表完成的不适当装箱或装入其他运输单位，或因托运人或他的代表提供的集装箱或其他运输单位的缺陷或不适当（如果是承运人提供的集装箱后其他运输单位，则应由托运人或他的代表进行明显的检验）而造成的所有灭失、损坏、和费用不承担责任。托运人对因此造成的所有灭失、损坏、责任和费用应给承运人以赔偿  |　　the carrier shall not be liable for any loss,damage or expense caused by defective or insuffcient packing of goods or by inadequate loading or packing within containers or other transport units when such has been performed by the shipper or on his behalf by a person other than the carrier,or by the defect or unsuitability of the containers or  other transport units supplied by the shipper,or on his behalf or if supplied by the carrier,if a defect or unsuitability of the container or other transport unit would have been apparent upon reasonable inspection by the shppper or on his behalf.the shipper shall indemnify the carrier against all loss,damage,liability and expense so caused|
+承运人对任何因货物包装的缺陷或不充分，或由托运人或由承运人以外的托运人的代表完成的不适当装箱或装入其他运输单位，或因托运人或他的代表提供的集装箱或其他运输单位的缺陷或不适当（如果是承运人提供的集装箱后其他运输单位，则应由托运人或他的代表进行明显的检验）而造成的所有灭失、损坏、和费用不承担责任。托运人对因此造成的所有灭失、损坏、责任和费用应给承运人以赔偿  |　　the carrier shall not be liable for any loss,damage or expense caused by defective or insuffcient packing of goods or by inadequate loading or packing within containers or other transport units when such has been performed by the shipper or on his behalf by a person other than the carrier,or by the defect or unsuitability of the containers or  other transport units supplied by the shipper,or on his behalf or if supplied by the carrier,if a defect or unsuitability of the container or other transport unit would have been apparent upon reasonable inspection by the shppper or on his behalf.the shipper shall indemnify the carrier against all loss,damage,liability and expense so caused
+租船市场  |　　chartering market
+佣金 |　commission
+佣金在签订合同时支付 |　on signing the contract
+佣金在货物装运时支付 |　on shippment of  cargo
+佣金在赚取运费基础上支付 | based on freight earned 
+询价  |　inquiry
+询盘  |　quote
+报价  |  offer
+先到先复  |  first come first served
+还价 |  counter offer 
+反还价 |  recounter offer
+报实盘 | firm offer
+接受定租  |  acceptance
+签认订租确认书  |  fixture note
+细节另订 |　subject to details
+另定细节的订租确认  |  owners accept charterers' last in full and confirm hereby the fixture subject to details
+承租人再次确认另定细节的订租确认书 |　charterers reconfirm the fixture subject to details
+标准租船合同格式 |  standard C/P form
+非标准租船合同格式 |　non-standard C/P form
+私用租船合同格式 |　private C/P form
+统一杂货租船合同/金康合同  |　united general charter  |　GENCON
+条件条款  |  condition
+保证条款 | warranty
+ 中间性条款 | intermediate term
+ 违约行为  |　breach of contract
+ 代替船舶 |　substitute vessel
+ 船级 |　classification of vessel
+ 总吨 |　registered gross tonnage
+ 净吨 |　registered net tonnage
+ 载重吨 | deadweight tonnage
+ 船舶位置  |　present position
+ 按照地理位置的顺序 |　in geographical rotation
+ 宣港  | declaration of port
+ 契约港口 | contract port
+ 事先无法预料或预见的 |　unexpected or unforseeable 
+ 解约日  |  cancelling date
  
-
 
 
 
