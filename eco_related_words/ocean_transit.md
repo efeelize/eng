@@ -322,10 +322,69 @@
 装货完毕时支付 |　payable on completion of loading
 受益人和银行账户 |　state currency and method of payment on completion of discharging
 不论船舶或货物是否灭失，运费都不能减付或退回  |　freight to be discountless and non returnable,ship and/or cargo lost or not lost
+ 以2%补偿保险费和其他费用 | subject to two per cent to cover insurance and other expenses
+ 按完成的运输理程取得比例运费 | pro rata freight
+ 班轮条款 |　liner term,berth term
+ 舱内收货条款 |　free in |　F.I
+ 舱内交货条款 | free out  |  F.O.
+ 舱内收交货  |　free in and out  |　FIO
+ 舱内收交货和堆舱、平舱费条款 |  free in and out,stowed and trimmmed  | FIOS lashed
+船舶所有人责任  |  owner's responsibility
+ 船舶所有人对货物灭失、残损或延迟交付的责任仅限于造成灭失、残损或延迟的原因是由于船舶所有人或其经理人本人未谨慎处理，使船舶适航，配备适当的船员，装备船舶和供应船舶，或由于船舶所有人或其经理人本人的行为或过失  |  the owners are to be rsponsible for loss of or damage to the goods or for delay in delivery of the goods only in case the loss,damage or delay has been caused by personal want  of due diligence on the part of owners or their manager to make the vessel in all respects seaworthy and supplied,or by the personal act or default of the owners or their manager.
+ 除本合同列明负责的内容外，对于因其他任何原因，甚至因包括船长、船员或被船舶所有人雇佣的其他人员在内的，船舶所有人本来应对他们行为负责的船上或岸上人员的疏忽或过失所引起的，或因装货时或航次开始时，或其他任何时候船舶不适航所引起的货物灭失、损坏或迟延交付，船舶所有人都不负责  |　and the owners are not responsible for loss,damage or delay arising from any other cause whatsoever,even from the neglect or default of the master or crew or some other person empoyed by the owners on board of ashore for whose acts they would,but for this clasue be responsible,or from unseaworthiness of the vessel on loading or commencement of the voyage or at any time whatsoever.
+ 装卸时间  |　laytime
+ 1980年租船合同装卸时间定义  |  charter party laytime defintions,1980
+ 滞期费 | demurrage
+ 速遣费  |  dispatch
+ 租船合同下的提单  |　　charter party B/L
+ 承租人对船舶所有人因签发提单条款或内容中所规定的责任超过船舶所有人与承租人签订的租船合同所规定的责任，而引起的所有后果和责任给予赔偿  |　the charterers shall indemnity the owners against all consequences or liabilities that may arise from the signing of billl of lading as presented to the extent that the terms or contents of such bill of lading impose or result in the imposition of more onerous liablities upon the owners than those assumed by the owners under this charter party
+ 在任何情况下，由船舶所有人指定自己在装货港和卸货港的代理人 | in every case the owners shall appoint their own agent both at the port of loading and the port of discharge
+ 出港费  |　clearance fee
+ 代理人  |   agency fee
+ 回扣  |　　rebate
+ 佣金  |  borkerage;commission
+ 已收运费  |  freight earned
+ 未履行合同时，为补偿通讯的费用和所做的工作，当事责任方需向经纪人按估算运费的总额支付佣金的1/3  | in case of non execution 1/3 of the brokeage on the estimated amount of freight to be paid by the party responsible for such excution to the brokers as indemnity for the latter's expense and work
+ 1950年波罗的海国际航运工会和英国航运总会航次租船合同战争条款/1950航次租船合同战争条款  |　the Baltic & International Martime Conference the Chamber of Shipping of the UK War Risks Clauses Voyage Charter  | Voywar 1950
+ 罢工条款 |　general strike clause
+冰冻条款  |  general ice clause
+ 连续日  |  running days;consecutive days
+ 工作日 ｜　working days
+ 晴天工作日 |　weather working days
+ 但只计算实际使用时间 　　｜　　but only time actually used to count
+ 按港口习惯尽快装卸    |　customary quick despatch |　　C.O.D
+ 可用时间  |  laytime allowed
+ 实用时间  |  laytime used
+ 装卸准备就绪通知书  |　notice of readiness   |   N/R
+ 港口合同  |  port charter
+ 泊位合同  |　berth  charter
+ 到达船位  |  arrived ship
+ 如果船舶到达装卸港口时，没有适于装卸的泊位，则到达该地时，不论是否已经通过检疫或报关，在办公时间内，船舶有权递交装卸准备就绪通知书，并起算装卸时间和滞期时间，犹如已抵达泊位和船长保证已在各方面做好装卸准备  |　if the loading/discharging berth is not available on the readiness within ordinary office hours on arrival there,whether in free pratique or not,whether customs cleared or not,laytime or time on demurrage shall than count as if she were in berth and in all respects ready for loading/discharge provided that the master warrants that she is in fact ready in all respects.
+ 等待泊位损失的时间计入装卸时间  |  time of waiting for berth count in laytime
+ 装卸时间事实记录  |  laytime statement facts
+ 装/卸时间表   |　time sheet
+ 按同样的日  |  per like day
+ 滞期时间连续计算　　｜　　demurrage runs continuously
+ 一旦滞期，永远滞期  |  once on demurrage always on demurrage
+ 滞留损失     |　damage of detention
+ 装卸共用时间    |  all purposes
+ 可调剂使用的装卸时间    | reversible laydays
+ 统一定期租船合同/波尔蒂姆   |　baltime
+土产格式  |  NYPE time
+ 载重量  |  deadweight capacity
+ 交船  |  delivery
+ 还船  |　redelivery
+在可抵达的泊位交船  | all the reachable berth
+ 到达引航站交船  |  on arrival pilot station  |　ＡＰＳ
+ 引航员登轮交船  | on taking inward pilot  |  TIP
+ 承租人选择  |  in charterers' option
+ 早起还船  |  under lap
+ 超期还船  |  over lap
+ 航行区域 |  trade limit
+ 热病及传染病流行的区域  |  any place where epidemics are prevalent
+ 任何冰冻区域  |  any ice bound place
  
-
-
-
+ 
 
 
 
