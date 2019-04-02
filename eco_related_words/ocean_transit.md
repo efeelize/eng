@@ -375,7 +375,7 @@
  交船  |  delivery
  还船  |　redelivery
 在可抵达的泊位交船  | all the reachable berth
- 到达引航站交船  |  on arrival pilot station  |　ＡＰＳ
+ 到达引航站交船  |  on arrival pilot station  | APS
  引航员登轮交船  | on taking inward pilot  |  TIP
  承租人选择  |  in charterers' option
  早起还船  |  under lap
