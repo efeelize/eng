@@ -383,6 +383,42 @@
  航行区域 |  trade limit
  热病及传染病流行的区域  |  any place where epidemics are prevalent
  任何冰冻区域  |  any ice bound place
+ 船东代理人  |  owner's agent
+ 船舶经营人代理人  | operator's agent
+ 租船人所指定的代理人  |  charter's agent
+ 保护代理人  |  owner's protective agent
+ 监督代理人  | supervisory agent
+ 船务管理代理人  | husbanding agent
+ 总代理人  |  genernal agent
+ 长期代理  |  agency on long-term basis
+ 航次代理  |  agency on trip basis
+ 船舶证书   |  ship's certificates
+ 按照《中华人民共和国船舶吨税暂行办法》的规定，检同有关证件（包括国籍证书、吨位证书、或当地港务机关的证明文件），开具下列事项，请予完纳船舶吨位，并发给船舶吨税执照 | in compliance with the provisional regulations governing the collection of tonnage dues of the people's republic of china,i herby submit the following particular together with the relevant documents(including the certificate of nationality,the tonage measurement certificate or supporting documents issued by the harbour authorities concerned)with the request for the issue of a tonnage dues certificate upon payment of tonnage dues.
+ 检疫证书  |  free pratique
+ 灭鼠证书  |  deratting certificate
+ 免除灭鼠证书  | deratting exemption certificate
+预防接种证书  | international certificate of vaccination to revaccination against chorela,yellow fever,smallpox 
+交验船籍证书  |  certificated of ship's nationality 
+吨税执照  |  tonnage dues certificate
+船员名单  |  crew manifest
+船用物品清单  |  list of ship's store
+船员物品清单  |  crew's effects declartion
+卸货地订舱   |  home booking
+预配图  |  prestowage bay plan
+承运人提供的集装箱  |  carrier's own container | COC
+托运人提供的集装箱  |  shipper's own container | SOC
+集装箱装船清单 | container loading list
+集装箱卸船报表  |  container discharging list
+空箱/装箱报告   |  empty release/stuffing
+重箱放箱  |  send to consignees tripping
+集装箱回空报告  |  empty return report
+集装箱移动报告   |  container movement report
+集装箱盘存周报  | weekly steering report
+集装箱退租报告  | off-hire report or D/I out
+箱损报告  |  sold report
+修箱报告  |  statistics of monthly repairing report
+滞起费报告  |  container lost report
+
  
  
 
