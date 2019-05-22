@@ -418,8 +418,111 @@
 箱损报告  |  sold report
 修箱报告  |  statistics of monthly repairing report
 滞起费报告  |  container lost report
-
- 
+租船市场   |   charting market
+供给方  |  supply side
+需求方  |  demand side
+租船程序  |  chartering procedure、chartering process
+租船经纪人  |  broker
+佣金  |  commission
+佣金在签订合同时支付  |  on signing the contract
+佣金在货物装运时支付  |  on shipment of cargo
+佣金在赚取运费的基础上支付  |  based on freight earned
+询价  |  inquiry
+询盘   |  quote
+报价  |  offer
+先到先复  |  first come first served
+还价   |  counter offer
+反还价  |  recounter offer
+报实盘  | firm offer
+接受订租  |  acceptance
+签认订租确认书  |  fixture note
+细节另订  |  subject to details
+代码  |  code
+标准租船合同格式  | standard C/P form
+厂用(私用)租船合同格式  |  private C/P form
+英国航运总会  |  british chamber of shipping
+波罗的海国际航运工会 | BIMCO,baltic international maritime conference
+纽约土产交易所 | New York Produce Exchange
+统一杂货租船合同  | uniform general charter
+金康合同 |  GENCON
+条件条款 | condition
+保证条款  |  warranty
+中间性条款  | intermediate term
+适航保证  |  warranty of seaworthiness
+船名  |  name of vessel
+违约行为  |  breach of contract
+代替船舶  | substitute vessel
+代替船条款  | substitute clause
+船舶待指定  |  vessel to be named
+选择船舶的权利  |  the owners option to choose the vessel
+船籍  |  nationality of vessel
+船级  | classification of vessel
+船舶吨位 | tonnage of vessel
+总吨  |  registered gross tonnage
+净吨  | registered net tonnage
+载重吨  | deadweight tonnage
+船舶位置  |  present position
+按照地理位置顺序  | in geographical rotation
+阻碍或延误  | hinder or delay
+附近港条款 | the near clause
+受载日 | layday
+事先无法预料或预见的 | unexpected or un foreseeable
+估计会持续很长时间 | expected to last for a long period
+发生在港口或港口周围的 | occured in the port or the vicinity of the port
+解约日 | cancelling date
+解除合同的选择权 | an option to cancel the charter
+询问条款  | interpellation clause
+契约货物  | contractual cargo
+散装货物  |  wheat in bulk
+袋装大米 | rice in bags
+散装谷物  | grain in bulk
+支付亏谷舱运费 | dead freight
+比例运费  |  pro rata freight
+班轮条款  | liner term ,berth term
+FAS  | free alongside ship
+舱内收货 | FI | free in 
+舱内交货  |  FO | free out
+舱内收交货  | FIO  | free in and out
+舱内收交货、平舱费条款 | FIOST | free in and out,stowed and trimmed
+船舶所有人责任 | owner's responsibility
+船舶所有人对货物灭失、残损或迟延交付的责任仅限于造成灭失、残损或迟延的原因是由于船舶所有人或其经理人本人的行为或过失 | the owners are to be responsible for loss of or damage to the goods or for delay in delivery of the goods only in case the loss,damage or delay has been caused by personal want of due diligence on the part of owners or their manager to make the vessel in all respects seaworthy and supplied, or by the personal act or default of the owners or their manage.
+装卸时间 | laytime
+滞期费 | demurrage
+速遣费  | despatch 
+出港费  |  clearance fee
+代理费 | agency fee
+回扣 | rebate
+佣金 | brokeage，commission
+留置权 | lien
+战争条款 | war clause
+罢工条款  | general strike clause
+冰冻条款  | ice clause
+连续日 | running days；consecutive days
+工作日  | working days
+晴天工作日 | weather working days
+24h晴天工作日 | weather working days 24hours
+连续 24h 晴天工作日 | weather working days of 24 consective hours
+按港口习惯尽快装卸 | CQD | customary quick despatch
+可用时间  | laytime allowed
+实用时间 | laytime used
+港口合同  | port charter
+泊位合同 | berth charter
+到达船舶  | arrived ship
+通知时间 | notice time
+等待泊位损失的时间计入装卸时间 | time of waiting for berth count in laytime
+除非提前开始 | unless sooner commenced
+装卸时间事实记录  | laytime statement of facts
+装卸时间表  | time sheet
+速遣费/滞期费计算单 |  despatch money,demurrage calculation sheet
+按同样的日  | per like day
+滞期时间连续计算 | demurrage runs continuously
+一旦滞期、永远滞期  | once on demurrage always on demurrage
+滞留损失 | damage of detention
+装卸共用时间 | all purposes
+装卸时间抵算 | reversible laydays
+装卸时间均算 | right to average laydays
+载重量  | deadweight capacity
+减量常数  | constant
  
 
 
