@@ -523,7 +523,19 @@ FAS  | free alongside ship
 装卸时间均算 | right to average laydays
 载重量  | deadweight capacity
 减量常数  | constant
- 
+在可抵达的泊位交船  |  at the reachable berth
+到达引航站交船  | on arrival pilot station | APS
+引航员登轮交船 | on talking inward  | TIP
+承租人选择 | in charterers'option
+早期还船 | under lap
+超期还船 | over lap
+最后航次  | final voyage
+任何冰冻区域  | any ice bound place
+解约日 | cancelling date
+解除合同的选择权  | an option to cancel the charter
+询问条款  |  interpellation clause
+契约货物 | contractual cargo
+
 
 
 
