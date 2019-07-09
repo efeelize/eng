@@ -36,15 +36,15 @@
     back-up                            支持  
  
  ## 5.Ways of working 
-   flextime                            弹性工作时间 
-   shifts                              轮班 
-   commute                             通勤 
-   working from home                   在家办公 
-   teleworking                         远程办公 
-   satisfying/stimulating/fascinating  令人满意的 
-   dull/boring/uninteresting/simulating 无聊的 
-   repetitive/routine                  重复的 
-   tiring/tough/hard/demanding         累人的 
+    flextime                            弹性工作时间 
+    shifts                              轮班 
+    commute                             通勤 
+    working from home                   在家办公 
+    teleworking                         远程办公 
+    satisfying/stimulating/fascinating  令人满意的 
+    dull/boring/uninteresting/simulating 无聊的 
+    repetitive/routine                  重复的 
+    tiring/tough/hard/demanding         累人的 
    
 # Part 2 Management  
 ## 1. Leadership and management styles  
