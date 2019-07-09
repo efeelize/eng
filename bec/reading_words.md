@@ -1,4 +1,4 @@
-2.1）与失业相关
+# 1.失业
               layoff
               unemploymet
               displacemet
@@ -15,7 +15,7 @@
               downsize
               job vacancy
 
-         2.2)财务相关
+# 2.财务
              finance
              overhead
              pension
@@ -29,3 +29,21 @@
              downpayment
              debt
              loan
+            
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
