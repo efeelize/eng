@@ -1,8 +1,9 @@
 # 1.1 teamwork
-## words
-| words  |   meaning |
-| ----- | ------- |
-| 
+## 1)words
+     
+     | words  |  meaning  |  sentence |  固定搭配 |   形式   |
+     |  ---- | ------ |  ------ |  ----   |   ------ |
+     |  
 
 
 
