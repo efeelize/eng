@@ -79,7 +79,7 @@
     未来什么行业会变得重要
     工作时间会有所变化么
 
-# 2.PART II mini-presentations (说话有条理/1mins)
+# 2.PART II mini-presentations (说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
 
 ## 1）句型
@@ -120,70 +120,9 @@
     In order to... first, we should... 
     We also need to... 
     Last, what we need to...
-    
-##### 1)总
-        Well, when it comes to...., several important factors must be
-        taken into account/consideration.
-        Well, .... is important because ....
-        ... is important for several reasons. 
-        There are several ways to... First, Second, Third...
-##### 2）分
-        Notes/Outline + details
-##### 3）总
-        In conclusion
-        In general
-        To sum up
-        So
-##### 4）解释说明
-        which means
-        I mean
-        that is to say
-        we can also put it this way
-##### 5）进一步强调
-        in particular
-        especially
-        chiefly
-##### 6）转折对比
-         but
-         while
-         yet
-         however
-         nevertheless
-         still
-         in contrast
-         even though
-         in spite of
-##### 7）因果关系
-         cause
-         because
-         so
-         herefore
-         hence
-         result in
-         bring about
-         due to
-         owing to
-         because of
-         that's the reason why...
-         since
-         for
-         as
-         consequently
-##### 8）重要
-         important/importance
-         significant
-         essential
-         vital
-         critical
-         fundamental
-         meaningful
-         necessary
-         urgent
-        
-        
-
+         
 #### 1.3)the factors of ...to... 影响因素
-     
+    
      
 ## 2） 常见话题
       公司运作与管理
@@ -208,6 +147,7 @@
       3）2个点就可以了，多的话展开理由不充分
       
 ## 4）模板
+### 4.1 结构
       1)topic sentence 1...
           supporting detail-1...
           supporting detail-2...
@@ -215,11 +155,98 @@
            supporting detail-1...
            supporting detail-2...
       3)conclusion
+### 4.2 具体
+####    1)开头/总结
+        Well, when it comes to...., several/two important factors must be
+        taken into account/consideration.
+        Well, .... is important because ....
+        ... is important for several reasons. 
+        There are several ways to... First, Second, Third...
+#### 2）分
+        Notes/Outline + details
+#### 3）总
+        In conclusion
+        In general
+        To sum up
+        So
       
+## 5）习惯表达
+### 5.1）解释说明
+        which means/what I mean is...
+        I mean...
+        that is to say
+        we can also say/put it this way
+        let me put in this way
+        namely...
+        for instance/for example(时间很短，不要举例子)
+### 5.2）进一步强调
+        in particular
+        especially
+        chiefly
+### 5.3）转折对比
+         but
+         while
+         yet
+         however
+         nevertheless
+         still
+         in contrast
+         even though
+         in spite of 
+### 5.4）因果关系
+         cause
+         because
+         so
+         herefore
+         hence
+         result in
+         bring about
+         due to
+         owing to
+         because of
+         that's the reason why...
+         since
+         for
+         as
+         consequently
+         according to
+### 5.5）重要
+         important/importance
+         significant
+         essential
+         vital
+         critical
+         fundamental
+         meaningful
+         necessary
+         urgent
+         top priority
+         matter:A comfortable working environment 'matters' to everyone.
+         Company cannot survive without a wise HR manager. 
+         Marketing is the'NO. 1'g thing for a company. 
+         Building the network 'goes first'
+        
+## 6）向partner的提问
+### 6.1）模板
+      1)You have mentioned 2/3 points in the presentation. Which one is more important?/ Which one you
+      value most?
+      2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you
+      value most?
+      3) Do you think A is the most important one?只听到一个重点
+      4）You mentioned A, B, and C. Do you think (sth related to A, B and C)?
+      5）You mentioned business trip and maintaining customer relationship. Do you think you should be trained about
+      the other cultures where you're going to do business trips?
 
-
-
-
+### 6.2）outline
+#### 1)基础版
+      what
+      how
+      why
+      when
+      where
+#### 2)advanced
+     1)正反分析
+ 
 
 
 
