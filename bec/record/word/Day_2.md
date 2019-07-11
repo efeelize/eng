@@ -4,34 +4,37 @@
 ### 1.1)pronuncation
         initiative      主动性
         subordinate     下级
-
+        a sort of
+        a bit
+        etcetera
+        faxed
+        expansion
+        candidate
+        recruit
+        accent
 
 ### 1.2)meaning
         paramount       极为重要的
         intranet        企业内部互联网
         mettle          勇气、精神
         coulumn         (报纸、杂志)专栏
-        layout          版面设计
-        
-        
-        
-        
-        
-        
-
-
-
+        layout          版面设计 
+        disorientated       
 
 ### 1.3)format
         segmentation                           分割、切断
         customisation                          量身定做
-        managerial  
-        
-        
-        
-        
-
-
+        managerial
+        wedding
+        celebration
+        definitely
+        dealt
+        architect
+        chose
+        certainly
+        definitely
+        recommending
+        analysis
 
 ## 2)phrase
      opinion  survey                 意见调查
@@ -47,9 +50,8 @@
      a sense of belonging            归属感
      opinion poll                    民意检测
      be committed to                 致力于
-     
-     
-     
+     quite a lengthy
+     in good faith
 
 
 

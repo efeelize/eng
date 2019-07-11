@@ -1,8 +1,6 @@
-> 要求：quick decision 
+# PART I. personal question/3-4sectence/30s
 
-> 复习要求：熟悉话题/写outline/自己总结用的很频繁的理由/给自己超出1mins的准备时间/话题的结构联系
-
-# 总分总的结构 + quick answer
+## 总分总 + quick answer
       Q:whether you think there are some profession in Chinawhich should be better paid.
       A:1.1)Yes,in china people working in different fields are paid quite differently.People in some
             dangerous occupations,like firefighters,should be better paid.
@@ -11,9 +9,8 @@
         1.3)they work under high risk and pressure,so I think they should get paid better for what 
             they do.
 
-# 1.PART I. personal question/3-4sectence/30s
-## 1)一般疑问句 
-### 1.1)What...
+## 1.一般疑问句 
+### 1)What...
 > yes/no +  'full sentence'
 > YES/definitely/of course/indeed/sure
 
@@ -22,10 +19,10 @@
         No,I think the company should buy basic equipment for a long term running.
         Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
 
-### 1.2)Which...
+### 2)Which...
 > 二选一/折中
 
-### 1.3)what
+### 3)what
 > differ which:观点、评价、内容
 
        Q:what kinds of businesses you think will be important for the economy in china in the future?
@@ -56,7 +53,7 @@
               industry and it will take 2 decades to enable the industry to reach to major inflection 
               point.
        
-### 1.4）How...
+### 4）How...
 > 列举东西
 #### 1)How to...
       Q:How to make a trainning course successful?
@@ -66,7 +63,8 @@
       A:Yes...
         No...
         
- ### 1.5)Why...
+ 
+### 5)Why...
  > 回答：cause +effect
  > because/since/for/so/therefore/when
  
@@ -74,18 +72,42 @@
       A:when companies seek to create appealing working environment,employees will have a good mood 
         in offices.
 
-## 2)常见话题
+## 2.机经
      怎样可以找到一份好工作
      有些行业是不是比其他行业更容易得到高薪
      国际贸易对于中国的商业有什么影响
-    未来什么行业会变得重要
-    工作时间会有所变化么
+     未来什么行业会变得重要
+     工作时间会有所变化么
 
-# 2.PART II mini-presentations (说话少、信息量大/1mins)
+# PART II mini-presentations (说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
 
-## 1）句型
-#### 1.1）the importance of ...
+## 总分总
+### 1）
+      1)topic sentence 1...
+          supporting detail-1...
+          supporting detail-2...
+      2)topic sentence 2...
+           supporting detail-1...
+           supporting detail-2...
+      3)conclusion
+### 2）
+      1)总/开头/总结
+        Well, when it comes to...., several/two important factors must be
+        taken into account/consideration.
+        Well, .... is important because ....
+        ... is important for several reasons. 
+        There are several ways to... First, Second, Third...
+      2）分
+        Notes/Outline + details
+      3）总
+        In conclusion
+        In general
+        To sum up
+        So
+
+## 1.问题
+### 1）the importance of ...
 > 找理由：cause and effect/2个点，有把握的原因先讲/连接词选简单的，否则考官会觉得信息很少
 > first/second/Third==in the first/second/third place
 > also/another important thing is.../what's more/in addition
@@ -114,49 +136,17 @@
                productive in 'tackling cultural and communication barriers'.
                So,being in front of customers and colleagues results in benefits for business and 
                the willing to do so is important for care development.             
-#### 1.2）how to...
+### 2）how to...
 > 列清单 :步骤手段达到目的
 
     In order to... first, we should... 
     We also need to... 
     Last, what we need to...    
-#### 1.3)the factors of ...to... 影响因素
-    
+### 3)the factors of ...to... 影响因素
 
-## 3）流程
-      1)10s to chose 1 topic；
-      2)50s to prepare :在纸上做笔记；
-        2.1)topic sentence
-        2.2)key words
-        2.3)确定supporting details扩展内容
-      3）2个点就可以了，多的话展开理由不充分
-      
-## 4）模板
-### 4.1 结构
-      1)topic sentence 1...
-          supporting detail-1...
-          supporting detail-2...
-      2)topic sentence 2...
-           supporting detail-1...
-           supporting detail-2...
-      3)conclusion
-### 4.2 具体
-####    1)开头/总结
-        Well, when it comes to...., several/two important factors must be
-        taken into account/consideration.
-        Well, .... is important because ....
-        ... is important for several reasons. 
-        There are several ways to... First, Second, Third...
-#### 2）分
-        Notes/Outline + details
-#### 3）总
-        In conclusion
-        In general
-        To sum up
-        So
-      
-## 5）习惯表达
-### 5.1）解释说明
+
+## 2.习惯表达
+### 2.1）解释说明
         which means/what I mean is...
         I mean...
         that is to say
@@ -164,11 +154,11 @@
         let me put in this way
         namely...
         for instance/for example(时间很短，不要举例子)
-### 5.2）进一步强调
+### 2.2）进一步强调
         in particular
         especially
         chiefly
-### 5.3）转折对比
+### 3.3）转折对比
          but
          while
          yet
@@ -178,7 +168,7 @@
          in contrast
          even though
          in spite of 
-### 5.4）因果关系
+### 3.4）因果关系
          cause
          because
          so
@@ -195,7 +185,7 @@
          as
          consequently
          according to
-### 5.5）重要
+### 3.5）重要
          important/importance
          significant
          essential
@@ -211,8 +201,9 @@
          Marketing is the'NO. 1'g thing for a company. 
          Building the network 'goes first'
         
-## 6）向partner的提问
-### 6.1）模板
+
+## 3.向partner的提问
+### 3.1）万用句型
       1)You have mentioned 2/3 points in the presentation. Which one is more important?/ Which one you
       value most?
       2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you
@@ -222,7 +213,7 @@
       5）You mentioned business trip and maintaining customer relationship. Do you think you should be trained about
       the other cultures where you're going to do business trips?
 
-### 6.2）outline
+### 3.2）模板
 #### 1)基础版
       what
       how
@@ -238,15 +229,16 @@
        What might be the biggest trouble for ...? What's your possible solution?
        What are the causes of ...?
      4)因果关系
-     
- ## 7）回答partner的问题
+  
+ 
+## 4.回答partner的问题
      1）simple and concise (2-4 sentences)
      2）relevant (听不懂的话ask for repetition)
         exp:I'm not sure I understand your question quite clearly... 
      3）Interactive
         I think yes, and it is also a very good point. I think....
-        
-## 8）考过的真题
+   
+## 5.考过的真题
           Q:the importance of being willing to make long business trips
           Q:the importance to staff of regularly evaluating their professional skills
           Q:the importance of being prepared to attend company social events
@@ -257,8 +249,9 @@
           Q:Public Relations: the importance to a company of avoiding bad publicity
           Q:Prices: the importance to a company of having a flexible pricing policy
           
-## 9） 话题
-### 9.1)常见
+
+## 6.重要话题
+### 6.1)常见
       公司运作与管理
       人力资源管理
       市场营销
@@ -271,7 +264,7 @@
       团队合作
       客户关系
       企业文化
-### 9.2）机经
+### 6.2）机经
       出差
       价格讨论
       健康安全
@@ -297,7 +290,6 @@
       人力资源
       采购
 
-# 3.PART III
 
 
 
