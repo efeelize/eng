@@ -1,5 +1,7 @@
 > 要求：quick decision 
 
+> 复习要求：熟悉话题/写outline/自己总结用的很频繁的理由/给自己超出1mins的准备时间/话题的结构联系
+
 # 总分总的结构 + quick answer
       Q:whether you think there are some profession in Chinawhich should be better paid.
       A:1.1)Yes,in china people working in different fields are paid quite differently.People in some
@@ -85,7 +87,6 @@
 ## 1）句型
 #### 1.1）the importance of ...
 > 找理由：cause and effect/2个点，有把握的原因先讲/连接词选简单的，否则考官会觉得信息很少
-
 > first/second/Third==in the first/second/third place
 > also/another important thing is.../what's more/in addition
 
@@ -112,31 +113,15 @@
                backgrounds and working principles and meetings in person after long trip wil be 
                productive in 'tackling cultural and communication barriers'.
                So,being in front of customers and colleagues results in benefits for business and 
-               the willing to do so is important for care development.
-
+               the willing to do so is important for care development.             
 #### 1.2）how to...
 > 列清单 :步骤手段达到目的
 
     In order to... first, we should... 
     We also need to... 
-    Last, what we need to...
-         
+    Last, what we need to...    
 #### 1.3)the factors of ...to... 影响因素
     
-     
-## 2） 常见话题
-      公司运作与管理
-      人力资源管理
-      市场营销
-      商务旅行
-      企业公关
-      公司发展
-      电子商务与新型工作方式
-      商务会议
-      项目管理
-      团队合作
-      客户关系
-      企业文化
 
 ## 3）流程
       1)10s to chose 1 topic；
@@ -246,11 +231,71 @@
       where
 #### 2)advanced
      1)正反分析
- 
-
-
-
-
+       What's the advantage/disadvantage of...?
+     2)昨天今天明天
+       What are the differences between A now and that of future?
+     3)问题解决
+       What might be the biggest trouble for ...? What's your possible solution?
+       What are the causes of ...?
+     4)因果关系
+     
+ ## 7）回答partner的问题
+     1）simple and concise (2-4 sentences)
+     2）relevant (听不懂的话ask for repetition)
+        exp:I'm not sure I understand your question quite clearly... 
+     3）Interactive
+        I think yes, and it is also a very good point. I think....
+        
+## 8）考过的真题
+          Q:the importance of being willing to make long business trips
+          Q:the importance to staff of regularly evaluating their professional skills
+          Q:the importance of being prepared to attend company social events
+          Q:Manufacturing: how to ensure that a quality control system is effective
+          Q:Marketing: how to make sure that direct mail advertisement achieve their aims
+          Q:Transport management: the factors involved in ensuring the effcient transportation of goods
+          Q:Interviews: the factors involved in giving a successful presentation as part of a job interview
+          Q:Public Relations: the importance to a company of avoiding bad publicity
+          Q:Prices: the importance to a company of having a flexible pricing policy
+          
+## 9） 话题
+### 9.1)常见
+      公司运作与管理
+      人力资源管理
+      市场营销
+      商务旅行
+      企业公关
+      公司发展
+      电子商务与新型工作方式
+      商务会议
+      项目管理
+      团队合作
+      客户关系
+      企业文化
+### 9.2）机经
+      出差
+      价格讨论
+      健康安全
+      职业发展
+      交通问题
+      市场营销
+      公关关系
+      面试
+      制造业效率
+      求职
+      财政记录
+      企业娱乐
+      电子商务
+      产品研发
+      电子经济
+      企业管理
+      零售业客户维系
+      安保问题
+      财务管理
+      商务会议
+      广告
+      市场调研
+      人力资源
+      采购
 
 # 3.PART III
 
