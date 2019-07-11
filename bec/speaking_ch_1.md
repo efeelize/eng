@@ -72,18 +72,82 @@
       A:when companies seek to create appealing working environment,employees will have a good mood 
         in offices.
 
-## 2)预测
+## 2)常见话题
      怎样可以找到一份好工作
      有些行业是不是比其他行业更容易得到高薪
      国际贸易对于中国的商业有什么影响
     未来什么行业会变得重要
     工作时间会有所变化么
 
-  
+# 2.PART II mini-presentations (说话有条理/1mins)
+> 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
 
-# 2.PART II
+## 1）句型
+#### 1.1）the importance of ...
+> 找理由：cause and effect:精彩的原因先讲
 
+      Q：important for career development?
+      A:1)outline:
+          1.1)close deals
+               1)face-to-face meeting
+               2)chances trust
+          1.2)build the network
+               1)understanding
+               2)cultural and communication barriers
+               
+         2)完整：
+           I choose topic B:the importance of being willing to make long business trips.
+           Being willing to make long business trips is quite important for career development.
+           2.1)long business trips are essential for business people to 'close deals',especially in 
+               international transactions.'Face-to-face meetings' can double the chance of closing
+               deals,according to a study done by Oxford University.It is important to 'build the trust'
+               between parties in the deal and the trust would be more difficult to generate via 
+               telephone or internet.
+           2.2)Long business trip are also critical for 'bullding the network that promotes career 
+               development.Visting colleagues and customers in different parts of the world can 
+               'increase understanding'.People in different countries may have different cultural 
+               backgrounds and working principles and meetings in person after long trip wil be 
+               productive in 'tackling cultural and communication barriers'.
+               So,being in front of customers and colleagues results in benefits for business and 
+               the willing to do so is important for care development.
 
+#### 1.2）how to...
+> 列清单 :步骤手段达到目的
+
+#### 1.3)the factors of ...to... 影响因素
+     
+     
+## 2） 常见话题
+      公司运作与管理
+      人力资源管理
+      市场营销
+      商务旅行
+      企业公关
+      公司发展
+      电子商务与新型工作方式
+      商务会议
+      项目管理
+      团队合作
+      客户关系
+      企业文化
+
+## 3）流程
+      1)10s to chose 1 topic；
+      2)50s to prepare :在纸上做笔记；
+        2.1)topic sentence
+        2.2)key words
+        2.3)确定supporting details扩展内容
+      3）2个点就可以了，多的话展开理由不充分
+      
+## 4）模板
+      1)topic sentence 1...
+          supporting detail-1...
+          supporting detail-2...
+      2)topic sentence 2...
+           supporting detail-1...
+           supporting detail-2...
+      3)conclusion
+      
 
 
 
