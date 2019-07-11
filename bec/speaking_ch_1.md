@@ -84,7 +84,10 @@
 
 ## 1）句型
 #### 1.1）the importance of ...
-> 找理由：cause and effect:精彩的原因先讲
+> 找理由：cause and effect/2个点，有把握的原因先讲/连接词选简单的，否则考官会觉得信息很少
+
+> first/second/Third==in the first/second/third place
+> also/another important thing is.../what's more/in addition
 
       Q：important for career development?
       A:1)outline:
@@ -96,7 +99,7 @@
                2)cultural and communication barriers
                
          2)完整：
-           I choose topic B:the importance of being willing to make long business trips.
+           I choose topic B:'the importance of being willing to make long business trips'.
            Being willing to make long business trips is quite important for career development.
            2.1)long business trips are essential for business people to 'close deals',especially in 
                international transactions.'Face-to-face meetings' can double the chance of closing
@@ -113,6 +116,71 @@
 
 #### 1.2）how to...
 > 列清单 :步骤手段达到目的
+
+    In order to... first, we should... 
+    We also need to... 
+    Last, what we need to...
+    
+##### 1)总
+        Well, when it comes to...., several important factors must be
+        taken into account/consideration.
+        Well, .... is important because ....
+        ... is important for several reasons. 
+        There are several ways to... First, Second, Third...
+##### 2）分
+        Notes/Outline + details
+##### 3）总
+        In conclusion
+        In general
+        To sum up
+        So
+##### 4）解释说明
+        which means
+        I mean
+        that is to say
+        we can also put it this way
+##### 5）进一步强调
+        in particular
+        especially
+        chiefly
+##### 6）转折对比
+         but
+         while
+         yet
+         however
+         nevertheless
+         still
+         in contrast
+         even though
+         in spite of
+##### 7）因果关系
+         cause
+         because
+         so
+         herefore
+         hence
+         result in
+         bring about
+         due to
+         owing to
+         because of
+         that's the reason why...
+         since
+         for
+         as
+         consequently
+##### 8）重要
+         important/importance
+         significant
+         essential
+         vital
+         critical
+         fundamental
+         meaningful
+         necessary
+         urgent
+        
+        
 
 #### 1.3)the factors of ...to... 影响因素
      
