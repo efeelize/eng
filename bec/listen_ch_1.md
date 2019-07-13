@@ -1,6 +1,6 @@
-part I.
-1.变音规则
-  1.1 连读
+# part I.
+## 1.变音规则
+### 1)连读
       1）辅音+元音
          ten of you
          main activities 
@@ -11,9 +11,8 @@ part I.
          supermarkets assessment 
          timetable of group activities 
          Small amount of
-         
-      2)失去爆破
-        2.1)爆破音+爆破音 
+### 2)失去爆破
+       1)爆破音+爆破音 
             t /d/k/g/b/p
             good to work 
             job description 
@@ -21,13 +20,13 @@ part I.
             fantastic pay 
             outgoing
             
-        2.2)爆破音+摩擦音 
+        2)爆破音+摩擦音 
             s/th/v/f/w/m/n/r/h/l
             Outside shortlist outline lead the group 
             Upgrade their ability managed stress
             Corporate market
             
-        2.3)弱读 
+ ### 3)弱读 
             辅音+en/on 
             bitten
             britian 
@@ -36,12 +35,12 @@ part I.
             garden
             written
 
-2.顺序
-  2.1) 听力前：
-       1）明确背景：这篇文章是关于什么话题的
+## 2.做题顺序
+### 2.1) 听力前：
+####    1）明确背景：这篇文章是关于什么话题的
           exp:题目位置：you will hear ‘the head of recruitment at buyright supermarkets pic talking to a 
                        group of job applicants who are attending the company's assessment centre
-       2) 寻找路标词(2-3words)
+####    2) 寻找路标词(2-3words)
           2.1）题内内容词
           2.2）句间连接词
           2.3）原则
@@ -56,8 +55,8 @@ part I.
                8）动词/形容词
           
        3）格预测
-  2.2）听力中：速记->查漏补缺
-  2.3）听力后：检查
+### 2.2）听力中：速记->查漏补缺
+### 2.3）听力后：检查
 
 
 
