@@ -1,62 +1,55 @@
-# part I.
-## 1.变音规则
-### 1)连读
-      1）辅音+元音
-         ten of you
-         main activities 
-         individual interview 
-         detailed information 
-         a couple of hours 
-         travel expense 
-         supermarkets assessment 
-         timetable of group activities 
-         Small amount of
-### 2)失去爆破
-       1)爆破音+爆破音 
-            t /d/k/g/b/p
-            good to work 
-            job description 
-            great colleagues 
-            fantastic pay 
-            outgoing
-            
-        2)爆破音+摩擦音 
-            s/th/v/f/w/m/n/r/h/l
-            Outside shortlist outline lead the group 
-            Upgrade their ability managed stress
-            Corporate market
-            
- ### 3)弱读 
-            辅音+en/on 
-            bitten
-            britian 
-            certain 
-            pattern 
-            garden
-            written
-
-## 2.做题顺序
-### 2.1) 听力前：
-####    1）明确背景：这篇文章是关于什么话题的
+# listen_ch_1
+# part I.填空题
+> 保证全对，十几秒一个题
+## 1.做听力前：
+###    1）明确背景：这篇文章是关于什么话题的
           exp:题目位置：you will hear ‘the head of recruitment at buyright supermarkets pic talking to a 
                        group of job applicants who are attending the company's assessment centre
-####    2) 寻找路标词(2-3words)
-          2.1）题内内容词
-          2.2）句间连接词
-          2.3）原则
+###    2) 寻找路标词(2-3words)
+####     2.1）题内的内容词
+####     2.2）句间连接词（不是每一句都有）
+              First, from beginning , to begin with , 
+              and also , and , meanwhile,
+              As for , according to , reffering to
+              Another ,then , once ,
+              So, finally , last but not least
+####     2.3）原则
                1)实词优先v/adj
                2)空格前后
                  ie.如果出现在空格后，就是难题
                3)小标题就是路标词
-               4)词性优先级，即不被替换的程度->越具体的词，越不容易被替换
-               5)专有名词/数字/时间
+               4)词性优先级，即不被替换的程度->
+                 越具体的词，越不容易被替换
+               5) 专有名词/数字/时间
                6）特殊名词（非话题，上文未出现）
                7）空格词组
                8）动词/形容词
-          
-       3）格预测
-### 2.2）听力中：速记->查漏补缺
-### 2.3）听力后：检查
+               9）对 A of B 的结构要特别注意前后句意的替换 
+### 3）空格预测
+#### 3.1）1.词性
+          n: 单复数
+          v: do to do doing done
+          adj
+#### 3.2）预测单词
+        1）把句子翻译一下，然后预测 2-3 个路标词
+          depends商务背景+在这种背景下什么词汇最合适
+        2）太简单的词汇不可能；
+        3）题目里面出现过的单词不会作为答案
+
+## 2.听力中：速记->查漏补缺
+### 1）第一遍
+       1.1)起止:路标词->空格后
+       1.2)目标:同词性 +同词义+1-3单词+重读
+       1.3)不记:题干+多个并列+弱读
+### 2）第二遍
+       2.1)补缺:单复数
+       2.2)其他备选项
+
+## 3.听力后：检查
+     1）时间:听完后，最后10分钟 
+     2）内容:语法
+            逻辑
+            拼写
 
 
 

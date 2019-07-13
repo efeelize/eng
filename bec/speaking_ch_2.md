@@ -1,5 +1,5 @@
+# speaking_ch_2
 # PART I. personal question/3-4sectence/30s
-
 ## 总分总 + quick answer
       Q:whether you think there are some profession in Chinawhich should be better paid.
       A:1.1)Yes,in china people working in different fields are paid quite differently.People in some

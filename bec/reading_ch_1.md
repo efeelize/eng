@@ -1,22 +1,54 @@
-reading_ch_1
+# reading_ch_1
 
 > ***正确的缩小范围
 
-# Part I.
+# Part I.考查同义词替换，意思的匹配
 ## 1.做题顺序
-     1）计算频率，1-2 个
-     2）简化statement
+     1）看背景介绍，确定话题词
+     2）简化选项，保留核心词
         2.1）看懂内容 
         2.2）划出关键词
              核心信息+替换词 
-        2.3）分组
+        2.3）对选项进行分类
      3）首读文章，每一段找到至少 1 个 statement
-        3.1）看懂每句主要信息；
-        3.2）选出一个最显著描述；
-        3.3）划线，在文章的句子中标注 1234
-     4）2-3读文章 
+        ie.读段落，简化句子，保留核心词组 ，匹配选项
+        3.1）从最确定的选项开始选
+        3.2）选完划去序号
+        3.3）不确定的用段落和选项双向排除
+     4）2-3读文章
+        4.1)排除已经选出的句 
+        4.2)梳理剩下的描述 
+        4.3)逐句排除 
+        4.4)有些句子特别难的时候要多读几遍
      5）确定选项
 
+# Part II.考查语法、句间关系
+- 不要轻易下决定。选项之间的差异较小；
+- 首先划掉范例句和范例句在的段落；
+- 只需要看空格前后的句子，不行的话再看该段落在讲什么；
+- 最后一段不用看，理解文章中心意思与做题无关
+
+## 1)做题步骤
+     1）简化选项
+       1.1）承前：逻辑关系词->圆圈圈
+            exp:But, yet, however, nevertheless
+                So , therefore, thus , as a result , consequently ,
+                In addition, also , an other , the second , last but not least
+                Although , even if ,
+                For example ,
+                In the past, currently ,
+                Not right is ...
+       1.2) 承前：代词->方框框
+            exp:he, she, it , they , them , that approach , that project,
+                such strategy , his, her, their, its , whose, 
+                this way , this structure, under certain conditions
+       1.3）启后:核心内容->波浪线
+            exp:句子主谓宾/主表
+     2）初次匹配(按难易顺序)
+       2.1）初选后保持警惕，随时调整；
+       2.2）选完一定要通读检查读部分文章，分析空格前后句 
+     3）选完一定要通读检查
+     4）调整匹配
 
 # Part III.
 ## 1.基础版本做题方法（正确率高）
