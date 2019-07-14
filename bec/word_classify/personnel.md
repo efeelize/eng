@@ -27,7 +27,8 @@
     probation                                             n. 试用期
     staff training                                        人员培训
     in-house training                                     内部培训 
-    trainee n. 受培训者
+    trainee                                               n. 受培训者
+    trail appointment                                    试任职位 
 
     promote                                               晋级 
     staff promotion                                       人员提职
@@ -90,6 +91,11 @@
     working from home                                  在家办公 
     teleworking                                        远程办公 
 
+     on/behind/ahead of schedule                       及时/落后进度/超前进度 
+     make up time                                      弥补时间 
+     simultaneous                                      同步的 
+     prioritize                                        把…区分优先顺序 
+
     aptitude                                           n. 天资，才能
     trouble-shooting                                   n. 解决问题          
     semi-skilled                                       adj. 半熟练的
@@ -110,10 +116,15 @@
     tiring/tough/hard/demanding                         累人的 
     job satisfaction                                    工作的满意感（自豪感）
     job insecurity                                      工作不安全感 
+    overwork                                            工作过度 
+    burned out                                          精疲力竭 
 
     working conditions                 n. 工作条件（或者可以说working environment）
     work-in-progress                                     n. 工作过程
     workload                                             n. 工作量（中级配伍题考过）
+
+    quality time                                  黄金时光（跟家人，朋友在一起的时间）
+    entrepreneur spirit                                  事业心 
 
 ## 工作考核
     performance                  n. 进行，表现工作情况（业绩表现，薪资福利这部分中讲过）

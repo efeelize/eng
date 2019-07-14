@@ -7,6 +7,7 @@
      facilities location                           n. 设备安置
      configuration                                 n. 设备的结构、组合
      component                                     n. 机器元件、组件、部件，部分
+     standby unit                                  备用部件 
 
 ## 2）车间
      manufacture                                   v. （用机器）制造
@@ -16,6 +17,8 @@
 
     throughput                                      n. 工厂的总产量 
     layout                                          n. 工厂的布局
+    depot                                           n. 仓库
+    warehouse                                       n. 仓库
     floor shop                                      n. 车间
     job shop                                        n. 专门车间
     assembly-line                                   n. 装配线，流水作业线
@@ -23,6 +26,7 @@
     intermittent production                         n. 阶段性生产
 
     make                                            n. 产品的牌子或型号
+    sample order                                    照样品订货 
     make-to-order                                   adj. 根据订货而生产的产品
     make-to-stock                            adj. 指那些在未收到订货时就已生产了的产品
     outsource                                       v. 外购产品或由外单位制做产品
@@ -35,17 +39,23 @@
 
 ## 3）产量
     capacity                                        n. 生产额，（最大）产量
+    the lion’s share                                最大份额 
     output                                          n. 产量
     yield                                           n. 有效产量
     work-order                             n. （包括原料、半成品、成品的）全部存货总量
     input                                           n. 投入
     interim                                         n. 中期，过渡期间
+    delivery cycle                                  n. 交货周期
 
 ## 4）质量
     four P's                   
     产品PRODUCT、价格PRICE、地点PLACE、促销PROMOTION 
     （高级听力填空题考过的，上课仔细分析过哦^^） 
 
+    design defect                                  设计缺陷 
+    state-of-the-art                               最先进的
+    superior quality                               优等品  
+    unconditional guarantee                        无条件品质保障 
     feasibility study                              n. 可行性研究
     master production schedule                     n. 主要生产计划
     production planning                            生产规划
@@ -84,6 +94,8 @@
      launch new product                            推出新产品
      Product Research Development                  产品研发
      zero defect                                   n. 合格产品
+     purchasing agent                       
+            采购（进货）人员 
 
 # PART II.经营
 ## 商品
@@ -92,13 +104,14 @@
      commercialize                                  v. 使商品化
      customize                           v. 按顾客的具体要求制造（或改造等）；顾客化
      off-the-peg                                    adj. 标准的，非顾客化的
-     off-the-shelf adj. 非专门设计的
+     off-the-shelf                                  adj. 非专门设计的
 
      finished goods                                 n. 制成品
      freebie                                    n. （非正式的）赠品，免费促销的商品
 
      going                                          adj. 进行的，运转中的
      going rate                                     n. 产品的市场价格
+     merchandise turnover                           商品周转率 
 
      goodwill                                       n. 声誉
      reputation                                     n. 名声，声望，商业信誉
@@ -122,13 +135,30 @@
      junk mail                        n. （未经收信人要求的）直接邮寄的广告宣传  
      mailshot                                       n. 邮购
    
-     mass media 大众传媒（如电视、广播、报纸等）
+      mass media                                    大众传媒（如电视、广播、报纸等）
+      billboards                                     广告牌 
+      TV commercial                                  电视广告 
+      product endorsement                            产品代言 
+      banner advertisement                           横幅广告 
+      pop-up                                         弹窗 
+
      hype                                           n. 天花乱坠的（夸张）广告宣传
      advertise                                      v. 公布，做广告
      ad                                             n. 做广告，登广告
      advertisement                                  n. 出公告，做广告
      advertising                                    n. 广告业
      below-the-line advertising                     线下广告，尚未被付款的广告
+
+## 品牌
+     brand leader                                  n. 占市场最大份额的品牌，名牌
+     brand loyalty                                 n. （消费者对品牌的忠实）
+     loyalty cards                                 会员卡 
+     brand awareness                               品牌意识   
+     brand familiarity                             品牌熟悉度 
+     brand preference                              品牌偏好   
+     brand image                                   品牌形象 
+     brand stretching                              品牌扩张 
+     word-of-mouth                                 口碑 
 
 # 销售
      trade                                            n./v. 商业，生意；交易，经商
@@ -142,7 +172,9 @@
      point of sale (POS)                             n. 销售点
      launch                                          v. 在市场推出一种新产品 
                                                      n. 新产品的推出
+     prompt sale                                     即期销售，及时处理 
 
+## 策略
      marketing mix                     n. 综合营销策略，指定价、促销、产品等策略的配合 
      marketing plans                                 营销计划
      sales presentation                              销售报告
@@ -151,17 +183,28 @@
      soft-sell                                      n. 劝诱销售（术），软销售（手段）
      undifferentiated marketing                     n. 无差异性营销策略
      concentrated marketing                         n. 集中营销策略
+     consumer behavior                              消费者行为 
+     consumer profile                               消费者形象描述 
+     CRM (Customer Relationship Management)         客户关系管理
+     production outsourcing                         生产外包
 
 ## 促销
      recoup                              v. 扣除（金额、款项，常作为一种优惠），赔偿
      offering discount                              打折
      launching campaigns                            搞促销活动
+     sponsorship                                    赞助 
+     promotion activities                           促销活动 
+
+     bargain books                                  特价图书 
+     business jargon                                商业行话 
+     green grocery                                  蔬菜水果店 
 
 ## 经销
      franchise                                     n. 特许经销权 
                                                    v. 特许经销，给予特许经销权 
      franchisee                                    n. 特许经营人
      franchiser                                    n. 授予特许经营权者
+     emergency credential                          临时执照 
 
 ## 渠道
      territory                                     n. （销售）区域
@@ -175,6 +218,16 @@
      wholesaler                                    n. 批发商
      chain                                         n. 连锁店
      sole distributor                              独家分销商
+     distributor alliance                          分销商联盟 
+     discount retailer                              折扣零售商 
+
+## Presentation  
+     press conference                              新闻发布会 
+     product launch                                产品发布 
+     seminar                                       探讨会  
+     workshop                                      研讨会 
+     briefing session                              简介会 
+     flip chart                                    挂图 
 
 # PART III 市场
 ## 价格
@@ -197,8 +250,6 @@
      （绝对高频率词，中级听力段子题考过）
      penetration                                    n. 目标市场的占有份额
      penetrate                                      v. 渗透，打入（市场）
-     target market                                  目标市场
-     target customer                                目标客户群
 
      flagship                        n. 同类中最成功的商品，佼佼者；旗舰店或 旗舰机构
      market leader                                  n.市场上的主导公司
@@ -209,11 +260,18 @@
      up market（=high-end market）                  n./adj. 高档商品市场
      saturation                                     n. （市场的）饱和（状态）
      saturate                                       v. 饱和
+     market foreclosure                             市场封杀 
+
+     marketer                                      市场营销人员 
+     target market                                  目标市场
+     target customer                                目标客户群
 
 # PART IV.消费
+     purchasing power                              购买力（高级填空题考过）
      consumables                                   n. 消耗品
      consumer durables                             n. 耐用消费品（如：洗衣机）
      consumer goods                                n. 消费品，生活资料
+     comparison shopping                           比较购物 
 
      solvent                                       adj. 有偿付能力的
      hire purchase                                 n. 分期付款购物法
@@ -225,9 +283,11 @@
      overdraw                                      v. 透支
      overdraft                                     n. 透支
      overdraft facility                            透支限额
-     letter of credit                              信用证
      credit rating                                 信贷的信用等级，信誉评价
+     credit terms                                  信贷条件，信用条件 
+     foreign credit                                海外信贷 
      mortgage                                      n./v. 抵押
+     refinance credits                             再筹划资金贷款 
 
      expenditure                                   n. 花费，支出额
      outlay                                        n. 开销，支出，费用
@@ -237,15 +297,20 @@
      expenses                                      n. 费用，业务津贴
      appropriate                                   v. 拨出（款项）
 
+     defer                                         v. 推迟
+     deferred payments                             n. 延期支付
+
      overpay                                       n. 多付（款）
      withdraw                                  v. 拿走，收回，退出；从银行账户中提款。
-     withdrawal                                    n.
+     withdrawal                                    n.拿走，收回，退出
 
 # 投资
      invest                                         v. 投资
      investment                                     n. 投资
      investor                                       n. 投资者
+     ineffective investment                         无效投资
      plough back                                    n. 将获利进行再投资
+     leverage                                       n. 杠杆比率
 
 
 
