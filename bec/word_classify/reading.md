@@ -1,4 +1,4 @@
-# Part 1 International Economy 
+# International Economy 
     downward                          向下的 
     consumption                       消费，消耗 
     expenditure fund deposit          经费存款 
@@ -25,7 +25,7 @@
     alternative cost                  选择成本，替换成本 
     specificity subsidies             专项补贴 
 
-# Part 2 World Trade 
+# World Trade 
     comprehensive income              综合收入 
     comparison shopping               比较购物 
     acceleration                      加速，促进 
@@ -53,7 +53,8 @@
     be in the doldrums                处于萧条时期 
     cyclical responsiveness           周期性反应 
     
- # Part 3 International Trade Knowledge 
+
+# International Trade Knowledge 
     credit sale                       赊售，赊销 
     credit terms                      信贷条件，信用条件 
     foreign credit                    海外信贷 
@@ -80,7 +81,7 @@
     key enterprise                    骨干企业 
     production outsourcing            生产外包
    
- #  Part 4 Negotiation 
+# Negotiation 
     conflict of interest               利益冲突 
     bargaining advantages              交易优势 
     ineffective investment             无效投资 
@@ -108,8 +109,8 @@
     proactive measures                 预防性措施 
     plaintiff                          原告，起诉人 
     defendant                          被告
-    
-  # Part 5 International Finance 
+
+# International Finance 
     tax dodger                          偷税人，逃税人 
     confidentiality agreement           机密性协议 
     committed costs                     约束成本，已承诺的费用
@@ -136,7 +137,8 @@
     derivatives market                  衍生产品市场 
     lucrative capital                   厚利资本
     
-  # Part 6 Business Management 
+
+# Business Management 
     enterprise merger                    企业兼并 
     hostile nation                       敌国 
     takeover bid                         收购竞争， 收购行动 
@@ -163,39 +165,7 @@
     sophisticated investor               精明投资人 
     qualified acceptance                 有条件承税 
 
-
-# part 7.失业
-              layoff
-              unemploymet
-              displacemet
-              axe
-              redundancy
-              out of job
-              slash
-              dispute
-              jobless
-              dismissal
-              discharge
-              turnover
-              fire
-              downsize
-              job vacancy
-
-# part 8.财务
-             finance
-             overhead
-             pension
-             compensation
-             salary
-             wage
-             paid
-             traiff
-             tax
-             outlay
-             downpayment
-             debt
-             loan
-            
+    
 
    
    
@@ -205,11 +175,6 @@
    
    
    
-   
-   
-   
-   
-   
-   
+
    
    
