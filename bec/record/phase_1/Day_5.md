@@ -2,10 +2,6 @@
 > 真题 2 听力 test2part2/口语 1.5
 
 # 1.words
-## 1)pronunciation
-
-
-## 2)meaning
      dog                                           n. 滞销品 
      drive                                         n. 积极性，能动性
      field                                         n. 办公室外边，具体业务
@@ -19,7 +15,6 @@
      venue                              n. （举行会议、展览等特殊活动的）地点，集合地点
      vision                                        n. 设想，公司的长期目标
 
-## 3)format
      dynamic                                        adj. 有活力的
 
      motivate                                       v. 激励，激发......的积极性
@@ -73,7 +68,7 @@
 # 2.phrase
      fail-safe system                              n. 安全系统
 
-
+# 3.topic
 
 
 

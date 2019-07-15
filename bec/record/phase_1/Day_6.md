@@ -2,15 +2,12 @@
 > 真题 2 听力 test2part3/口语 1.6
 
 # 1.words
-## 1)pronunciation
      initial                                            adj. 初步的
 
-## 2)meaning
      obsolete                                           adj. 过时的，淘汰的，废弃的
      phase out                                          n. 分阶段停止使用
      rapport                                           n. 密切的关系，轻松愉快的气氛
 
-## 3)format
     impact                                              n. 冲击，强烈影响
     implement                                           v. 实施，执行
     implication                                         n 隐含意义
@@ -29,6 +26,7 @@
     quality control                                     质量控制，质量管理
 
 # 2.phrase
+# 3.topic 
 
 
 

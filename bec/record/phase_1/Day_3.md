@@ -1,9 +1,6 @@
 # Day_3
 > 真题 2 听力 test1part3/口语 1.3
 # 1.word
-## 1)pronunciation
-
-## 2）meaning
       deadwood                                        无用的人
       nuisance                                        讨厌的人或事情
       prognosis                                       预告、预言
@@ -13,7 +10,6 @@
       irrevocable adj. 不可撤消的，不能改变的
       lead time n. 完成某项活动所需的时间
 
-## 3）format
       competition                                     n. 比赛，竞争
       competitor                                      n. 竞争者，对手
       competitive                                     adj. 竞争性的
@@ -43,7 +39,7 @@
     health facilities                                 健康设施
     round the clock                                   24h
 
-  
+# 3.topic  
 
 
 

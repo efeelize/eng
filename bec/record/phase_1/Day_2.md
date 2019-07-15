@@ -1,7 +1,6 @@
 # Day_2
 > 真题 2 听力 test1part2、3/口语 1.2
 # 1）words
-## 1.1)pronuncation
         initiative                            主动性
         a sort of
         a bit
@@ -14,7 +13,6 @@
         bottom                                 adj. 最后的，根本的 
                                                v. 到达底部，建立基础
  
-## 1.2)meaning
         paramount                               极为重要的
         mettle                                  勇气、精神
         coulumn                                 (报纸、杂志)专栏
@@ -31,7 +29,6 @@
         capture                                 v. 赢得
         catastrophe                             n. 大灾难，大祸
 
-## 1.3)format
         segmentation                            分割、切断
         customisation                           量身定做
         managerial
@@ -54,7 +51,6 @@
        reduce                                   v. 减少
        reduction                                n. 减少
  
-## 1.4）分类词汇
 ### 颜色
         black                                   adj. 违法的
         in the black                            有盈余，贷方
@@ -85,7 +81,7 @@
         represent                               v. 代表，代理
         representative n. 代理人，代表
 
-## 2)phrase
+## 2.phrase
      opinion  survey                            意见调查
      put  in place                              实施到位
      communications approach                    沟通方式
@@ -103,7 +99,7 @@
      in good faith
      call on                                    v. 呼吁，约请，拜访
 
-
+# 3.topic 
 
 
 

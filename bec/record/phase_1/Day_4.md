@@ -2,9 +2,6 @@
 > 真题 2 听力 test2part1/口语 1.4
 
 # 1.words
-## 1)pronunciation
-
-## 2)meaning
     cut-throat                                      adj. 残酷的，激烈的 
     cycle time                                      n. 循环时间
     demodulated                                     adj. 消极的，冷谈的
@@ -13,7 +10,6 @@
     pilot                                           n. 小规模试验
     pipeline                                        n. 管道，渠道
 
-## 3)format
      crisis                                          n. 危机，转折点
      critical                                        adj. 关键的
      critical path analysis                          n. 关键途径分析法
@@ -39,6 +35,7 @@
      dispose of                                      去掉，清除
 
 # 2.phrase
+# 3.topic 
 
 
 
