@@ -1,14 +1,14 @@
 # Day 1
 > 真题 2 听力 test1part1/口语 1.1
 
-# 1)words
-## 1.1) pronunciation
+# 1.words
+## 1) pronunciation
          horizon
          seminar
          prominent
          commentators
 
-## 1.2) meaning
+## 2) meaning
          pre-requistie                                     前提
          nuture                                            培养、教育、发展
          inhibit                                           约束、抑制
@@ -30,7 +30,7 @@
 
 
 
-## 1.3) format
+## 3) format
          horizon            
          horizontal 
 
@@ -58,7 +58,7 @@
          anticipate                                       v. 期望
          anticipated                                      adj. 期待的
 
-## 1.4）分类词汇                        
+## 4）分类词汇                        
 ### 价格、价值
          appraisal                                       n. 估量，估价
          assess                                          v. 评定，估价
@@ -76,8 +76,7 @@
          maximise v. 使增至最大限度、最大化
          optimize v. 优化
 
-
-# 2) phrase
+# 2.phrase
       reward  system                                     奖励制度
       pay back                                           回报、报偿
       bring out the potentials                           充分发挥潜能
@@ -88,6 +87,84 @@
       on top pf that 
       nuture team spirit                                 培养团队活力 
       full co-operation                                  通力合作 
+      
+# 3.topic:teamwork
+## part I.central leadership/regualr meetings
+### importance
+- Two heads are better than one
+- learn from my fellow workers
+- learn to communicate with all sorts of people
+- need someone with managerial skills to lead within team
+- coordinate interpersonal relationship and prganise resources effectively
+- see things in different perspectives
+- regular meetings can enable team members to keep track of work progress and it's
+  means of considering information and making collective decisions.
+
+## part II.evaluating the success of teamwork?
+
+### mutual trust
+#### 1)importance
+- feel free to express their views.
+- this helps to bring out the poterntials,experience and creativity of the individual 
+- create good work environment
+#### 2)how to 
+
+### full co-operation
+#### 1）improtance
+- has a direct impact on the success or failure of the team
+- make coullective efforts to achieve the common objectives and ensure a higher level of 
+  quality and workmanship.
+- timely communication and decision making will also help to improve work efficiency.
+#### 2) how to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 
