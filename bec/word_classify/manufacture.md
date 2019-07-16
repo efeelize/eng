@@ -155,6 +155,12 @@
       product endorsement                            产品代言 
       banner advertisement                           横幅广告 
       pop-up                                         弹窗 
+      trade fair                                     商品交易会
+      exhibit                                        V.展览
+      exhibition                                     n.展览
+      display                                        v.陈列
+      window display                                 橱窗展览
+      publicity folder                               公共信息宣传夹
 
      advertising campaign                           广告活动
      hype                                           n. 天花乱坠的（夸张）广告宣传
