@@ -65,10 +65,64 @@
      settle                                         v. 解决，决定；安排，支付
      settlement                                     n. 解决，清偿，支付
 
+     nicety                                         精美之物
+     ulcer               /'ʌlsə/                    溃疡
+     wellness                                       健康
+     norm                                           标准、规范
+     tactical                                       战术上、擅于筹划的
+     stamina             /'stæmɪnə/                 耐力、持久力
+     dexterity           /dek'sterɪtɪ/              n. 灵巧;熟练;敏捷;聪敏;机敏
+
+
 # 2.phrase
      fail-safe system                              n. 安全系统
+     high blood pressure                           高血压
+     health care benefits                          医保福利
+     coffee break                                  工间休息
+     eldercare program                             老年保健计划
+     locate nursing care facilities                查找老年福利设施
+     aging parent
+     exercise physiologist    /ˌfizi'ɔlədʒist/     运动生理学家
+     work through lunch                            不吃饭继续工作
+     have easy access to                           可方便使用的
+     benefits system                               富含营养的实物和饮料
+     childcare vouchers       /'vaʊtʃə/            托儿券
+     annual leave                                  年假
+     get off the treadmill             摆脱单调乏味的工作
 
-# 3.topic
+# 3.topic:deal with the heavy work
+## PART I.overworked
+- have to rush to meet tight deadlines
+- consistently working late
+- working through lunch
+- comming to work even ill
+- bringing work home
+- feel guilty when they leave work on time 
+
+## PART II.addressing the problem of overwork
+## importance
+- result in stress-related illnesses,such as high blood pressure and fatigues.
+- in low morale and give very poor performance in their work.
+- employees can better adjust themselves to their work pressure
+- employees will become more organised and feel more at ease with their rountine work.
+- result in high turnover and poor performance.
+- benefit both the company and the employees,it helps employees to live 
+happier life and it also helps to boost their morale and enhance employee 
+commitment to the company.
+
+## how
+- introduce more benefits programmes.
+- offer wellness and exercise programmes.
+- provide exercise facilities to enhance employees'health.
+- introduce more felxible benefits programmes like childcare and nursing care for aging parents
+- provide some sports facilities and organise sports activities to enhance employees' health.
+- provide coffee rooms and nutritious refreshment.
+
+
+## PART III.
+- It's a great way to...
+
+
 
 
 

@@ -27,9 +27,7 @@
     greener pastures                            比喻更好的谋生去处、更好的工作、职位
     go through the roof                               大大上涨，到出乎意料的程度
     undre the umbrella of                             在...的保护下
-    
     competitive edge                                  竞争优势
-    
     out of step with                                  与...步调不一致
     fight off                                         竭力避免
     body rhythm                                       紧张、压力
@@ -38,9 +36,70 @@
     health counselling facilities                     健康咨询
     health facilities                                 健康设施
     round the clock                                   24h
+    in the short run                                  在短期内
+    total quality management （TQM）                   全面质量管理
+    competitive edge                                  竞争优势，竞争力
+    cut down                                          削减、减少
+    out of step with                                  与...步调不一致/不协调/失调
 
-# 3.topic  
+    cost effective         adj. 有效的; 生效的          有成本效益的
+    cost-efficient         adj. 有能力的, 效率高的       成本效益高
 
+    permanent/fixed schedule                          固定班
+    shift work                                        三班倒
+    rotating schedule                                 轮班制
+
+# 3.topic reduce production cost
+## PART I.
+### importance
+### how
+- training your workers to keep them up to date
+- getting quality goods from suppliers
+
+## PART II.control production cost
+### quality suppliers
+#### importance
+- low quality goods from suppliers is a major souce of waste.
+#### how
+- seek to work with good suppliers who can offer quality raw materials with reasonable prices.
+
+### efficiency of production line
+#### importance
+#### how
+- consult an ergonomics specialist 
+- seek user-friendly and will not cause too much physical stress and strain.
+- workers should get fully-trained to work more efficiently on the line.
+- develop good benifits systems to boost the morale of the workers.
+- introduce shift work operation to optimize the production process.
+
+
+## PART III.shif work
+### prons
+- use our productive equipment to its fullest potential
+- optimize the production process.
+
+### cons
+- disrupt the body rhythm and is very stressful
+- affects home life,the night shift worker is out of step with the family.
+- employee's well-being and security should be the first priority of the management.
+
+### how
+- traning programmes to help them better adjust to this new work equipment
+- give workers tips on how to prevent harmful effects
+- arrange healthy specialists to give them training courses and provide online
+consultancy service for the comvenience of our shift worker.
+- provide psychological consultancy just in case they get too stressed.
+- provide nutritious food,adequate lighting,clean air,proper heat,air-conditioning and reduce noise
+> help to reduce the shiftworker's burden.
+- provide workers with health facilities to encourage them to do more exercise.
+> help improve the physical and mental health of the staff and boost their morale.
+
+### sentence
+- as to a large extent... 在很大程度上
+- ... is another important thing to consider.
+- I partly agree with you,but I think it could be better if we...
+- is an important factor in improving the state of ...
+- there are numbers of improvement methods that can be placed under the umbrella of XXX.
 
 
 

@@ -41,6 +41,9 @@
         certainly
         definitely
         recommending
+        resentment
+        initiative
+
 
         behave                                  v. 表现，运转
         behavior                                n. 举止，行为，运转情况
@@ -98,10 +101,67 @@
      quite a lengthy
      in good faith
      call on                                    v. 呼吁，约请，拜访
+     performance excellent                      优异表现
+     tangible performance standards             具体的工作标准
+     information equality                       信息均等
+     have access to                             有权使用
+     a sense of belonging                       归属感
+     two way communication                      双向交流
 
 # 3.topic 
+## part I.commuication to staff
+### importance
+- contributing to the overall improvement of the company
+- really show your mettle
+- enhance mutual trust,promote employee commitment,boost morale.
+- helps to improve productivity.
 
+### how
+- face-to-face communication,shows your sincerity,more open and direct
+- email
+- telephone
+- notice-board
+- intranet,very effective channel of communication；promote information equality
+- opinion polls
+- reports from differnent department
+- get chances to attend training courses on interpersonal skills
+- clearly state your overall purpose and expectations 
+- share corporate information together,exchange news and views.
 
+## part II.communicating management messages to the staff
+### overall purpose
+#### importance
+- help staff members better adjust themselves to the work environment
+- achieve higher level of performance.
+- have a chance to comment on the performance of the managers and point out
+problems in their work.
 
+#### how
+- audience-driven commuications through the company-wide annual employee opinion survey
+- should let employees know in advance any proposed changes before they
+actually occur 
+- the tangible performance standards for staff to follow
+- place emphasis on two-way communication
+- focus on the employee side,allow employees to voice their opinions about 
+day-to-day work and corporate development
+
+### feedback on performance
+#### importance
+- give chance to correct mistaken made on their own job
+- reduce the chance for confusion and misinterpretation of key corporate 
+policies and decisions
+- reflect the problems within the firm,show problens of the management
+
+#### how
+- measures its performance in internal communications through the company-wide
+annual employee opinion survey
+- targeted surveys around specific communications activities
+- provding feedback on their performance
+- keep track of possible probelms in their own work
+- be more open in sharing information with their subordinates
+
+## part III.
+- there are 3 primary channels for XXX.
+- let's also insert some XXX.
 
 
