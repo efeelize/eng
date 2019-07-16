@@ -2,6 +2,11 @@
 ## 资金
     budgeting                                      预算 
     utilization of budget                          预算执行 
+    allocate the budget                            分配预算
+    regualar budget                                常规预算
+    extra budget                                   额外预算
+    within the budject                             预算之内
+    beyond the budject                             超出预算
     financial objective                            财政目标 
 
     government utility                             政府公用事业 
