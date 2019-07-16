@@ -14,6 +14,9 @@
      manufacturer                                  n. 制造者（厂、商、公司）
      manufacturing                                 adj. 制造的
      manufacturing industry                        制造业 （中级听力段子题考过）
+     manufactureing capacity                       生产能力
+     manufactureing efficiency                     生产效率
+     manufactureing plant                          制造厂
 
     throughput                                      n. 工厂的总产量 
     layout                                          n. 工厂的布局
@@ -100,15 +103,23 @@
      launch new product                            推出新产品
      Product Research Development                  产品研发
      zero defect                                   n. 合格产品
-   
-                 
+     product catalogue                                产品目录
+     product samples/models                           产品样品
+                
 ## 7）采购
      purchasing/procurement                         采购
      purchasing agent                             采购（进货）人员 
      supply chain management                        供应链管理
      source of raw material                         原材料的来源
      
-
+## 8）进度
+      regular checks/examination                    定期检查
+      regular performance reviews                   定期绩效回顾
+      working practice review                       工作进度检查
+      on schedule                                   按进度
+      ahead of schedule                             进度提前
+      behind schedule                               进度落后
+      
 # PART II.经营
 ## 商品
      goods                                          n. 货物，商品
@@ -135,6 +146,8 @@
 ## 宣传/publicity
      brochure                                       n. 小册子
      circular                                       n. 传阅的小册子（传单等）
+     company brochure                               公司宣传手册
+     product brochure                               产品手册
      directory                                      n. 指南，号码簿
      flier(=flyer)                                  n. 促销传单
      leaflet                                        n. 广告印刷传单
@@ -163,6 +176,10 @@
       publicity folder                               公共信息宣传夹
 
      advertising campaign                           广告活动
+     advertising  agency                            广告商
+     advertising industry                           广告业
+     advertising spend                              广告支出
+
      hype                                           n. 天花乱坠的（夸张）广告宣传
      advertise                                      v. 公布，做广告
      ad                                             n. 做广告，登广告
@@ -188,6 +205,13 @@
      brand image                                   品牌形象 
      brand stretching                              品牌扩张 
      word-of-mouth                                 口碑 
+  
+     regular customers                              老客户
+     CRM (Customer Relationship Management)         客户关系管理
+     exchange business card                         互换名片
+     build potential contacts/customers             建立潜在客户
+     positive/negative feedback                     积极/消极反馈
+     generate feedback                              产生反馈
 
 # 销售
      trade                                            n./v. 商业，生意；交易，经商
@@ -202,6 +226,8 @@
      launch                                          v. 在市场推出一种新产品 
                                                      n. 新产品的推出
      prompt sale                                     即期销售，及时处理 
+     sales literature                                 销售资料
+     price list                                       价目表
 
 ## 策略
      marketing mix                     n. 综合营销策略，指定价、促销、产品等策略的配合 
@@ -214,13 +240,13 @@
      concentrated marketing                         n. 集中营销策略
      consumer behavior                              消费者行为 
      consumer profile                               消费者形象描述 
-     CRM (Customer Relationship Management)         客户关系管理
-     production outsourcing                         生产外包
+     production outsourcing                           外包
 
 ## 促销
      recoup                              v. 扣除（金额、款项，常作为一种优惠），赔偿
      offering discount                              打折
      launching campaigns                            搞促销活动
+     introductory discount                          折扣销售
      favorable price/competitive price              优惠价格
      special offer                                  特价
      sponsorship                                    赞助 
@@ -261,6 +287,9 @@
      workshop                                      研讨会 
      briefing session                              简介会 
      flip chart                                    挂图 
+     silde                                         幻灯片
+     lecture                                       演讲者
+     
 
 # PART III 市场
 ## 价格
@@ -298,6 +327,9 @@
      marketer                                      市场营销人员 
      target market                                  目标市场
      target customer                                目标客户群
+     an annual customer survey                      年度客户调查
+     implement/carry out/conduct a survey           进行一项调查
+     customer satisfaction survey                   客户满意度调查
 
 # PART IV.消费
      purchasing power                              购买力（高级填空题考过）
