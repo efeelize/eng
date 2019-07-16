@@ -36,6 +36,9 @@
 
     reference number (Ref. No.)                     产品的参考号码
     specification                                   n. 产品规格（中高级都经常考）
+    alter/modify/revise                             修改
+    fault/defect rate                               残次品比率
+    warranty                                        保修期
 
 ## 3）产量
     capacity                                        n. 生产额，（最大）产量
@@ -86,6 +89,9 @@
      production cycle                              n. 生产周期
      production schedule                           n. 生产计划
      product life cycle                            n. 产品生命周期
+     warranty                                      保修期
+     meet the deadline                             按期
+     miss the deadline                             延期
      product mix                                   n. 产品组合（种类和数量的组合）
      productive                                    adj. 生产的，多产的
      range                                         n. 系列产品（中级配伍题考过）
@@ -94,8 +100,14 @@
      launch new product                            推出新产品
      Product Research Development                  产品研发
      zero defect                                   n. 合格产品
-     purchasing agent                       
-            采购（进货）人员 
+   
+                 
+## 7）采购
+     purchasing/procurement                         采购
+     purchasing agent                             采购（进货）人员 
+     supply chain management                        供应链管理
+     source of raw material                         原材料的来源
+     
 
 # PART II.经营
 ## 商品
@@ -120,7 +132,7 @@
      shelf-life                             n. 货架期（商品可以陈列在货架 上的时间）
      showroom                                       n. 陈列室 （中级听力填空题考过）
 
-## 宣传
+## 宣传/publicity
      brochure                                       n. 小册子
      circular                                       n. 传阅的小册子（传单等）
      directory                                      n. 指南，号码簿
@@ -135,6 +147,8 @@
      junk mail                        n. （未经收信人要求的）直接邮寄的广告宣传  
      mailshot                                       n. 邮购
    
+      mainstream media                              主流媒体
+      non-main                                      非主流媒体
       mass media                                    大众传媒（如电视、广播、报纸等）
       billboards                                     广告牌 
       TV commercial                                  电视广告 
@@ -142,17 +156,26 @@
       banner advertisement                           横幅广告 
       pop-up                                         弹窗 
 
+     advertising campaign                           广告活动
      hype                                           n. 天花乱坠的（夸张）广告宣传
      advertise                                      v. 公布，做广告
      ad                                             n. 做广告，登广告
      advertisement                                  n. 出公告，做广告
      advertising                                    n. 广告业
      below-the-line advertising                     线下广告，尚未被付款的广告
+     
+     corporate social responsibility                公司社会责任感
+     sponsor local organization                     赞助当地慈善组织
+     positive impression                            正面形象
+     environment friendly                           环境友好型
+     environment awareness                          环境意识
+     waste recycling                                废物回收利用
+     sustainable development                        可持续发展
 
 ## 品牌
      brand leader                                  n. 占市场最大份额的品牌，名牌
      brand loyalty                                 n. （消费者对品牌的忠实）
-     loyalty cards                                 会员卡 
+     loyalty cards                                 会员卡、优惠卡、购物卡
      brand awareness                               品牌意识   
      brand familiarity                             品牌熟悉度 
      brand preference                              品牌偏好   
@@ -192,8 +215,12 @@
      recoup                              v. 扣除（金额、款项，常作为一种优惠），赔偿
      offering discount                              打折
      launching campaigns                            搞促销活动
+     favorable price/competitive price              优惠价格
+     special offer                                  特价
      sponsorship                                    赞助 
      promotion activities                           促销活动 
+     promotion scheme                               促销方案
+     freebie                                        赠品
 
      bargain books                                  特价图书 
      business jargon                                商业行话 
@@ -311,6 +338,10 @@
      ineffective investment                         无效投资
      plough back                                    n. 将获利进行再投资
      leverage                                       n. 杠杆比率
+     risk evaluation                                风险评估
+     wise/sensible/rational investment              合理的投资
+     venture capital                                风险投资
+     return on capital/investment                   资本回报/投资回报率
 
 
 
