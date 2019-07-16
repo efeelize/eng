@@ -17,6 +17,7 @@
      manufactureing capacity                       生产能力
      manufactureing efficiency                     生产效率
      manufactureing plant                          制造厂
+     premises                                      厂房
 
     throughput                                      n. 工厂的总产量 
     layout                                          n. 工厂的布局
@@ -188,12 +189,22 @@
      below-the-line advertising                     线下广告，尚未被付款的广告
      
      corporate social responsibility                公司社会责任感
-     sponsor local organization                     赞助当地慈善组织
      positive impression                            正面形象
+     have a sound corporate reputation              有良好的企业声誉
+     maintain/damage the reputation                 维护/破坏声誉
+     affect our reputation in public                影响我们在公众中的声誉
+     
+     sponsor local organization                     赞助当地慈善组织
      environment friendly                           环境友好型
      environment awareness                          环境意识
      waste recycling                                废物回收利用
      sustainable development                        可持续发展
+     
+     corporate objective                            企业目标
+     sepcific and long-term objectives              具体和长期的目标
+     ambitious business objectives                  宏伟的商业目标
+     
+     
 
 ## 品牌
      brand leader                                  n. 占市场最大份额的品牌，名牌
