@@ -51,7 +51,13 @@
     session                                               一次培训课
     venue/site                                            地点
     refreshment                                           茶歇
-
+    
+    career planning                                       职业规划
+    clear and long-term objective                         清晰和长远的目标
+    ambitious business objectives                         宏伟的商业目标
+    realise/achieve/fulfill the objective                 实现目标
+    specific objectives                                   具体目标
+    
     promote                                               晋级 
     prpmotion prospect                                    晋职寄回
     staff promotion                                       人员提职
@@ -102,6 +108,7 @@
     entitle                                               v. 授权
     entitlement                                           n. 应得的权利
     holiday entitlement                                   n. 休假权
+    rewarding and decent job                              高薪体面的工作
 
 ## Ways of working 
     core time                                  n. （弹性工作制的）基本上班时间（员工于
@@ -203,6 +210,27 @@
     turnover                                         n. 营业额/员工流动的比率
     staff turnover                                        员工流动率
     rentention rate                                       员工保留率
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 
 
