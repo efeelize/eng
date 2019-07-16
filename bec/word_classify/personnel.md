@@ -59,7 +59,7 @@
     specific objectives                                   具体目标
     
     promote                                               晋级 
-    prpmotion prospect                                    晋职寄回
+    prpmotion prospect                                    晋职机会
     staff promotion                                       人员提职
     career ladder                                         职业阶梯 
 
@@ -108,6 +108,7 @@
     entitle                                               v. 授权
     entitlement                                           n. 应得的权利
     holiday entitlement                                   n. 休假权
+    maternity leave                                       产假
     rewarding and decent job                              高薪体面的工作
 
 ## Ways of working 
@@ -125,6 +126,16 @@
     commute                                            通勤 
     working from home                                  在家办公 
     teleworking                                        远程办公 
+   
+    office facilities                                  办公设备
+    whiteboard                                         白板
+    marker                                             记号笔
+    photocopier                                        复印机
+    duplicate                                          副本、复印
+    fax machine                                        传真机
+    paper shredder                                     碎纸机
+    video conference                                   视频会议
+    telephone conference                               电话会议
 
      on/behind/ahead of schedule                       及时/落后进度/超前进度 
      make up time                                      弥补时间 
@@ -148,6 +159,9 @@
     after-sales services                   售后服务，用的都是这个词来表示专业化的服务）
 
     staff morale                                        员工士气
+    boost  staff morale                                 提升员工士气
+    harmonious interpersonal relationship               和谐的人际关系
+    intergrate into the corporate culture               融入企业文化中
     satisfying/stimulating/fascinating                  令人满意的 
     dull/boring/uninteresting/simulating                无聊的 
     repetitive/routine                                  重复的 
@@ -156,6 +170,12 @@
     job insecurity                                      工作不安全感 
     overwork                                            工作过度 
     burned out                                          精疲力竭 
+    intangible respect from others                      来自别人的尊重
+    fulfill the potential                               实现自己的潜能
+    source of confidence                                自信的来源
+    sense of achievement/accomplishment                 成就感
+    overcome/conquer the challenge/obstacle/barrier     克服挑战
+    
 
     working conditions                 n. 工作条件（或者可以说working environment）
     work-in-progress                                     n. 工作过程
@@ -181,6 +201,7 @@
     people cost review                                    人力成本评述
     encouraging policy                                    鼓励性政策
     financial incentive                                   经济刺激
+    tangible financial reward                             经济回报                        
     motivate them and boost the morale                    提升士气
 
 ## 辞职
