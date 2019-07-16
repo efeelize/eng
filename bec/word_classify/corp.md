@@ -33,6 +33,8 @@
     conglomerate                                     n. 综合商社，多元化集团公司
     consortium                                       n. 财团
     international conglomerate                       跨国企业集团 
+    state-owned company                              国有企业
+    
 
     limited (liability)company (ltd.)                股份有限公司 
     public limited company (plc)                     股票上市公司
