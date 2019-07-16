@@ -10,6 +10,10 @@
     mindset 
     perspective
 
+    competition                                                   n.竞争
+    competitive                                                   adj.有竞争力的
+    competitor                                                    n.竞争对手
+
 # 2.phrase
     logistics strategy                                             物流战略
     transport of goods                                             货物运输

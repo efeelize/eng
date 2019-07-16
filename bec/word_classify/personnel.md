@@ -81,6 +81,8 @@
     basic salary                                          基本工资 
     take-home pay                                         实得工资
     performance-related bonuses                           绩效奖金 
+    regular bonus                                         常规监禁
+    quarterly/annual bonus                                季度/年终奖金
     bonus                                                 奖金、分红
 
     benefit                                              n. 利益，补助金，保险金得益

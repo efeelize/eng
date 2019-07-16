@@ -251,7 +251,8 @@
      concentrated marketing                         n. 集中营销策略
      consumer behavior                              消费者行为 
      consumer profile                               消费者形象描述 
-     production outsourcing                           外包
+     production outsourcing                         外包
+     hypothesis of critical period  /haɪ'pɒθɪsɪs/   关键期假说
 
 ## 促销
      recoup                              v. 扣除（金额、款项，常作为一种优惠），赔偿
@@ -270,11 +271,13 @@
      green grocery                                  蔬菜水果店 
 
 ## 经销
-     franchise                                     n. 特许经销权 
+     franchise               /'fræn(t)ʃaɪz/        n. 特许经销权 
                                                    v. 特许经销，给予特许经销权 
      franchisee                                    n. 特许经营人
      franchiser                                    n. 授予特许经营权者
      emergency credential                          临时执照 
+     distribution company                          经销公司
+     distribution system                           配送系统
 
 ## 渠道
      territory                                     n. （销售）区域
@@ -289,7 +292,8 @@
      chain                                         n. 连锁店
      sole distributor                              独家分销商
      distributor alliance                          分销商联盟 
-     discount retailer                              折扣零售商 
+     discount retailer                             折扣零售商 
+     exclusive agent                               独家代理
 
 ## Presentation  
      press conference                              新闻发布会 
@@ -389,8 +393,11 @@
      leverage                                       n. 杠杆比率
      risk evaluation                                风险评估
      wise/sensible/rational investment              合理的投资
-     venture capital                                风险投资
      return on capital/investment                   资本回报/投资回报率
+
+     venture capital                                风险投资
+     venture capitalism                             风险投资主义
+
 
 
 

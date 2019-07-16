@@ -27,6 +27,10 @@
 
 # 2.phrase
 # 3.topic 
+## PART I.
+## PART II.
+## PART III.
+- exert positive/negative/profound/significant influence on...
 
 
 
