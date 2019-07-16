@@ -1,4 +1,4 @@
-# personnel/员工、人员
+# personnel/员工、人员、人事部门
 ## 招聘
     CV(=curriculum vitae)                                 n. 简历，履历
     shortlist                                         n. ...供最后选择的候选人名单 
@@ -9,7 +9,7 @@
                                                     n. 新招收的人员（高级配伍题考过）
     recruitment                                           n. 新成员的吸收
     vacancy                                               n. （职位）空缺
-    vacant adj. 空缺的
+    vacant                                                adj. 空缺的
     occupation/job/post/position                          职位
 
     labor market                                          劳动力市场
@@ -19,18 +19,41 @@
     manning                                               n. 人员配备
     manpower                                              n. 劳动力
     manpower resources                                    n. 劳动力资源
+    business process outsourcing(BPO)                     外包
+     
+    channel/source                                        来源、渠道
+    internal referral                                     内推
+    job fair                                              招聘会
+    online recruitment                                    在线招聘
+    job description (JD)                                  职业描述
+    
+    job applicant/seeker                                  求职者
+    qualification                                         资历
+    certificate                                           证书
+    diploma                                               文凭
+    job specification                                     任职资格
+    
 
 ## 入职
+    new blood/new recruits                                新员工
     take on                                               雇用
     induction                                             n. 就职
     temporary post                                        临时职位
+    trail appointment                                    试任职位 
     probation                                             n. 试用期
+    internship                                            实习
+    
     staff training                                        人员培训
     in-house training                                     内部培训 
+    orientation/induction training                        岗前培训
     trainee                                               n. 受培训者
-    trail appointment                                    试任职位 
+    seminar/workshop                                      研讨会
+    session                                               一次培训课
+    venue/site                                            地点
+    refreshment                                           茶歇
 
     promote                                               晋级 
+    prpmotion prospect                                    晋职寄回
     staff promotion                                       人员提职
     career ladder                                         职业阶梯 
 
@@ -52,6 +75,7 @@
     basic salary                                          基本工资 
     take-home pay                                         实得工资
     performance-related bonuses                           绩效奖金 
+    bonus                                                 奖金、分红
 
     benefit                                              n. 利益，补助金，保险金得益
     overtime                                              n. 加班；加班费
@@ -61,15 +85,19 @@
     fringe benefits                                       n. 附加福利
     sickness benefit                                      n. 疾病补助费
     unemployment benefit                                  n. 失业津贴
+    paid holiday                                          带薪休假
+    holiday entitlement
 
     wage                                                  n. （英）周薪；（美）时薪
     wage freeze                                           n. 工资冻结           
     petty cash                                            n. 零用现金
     raise                                                 n. （美）增加薪金 
                                                         v. 增加，提高；提出，引起 
+    pay rise                                              涨薪
     scale                                                 n. 刻度，层次
     （中级填空题中，在讲到某人工资时考到过一个说法：He was a scale one…，这里的scale 
       one就是指工资级差，即发放工资的不同层次，而scale one一般意味着最低档次的工作级别）
+    salary range                                          薪资级别
 
     entitle                                               v. 授权
     entitlement                                           n. 应得的权利
@@ -96,7 +124,9 @@
      simultaneous                                      同步的 
      prioritize                                        把…区分优先顺序 
 
+    identify your own strengths and weaknesses         了解自己的优缺点
     aptitude                                           n. 天资，才能
+    high-flyer                                         有能力的人
     trouble-shooting                                   n. 解决问题          
     semi-skilled                                       adj. 半熟练的
     skill                                              n. 技能，熟巧
@@ -110,6 +140,7 @@
     customer services                                  客户服务；
     after-sales services                   售后服务，用的都是这个词来表示专业化的服务）
 
+    staff morale                                        员工士气
     satisfying/stimulating/fascinating                  令人满意的 
     dull/boring/uninteresting/simulating                无聊的 
     repetitive/routine                                  重复的 
@@ -127,17 +158,23 @@
     entrepreneur spirit                                  事业心 
 
 ## 工作考核
+    verify suitability                                    考核适应度
     performance                  n. 进行，表现工作情况（业绩表现，薪资福利这部分中讲过）
-    performance appraisal                                 n. 工作情况评估
     perform                                               v. 表现，执行
-    benchmark                                             n. 衡量标准  
+    appraise/assess/evaluate/measure                      评估
+    staff performance appraisal                           n. 员工业绩评估
+    benchmark                                             n. 衡量标准 
+    appraisal scheme                                      评估方案
+    key performance appraisal(KPI)                        关键绩效指标
     monitor staff performance                             监管员工表现
+    
     SWOT analysis                                    n. 项目的优点、弱点、机会和风险
     track record                                          n. 追踪记录，业绩
     （具体指个人或团队在某方面取得的成就记录，中高级中都是高频词）
-    verify suitability                                    考核适应度
     people cost review                                    人力成本评述
-
+    encouraging policy                                    鼓励性政策
+    financial incentive                                   经济刺激
+    motivate them and boost the morale                    提升士气
 
 ## 辞职
     absenteeism                                           n. （经常性）旷工，旷职 
@@ -149,6 +186,8 @@
     hand in one's notice                                  递交辞呈 
     resign                                                v. 放弃，辞职
     resignation                                           n. 辞职，辞职信
+    voluntary redundancy                                  自愿离职
+    job hopping                                           跳槽
 
 ## 辞退
     unemployment n. 失业
@@ -158,10 +197,13 @@
     lay-off/layoff                                       n./v. 临时解雇 
     redundant                                            adj. 过多的，被解雇的
     redundancy                                           n. 裁员，解雇
+    compulsory redundancy                                强制裁员
     sack                                                 v. 解雇
     streamline                                           v. 精简机构，提高效率
     turnover                                         n. 营业额/员工流动的比率
-    staff turnover                                   人员换手率
+    staff turnover                                        员工流动率
+    rentention rate                                       员工保留率
+    
 
 
 
