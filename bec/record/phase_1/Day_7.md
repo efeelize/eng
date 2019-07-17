@@ -13,6 +13,10 @@
     competition                                                   n.竞争
     competitive                                                   adj.有竞争力的
     competitor                                                    n.竞争对手
+    
+    collaborative                                                 adj.
+    collaborate                                                   v.
+    collaboration                                                 n.
 
 # 2.phrase
     logistics strategy                                             物流战略
