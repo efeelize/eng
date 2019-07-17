@@ -164,6 +164,7 @@
     parent company                                    n. 母公司，总公司 
     Subsidiary                                        n. 子公司
     （Subsidiary指规模较大的分公司，branch指规模较小的分公司，尤其像银行的支行之类）
+    management buyout(MBO)                            管理层收购
 
 ## 破产清算
     business recovery                                 业务重整 
