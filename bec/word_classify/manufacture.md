@@ -337,7 +337,7 @@
      （可指一种产品定价法，请联系上课讲的PSP案例）
       market trend                                 市场趋势
 
-## 市场划分
+## 市场
      attract  other domestic market segments        吸引国内其他细分市场
      niche market                                   n. 专业市场，细分市场 
      emerging market                                新兴市场
@@ -358,6 +358,7 @@
      down market（=low-end market)                  n./adj.低档商品市场
      up market（=high-end market）                  n./adj. 高档商品市场
      saturation                                     n. （市场的）饱和（状态）
+     insufficient marketing                         营销不足
      saturate                                       v. 饱和
      market foreclosure                             市场封杀 
 
