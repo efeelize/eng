@@ -17,10 +17,11 @@
      manufactureing capacity                       生产能力
      manufactureing efficiency                     生产效率
      manufactureing plant                          制造厂
-     premises                                      厂房
+     automate the production process               自动化生产过程
 
     throughput                                      n. 工厂的总产量 
     layout                                          n. 工厂的布局
+    premises                                        厂房
     depot                                           n. 仓库
     warehouse                                       n. 仓库
     floor shop                                      n. 车间
@@ -28,6 +29,10 @@
     assembly-line                                   n. 装配线，流水作业线
     line process                                    流水线（组装）
     intermittent production                         n. 阶段性生产
+    production premises                             生产场所
+    existing premises                               当前的场所
+    relocation                                      搬迁
+    industrial park                                 工业园区
 
     make                                            n. 产品的牌子或型号
     sample order                                    照样品订货 
@@ -43,7 +48,14 @@
     alter/modify/revise                             修改
     fault/defect rate                               残次品比率
     warranty                                        保修期
-
+    
+    source of raw material                          原材料的来源
+    fossil fuel                                     化石燃料
+    remote area                                     遥远地区
+    have access to natural resources                获得自然资源
+    exploit overexploit                             过度利用
+    sustainable development                         可持续发展
+   
 ## 3）产量
     capacity                                        n. 生产额，（最大）产量
     the lion’s share                                最大份额 
@@ -53,7 +65,7 @@
     input                                           n. 投入
     interim                                         n. 中期，过渡期间
     delivery cycle                                  n. 交货周期
-
+   
 ## 4）质量
     four P's                   
     产品PRODUCT、价格PRICE、地点PLACE、促销PROMOTION 
@@ -111,6 +123,7 @@
      purchasing/procurement                         采购
      purchasing agent                             采购（进货）人员 
      supply chain management                        供应链管理
+     compentent supplier                            合格的供应商
      source of raw material                         原材料的来源
      
 ## 8）进度
@@ -204,8 +217,6 @@
      sepcific and long-term objectives              具体和长期的目标
      ambitious business objectives                  宏伟的商业目标
      
-     
-
 ## 品牌
      brand leader                                  n. 占市场最大份额的品牌，名牌
      brand loyalty                                 n. （消费者对品牌的忠实）
@@ -223,7 +234,12 @@
      build potential contacts/customers             建立潜在客户
      positive/negative feedback                     积极/消极反馈
      generate feedback                              产生反馈
-
+     foster customer loyalty                        培养客户忠诚度
+     
+     choice of counsumers                
+     preference of consumers                        消费者喜好
+     feedback form                                  反馈表
+     
 # 销售
      trade                                            n./v. 商业，生意；交易，经商
      transaction                                      n. 交易，业务
@@ -269,6 +285,11 @@
      bargain books                                  特价图书 
      business jargon                                商业行话 
      green grocery                                  蔬菜水果店 
+     
+     complimentary                                  免费的、赠送的
+     freebie                                        免费赠品
+     cover price                                    定价
+     sell below  cost                               亏本出售
 
 ## 经销
      franchise               /'fræn(t)ʃaɪz/        n. 特许经销权 
@@ -305,7 +326,6 @@
      silde                                         幻灯片
      lecture                                       演讲者
      
-
 # PART III 市场
 ## 价格
      knockdown                                     adj. （价格）很低的
@@ -318,7 +338,9 @@
       market trend                                 市场趋势
 
 ## 市场划分
-     niche market                                   n. 专业市场，细分市场 
+     attract  other domestic market segments        吸引国内其他细分市场
+     niche market                                   n. 专业市场，细分市场 
+     emerging market                                新兴市场
      segment                                        n. 部分
                                                     v. 将市场划分成不同的部分  
      market segmentation                            市场划分
@@ -394,6 +416,7 @@
      risk evaluation                                风险评估
      wise/sensible/rational investment              合理的投资
      return on capital/investment                   资本回报/投资回报率
+     far-sighted strategy                           有远见的策略   
 
      venture capital                                风险投资
      venture capitalism                             风险投资主义
