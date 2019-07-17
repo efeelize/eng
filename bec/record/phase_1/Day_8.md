@@ -40,41 +40,44 @@
     safety notice             安全告示
     shop floor     (总称)工人
     boardroom       （总称）董事会
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
 
 # 3.topic:business ethics
-## PART I.
-## PART II.
+## PART I.usual unethical behaviour
+- fraud
+- tax-avoidance cheating
+- lying
+- corrupt practices like offering
+- taking bribery
+- secret commissions,insider trading
+
+## PART II.measuring corporate performance
+### importance
+- is an important tool for companies striving for long-term prospects and growth.
+- their decisions can affect society,and they have responsibility to their 
+customers,employees,stockholders and creditors.
+- without intergrity,a company can not possibly gain the trust of 
+customers,clients and the public.
+- any company without a coherent ethics policy can not possibly survive,they
+would certainly lose their competitive advantage to their rivals.
+- if companies ingore moral concerns,violate laws,or act unethically,they can 
+not possibly survieve,let alone making any profit.
+- place a high priority on ethics can turn out to be good for business.
+
+### how
+- minimise waste in their operations 
+- efficient managemnet of resources.
+- establish a specific code of business ethics and responsibilities sets 
+guidelines for business activities.
+- re-examine the safety of product
+
 ## PART III.
 - place a high priority on...   对...高度重视
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- is not just a case of looking at XXX...
+- we should also evaluate it in terms of its XXX.
+- the issue of XXX should be put into ...for all employees,from the shop floor to the boardroom.
+- they should be concerned with...
+- ...were faced with a dilemma:should they...,or should they...
+- first and foremost...
 
 
 

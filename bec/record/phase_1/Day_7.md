@@ -33,17 +33,51 @@
     cultural taboo                                                 文化禁忌
     physical distribution （PD）                                    销售物流
 
-# 3.topic
-## PART I.
+# 3.topic:logistics
 ## PART II.
 ### customer service levels
+#### importance
+- customer service is the most important output of an organisation's logistics system.
+- logistics aim to improve the efficiency of materials management and physical 
+distribution,and deals with customer satisfaction.
+- improve their operational efficiency
+
+#### how
+- regualr conduct customer satisfaction surveys to get necessary feedback on their sevices.
+- implement a system to monitor the performance of their employees
+- reward outstanding performers to maintain high level customer service.
+- design the logistics system necessary to deliver the required level of service.
+
 ### information management
+#### importance
+- tracking product flow through the logistics pipelines.
+- descision can not be made without having appropriate information 
 
-## PART III.
+#### how
+- designing and implementing information systems to support the logistics network.
+
+## PART III.culture issues
+### importance
+- culture differences can add layers of chanllenges to global logistics and 
+supply chain management.
+- the culture make-up of the customers that comprise the market.
+- interpreting business relationship with people from different backgrounds.
+- understaning the need of customers in each market.
+- understand differences can enhance mutual trust.
+- be more prepared for any possible difficulties and would certainly become
+globally competent.
+
+### how
+- training programme on promoting the global mindset.
+- being open-minded and tolerant of a different culture.
+- acquaint logistics professionals with differnences in language,laws and social customs.
+
+### sentence.
+- so a basic definition of logistics is ...
+- these concepts apply equally well to...这些理念同样适用于...
+- ...are much more concerned with the...
+- some view xxx as ...
+- ... naturally...   当然
+-  XXX are faced with the challeng to...
 
 
-
-
-
-
-# 3.topic
