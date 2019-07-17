@@ -7,6 +7,9 @@
         liquid assets                              n. 速动资产
         tangible assets                            n. 有形资产
         risk capital                               n. 风险资本
+        return on assets                           资产回报
+        asset value                                资产价值
+        main asset                                 主要资产
 ## 负债 
         liability                                  n. 负债 
         balance sheet                              n. 资产负债表
@@ -93,6 +96,8 @@
         （注意profit一次，常考，尤其高级，对照高级配伍题损益表笔记）
         operations chart                             n. 经营（管理）表
         operations scheduling                        n. 生产经营进度表
+        profit and loss account/income statement     损益表
+        financial sheet                              资产负债表
 
         endorse                                      v. 背书，接受
         guarantee                                    n. 保证，保单
