@@ -31,6 +31,7 @@
     order processing                                               订单处理
     social values                                                  社会价值观
     cultural taboo                                                 文化禁忌
+    physical distribution （PD）                                    销售物流
 
 # 3.topic
 ## PART I.
