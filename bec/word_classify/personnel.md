@@ -39,13 +39,20 @@
     take on                                               雇用
     induction                                             n. 就职
     temporary post                                        临时职位
-    trail appointment                                    试任职位 
+    trail appointment                                     试任职位 
+    temporary contract temp                               临时雇员
     probation                                             n. 试用期
     internship                                            实习
     
+    mentoring scheme for new recruits                     给新员工的知道方案
+    training scheme                                       培训方案
+    launch/implement a scheme                             推出/实施计划
     staff training                                        人员培训
-    in-house training                                     内部培训 
+    in-house training/internal training                   内部培训 
+    off-the-job training/external training                外部培训
+    web-based training                                    网上培训
     orientation/induction training                        岗前培训
+    sexual harassment training                            防止骚扰培训
     trainee                                               n. 受培训者
     seminar/workshop                                      研讨会
     session                                               一次培训课
@@ -84,18 +91,26 @@
     regular bonus                                         常规监禁
     quarterly/annual bonus                                季度/年终奖金
     bonus                                                 奖金、分红
+    generate revenue                                      产生收入
+    increase revenue                                      增加收入
 
     benefit                                              n. 利益，补助金，保险金得益
     overtime                                              n. 加班；加班费
     pension                                               n. 养老金，退休金
+    early retirement scheme                               提前退休方案
+    scheme of raising retirement age                      迟延退休方案
+    pension gap                                           养老金缺口
     unemployment insurance funds                          n.失业保障金 
+    housin fund                                           住房公积金
     perk                                            n. 额外待遇（交通、保健、保险等）
     fringe benefits                                       n. 附加福利
     sickness benefit                                      n. 疾病补助费
     unemployment benefit                                  n. 失业津贴
     paid holiday                                          带薪休假
-    holiday entitlement
-
+    expenses claim form                                   报销申请表
+    holiday entitlement                                    休假的权利
+    reimburse/reimbursement                                报销
+    
     wage                                                  n. （英）周薪；（美）时薪
     wage freeze                                           n. 工资冻结           
     petty cash                                            n. 零用现金
@@ -177,8 +192,10 @@
     source of confidence                                自信的来源
     sense of achievement/accomplishment                 成就感
     overcome/conquer the challenge/obstacle/barrier     克服挑战
+    self-improvement                                    自我提高
+    predict the trend of your career field              预测自己职业领域的趋势
+    high-profile                                        高姿态的
     
-
     working conditions                 n. 工作条件（或者可以说working environment）
     work-in-progress                                     n. 工作过程
     workload                                             n. 工作量（中级配伍题考过）
@@ -186,12 +203,18 @@
     quality time                                  黄金时光（跟家人，朋友在一起的时间）
     entrepreneur spirit                                  事业心 
 
+     transport vehicle                                   交通工具
+     shuttle bus                                         短距离之间往返的交通车
+     regular bus                                         班车
+     commuting time                                      通勤时间
+
 ## 工作考核
     verify suitability                                    考核适应度
     performance                  n. 进行，表现工作情况（业绩表现，薪资福利这部分中讲过）
     perform                                               v. 表现，执行
     appraise/assess/evaluate/measure                      评估
     staff performance appraisal                           n. 员工业绩评估
+    conduct regular performance reviews with all staff    对所有员工定期进行业绩审查
     benchmark                                             n. 衡量标准 
     appraisal scheme                                      评估方案
     key performance appraisal(KPI)                        关键绩效指标
@@ -220,8 +243,8 @@
     job hopping                                           跳槽
 
 ## 辞退
-    unemployment n. 失业
-    unemployment rate失业率
+    unemployment                                         n. 失业
+    unemployment rate                                    失业率
     dismiss                               v. 让......离开，开除（高级听力配伍题考过）
     dismissal                                            n. 开除
     lay-off/layoff                                       n./v. 临时解雇 
