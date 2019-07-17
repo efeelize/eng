@@ -31,6 +31,16 @@
 ## PART II.
 ## PART III.
 - exert positive/negative/profound/significant influence on...
+- attach great importance to ...重视
+- 
+
+# 4.extra topic：bankrupt
+- don't understand the national related policy and the law will be the biggest risk of 
+the enterprise
+- startup investment must be carefully analysed.
+- enterprise survival is the purpose of the pursuit of profit rather than the pursuit of scale.
+- business success not only depend on the boss a person
+- no employee training as a coherent and long-term business strategy.
 
 
 
