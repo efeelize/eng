@@ -20,9 +20,14 @@
     manpower                                              n. 劳动力
     manpower resources                                    n. 劳动力资源
     business process outsourcing(BPO)                     外包
+    transfers                                             人员调动
+    employee referrals                                    人员推荐
      
     channel/source                                        来源、渠道
     internal referral                                     内推
+    internal recruitment                                  内部招聘
+    external recruitment                                  外部招聘
+    job posting and bidding                               工作招标
     job fair                                              招聘会
     online recruitment                                    在线招聘
     job description (JD)                                  职业描述
@@ -33,6 +38,12 @@
     diploma                                               文凭
     job specification                                     任职资格
     
+    paper-and-pencil test                                 笔试
+    interview                                             面试
+    mental ability test                                   心理测试
+    structural interview                                  结构化面试
+    behavioral description interview                      行为说明面试
+    panel interview                                       小组面试
 
 ## 入职
     new blood/new recruits                                新员工
