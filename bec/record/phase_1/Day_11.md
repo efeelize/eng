@@ -1,79 +1,86 @@
 # Day_11
 > 口语 2.3 
 # 1.words
-    demotion               /ˌdi:'məuʃən/       n. 降级；降等；降职
-    disablity                                  n. 限制、不利条件
-    empowerment                                n. 授权
-    flounder               /'flaʊndə/          v.因糊涂犯错误
-    protean                /prəuˈti:ən/        adj. 变化多端的,能扮演多种角色的
-    perceive               /pə'siːv/           vt. 察觉，感觉；理解；认知
-    proactive              /prəʊ'æktɪv/        adj.积极主动的
-    spur                   /spɜː/              vt. 激励，鞭策
-    sibling                /'sɪblɪŋ/           n. 兄弟姊妹；民族成员
-    transformative                             adj. 变化的，变形的；有改革能力的
+    demotion                     /ˌdi:'məuʃən/                 n. 降级；降等；降职
+    disablity                                                  n. 限制、不利条件
+    empowerment                                                n. 授权
+    flounder                     /'flaʊndə/                    v.因糊涂犯错误
+    protean                      /prəuˈti:ən/                  adj. 变化多端的,能扮演多种角色的
+    perceive                     /pə'siːv/                     vt. 察觉，感觉；理解；认知
+    proactive                   /prəʊ'æktɪv/                   adj.积极主动的
+    spur                        /spɜː/                         vt. 激励，鞭策
+    sibling                     /'sɪblɪŋ/                       n. 兄弟姊妹；民族成员
+    transformative                                             adj. 变化的，变形的；有改革能力的
 
-        segmentation                            分割、切断
-        customisation                           量身定做
-        managerial
-        wedding
-        celebration
-        definitely
-        dealt
-        architect
-        chose
-        certainly
-        definitely
-        recommending
-        resentment
-        initiative
+    segmentation                                                n. 分割、切断
+    customisation/customization                                 n. 量身定做
+    managerial                                                  adj. 经理的;管理上的
 
+    certainly                                                   adv. 无疑地; 确定地
+    definitely                                                  adv. 明确地, 确切地
 
-        behave                                  v. 表现，运转
-        behavior                                n. 举止，行为，运转情况
+    initiative                   /ɪ'nɪʃɪətɪv/                   n. 主动性, 首创精神
+    initiatively                                                adv.初步地;首创地
 
-       vocation                                 n. 行业，职业
-       vocational                               adj. 行业的，职业的 
+    architect                                                   n. 建筑师, 设计师
+    architectural                                               adj.建筑学的
+    architecture                                                n.建筑学
 
-       reduce                                   v. 减少
-       reduction                                n. 减少
+    behave                                                      v. 表现，运转
+    behavior                                                    n. 举止，行为，运转情况
+
+    vocation                                                    n. 行业，职业
+    vocational                                                  adj. 行业的，职业的 
+
+    reduce                                                      v. 减少
+    reduction                                                   n. 减少
  
-### 颜色
-        black                                   adj. 违法的
-        in the black                            有盈余，贷方
-        in the red                              赤字，负债
-        black list                            黑名单，禁止贸易的（货物公司及个人）名单
-        black Monday                 n. 黑色星期一，指1987年10月国际股票市场崩溃的日子
-        white-collar                            白领阶层
-        white goods                            n. 如冰箱和洗衣机等用在厨房中的产品
-        manual                                 adj. 体力的，人工的，蓝领的
-        bule-collar                            adj. 蓝领（工人）的
+## 颜色
+    black                                                       adj. 违法的
+    in the black                                                有盈余，贷方
+    in the red                                                  赤字，负债
+    black list                                                   黑名单，禁止贸易的（货物公司及个人）名单
+    black Monday                                                n. 黑色星期一，指1987年10月国际股票市场崩溃的日子
+    white-collar                  /'kɒlə/                       白领阶层
+    white goods                                                 n. 如冰箱和洗衣机等用在厨房中的产品
+    manual                                                      adj. 体力的，人工的，蓝领的
+    bule-collar                                                 adj. 蓝领（工人）的
 
-### 图表
-        pie chart                               n. 饼形图
-        bar chart                               n. 条形图，柱状图
-      （结合写作中图表题进行理解）
-        plot                                    v. 标绘，策划
-        organ gram                              n. 组织图
-        organization chart                      n. 公司组织机构图
+## 图表
+    pie chart                                                   n. 饼形图
+    bar chart                                                   n. 条形图，柱状图
+    （结合写作中图表题进行理解）
+    plot                         /plɒt/                         v. 标绘，策划
+    organ gram                                                  n. 组织图
+    organization chart                                          n. 公司组织机构图
 
-### 代理
-        broker                                  n. 经纪人，代理人
-        acting                                  adj. 代理的     
-        agent                                   n. 代理人，经纪人
-        deputy                             n. 代理人，副职，代理（高级题目里考得较多）
-        client                                  n. 委托人，顾客
-        commission                              n. 佣金
-        commitment                              n. 承诺
-        represent                               v. 代表，代理
-        representative n. 代理人，代表
+## 代理
+    broker                                                      n. 经纪人，代理人
+    acting                                                      adj. 代理的     
+    agent                                                       n. 代理人，经纪人
+    deputy                                                      n. 代理人，副职，代理（高级题目里考得较多）
+    client                                                      n. 委托人，顾客
+    commission                                                  n. 佣金
+    commitment                                                  n. 承诺
+    represent                                                   v. 代表，代理
+    representative                                              n. 代理人，代表
 
-
+## 价格、价值
+    appraisal                     /ə'preɪz(ə)l/                 n. 估量，估价
+    assess                                                      v. 评定，估价
+    estimated demand                                            n. 估计需求
+    evaluate                                                    v. 估价，评价
+    value                                                       n./v. 价值，估价
+    valuation                                                   n. 价值
+    value-added                                                 n. 增加值
+    accruals                        /ə'kru:əlz/                 n. 增值，应计
+    appreciate                                                  v. 增值
 
 # 2.phrase
-    fast-track                                 adj.最佳的、最优的
-    orgainsation man                           奋斗 X
-    place premium on      /'priːmɪəm/          高度重视、高度评价
-    succession planning                        继任计划
+    fast-track                                                 adj.最佳的、最优的
+    orgainsation man                                           奋斗 X
+    place premium on                /'priːmɪəm/                高度重视、高度评价
+    succession planning                                        继任计划
 
 # 3.topic:career development
 ## PART I.self-evaluation

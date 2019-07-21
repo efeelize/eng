@@ -1,96 +1,67 @@
 # Day_10
 > 口语 2.2
-
 # 1.words
-    benchmark                                             基准、标准尺度
-    benchmark interest rate                               基准利率
+    benchmark                      /'ben(t)ʃmɑːk/                n. 基准、标准尺度
+    benchmark interest rate                                      基准利率
 
-    eligible             /'elɪdʒɪb(ə)l/             adj.有资格当选的，有条件被选中的
-    eligibility                                           n. 适任,合格
-    qualification                             n. 合格证书;资格, 条件;限制, 限定性条件
+    eligible                       /'elɪdʒɪb(ə)l/                adj.有资格当选的，有条件被选中的
+    eligibility                                                  n. 适任,合格
+    qualification                                                n. 合格证书;资格, 条件;限制, 限定性条件
 
-    facilitate          /fə'sɪlɪteɪt/                  vt. 使便利, 减轻…的困难;帮助
-    facilitator                                           n. 服务商；促进者
+    facilitate                     /fə'sɪlɪteɪt/                 vt. 使便利, 减轻…的困难;帮助
+    facilitator                                                  n. 服务商；促进者
 
-    impartial            /ɪm'pɑːʃ(ə)l/                 不偏不倚的，公正的，无偏见的
-    momentum             /mə'mentəm/                    n. 动力；动量；冲力；势头
+    impartial                      /ɪm'pɑːʃ(ə)l/                 不偏不倚的，公正的，无偏见的
+    momentum                        /mə'mentəm/                  n. 动力；动量；冲力；势头
 
-    optimum              /'ɒptɪməm/                       n. 最佳效果；最适宜条件
-                                                          adj. 最适宜的
+    optimum                          /'ɒptɪməm/                  n. 最佳效果；最适宜条件
+                                                                 adj. 最适宜的
 
-    pilot                /'paɪlət/                        v. 驾驶；领航；试用
-                                                          adj. 试点的
+    pilot                           /'paɪlət/                    v. 驾驶；领航；试用
+                                                                 adj. 试点的
 
-    premises             /'premisiz/                      n. 房屋或其他建筑物  
-                                                          <律>(契约)前言
+    premises                        /'premisiz/                   n. 房屋或其他建筑物  
+                                                                  <律>(契约)前言
 
-    orientation          /ˌɔːrɪən'teɪʃ(ə)n/               n.新员工培训，迎新情况介绍
-    retention            /rɪ'tenʃ(ə)n/                    n.保留、保持
-
-### 价格、价值
-      appraisal              /ə'preɪz(ə)l/              n. 估量，估价
-      assess                                            v. 评定，估价
-      estimated demand                                  n. 估计需求
-      evaluate                                          v. 估价，评价
-      value                                             n./v. 价值，估价
-      valuation                                         n. 价值
-      value-added                                       n. 增加值
-      accruals              /ə'kru:əlz/                 n. 增值，应计
-      appreciate                                        v. 增值
-
-### ize
-      moderately                                        adv. 中等地，适度地
-      minimize                                          v. 使减至最小限度，最小化
-      maximise                                          v. 使增至最大限度、最大化
-      optimize                                          v. 优化
+    orientation                     /ˌɔːrɪən'teɪʃ(ə)n/            n.新员工培训，迎新情况介绍
+    retention                       /rɪ'tenʃ(ə)n/                 n.保留、保持
 
 # 2.phrase
-     knowledge,sklls and abilities（KSAs）                 知识、技能与能力
-     quality circle                                        质量研讨小组
-     visual aids                                           直观教具
+     knowledge,sklls and abilities（KSAs）                         知识、技能与能力
+     quality circle                                               质量研讨小组
+     visual aids                                                  直观教具
 
 # 3.top:employee training
 ## PART I. training 
 ### importance
-- bring someone or an organisation up to another threshold of performance.
-- performance appraisal indicates performance improvement is needed.
-- benchmark the status of improvement so far in a performance improvement effort.
-- as part of an overall professional development progarm.
-- as part of succession planning to help an employee be eligible for a planned change in role in the organisation.
-- test the operation of a new performance management system.
-- increase job satisfaction and morale amony emoloyees
-- increased employee motivation
-- increased efficiencies in processes,resulting in financial gain.
+- as part of succession planning to help an employee be eligible[/'elɪdʒɪb(ə)l/][adj. 有资格当选的] for a planned change in role in the organisation.
+- bring someone or an organisation up to another threshold[/'θreʃəʊld/] [喻〉开始]of performance.
 - increased capacity to adopt new technologies and methods.
+- increased efficiencies in processes,resulting in financial gain.
 - increased innovation in strategies an products.
-- reduced employee turnover.
 - handle new and more demanding assignments
 - manintain effective and satisfactory performance.
 
 ### how
 - eliminate environmental distractions,such as noise,poor lighting.
 > communications
-- the increasing diversity of today's workdorce brings a wide variety of 
-languages and customs.
+- the increasing diversity of today's workforce[n. 全体员工] brings a wide variety of languages and customs.
 > commputer skills
 - computer skills are necessity for conducting adminstrative and office tasks.
 > customer service
 - increased competition in today's global marketplace makes it critial that
 employees understand and meet the needs of customers.
-> diversity
-- diversity training usually includes explanation about how people have different perspectives and views,and includes enchniques to value 
-diversity.
 > ethics
 - today's society has increasing expectations about corporate social
 respnsiblity.also,today's diverse workforce brings a wide variety of values
-and morals to the workplace.
+and morals[/'mɒr(ə)l/] to the workplace.
 > human relations
 - the increased stressed of today's workplace can include 
-misumderstandings and conflict.training can make people get along in the 
+misunderstandings and conflict.training can make people get along in the 
 workplace.
 > quality initiatives
 - initiatives such as total quality management,quality 
-circles,benchmarking,etc,require basic training about quality,etc.
+circles,benchmarking,etc[/ɪt ˈsetərə/],require basic training about quality,etc.
 > safety
 - safety training is critical where working with heavy equipment,
 hazardous chemicals,repetitive activities,etc,but can also be useful with 
