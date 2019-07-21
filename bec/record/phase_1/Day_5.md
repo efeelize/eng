@@ -6,7 +6,7 @@
      field                                                              n. 办公室外边，具体业务
      file                                                               n. 文件集，卷宗，档案，文件
                                                                         v. 把文件（或资料）归档
-     flop                                          n. 失败
+     flop                           /flɒp/                              n. 失败
      gimmick                                       n. 好主意，好点子
      grapple with                                  v. 与......搏斗，尽力解决
      grievance                                     n. 申诉，抱怨
