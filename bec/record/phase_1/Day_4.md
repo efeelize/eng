@@ -1,6 +1,5 @@
 # Day_4
-> 真题 2 听力 test2part1/口语 1.4
-
+> 口语1.4
 # 1.words
     demodulated            /diː'mɒdjʊleɪt/                     adj. 消极的，冷谈的
     jurisdiction                                               n. 管辖（权）
