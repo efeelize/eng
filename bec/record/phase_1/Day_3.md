@@ -1,5 +1,5 @@
 # Day_3
-> vol2_test1_part3/口语 1.3
+> 口语 1.3
 # 1.word
     prognosis                 /prɒg'nəʊsɪs/                      n.预告、预言
     prognostication           /prɑɡ,nɑstɪ'keʃən/                 n. 预言
