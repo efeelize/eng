@@ -1,5 +1,5 @@
 # Day_9
-> 口语 2.1
+> 口语 2.1/vol2_test2
 # 1.words
      pertinent                  /'pɜːtɪnənt/                     adj. 相关的，有关系的
      
@@ -8,11 +8,49 @@
      underutilize               /ʌndə'juːtɪlaɪz/                 vt. 未充分使用
      woo                        /wuː/                            vt.争取，努力说服
 
-### ize
+## ize
       moderately                                        adv. 中等地，适度地
       minimize                                          v. 使减至最小限度，最小化
       maximise                                          v. 使增至最大限度、最大化
       optimize                                          v. 优化
+
+## part1
+      geographical
+      neighbouring
+      simplifying
+      exporter
+      keen
+      unreliability
+      promised
+      agencies
+      various
+      attending
+      contractors
+
+## part2
+      standard
+      shopfloor
+      facilities
+      operatives
+      shortfall
+      cateen
+      renegotiate
+      renewal
+      inevitably
+      waiters
+
+## part3
+      tiring
+      responsibility
+      natural
+      criteria
+      intelligent
+      definitely
+      situations
+      insights
+      alterations
+      conducting
+      simultaneously
 
 # 2.phrase
      cafeteria questionnaire    /kæfɪ'tɪərɪə//ˌkwestʃə'neə/      n. 调查表,问卷

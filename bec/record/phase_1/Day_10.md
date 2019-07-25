@@ -1,5 +1,5 @@
 # Day_10
-> 口语 2.2
+> 口语 2.2/vol2test3
 # 1.words
     benchmark                      /'ben(t)ʃmɑːk/                n. 基准、标准尺度
     benchmark interest rate                                      基准利率
@@ -25,6 +25,57 @@
 
     orientation                     /ˌɔːrɪən'teɪʃ(ə)n/            n.新员工培训，迎新情况介绍
     retention                       /rɪ'tenʃ(ə)n/                 n.保留、保持
+
+## part1
+    proud
+    multinational
+    procedures
+    given out over
+    coordinating
+    regional
+    obviously
+    available
+    organisation
+    ultimately
+    central committee
+    logistical
+    maximum 
+    representatives
+    panel 
+    instalments
+    all round
+    generally
+
+## part 2
+    frendliness
+    realised
+    responsibility
+    chaotic
+    effective
+    inability
+    outfit
+    particularly
+    failure
+    colleague
+    trundling alone
+    properly
+    investigate
+    dull
+    occasionally
+    whereas
+    equipped
+
+## part 3
+    executive 
+    panicked
+    reckon
+    niche
+    congratulations
+    resent
+    compaign
+    awareness
+    relatively
+    indealistic
 
 # 2.phrase
      knowledge,sklls and abilities（KSAs）                         知识、技能与能力
