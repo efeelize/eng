@@ -1,59 +1,58 @@
 # accountant
 ## 资产
-        current asset                              n. 流动资产
-        fixed asset                                n. 固定资产
-        frozen asset                               n. 冻结资产
-        intangible assets                          n. 无形资产
-        liquid assets                              n. 速动资产
-        tangible assets                            n. 有形资产
-        risk capital                               n. 风险资本
-        return on assets                           资产回报
-        asset value                                资产价值
-        main asset                                 主要资产
+        current asset                                                         n. 流动资产
+        fixed asset                                                           n. 固定资产
+        frozen asset                                                          n. 冻结资产
+        intangible assets                                                     n. 无形资产
+        liquid assets                                                         n. 速动资产
+        tangible assets                                                       n. 有形资产
+        risk capital                                                          n. 风险资本
+        return on assets                                                      资产回报
+        asset value                                                           资产价值
+        main asset                                                            主要资产
 ## 负债 
-        liability                                  n. 负债 
-        balance sheet                              n. 资产负债表
-        current liabilities                        n. 流动负债
-        bad debt                                   死账（无法收回的欠款）
-        bank statement                       n. 银行结算清单（给账户的）银行对账单
+        liability                                                             n. 负债 
+        balance sheet                                                         n. 资产负债表
+        current liabilities                                                   n. 流动负债
+        bad debt                                                              死账（无法收回的欠款）
+        bank statement                                                        n. 银行结算清单（给账户的）银行对账单
         中级配伍题考过，第二版教材TEST 1
-        balance sheet account                      资产负债表账户 
+        balance sheet account                                                 资产负债表账户 
 
-        balance                                    n. 收支差额，余额
-        balance of payments                        n. 贸易支付差额
+        balance                                                               n. 收支差额，余额
+        balance of payments                                                   n. 贸易支付差额
 
-        debtor                                     n. 债务人
-        aged debtors                               长期债务人
-        creditor                                   n. 债权人，贷方
+        debtor                                                                n. 债务人
+        aged debtors                                                          长期债务人
+        creditor                                                              n. 债权人，贷方
 
+        arrears                              /ə'rɪəz/                         n. 欠账
+        debit                                                                 n. 借方，欠的钱 
+                                                                              v. 记入帐户的借方
+        debt                                                                  n. 欠款，债务
+        liabilities                                                           n. 债务
+        to get into debt                                                      负债
+        to be out of debt                                                     不欠债
+        to pay off a debt                                                     还清债务
+        insolvent                            /ɪn'sɒlv(ə)nt/                   adj. 无清偿力的
+        creditworthiness                                                      n. 信贷价值，信贷信用
 
-        arrears                                    n. 欠账
-        debit                                      n. 借方，欠的钱 
-                                                   v. 记入帐户的借方
-        debt                                       n. 欠款，债务
-        liabilities                                n. 债务
-        to get into debt                           负债
-        to be out of debt                          不欠债
-        to pay off a debt                          还清债务
-        insolvent                                  adj. 无清偿力的
-        creditworthiness                           n. 信贷价值，信贷信用
+        default                                                               n. 违约，未履行
+        defect                                                                n. 缺陷
+        defective                                                             adj. 有缺点的
+        write off                                                             v. 取消
+        write-off                                                             n. 债务的取消
 
-        default                                    n. 违约，未履行
-        defect                                     n. 缺陷
-        defective                                  adj. 有缺点的
-        write off                                  v. 取消
-        write-off                                  n. 债务的取消
-
-        indemnity                                  n. 偿还，赔偿
-        refund                                     n./v. 归还，偿还
-        reimburse                                  v. 偿还，报销
+        indemnity                            /ɪn'demnɪtɪ/                     n. 偿还，赔偿
+        refund                                                                n./v. 归还，偿还
+        reimburse                            /ˌriːɪm'bɜːs/                    v. 偿还，报销
 
 ## 现金流
-        cash                                       n. 现金，现付款 v. 兑现
-        cash flow                                  n. 现金流量
-        case study                                 n. 案例分析
+        cash                                                                  n. 现金，现付款 v. 兑现
+        cash flow                                                             n. 现金流量
+        case study                                                            n. 案例分析
 ## 成本
-        fixed costs                                  固定成本
+        fixed costs                                                           固定成本
         variable costs                               可变成本
         unit cost                                    n. 单位成本
         overhead costs                               n. 营业成本
