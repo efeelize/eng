@@ -27,60 +27,78 @@
     retention                       /rɪ'tenʃ(ə)n/                 n.保留、保持
 
 ## part1
-    proud
-    multinational
-    procedures
-    given out over
-    coordinating
-    regional
-    obviously
-    available
-    organisation
-    ultimately
-    central committee
-    logistical
-    maximum 
-    representatives
-    panel 
-    instalments
-    all round
-    generally
+    proud                           /praʊd/
+    multinational                   /mʌltɪ'næʃ(ə)n(ə)l/          adj. 多国的
+                                                                 n. 跨国公司
+    procedures                      /prə'sidʒɚ/                  n. 程序；规程
+    given out over                                               通过
+    coordinating                    /kəuˈɔ:dineit/               vt. 使协调; 使调和
+                                                                 adj.同等的,并列的
 
+    regional                        /ˈri:dʒənəl/                 adj. 地区的；整个地区的；局部的
+    territorial                     /ˌterɪ'tɔːrɪəl/              adj. 土地的;领地的;属地的
+
+    obviously                      /ˈɔbvɪəslɪ/
+    available                      /ə'veɪləb(ə)l/
+    organisation                   /ˌɔ:ɡənai'zeiʃən/
+    ultimately                     /'ʌltɪmətlɪ/
+    central committee              /kə'mɪtɪ/
+    logistics                      /lə'dʒɪstɪks/
+    maximum                        /'mæksɪməm/
+    representatives                /reprɪ'zentətɪv/
+    panel                          /'pæn(ə)l/                    n. 仪表板；嵌板；座谈小组，全体陪审员
+                                                                 vt. 嵌镶板
+    instalments                    /in'stɔ:lmənt/                n. 一部分; 一集
+                                                        每一期摊付的款项, 分期付款
+    all round                                                    周围，到处
+    generally                      /'dʒen(ə)rəlɪ/                adv. 一般地, 通常, 大体上, 广泛地, 普遍地
 ## part 2
     frendliness
-    realised
-    responsibility
-    chaotic
-    effective
-    inability
-    outfit
-    particularly
-    failure
-    colleague
-    trundling alone
-    properly
-    investigate
-    dull
-    occasionally
-    whereas
-    equipped
+    chaotic                        /keɪ'ɒtɪk/                    adj. 混乱的，无秩序的；混沌的
+    effective                      /ɪ'fektɪv/                    adj. 有效的; 生效的;事实上的, 实际的
+    inability                      /ɪnə'bɪlɪtɪ/                  n. 无能,无力
+    outfit                         /'aʊtfɪt/                     n. 全套装备
+    particularly                   /pə'tɪkjʊləlɪ/                adv. 特别; 尤其
+    failure                        /'feɪljə/                     n. 失败；故障；失败者；破产
+    colleague                      /'kɒliːg/                     n. 同事, 同僚
+    trundling alone                /'trʌnd(ə)l/                  独自慢慢行驶
+    properly                       /ˈprɔpəlɪ/                    adv. 适当地；正确地；恰当地
+
+    investigate                    /ɪn'vestɪgeɪt/
+    指为发现事实真相或了解掌握情况而进行深入细致的现场考察。
+    examine
+    最普通用词，可指粗略地查看，也可指仔细观察或调查以确定事物的性质、功能、特点等。
+    inspect
+    侧重按一定质量标准检查某物，找出不足或不同之处。
+    scan
+    原义是仔细地检查分析，现用于指细看或浏览。
+
+    dull                           /dʌl/                        adj. 钝的；呆滞的；
+                                                                vi. 变迟钝；减少
+    occasionally                   /ə'keɪʒ(ə)n(ə)lɪ/            adv. 偶尔,间或
+    whereas                        /weər'æz/                    conj. 但是, 而
+    equipped                       /i'kwipt/
 
 ## part 3
-    executive 
-    panicked
-    reckon
-    niche
-    congratulations
-    resent
+    executive                      /ɪg'zekjʊtɪv/                n. 主管, 高级行政人员, 执行官
+                                                                adj.执行的,行政的;有行政能力的
+    panicked                       /ˈpænik/                     n. 恐慌，惊慌
+                                                                adj. 恐慌的；
+                                                                vt. 使恐慌
+    reckon                         /'rek(ə)n/                   vt. 猜想; 估计
+    niche                          /niːʃ/                       n.壁龛；合适的职业
+                                                                vt. 放入壁龛
+    congratulations                /kən'grætjʊleɪt/
+    resent                         /rɪ'zent/                    vt. 对…感到愤怒
     compaign
-    awareness
-    relatively
-    indealistic
+    awareness                      /ə'wɛənis/
+    relatively                     /'relətɪvlɪ/                 adv. 相对地,比较而言;相当
+    idealistic                     /ˌaɪdɪə'lɪstɪk/              adj. 有理想的
 
 # 2.phrase
-     knowledge,sklls and abilities（KSAs）                         知识、技能与能力
-     quality circle                                               质量研讨小组
-     visual aids                                                  直观教具
+     knowledge,sklls and abilities（KSAs）                        知识、技能与能力
+     quality circle                                              质量研讨小组
+     visual aids                                                 直观教具
 
 # 3.top:employee training
 ## PART I. training 
