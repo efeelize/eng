@@ -19,10 +19,16 @@
                                                                     n.针尖；精确位置；极小之物
     accommodate                                                     v.使符合
     trunover                                                        n.营业额
+    preeminent                        /prɪ'emɪnənt/                 adj. 卓越的；超群的
+    synthesize                        /ˈsɪnθɪˌsaɪz/                vt. 综合, 使合成
+    craves                            /kreɪv/                      vt. 恳求；渴望
+    polar opposite                    /'pəʊlə/                     正好相反的
+    thwarted                          /θwɔːt/                      adj. 横放的；固执的;受挫
 
     elusive                           /ɪ'l(j)uːsɪv/                 adj. 难以捉摸的;难以找到的;不易记住的 
     elusion                           /ɪ'ljuːʒən/                   n.逃避；回避
     elusiveness                       /ɪ'l(j)uːsɪv/                 n.狡诈；易闪避；飘忽不定；巧妙逃避
+    cozy                              /ˈkəuzi/                      adj. 舒适的，惬意的
 # 2.phrase
     a double-track wage system                                      双轨工资制
     on the side                                                     (口)兼职
@@ -34,10 +40,50 @@
     variable pay                                                    浮动工资
 
 # 3.topic:staff motivation
-## PART I.
+## PART I.contribute to the work efficiency
+### variable pay
+- based entirely on a pay-for-performance philosophy
+- bring pressure and stress to employees to work harder for the organisational performance and success.
+- encourage employees to devote themselves to the organisational development
+- help recruit and retain competent employees.
 
+### commission plan
+- provide maximum incentive,exerting sufficient effort in maximizing their sales volume/'vɒljuːm/
 
-## PART II.
+### straight piece work
+- employees tend to work harder and quicker for larger amount of products for they receive a certain rate for each unit produced.
 
+### stock options
+- their fortune /'fɔːtʃuːn/ will rise and fall with the value they create for shareholders.
+- linking their efforts to the long-term stock performance
+- motivating them to develop and use their abilities and contribute their energies to the fullest possible extent.
+
+### prerequisite /priː'rekwɪzɪt/ or special benefits
+- can be used as a means of demonstrating the executives'improtance to the organisation while giving them an incentive to improve their performance.
+- perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside the company and provide a tax saving to the executives.
+
+### profit sharing
+- give our engineers opportunity to increase their earnings by improving product quality
+- reducing operating costs and improving work methods 
+- encourge greater levels of individual performance 
+- stimulate them to think and feel more like partners in the companies and boost morale.
+
+### how
+- training can help them to keep up with the latest developments
+- always maintain their edge over others and keep on being the best.
+- public praise /preɪz/ can be a supplementary means of motivation
+- public recognition /rekəg'nɪʃ(ə)n/ brings along the honor and a sense of satisfaction.
 
 ## PART III.
+### sentence
+- in today's uncertain and turbulent business climate,...is an especially useful tool
+s
+
+
+
+
+
+
+
+
+
