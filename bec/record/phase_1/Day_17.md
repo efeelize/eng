@@ -33,9 +33,10 @@
 ### subordinate assessments
 - provide valuable development guidance
 - praticularly effective in evaluating the supervisor /'suːpəvaɪzə/'s interpersonal skills.
-
 ### peer feedback
-- fellow employee often see different dimensions of performance and can readily identify leadership and interpersonal skills along with other strengths and weakness of their co-workers.
+- fellow employee often see different dimensions of performance and can readily 
+identify leadership and interpersonal skills along with other strengths and weakness 
+of their co-workers.
 - funish more accurate and vaild information than appraisals by superiors /suː'pɪərɪə/
 - be the heart of excellent in teamwork
 
