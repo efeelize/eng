@@ -4,7 +4,7 @@
     anchor                            /'æŋkə/
     boost                             /buːst/                       vt. 促进；增加；支援
     bottleneck                                                      n.瓶颈、阻碍进展的人
-    bottom-line                                                     adj.基本的，实际的，现实的，只关注成本的
+    bottom-line                                               adj.基本的，实际的，现实的，只关注成本的
     comparable                                                      adj.类似的
     chauffeur                         /'ʃəʊfə/                      n. 受雇于人的汽车司机
     commission                        /kə'mɪʃ(ə)n/                  n.佣金
@@ -25,16 +25,16 @@
     polar opposite                    /'pəʊlə/                     正好相反的
     thwarted                          /θwɔːt/                      adj. 横放的；固执的;受挫
 
-    elusive                           /ɪ'l(j)uːsɪv/                 adj. 难以捉摸的;难以找到的;不易记住的 
+    elusive                           /ɪ'l(j)uːsɪv/            adj. 难以捉摸的;难以找到的;不易记住的 
     elusion                           /ɪ'ljuːʒən/                   n.逃避；回避
-    elusiveness                       /ɪ'l(j)uːsɪv/                 n.狡诈；易闪避；飘忽不定；巧妙逃避
+    elusiveness                       /ɪ'l(j)uːsɪv/            n.狡诈；易闪避；飘忽不定；巧妙逃避
     cozy                              /ˈkəuzi/                      adj. 舒适的，惬意的
 # 2.phrase
     a double-track wage system                                      双轨工资制
     on the side                                                     (口)兼职
     pay-for-performance                                             绩效哲学
     piece concession                                                让步
-    professional talents                                         专业人才，专业人士
+    professional talents                                            专业人才，专业人士
     have a stake in                   /steɪk/                       与…利害攸关 
     stock option                                                    股票期权
     variable pay                                                    浮动工资
@@ -43,7 +43,8 @@
 ## PART I.contribute to the work efficiency
 ### variable pay
 - based entirely on a pay-for-performance philosophy
-- bring pressure and stress to employees to work harder for the organisational performance and success.
+- bring pressure and stress to employees to work harder for the organisational
+performance and success.
 - encourage employees to devote themselves to the organisational development
 - help recruit and retain competent employees.
 
@@ -51,16 +52,20 @@
 - provide maximum incentive,exerting sufficient effort in maximizing their sales volume/'vɒljuːm/
 
 ### straight piece work
-- employees tend to work harder and quicker for larger amount of products for they receive a certain rate for each unit produced.
+- employees tend to work harder and quicker for larger amount of products for they receive 
+a certain rate for each unit produced.
 
 ### stock options
 - their fortune /'fɔːtʃuːn/ will rise and fall with the value they create for shareholders.
 - linking their efforts to the long-term stock performance
-- motivating them to develop and use their abilities and contribute their energies to the fullest possible extent.
+- motivating them to develop and use their abilities and contribute their energies to the
+fullest possible extent.
 
 ### prerequisite /priː'rekwɪzɪt/ or special benefits
-- can be used as a means of demonstrating the executives'improtance to the organisation while giving them an incentive to improve their performance.
-- perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside the company and provide a tax saving to the executives.
+- can be used as a means of demonstrating the executives'improtance to the organisation while 
+giving them an incentive to improve their performance.
+- perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside the company 
+and provide a tax saving to the executives.
 
 ### profit sharing
 - give our engineers opportunity to increase their earnings by improving product quality
@@ -76,8 +81,7 @@
 
 ## PART III.
 ### sentence
-- in today's uncertain and turbulent business climate,...is an especially useful tool
-s
+- in today's uncertain and turbulent business climate,...is an especially useful tools
 
 
 
