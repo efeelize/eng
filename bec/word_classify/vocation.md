@@ -12,15 +12,15 @@
 
      middle management                                 n. 中层管理人员
      senior management                                 n. 高层管理人员
-     managerial                                        adj. 管理人员的，管理方面的
-     administer                                        v. 管理，实施
+     managerial                                                      adj. 管理人员的，管理方面的
+     administer                                                      v. 管理，实施
 
 ## human resource 
-     answer incoming calls                              接收来电
-     responsible for visitor entertaining               款待客人
-     receive guests and visitors                        接待客人和来访者
-     collect the reimbursement materials                收集报销材料
-     vehicle dispatching management                     安排车辆 
+     answer incoming calls                                           接收来电
+     responsible for visitor entertaining                            款待客人
+     receive guests and visitors                                     接待客人和来访者
+     collect the reimbursement materials      /ˌri:ɪmˈbɜ:smənt/      收集报销材料
+     vehicle dispatching management                                  安排车辆 
      security guide                                     保镖
      screen calls                                       筛选电话
      take message                                       记录留言
