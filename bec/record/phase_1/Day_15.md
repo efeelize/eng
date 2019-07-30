@@ -43,31 +43,41 @@
 ## PART I.contribute to the work efficiency
 ### variable pay
 - based entirely on a pay-for-performance philosophy
-- bring pressure and stress to employees to work harder for the organisational
+- bring pressure and stress to employees to work harder for the 
+organisational
 performance and success.
-- encourage employees to devote themselves to the organisational development
+- encourage employees to devote themselves to the organisational 
+development
 - help recruit and retain competent employees.
 
 ### commission plan
-- provide maximum incentive,exerting sufficient effort in maximizing their 
+- provide maximum incentive,exerting sufficient effort in maximizing 
+their 
 sales volume/'vɒljuːm/
 
 ### straight piece work
-- employees tend to work harder and quicker for larger amount of products
-for they receive a certain rate for each unit produced.
+- employees tend to work harder and quicker for larger amount of
+products
+for they receive 
+a certain rate for
+each unit produced.
 
 ### stock options
 - their fortune /'fɔːtʃuːn/ will rise and fall with the value they create 
 for shareholders.
 - linking their efforts to the long-term stock performance
 - motivating them to develop and use their abilities and contribute their
-energies to the fullest possible extent.
+energies to the 
+fullest possible extent.
 
 ### prerequisite /priː'rekwɪzɪt/ or special benefits
 - can be used as a means of demonstrating the executives'improtance to the 
-organisation while giving them an incentive to improve their performance.
+organisation while giving 
+them an incentive to
+improve their performance.
 - perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside 
-the company and provide a tax saving to the executives.
+the company and provide
+a tax saving to the executives.
 
 ### profit sharing
 - give our engineers opportunity to increase their earnings by improving 
