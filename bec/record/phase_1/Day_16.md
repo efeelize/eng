@@ -53,17 +53,21 @@
 ### pleasing workplace
 - having the right tools available to provide basic comfort
 - promote loyalty among good employees and build their commitment.
-- creating a work environment that allows for flexibility,growth,and development.
+- creating a work environment that allows for flexibility,growth,
+and development.
 
 ### career plans
-- employees will remain with their current employer if career opportunity are presented.
-- career plans for those who want to move upward in the company undoubtedly improve morale and boost engagement.
+- employees will remain with their current employer if career opportunity 
+are presented.
+- career plans for those who want to move upward in the company undoubtedly 
+improve morale and boost engagement.
 - hiring staff members who are a good match for the practice and the position.
 
 ### paying employees for training 
 - keep their skills current and updated
 - getting employable /ɪm'plɒɪəbl/ and being competitive throughout their lives.
-- adequate time and resources are dedicated to providing proper training and improving the skills of new staff members.
+- adequate time and resources are dedicated to providing proper training and
+improving the skills of new staff members.
 
 ## PART III.
 ### sentence
