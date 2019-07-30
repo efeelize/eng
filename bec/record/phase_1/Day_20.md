@@ -9,6 +9,7 @@
     safeguard                                                  v.保护、捍卫
     staggering                   /'stæɡərɪŋ/                   adj & adv. 难以置信的;令人震惊的
     ventilation                  /ˌventɪ'leɪʃ(ə)n/              n.通风设施
+    brink                        /brɪŋk/                     n. (悬崖峭壁的)边沿
 
 # 2.phrase
     periodic medical examinations  /ˌpɪərɪ'ɒdɪk/                定期体检
@@ -21,10 +22,16 @@
     pay off                                                     赢得、得到好结果
     strategic location                                          重要位置
     danger ranger                                               防范危险的巡逻员
-    
+
 # 3.topic：work place safety and health
 ## PART I.
 
 ## PART II.
 
 ## PART III.
+
+
+
+
+
+

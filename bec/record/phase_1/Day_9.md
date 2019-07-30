@@ -131,8 +131,7 @@
 - hire the candidates whom you believe can [hit the ground running][做得挺不赖的] 
 in your company.
 - boosts morale[/mə'rɑːl/] and makes your current staff feel their talents,
-capabilities,
-and accomplisments are appreciated.
+capabilities,and accomplisments are appreciated.
 - reduce the orientation and training costs.
 - give other employees anticipation of promotion for similar efforts.
 - improve morale within the organisation.
