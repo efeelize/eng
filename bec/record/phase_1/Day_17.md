@@ -6,7 +6,7 @@
     autocratic                  /ˌɔ:təˈkrætɪk/                   adj. 独裁的,专制的
     connote                     /kə'nəʊt/                        vt. 意味着；含言外之意
     lenient                     /'liːnɪənt/                      adj. 仁慈的；宽大的
-    subordinate                 /sə'bɔːdɪnət/                    adj. 级别或职位较低的, 下级的
+    subordinate                 /sə'bɔːdɪnət/               adj. 级别或职位较低的, 下级的
     clumsy                      /'klʌmzɪ/                        adj. 笨拙的, 笨重的
 
 # 2.phrase
