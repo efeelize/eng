@@ -32,26 +32,36 @@
 ## PART I.
 ### subordinate assessments
 - provide valuable development guidance
-- praticularly effective in evaluating the supervisor /'suːpəvaɪzə/'s interpersonal skills.
+- praticularly effective in evaluating the supervisor /'suːpəvaɪzə/'
+s interpersonal skills.
 ### peer feedback
-- fellow employee often see different dimensions of performance and can readily 
-identify leadership and interpersonal skills along with other strengths and weakness 
+- fellow employee often see different dimensions of performance
+and can readily 
+identify leadership 
+and interpersonal 
+skills along with 
+other strengths and weakness 
 of their co-workers.
-- funish more accurate and vaild information than appraisals by superiors /suː'pɪərɪə/
+- funish more accurate and vaild information than appraisals
+by superiors /suː'pɪərɪə/
 - be the heart of excellent in teamwork
 
 ### customer service feedback
 - focuses on the quality of the team's or agency's results
-- the customers tend to be more satisfied,and the business performance tends to be better.
+- the customers tend to be more satisfied,and the business performance
+tends to be better.
 
 ## PART II.manage ineffective performances
 ### training
-- offering relevant and effective training would improve the employee's ability
-- increase the knowledge and skills needed for effective performances.
+- offering relevant and effective training would improve the
+employee's ability
+- increase the knowledge and skills needed for effective 
+performances.
 
 ### transfer to another job or department
 - make full use of an employee's strengths,while avoiding weaknesses
-- provide the employee with freshness,excitment,expecation and confidence.
+- provide the employee with freshness,excitment,expecation and 
+confidence.
 
 
 
