@@ -59,22 +59,29 @@ and development.
 ### career plans
 - employees will remain with their current employer if career opportunity 
 are presented.
-- career plans for those who want to move upward in the company undoubtedly 
-improve morale and boost engagement.
-- hiring staff members who are a good match for the practice and the position.
+- career plans for those who want to move upward in the company 
+undoubtedly 
+improve morale
+and boost engagement.
+- hiring staff members who are a good match for the practice
+and the position.
 
 ### paying employees for training 
 - keep their skills current and updated
-- getting employable /ɪm'plɒɪəbl/ and being competitive throughout their lives.
-- adequate time and resources are dedicated to providing proper training and
-improving the skills of new staff members.
+- getting employable /ɪm'plɒɪəbl/ and being competitive throughout 
+their lives.
+- adequate time and resources are dedicated to providing proper
+training and
+improving the 
+skills of new staff members.
 
 ## PART III.
 ### sentence
 - the common perceptions is that...
 - have you got any constructive suggestions?
 - still there are other contributable factors that...
-- that will help to create and maintain a place where people want to work and stay.
+- that will help to create and maintain a place where people want 
+to work and stay.
 
 
 
