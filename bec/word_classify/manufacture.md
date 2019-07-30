@@ -1,8 +1,8 @@
 # Manufacture
 # PART I.生产
 ## 1)设备
-     down-time/down-time                                                           n. 设备闲置期
-     facilities                                                                    n. 用于生产的设备、器材
+     down-time/down-time                                                 n. 设备闲置期
+     facilities                                                          n. 用于生产的设备、器材
      facilities layout                                                             n. 设备的布局规划、计划
      facilities location                                                           n. 设备安置
      configuration                    /kən,fɪgə'reɪʃ(ə)n/                          n. 设备的结构、组合
