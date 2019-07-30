@@ -1,8 +1,8 @@
 # personnel/员工、人员、人事部门
 ## 招聘
-    CV(=curriculum vitae)                                 n. 简历，履历
-    shortlist                                         n. ...供最后选择的候选人名单 
-                                                      v. 把...列入最后的候选人名单
+    CV(=curriculum vitae)              /kʌ'rɪkjʊləm/                   n. 简历，履历
+    shortlist                                                          n. ...供最后选择的候选人名单 
+                                                                       v. 把...列入最后的候选人名单
     recruitment                                           招收
     headhunt                                              猎聘
     recruit                                               v. 招聘，征募 
