@@ -178,9 +178,11 @@
 - without intergrity,a company can not possibly gain the trust of 
 customers,clients and the public.
 - any company without a coherent ethics policy can not possibly survive,
-they would certainly lose their competitive advantage to their rivals.
+they would certainly lose their 
+competitive advantage to their rivals.
 - if companies ingore moral concerns,violate laws,or act unethically,
-they can not possibly survieve,let alone making any profit.
+they can not possibly survieve,
+let alone making any profit.
 - place a high priority on ethics can turn out to be good for business.
 
 ### how
