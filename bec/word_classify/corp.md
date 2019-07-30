@@ -142,7 +142,7 @@
      portfolio management                                                             n. 组合管理
      （记住portfolio这个词表示“组合”，常考）
      profitable combination                                                            盈利的产品组合 
-     derivatives market                                    /dɪ'rɪvətɪv/                衍生产品市场 
+     derivatives market                                  /dɪ'rɪvətɪv/                  衍生产品市场 
 
 ## 并购、重组
     subscribe                                                                          v. 认购
