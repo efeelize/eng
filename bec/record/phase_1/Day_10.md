@@ -49,9 +49,9 @@
     panel                          /'pæn(ə)l/                    n. 仪表板；嵌板；座谈小组，全体陪审员
                                                                  vt. 嵌镶板
     instalments                    /in'stɔ:lmənt/                n. 一部分; 一集
-                                                        每一期摊付的款项, 分期付款
+                                                                 每一期摊付的款项, 分期付款
     all round                                                    周围，到处
-    generally                      /'dʒen(ə)rəlɪ/                adv. 一般地, 通常, 大体上, 广泛地, 普遍地
+    generally                      /'dʒen(ə)rəlɪ/                adv. 一般地, 通常, 大体上, 广泛地
 ## part 2
     frendliness
     chaotic                        /keɪ'ɒtɪk/                    adj. 混乱的，无秩序的；混沌的
@@ -96,14 +96,15 @@
     idealistic                     /ˌaɪdɪə'lɪstɪk/              adj. 有理想的
 
 # 2.phrase
-     knowledge,sklls and abilities（KSAs）                        知识、技能与能力
+     knowledge,sklls and abilities（KSAs）                       知识、技能与能力
      quality circle                                              质量研讨小组
      visual aids                                                 直观教具
 
 # 3.top:employee training
 ## PART I. training 
 ### importance
-- as part of succession planning to help an employee be eligible[/'elɪdʒɪb(ə)l/][adj. 有资格当选的] for a planned change in role in the organisation.
+- as part of succession planning to help an employee be eligible[/'elɪdʒɪb(ə)l/][adj. 有资格当选的] 
+for a planned change in role in the organisation.
 - bring someone or an organisation up to another threshold[/'θreʃəʊld/] [喻〉开始]of performance.
 - increased capacity to adopt new technologies and methods.
 - increased efficiencies in processes,resulting in financial gain.
@@ -114,7 +115,8 @@
 ### how
 - eliminate environmental distractions,such as noise,poor lighting.
 > communications
-- the increasing diversity of today's workforce[n. 全体员工] brings a wide variety of languages and customs.
+- the increasing diversity of today's workforce[n. 全体员工] brings a wide variety of
+languages and customs.
 > commputer skills
 - computer skills are necessity for conducting adminstrative and office tasks.
 > customer service
@@ -150,7 +152,8 @@ and ablities,and is contributable to their own career and success.
 performance and optimum contributions to the goals and objectives of your 
 organisation.
 - trainers' experience can guarantee effective training techiques and strategies.
-- formal orientation will get them familiar with the organisation,their work units and their jobs.
+- formal orientation will get them familiar with the organisation,their work 
+units and their jobs.
 - indentify with our company and become valuable members of it.
 - retain and motivate employees.
 - increasing productivity
@@ -168,9 +171,11 @@ organisation.
 - turn to effective visual aids to stimulate interest,
 - provide variety and facilitate retention
 - effective presentation techniques and instructional strategies
-- maintaining a positive energy and attitude to set the tone and provide momentum for the presentation.
+- maintaining a positive energy and attitude to set the tone and provide 
+momentum for the presentation.
 - encouraging active involvement and the sharing of experience and opinions.
-- length of training cannot be ignore,lengthy training will be boring and tiring,while too short training inadequate.
+- length of training cannot be ignore,lengthy training will be boring and
+tiring,while too short training inadequate.
 - introduce our company's history,company's purpose and stategicgoals
 - a framework of job-related tasks
 - specific job goals and descriptions,appraisal criteria...
@@ -180,7 +185,8 @@ organisation.
 ## PART III.
 ### sentence
 - so whether...is above your level are crucial.otherwise it would be...
-- some are enthusiastically for it,others are violently against it,and still others stand between them,what's your opinion?
+- some are enthusiastically for it,others are violently against it,and still
+others stand between them,what's your opinion?
 - i cannot agree more.
 - precisely,besides.
 
