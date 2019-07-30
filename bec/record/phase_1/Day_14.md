@@ -16,30 +16,39 @@
 # 3.topic
 ## PART I.promotion
 ### improtance
-- promotion bring higher salary,sense of fullfillment,more opportunity and more responsibility.
-- will understand the improtance of experience-sharing,cooperation and team spirit/'spɪrɪt/.
+- promotion bring higher salary,sense of fullfillment,more opportunity 
+and more responsibility.
+- will understand the improtance of experience-sharing,cooperation and 
+team spirit/'spɪrɪt/.
 
 ### how
 - professional skills and abilities guarantee excellent work performance.
-- showing the sustained pattern of your achievements and giving a sense of how you will continue
+- showing the sustained pattern of your achievements and giving a sense 
+of how you will continue
 to achieve and develop in the future cannot be ignored either.
 - as a person of high personal standing with a capacity for leadership.
 - promote your strengths and make up for the weakness with a goal.
 - should present yourself as a contributor to the company.
 - develop work-related qualities
-- with job responsibility and new role in mind,she/he will make improvement and adjustment 
+- with job responsibility and new role in mind,she/he will make 
+improvement and adjustment 
 as far as personality is concerned.
 
 ## PART III.promotion policy
 ### improtance
-- contributes to both the career development of individual and the overall growth and success
+- contributes to both the career development of individual and the 
+overall growth and success
 of our corporation.
-- existence of discrimination can undermine both the morale and productivity of its victims.
+- existence of discrimination can undermine both the morale and
+productivity of its victims.
 
 ### how
-- serve as a reward for the sales staff with ability and outstanding work performance and
-encourage them to continue their efforts.
-- promotion decisions are based only on qualifications,demostrated performance.
+- serve as a reward for the sales staff with ability and outstanding
+work performance and
+encourage them to 
+continue their efforts.
+- promotion decisions are based only on qualifications,demostrated 
+performance.
 
 ### sentence
 - but we can manage to sidestep this issue.
