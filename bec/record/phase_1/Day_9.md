@@ -61,7 +61,8 @@
       shopfloor/workplace                                         n.工作场所；工人
       facilities                 /fə'sɪlɪtɪ/                      n. 设备；灵巧；容易；设施
 
-      operatives                 /'ɒp(ə)rətɪv/                    adj. (计划、法律等)实施中的,起作用的,最适合的
+      operatives                 /'ɒp(ə)rətɪv/                    adj. (计划、法律等)实施中的,起作用的,
+                                                                  最适合的
       operate                    /'ɒpəreɪt/                       vi. 运转；动手术；起作用
 
       shortfall                  /'ʃɔːtfɔːl/                      n. 不足之量,差额
@@ -127,8 +128,10 @@
 # 3.topic：recruiting and selecting
 ## PART I.recruit
 ### form the internal sources
-- hire the candidates whom you believe can [hit the ground running][做得挺不赖的] in your company.
-- boosts morale[/mə'rɑːl/] and makes your current staff feel their talents,capabilities,and accomplisments are appreciated.
+- hire the candidates whom you believe can [hit the ground running][做得挺不赖的] in 
+your company.
+- boosts morale[/mə'rɑːl/] and makes your current staff feel their talents,capabilities,
+and accomplisments are appreciated.
 - reduce the orientation and training costs.
 - give other employees anticipation of promotion for similar efforts.
 - improve morale within the organisation.
@@ -158,7 +161,8 @@
 ### how
 - watch the online job boards for potential candidates who may have resumes 
 online even if they are not currently looking.
-- show the responsiveness[/ri'spɔnsivnis/] [n. 响应能力；有同情心]of our company to the job and career needs of the applicants.
+- show the responsiveness[/ri'spɔnsivnis/] [n. 响应能力；有同情心]of our company
+to the job and career needs of the applicants.
 - the description of applicants' qualification and the specification of the openings.
 - cost should be reasonable and affordable.
 
