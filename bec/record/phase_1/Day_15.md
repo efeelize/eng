@@ -49,39 +49,45 @@ performance and success.
 - help recruit and retain competent employees.
 
 ### commission plan
-- provide maximum incentive,exerting sufficient effort in maximizing their sales volume/'vɒljuːm/
+- provide maximum incentive,exerting sufficient effort in maximizing their 
+sales volume/'vɒljuːm/
 
 ### straight piece work
-- employees tend to work harder and quicker for larger amount of products for they receive 
-a certain rate for each unit produced.
+- employees tend to work harder and quicker for larger amount of products
+for they receive a certain rate for each unit produced.
 
 ### stock options
-- their fortune /'fɔːtʃuːn/ will rise and fall with the value they create for shareholders.
+- their fortune /'fɔːtʃuːn/ will rise and fall with the value they create 
+for shareholders.
 - linking their efforts to the long-term stock performance
-- motivating them to develop and use their abilities and contribute their energies to the
-fullest possible extent.
+- motivating them to develop and use their abilities and contribute their
+energies to the fullest possible extent.
 
 ### prerequisite /priː'rekwɪzɪt/ or special benefits
-- can be used as a means of demonstrating the executives'improtance to the organisation while 
-giving them an incentive to improve their performance.
-- perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside the company 
-and provide a tax saving to the executives.
+- can be used as a means of demonstrating the executives'improtance to the 
+organisation while giving them an incentive to improve their performance.
+- perks serve as a status /'steɪtəs/ symbol /'sɪmb(ə)l/ inside and outside 
+the company and provide a tax saving to the executives.
 
 ### profit sharing
-- give our engineers opportunity to increase their earnings by improving product quality
+- give our engineers opportunity to increase their earnings by improving 
+product quality
 - reducing operating costs and improving work methods 
 - encourge greater levels of individual performance 
-- stimulate them to think and feel more like partners in the companies and boost morale.
+- stimulate them to think and feel more like partners in the companies
+and boost morale.
 
 ### how
 - training can help them to keep up with the latest developments
 - always maintain their edge over others and keep on being the best.
 - public praise /preɪz/ can be a supplementary means of motivation
-- public recognition /rekəg'nɪʃ(ə)n/ brings along the honor and a sense of satisfaction.
+- public recognition /rekəg'nɪʃ(ə)n/ brings along the honor and 
+a sense of satisfaction.
 
 ## PART III.
 ### sentence
-- in today's uncertain and turbulent business climate,...is an especially useful tools
+- in today's uncertain and turbulent business climate,...is an 
+especially useful tools
 
 
 
