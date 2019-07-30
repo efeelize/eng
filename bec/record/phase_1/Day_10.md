@@ -103,9 +103,12 @@
 # 3.top:employee training
 ## PART I. training 
 ### importance
-- as part of succession planning to help an employee be eligible[/'elɪdʒɪb(ə)l/][adj. 有资格当选的] 
-for a planned change in role in the organisation.
-- bring someone or an organisation up to another threshold[/'θreʃəʊld/] [喻〉开始]of performance.
+- as part of succession planning to help an employee be eligible
+[/'elɪdʒɪb(ə)l/][adj. 有资格当选的] 
+for a planned change 
+in role in the organisation.
+- bring someone or an organisation up to another threshold[/'θreʃəʊld/]
+[喻〉开始]of performance.
 - increased capacity to adopt new technologies and methods.
 - increased efficiencies in processes,resulting in financial gain.
 - increased innovation in strategies an products.
@@ -115,7 +118,8 @@ for a planned change in role in the organisation.
 ### how
 - eliminate environmental distractions,such as noise,poor lighting.
 > communications
-- the increasing diversity of today's workforce[n. 全体员工] brings a wide variety of
+- the increasing diversity of today's workforce[n. 全体员工] brings
+a wide variety of
 languages and customs.
 > commputer skills
 - computer skills are necessity for conducting adminstrative and office tasks.
@@ -132,7 +136,8 @@ misunderstandings and conflict.training can make people get along in the
 workplace.
 > quality initiatives
 - initiatives such as total quality management,quality 
-circles,benchmarking,etc[/ɪt ˈsetərə/],require basic training about quality,etc.
+circles,benchmarking,etc[/ɪt ˈsetərə/],require basic training 
+about quality,etc.
 > safety
 - safety training is critical where working with heavy equipment,
 hazardous chemicals,repetitive activities,etc,but can also be useful with 
@@ -141,51 +146,67 @@ practical advice for avoiding assaults,etc.
 ## PART II.choose a training program 
 ### content
 #### importance
-- building confidence with early successes,demonstrating value and relevance.
-- engaging learners in solving real problems that they care about,and allowing
+- building confidence with early successes,demonstrating value and
+relevance.
+- engaging learners in solving real problems that they care about,
+and allowing
 them to discover,explore,and share.
-- employees are the greatest asset of modern organisation and paying for traing
+- employees are the greatest asset of modern organisation and paying 
+for traing
 is just a kind of investment.
-- effective training will improve the employees' KSAs,that is knowledge,skills,
-and ablities,and is contributable to their own career and success.
+- effective training will improve the employees' KSAs,that is 
+knowledge,skills,
+and ablities,and is contributable
+to their own career and success.
 - improve your knowledge,skills adn abilities needed for high quality 
-performance and optimum contributions to the goals and objectives of your 
-organisation.
-- trainers' experience can guarantee effective training techiques and strategies.
-- formal orientation will get them familiar with the organisation,their work 
+performance and optimum contributions to the goals and objectives 
+of your organisation.
+- trainers' experience can guarantee effective training techiques
+and strategies.
+- formal orientation will get them familiar with the organisation,
+their work 
 units and their jobs.
 - indentify with our company and become valuable members of it.
 - retain and motivate employees.
 - increasing productivity
 - reducing the new employees' anxiety.
 - improving employee morale.
-- give the new commers a clear idea of their future job and obligations
+- give the new commers a clear idea of their future job and
+obligations
 - help them on the right track in no time.
 - ensure effective orientation
 - give them a concrete map of whole company
 - get them familiar with the layout of the organisation.
-- give the new staff a sense of being valued,which will result in retention.
+- give the new staff a sense of being valued,which will result
+in retention.
 
 #### how
 - conforming that the equipment is working properly
 - turn to effective visual aids to stimulate interest,
 - provide variety and facilitate retention
 - effective presentation techniques and instructional strategies
-- maintaining a positive energy and attitude to set the tone and provide 
+- maintaining a positive energy and attitude to set the tone 
+and provide 
 momentum for the presentation.
-- encouraging active involvement and the sharing of experience and opinions.
-- length of training cannot be ignore,lengthy training will be boring and
-tiring,while too short training inadequate.
+- encouraging active involvement and the sharing of experience 
+and opinions.
+- length of training cannot be ignore,lengthy training will be
+boring and
+tiring,while too short 
+training inadequate.
 - introduce our company's history,company's purpose and stategicgoals
 - a framework of job-related tasks
 - specific job goals and descriptions,appraisal criteria...
 - job duties and responsibilities
-- arrange co-workers to welcome the newcomers and show them around the premises.
+- arrange co-workers to welcome the newcomers and show them 
+around the premises.
 
 ## PART III.
 ### sentence
-- so whether...is above your level are crucial.otherwise it would be...
-- some are enthusiastically for it,others are violently against it,and still
+- so whether...is above your level are crucial.otherwise 
+it would be...
+- some are enthusiastically for it,others are violently against it,
+and still
 others stand between them,what's your opinion?
 - i cannot agree more.
 - precisely,besides.
