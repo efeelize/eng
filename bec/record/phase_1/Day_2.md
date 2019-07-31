@@ -12,7 +12,7 @@
     recruitment                                               n. 招收，招聘
 
     accent                     /'æks(ə)nt/                    n. 口音, 腔调;重音, 重音符号;
-    强调, 重点
+                                                                 强调, 重点
     bottom                                                    adj. 最后的，根本的 
                                                               v. 到达底部，建立基础
  
@@ -25,25 +25,25 @@
     bravery                   /'breɪv(ə)rɪ/                   n. 勇敢；勇气
 
     column                    /'kɒləm/                        n. (报纸、杂志)专栏圆柱，柱形物；
-    纵队，列；
+                                                                 纵队，列；
     layout                                                    n. 版面设计；布局；设计；安排；陈列
 
     orientate                /'ɔːrɪənteɪt/                   vi. 朝向；面向；确定方向；使适应
-     disorientated                                            迷失
+    disorientated                                            迷失
 
     arbitration                                              n. 仲裁
     arbitrate                                                vt. & vi. 仲裁, 公断
 
     awareness                /ə'wɛənis/                      n. 意识；警觉
     aware                                                    adj. 知道的；意识到的；有…方面知识的；
-    懂世故的
+                                                             懂世故的
 
     backing                                                  n. 财务支持，赞助
     backhander                                               n. 贿赂
     backlog                                                  n. 积压（工作或订货）；备用;备用物; 储备金
     canteen                   /kæn'tiːn/                     n. 食堂
-    initiative                 /ɪ'nɪʃɪətɪv/                   n. 主动性, 首创精神
-    etcetera                   /et'setərə/                    n. 附加物；附加的人；等等；以及其它
+    initiative                 /ɪ'nɪʃɪətɪv/                  n. 主动性, 首创精神
+    etcetera                   /et'setərə/                   n. 附加物；附加的人；等等；以及其它
     caption                   /'kæpʃ(ə)n/                    n. 照片或图片下的简短说明
     capture                                                  vt. 赢得；俘获；夺得
                                                              n. 战利品，俘虏；捕获
