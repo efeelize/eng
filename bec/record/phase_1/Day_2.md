@@ -11,18 +11,21 @@
     recruit                    /rɪ'kruːt/                     vt. 招聘; 吸引(新成员)
     recruitment                                               n. 招收，招聘
 
-    accent                     /'æks(ə)nt/                    n. 口音, 腔调;重音, 重音符号;强调, 重点
+    accent                     /'æks(ə)nt/                    n. 口音, 腔调;重音, 重音符号;
+    强调, 重点
     bottom                                                    adj. 最后的，根本的 
                                                               v. 到达底部，建立基础
  
-    paramount                 /'pærəmaʊnt/                    adj. 最高的, 至上的;首要的, 主要的
+    paramount                 /'pærəmaʊnt/                    adj. 最高的, 至上的;首要的, 
+    主要的
     paramountcy               /'pærə,mauntsi/                 n. 最高权威
     paramountly                                               adv
 
     mettle                    /'met(ə)l/                      n. 勇气；精神；耐力
     bravery                   /'breɪv(ə)rɪ/                   n. 勇敢；勇气
 
-    column                    /'kɒləm/                        n. (报纸、杂志)专栏圆柱，柱形物；纵队，列；
+    column                    /'kɒləm/                        n. (报纸、杂志)专栏圆柱，柱形物；
+    纵队，列；
     layout                                                    n. 版面设计；布局；设计；安排；陈列
 
     orientate                /'ɔːrɪənteɪt/                   vi. 朝向；面向；确定方向；使适应
@@ -32,7 +35,8 @@
     arbitrate                                                vt. & vi. 仲裁, 公断
 
     awareness                /ə'wɛənis/                      n. 意识；警觉
-    aware                                                    adj. 知道的；意识到的；有…方面知识的；懂世故的
+    aware                                                    adj. 知道的；意识到的；有…方面知识的；
+    懂世故的
 
     backing                                                  n. 财务支持，赞助
     backhander                                               n. 贿赂
