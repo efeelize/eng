@@ -34,12 +34,14 @@
 # 3.topic:managing stress
 ## PART I.relieve work stress
 ### improtance
-- in today's economic upheavals /ʌp'hiːv(ə)l/,downsizing,layoff,merger,
+- in today's economic upheavals /ʌp'hiːv(ə)l/,downsizing,layoff,
+merger,
 and bankruptices
 have cost 
 thousands of 
 worker their job.
-- in one's life,one will encounter this or that kind of stress due to
+- in one's life,one will encounter this or that kind of stress 
+due to
 fierce competition
 of modern
 society.
@@ -53,7 +55,8 @@ them.
 ### how
 - learn to handle the pressure without letting it eat them up.
 #### managers
-- communicate with staff about the leadership style through
+- communicate with staff about the leadership style 
+through
 questionnaire to 
 find out 
 the problem
@@ -61,9 +64,12 @@ and timely
 adjust the 
 policies
 related.
-- divide responsibilities and help employee prioritize  /praiˈɔritaiz/ 
-work that must be done
-- take into account the cost of stress before increasing anyone's
+- divide responsibilities and help employee prioritize
+/praiˈɔritaiz/ 
+work that
+must be done.
+- take into account the cost of stress before increasing
+anyone's
 workload or hire
 more people.
 - training programe to improve their KSAs,such as time
@@ -71,17 +77,20 @@ management training
 to help them 
 deal with heavy
 workload.
-- concerned about the employees'health and life,such as provding
+- concerned about the employees'health and life,such
+as provding
 well-balanced 
 free lunch.
-- demonstrate appreciation,such as a sincere comment about how
+- demonstrate appreciation,such as a sincere comment
+about how
 the person
 means to you
 and the 
 company.
 
 #### workers
-- divert my attention for a moment to something I enjoy,
+- divert my attention for a moment to something 
+I enjoy,
 such as going 
 to the 
 cinema 
