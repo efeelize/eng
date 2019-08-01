@@ -22,29 +22,34 @@
 - avioding wrongful discharge
 - offeriing a sound benefit program
 - providing chances for training and career development
-- getting employees involved in company decisions,and respecting employees
+- getting employees involved in company decisions,and 
+respecting employees
 
 ## PART II.dealing with problem employee misconduct
 ### the role of immediate supervisor
 - observe evidence of unsatisfactory behavior or performance
 - find out the underlying causes
-- discuss the matter with the employee to correct the problem immediately.
+- discuss the matter with the employee to correct the
+problem immediately.
 
 ### discipline
 - motivate employees to practice self-control and respect organisational
 rules
-- divided into serveral steps,such as oral warning,written warning,
+- divided into serveral steps,such as oral warning,
+written warning,
 financial punishment 
 and suspension.
 
 ### improtance
-- the failure /'feɪljə/ can result in costly lawsuits,damage the 
+- the failure /'feɪljə/ can result in costly lawsuits,
+damage the 
 organisation's reputation.
 hurt employee morale
 thus slowing down the 
 organisation's growth
 and development
-- is both a punishment and lesson for an employee,which may be 
+- is both a punishment and lesson for an employee,
+which may be 
 an incentive to a dramatic 
 and improved change,thus
 becoming a blessing in 
