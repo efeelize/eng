@@ -1,5 +1,5 @@
 # Day_23.md
-> 口语 2.12/听力 vol2_test4_part1、3
+> 口语 2.12
 # 1.words
     dejected                    /dɪ'dʒektɪd/                  adj. 沮丧的，灰心的
     deject                                             vt & adj. 使…沮丧；使…灰心
