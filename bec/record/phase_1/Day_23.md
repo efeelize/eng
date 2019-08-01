@@ -51,6 +51,7 @@ cope with
 them.
 
 ### how
+- learn to handle the pressure without letting it eat them up.
 #### managers
 - communicate with staff about the leadership style through
 questionnaire to 
