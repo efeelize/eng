@@ -25,7 +25,9 @@ team spirit/'spɪrɪt/.
 - professional skills and abilities guarantee excellent work performance.
 - showing the sustained pattern of your achievements and giving a sense 
 of how you will continue
-to achieve and develop in the future cannot be ignored either.
+to achieve and develop
+in the future cannot
+be ignored either.
 - as a person of high personal standing with a capacity for leadership.
 - promote your strengths and make up for the weakness with a goal.
 - should present yourself as a contributor to the company.
@@ -36,18 +38,23 @@ as far as personality is concerned.
 
 ## PART III.promotion policy
 ### improtance
-- contributes to both the career development of individual and the 
+- contributes to both the career development of individual
+and the 
 overall growth and success
 of our corporation.
-- existence of discrimination can undermine both the morale and
-productivity of its victims.
+- existence of discrimination can undermine both the 
+morale and
+productivity of 
+its victims.
 
 ### how
-- serve as a reward for the sales staff with ability and outstanding
+- serve as a reward for the sales staff with ability and
+outstanding
 work performance and
 encourage them to 
 continue their efforts.
-- promotion decisions are based only on qualifications,demostrated 
+- promotion decisions are based only on qualifications,
+demostrated 
 performance.
 
 ### sentence
