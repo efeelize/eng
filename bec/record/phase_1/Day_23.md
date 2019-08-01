@@ -25,6 +25,7 @@
     chaotic                      /keɪ'ɒtɪk/               adj. 混乱的，无秩序的；混沌的
     upheavals                    /ʌp'hiːv(ə)l/                 n. 剧变；隆起；举起
       
+
 # 2.phrase
     heavy workload                                             繁重的工作压力
     keep...on edge/tie in                                      使得紧张不安
