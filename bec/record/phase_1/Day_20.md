@@ -26,15 +26,18 @@
 # 3.topic：work place safety and health
 ## PART II.
 ### train and supervise staff
-- ensure all your workers are aware of hazards and follow safe work procedure.
+- ensure all your workers are aware of hazards and follow safe
+work procedure.
 - select the right and related topics.
-- acceptance for safety training is heightened when employees feel a sense
+- acceptance for safety training is heightened when employees
+feel a sense
 of participation
 in the instrctional
 program. 
 - handing hazardous /'hæzədəs/ chemicals or working in environment with
 potential danagers.
-- help them sidestep unnecessary perils /'perɪl/ or help them successfully
+- help them sidestep unnecessary perils /'perɪl/ or help them 
+successfully
 deal with risky situations.
 
 ### effective communication means
@@ -46,14 +49,16 @@ deal with risky situations.
 ### discipline and penalties /'pen(ə)ltɪ/
 - make it a rule that managers be responsible for and punished for the
 rule-breaking of their staff.
-- penalties should include an oral and written warning for first violation,
+- penalties should include an oral and written warning for
+first violation,
 suspension for 
 repetated violations
 and dismissal as the 
 last report.
 
 ## PART III.
-- ...not only benefits the individual,but also pays off for the organisation
+- ...not only benefits the individual,but also pays off for
+the organisation
 in reduced ...
 
 
