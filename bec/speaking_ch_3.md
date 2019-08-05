@@ -55,7 +55,8 @@
 - i hear what you say,but what i mean is that...
 - that's very good point,but...
 
-## 3.4 改变焦点
+## 3.4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上了
+- we may have some disagree with each other on this point,now let's move to next point.
 - I think we can discuss...further/a bit more.
 - we can talk/discuss/think more about...
 - XXX might be our foucus/concentration
