@@ -11,7 +11,10 @@
 ## 1.2)tips
 - 快速了解任务要求 
 - well-organized & logically ordered 
-- 快速进入角色/情景 our company our service our staff 
+- 快速进入角色/情景 (人称已经限定了)
+  1)our company 
+  2)our service 
+  3)our staff 
 - 学会问问题 学会礼貌而不失尴尬的不同意 
 - 合理分配时间，解决提示卡上的问题 
 - 如果3MIN内讨论完了，可以适当总结一下重点
@@ -42,7 +45,8 @@
          1.2)root problem detection
              - clarify problems
              - classify problems
-             - problem solving skiils:guide the customers the way for effective solution
+             - problem solving skiils
+               guide the customers the way for effective solution
          1.3)empathy
              - make customers feel you are standing in their shoes to shoot problems.
              
@@ -52,7 +56,8 @@
          1.2)invite customers to rate customer service quality;
          1.3)enact supervisor support scheme:supervisors give timely professional
              guidance to the staff;
-         1.4)establish'rewards and penlties'system:staff's monthly bonus /'bəʊnəs/
+         1.4)establish'rewards and penlties'system
+             staff's monthly/yearly bonus /'bəʊnəs/
              depends on his/her performance;
              exp:the amount of complains received;
                  the rating outcome;
