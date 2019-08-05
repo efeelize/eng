@@ -2,6 +2,9 @@
 > 口语3.1/听力 vol2_test4_part1、3/vol3_test1_part1
 
 # 1.words
+    ongoing                                           adj.不间断的，继续存在的
+    screening             /'skriːnɪŋ/                 n. 放映
+
 
 ## vol2_test4_part1
     parxis                /'præksɪs/                   n.实践；做事方法；实际运用
@@ -114,7 +117,11 @@
     rigidity               /rɪ'dʒɪdətɪ/         n. 硬度，刚性；坚硬；僵化；严格，刻板
 
 # 2.phrase
-
+    product life cycle                                  产品生命周期
+    market research                                     市场调研
+    product concept                                     产品概念
+    product image                                       产品形象
+    business analysis                                   商业分析
 
 # 3.topic
 
