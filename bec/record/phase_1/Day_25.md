@@ -4,8 +4,15 @@
 # 1.words
     ongoing                                           adj.不间断的，继续存在的
     screening             /'skriːnɪŋ/                 n. 放映
-
-
+    commercialisation     /kə,mə:ʃəlai'zeiʃən/        n. 商业化 
+    proactive             /prəʊ'æktɪv/                adj.有前瞻性的，先行一步的；积极主动的 
+    reactive              /rɪ'æktɪv/                  adj. 反应的
+    breakthrough          /'breɪkθruː/                n. 突破点, 突破性进展, 重要的新发现
+    razor                 /'reɪzə/                    vt. 剃，用剃刀刮
+                                                      n. 剃刀
+    premium               /'priːmɪəm/                 n. 保险费;额外费用
+    
+    
 ## vol2_test4_part1
     parxis                /'præksɪs/                   n.实践；做事方法；实际运用
     academic              /ækə'demɪk/
@@ -122,6 +129,18 @@
     product concept                                     产品概念
     product image                                       产品形象
     business analysis                                   商业分析
+    test market ing                                     市场试销，市场测试
+    sales quota            /ˈkwəutə/                    n. (正式限定的)定量, 定额, 配额
+    niche market           /niːʃ/                       专门市场，有利可图的市场
+    launch a product into market                        将产品投入市场
+    market share                                        市场份额
+    product line extension                              产品线的延伸
+    market penetration     /penɪ'treɪʃ(ə)n/             市场渗透
+    product diversification                             产品多样化
+    market orientation     /ˌɔːrɪən'teɪʃ(ə)n/           n. 方向；定向；向东方；适应；情况介绍
+
+
+    
 
 # 3.topic
 
