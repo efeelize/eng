@@ -142,13 +142,43 @@
     point-of-sale pricing                          售点陈列
     
 # 3.topic:setting prices
-## PART I.
+## PART II.setting prices for new products
+### cost
+#### importance
+- such as insurance,rent and equipment that remain constant regardless of the number of units producted
+- variable cost such as raw /rɔː/ materials and labor which change depending on the number of units produced and marketing cost
+
+#### how
+- cost-oriented pricing method
+- calculate the price by determining a product's total cost,additional expenses incurred in marketing a product and a profit they want to make.
+
+### demand
+#### importance
+- the quantity /'kwɒntɪtɪ/ demanded goes up as the price goes down;demand goes down as the price goes up.
+
+#### how
+- estimate the quantities of a product that consumers will demand and then set the price for the new product.
+
+### consumer perception of price
+- the importance of price varies a great deal for differnent products and different target markets.
+- firms can use price to establish an image of product superiority.
+- 'skim' [vt. 撇去…的浮物] the best buyers from the top of the market-those willing to pay a high price.
+
+### penetration /penɪ'treɪʃ(ə)n/ pricing
+- consider our competitors' /kəm'petɪtə/ price,and charge our products lower than our competitors'
+
+### large sales volume
+- reduce production costs and achieve higher profits.
+
+### offer free samples
+- convince our consumers that our products has good value for money.
+
+### lauch an advertising campaign
+- advertise our product on television
+- advertise in fashion magazines
 
 
-## PART II.
 
-
-## PART III.
 
 
 

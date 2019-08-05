@@ -19,7 +19,33 @@
     loyalty scheme              /skiːm/              vt. & vi & n. 策划; 图谋
 
 # 3.topic:product promotion
+## PART II.promoting a product
+### advertising
+#### importance
+- reach millions of people at a low cost per person
+- a company can aim at its target market and promote a product effectively.
 
+#### how
+- placing an ad with a mass medium,such as television,radio,newspaper,and magazines,etc...
+- put up posters and arrange point-of-sales displays to attract potenial customers.
+
+### sales promotion
+#### improtance
+- attract existing and potential customers and boost the sales of a product.
+
+#### how
+- employ some experienced salespeople to sell the XXX
+- coupons /'kuːpɒn/
+- free sample
+- premiums /'priːmɪəm/
+- trading stamps
+- loyalty schemes /ski:m/ [n. 方案，计划]
+- contests [n. 竞赛，竞赛活动]
+- point-of-sale displays [销售点展示]
+- trade shows
+
+## PART III.
+- I'm quite with you on that.
 
 
 

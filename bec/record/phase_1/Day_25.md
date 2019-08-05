@@ -140,12 +140,40 @@
     market orientation     /ˌɔːrɪən'teɪʃ(ə)n/           n. 方向；定向；向东方；适应；情况介绍
 
 # 3.topic:product development
-## PART I.
+## PART II.developing new product
+### market reseach 
+#### improtance
+- get such informations as whether there exists a niche market for a new product.
+- what are customer's needs and tastes for the new product
 
-## PART II.
+#### how
+- defining the problems
+- creating a research desigh
+- collecting data
+- analyzing data
+- interpreting the research information
+- drawing a conclusion
 
+### screening/创意筛选
+#### improtance
+- separates ideas with potential from those that cannot meet company objectives.
+- poor screening may lead to product failure
 
-## PART III.
+### set up a new product committee
+- successful products development requires an effective organisational strcuture to stimulate and coordinate new product development.
+
+## PART III.the sources of ideads for new product development
+- sales force
+- customer feedback
+- employees
+- reseach and development specialists
+- suppliers
+- retailers
+- independent inventors
+
+### sentence
+- let's look at what measures we should take in order to...
+
 
 
 
