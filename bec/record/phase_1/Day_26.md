@@ -1,6 +1,10 @@
 # Day_26.md
 > 口语3.2/听力 vol3_test1_part2、3
 # 1.words
+    perception                 /pə'sepʃ(ə)n/                n. 感知(能力); 觉察(力)
+    reliability                /ri,laiə'biləti/             n. 可靠，可信赖
+    coupons                    /'ku:pɔn/                    n. 优惠券
+   
 ## PART II.
     fluctuation                 /ˌflʌktju'eiʃən/
     fluctuate                   /'flʌktʃʊeɪt/                vi. 波动, 涨落, 起伏
@@ -126,9 +130,25 @@
     all-embracing                                  adj. 包括一切的
 
 # 2.phrase
+    brand loyalty                                  品牌忠诚度
+    cash discounts                                 现金折扣
+    trade discounts                                商业折扣
+    fixed costs                                    固定成本
+    variable costs                                 可变成本
+    penetration pricing      /penɪ'treɪʃ(ə)n/      市场渗透价格（以低于竞争者的价格占领市场）                
+    price skimming                                 以尽可能最高的价格迅速收回成本
+    odd-even pricing                               单数或偶数价格
+    cost-oriented pricing                          依据成本的定价方式
+    point-of-sale pricing                          售点陈列
+    
+# 3.topic:setting prices
+## PART I.
 
 
-# 3.topic
+## PART II.
+
+
+## PART III.
 
 
 
