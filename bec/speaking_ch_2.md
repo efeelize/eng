@@ -135,7 +135,8 @@
                backgrounds and working principles and meetings in person after long trip wil be 
                productive in 'tackling cultural and communication barriers'.
                So,being in front of customers and colleagues results in benefits for business and 
-               the willing to do so is important for care development.             
+               the willing to do so is important for care development.    
+               
 ### 2）how to...
 > 列清单 :步骤手段达到目的
 
@@ -143,6 +144,35 @@
     We also need to... 
     Last, what we need to...    
 ### 3)the factors of ...to... 影响因素
+> 套路:1）时间;2）金钱；3）energy
+ 
+     Q:the factors involved in deciding whether to relocate a retail business.?
+       1)outline:
+         1.1)workforce
+             - relocating the business
+             - hiring employees
+             - possibility of finding qualified workers
+             - different costs
+         1.2)customer base/消费群体
+             - stable customer base
+             - new stable clients.
+       2）完整：
+          I choose topic A:the factors involoved in deciding whether to relocate a retail
+          business.
+          relocating the business is always a critical issue for a retail business and serious
+          considerations must be done before making the final decision.
+          1)one major factor to consider is the workforce,relocating the business often means
+            [hiring a large proportion of employees] in another region.The [possiblity of 
+            finding qualified workers] must be assessed.[Different costs]of the workforce,
+            including the possible costs to follow different employment policies should
+            also be carefully considered.
+          2)Another important factor is the [customer base].The retail business usually
+            has a quite[stable customer base] and the change of neighbourhood may affect
+            it.People making decisions should consider whether relocating business can
+            [attract a new group of stable clients.]
+          It is not easy to decide to relocate the retail business and it is wise to 
+          think twice to consider all factors.
+
 
 
 ## 2.习惯表达
