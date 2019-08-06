@@ -1,4 +1,5 @@
 # Day_28
+> 口语3.4
 # 1.words
     poster                                            n.海报
     asset                    /'æset/                  n. 资产；有用的东西；有利条件；优点
