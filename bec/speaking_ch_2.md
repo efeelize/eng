@@ -1,13 +1,24 @@
 # speaking_ch_2
 # PART I. personal question/3-4sectence/30s
 ## 总分总 + quick answer
-      Q:whether you think there are some profession in Chinawhich should be better paid.
-      A:1.1)Yes,in china people working in different fields are paid quite differently.People in some
-            dangerous occupations,like firefighters,should be better paid.
-        1.2)they risk their lives everyday whether at a fire or at a medicial call.they keep people 
-            safe and even save lives if needed.they also save pets,valuables,and other property.
-        1.3)they work under high risk and pressure,so I think they should get paid better for what 
-            they do.
+> Q:whether you think there are some profession in Chinawhich should be 
+better paid.
+
+- 1)Yes,in china people working in different fields are paid quite differently.
+People in some
+dangerous occupations,
+like firefighters,
+should be better paid.
+- 2)they risk their lives everyday whether at a fire or at a medicial call.
+they keep people 
+safe and even save
+lives if needed.they 
+also save pets,
+valuables,and 
+other property.
+- 3)they work under high risk and pressure,so I think they should get paid
+better for what 
+they do.
 
 ## 1.一般疑问句 
 ### 1)What...
