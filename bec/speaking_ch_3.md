@@ -65,30 +65,26 @@
 - i think we need/should make sure that...
 - another thing we can do is to...
 
-## 3.5 总结
+## 3.5 总结(要带入自己之前的讨论)
+- from we talked before...
+- so we've got a lot to do[对前面进行总结],first...sencond...
 - so to sum up,our company should...
-- so we've got a lot to do,first...sencond...
 
 ## 3.6 摆事实、讲道理
 - many researches show that...
 - we're aware of the fact that...
 - as we all know that...
 
-## 3.7 分享人生经验
-- I have been invovled in...
-- According to my experience...
-- I'd like to share some experience with you.
-
 # 4. exp
-  
+## 4.1 improve the way they listen and respond to customers
     your company has received several complaints from customers about
      how their concerns have been handled.
-     you have been asked to talk to your staff about how to improve the
-     way they listen and respond to customers.
+     you have been asked to talk to your staff about how to [improve the
+     way they listen and respond to customers].
      
      discuss the situtaion together and decide:
-     - what aspects of customer care your staff need to be aware of?
-     - how you will monitor their dealing with customers?
+     * what aspects of customer care your staff need to be aware of?
+     * how you will monitor their dealing with customers?
      
      Q:what aspects of customer care your staff need to be aware of?
        1)outline:
@@ -127,9 +123,34 @@
           
         Q:Do you think it's important to feed back to staff?why?
         A:if yes,the feedback can contain can-do tips for staff.
-             
+       
+## 4.2 team building
+       the company you work for is about to take over another company and 
+       is keen to encourge staff from both companies to work together
+       effectively.You have been asked to prepare a proposal for team
+       builing.
+       
+       discuss and decide together:
+       * what kinds of work projects and leisure activities would be
+         suitable to encourage team work.
+       * what benefits effective teamwork could bring to the company.
+        
+       follow questions:
+       * what benefits do you think individual employees get from working
+         in a strong team?
+       * what do you think it's the ideal number of people to work in a 
+         team?
+       * Do you think companies need individuals as well as team workers?
      
-     
+# 5.机经
+- 项目新经理
+- 销售目录 
+- 员工运动俱乐部 
+- 运输服务 
+- 组建项目组 
+- 在家工作 
+- 连锁餐厅吸引客人 
+- 了解员工想法
      
      
      
