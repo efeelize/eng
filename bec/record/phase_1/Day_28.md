@@ -25,18 +25,70 @@
     
 # 3.topic：advertising
 ## PART I.ad
-- market search should identify the target market and determine its size,geoographic 
+### improtance
+- market search should identify the target market and determine its size,geographic 
 distrbution,
 and demographic
 characteristics.
+- inform,persuade and remind potential customers of the product.
+- market can launch an advertising campaign to attract a large number of consumers.
+- effective advertising can enhance consumer perceptions of quality in the product.
 
 ### television
-#### improtance
-- is widely-used as a means for entertainment,
+- high cost and the difficulty in determining the audience that actually sees 
+the commercials.
+- is widely-used as a means for entertainment
+- reach vast audiences
+- allows creative use of action,colour,and sound not possible in any other medium.
 
+### internet
+- can reach large audiences
+- there is no limit as how long ad can stay on the computer screen.
+- advertisers are not bound to fit into 30 or 60 second times slot as they are for
+TV commercials.
 
+### newspaper
+- well suited for immediate needs since they can run ads with little lead time.
 
-## PART II.
+### magazines
+- offer high quality color reproduction,which is a valuable asset in promoting 
+products.
+- provide a more permanent message than do the other media,since subscribers
+often keep their favorites
+in their homes
+or workplaces
+for weeks
+or month 
+and pass them
+along to friends.
+- reach directly to our target customers and an ad in a fashion magazine is not
+so expensive as
+television
+advertising.
 
+### offer bonus for sales staff
+- help buyers satisfy their wants and needs,they know the product and can effectively
+communicate their
+knowledge to
+buyers face 
+to face.
+
+### radio
+- radio advertising is inexpensive and can easily pinpoint target audience.
 
 ## PART III.
+- apart from these two points,i think...is also important
+- I think XXX should aim at ...
+
+
+
+
+
+
+
+
+
+
+
+
+
