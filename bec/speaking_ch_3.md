@@ -1,5 +1,5 @@
-# speaking_ch_3：PART III
-> 没有准备的时间、打草稿的时间\给出的点是一定要讨论到的\两个人的互动是很重要的
+# speaking_ch_3/PART III
+> 没有准备的时间、打草稿的时间/给出的点是一定要讨论到的/两个人的互动是很重要的
 
 # 1. 要求/ollaborative task/team work
 ## 1.1)notes
@@ -26,7 +26,7 @@
 - 2个人共同讨论的时间2mins
 - 老师根据每个人的表现提问：related questions/也可能不问
 
-# 3. 方法
+# 3. 模板
 ## 3.1 打开话题
 > 说自己的观点 + 邀请搭档回答
 - To begin with,how would you like...?
@@ -50,13 +50,19 @@
 ## 3.3 不同意/先肯定他的观点，然后表达自己有别的想法
 - your point is fair enough,but...
 - my suggestion is...
-- that's not exactly what I had in mind/what i was getting at/what i was thinking about.
+- that's not exactly what I had in mind/what i was
+getting at/
+what i was thinking
+about.
 - but i am still worried about...
 - i hear what you say,but what i mean is that...
 - that's very good point,but...
 
-## 3.4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上了
-- we may have some disagree with each other on this point,now let's move to next point.
+## 3.4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上
+- we may have some disagree with each other on 
+this point,now 
+let's move to
+next point.
 - I think we can discuss...further/a bit more.
 - we can talk/discuss/think more about...
 - XXX might be our foucus/concentration
@@ -67,7 +73,8 @@
 
 ## 3.5 总结(要带入自己之前的讨论)
 - from we talked before...
-- so we've got a lot to do[对前面进行总结],first...sencond...
+- so we've got a lot to do[对前面进行总结],
+first...sencond...
 - so to sum up,our company should...
 
 ## 3.6 摆事实、讲道理
@@ -75,74 +82,94 @@
 - we're aware of the fact that...
 - as we all know that...
 
-# 4. exp
-## 4.1 improve the way they listen and respond to customers
-    your company has received several complaints from customers about
-     how their concerns have been handled.
-     you have been asked to talk to your staff about how to [improve the
-     way they listen and respond to customers].
-     
-     discuss the situtaion together and decide:
-     * what aspects of customer care your staff need to be aware of?
-     * how you will monitor their dealing with customers?
-     
-     Q:what aspects of customer care your staff need to be aware of?
-       1)outline:
-         1.1)verbal quality
-             - voice volume
-             - voice speed
-             - articulation
-             - tenderness
-         1.2)root problem detection
-             - clarify problems
-             - classify problems
-             - problem solving skiils
-               guide the customers the way for effective solution
-         1.3)empathy
-             - make customers feel you are standing in their shoes to shoot problems.
-             
-       Q:how you will monitor their dealing with customers?
-       1)outline
-         1.1)record conversations between customers and staff;
-         1.2)invite customers to rate customer service quality;
-         1.3)enact supervisor support scheme:supervisors give timely professional
-             guidance to the staff;
-         1.4)establish'rewards and penlties'system
-             staff's monthly/yearly bonus /'bəʊnəs/
-             depends on his/her performance;
-             exp:the amount of complains received;
-                 the rating outcome;
-                 the positive feedback received from the customers.
+# 4. improve the way they listen and respond to customers
+> your company has received several complaints from customers
+about
+how their 
+concerns
+have been handled.
+you have been asked
+to talk to your
+staff about how
+to [improve the
+way they listen
+and respond to
+customers].
+
+### 1）what aspects of customer care your staff need to be aware of?
+#### 1)outline:
+##### 1.1）verbal quality
+- voice volume
+- voice speed
+- articulation
+- tenderness
+
+#### 1.2)root problem detection
+- clarify problems
+- classify problems
+- problem solving skills
+- guide the customers the way for effective solution
+
+#### 1.3)empathy
+- make customers feel you are standing in their shoes
+to shoot problems.
+
+### 2）how you will monitor their dealing with customers?
+####  1)outline
+- 1)record conversations between customers and staff;
+- 2)invite customers to rate customer service quality;
+- 3)enact supervisor support scheme:supervisors give timely
+professional
+guidance to the staff;
+- 4)establish'rewards and penlties'system
+staff's monthly/yearly bonus /'bəʊnəs/
+depends on his/her performance;
+- exp:the amount of complains received;
+the rating outcome;
+the positive feedback received
+from the customers.
                  
-        Q:how improtant do you think customer care is?
-        A:provide with professional training and support
+### 3）follow questions
+> how improtant do you think customer care is?
+- provide with professional training and support
         
-        Q:what negative reaction might you get from some staff about
-          this sort of training?
-        A:coerced as being controlled and monitored
+> what negative reaction might you get from some staff about
+this sort of training?
+- recorded as being controlled and monitored
           
-        Q:Do you think it's important to feed back to staff?why?
-        A:if yes,the feedback can contain can-do tips for staff.
+> Do you think it's important to feed back to staff?why?
+- if yes,the feedback can contain can-do tips for staff.
        
-## 4.2 team building
-       the company you work for is about to take over another company and 
-       is keen to encourge staff from both companies to work together
-       effectively.You have been asked to prepare a proposal for team
-       builing.
-       
-       discuss and decide together:
-       * what kinds of work projects and leisure activities would be
-         suitable to encourage team work.
-       * what benefits effective teamwork could bring to the company.
+# 5.team building
+> the company you work for is about to take over another
+company and 
+is keen to encourge staff 
+from both companies 
+to work together
+effectively.You have been 
+asked to prepare 
+a proposal for team
+builing.
+
+## 5.1 questions
+- what kinds of work projects and leisure activities
+would be
+suitable to 
+encourage team work.
+- what benefits effective teamwork
+could bring to the company.
         
-       follow questions:
-       * what benefits do you think individual employees get from working
-         in a strong team?
-       * what do you think it's the ideal number of people to work in a 
-         team?
-       * Do you think companies need individuals as well as team workers?
+## 5.2 follow questions:
+- what benefits do you think individual employees 
+get from working
+in a strong team?
+- what do you think it's the ideal number of
+people to work in a 
+team?
+- Do you think companies need individuals as well
+as team workers?
      
-# 5.机经
+# 6.机经
 - 项目新经理
 - 销售目录 
 - 员工运动俱乐部 
