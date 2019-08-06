@@ -160,7 +160,10 @@
 - poor screening may lead to product failure
 
 ### set up a new product committee
-- successful products development requires an effective organisational strcuture to stimulate and coordinate new product development.
+- successful products development requires an effective organisational strcuture to 
+stimulate and 
+coordinate new 
+product development.
 
 ## PART III.the sources of ideads for new product development
 - sales force
