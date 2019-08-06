@@ -25,10 +25,14 @@ they do.
 > yes/no +  'full sentence'
 > YES/definitely/of course/indeed/sure
 
-      Q:Is it a good idea to rent office equipment instead of buying them in china?
-      A:Yes,it saves costs a lot and employees can enjoy the benefit of the new technology all the time.
-        No,I think the company should buy basic equipment for a long term running.
-        Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
+- Q:Is it a good idea to rent office equipment instead of buying 
+them in china?
+- 1)Yes,it saves costs a lot and employees can enjoy the benefit 
+of the new technology 
+all the time.
+- 2)No,I think the company should buy basic equipment for 
+a long term running.
+- 3)Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
 
 ### 2)Which...
 > 二选一/折中
@@ -36,13 +40,25 @@ they do.
 ### 3)what
 > differ which:观点、评价、内容
 
-       Q:what kinds of businesses you think will be important for the economy in china in the future?
-       A： 1）Financial Services
-              Financial Services is a huge industry and includes services such as banking, investment
-              banking, mutual funds, foreign exchange and much more. A successful modern economy is mostly
-              dependant on a steady and efficient financial system making financial services an essential
-              ingredient of a thriving economy. So as long astrong economies are required Financial 
-              Services are required.
+- Q:what kinds of businesses you think will be important for the economy in 
+china in the future?
+- 1）Financial Services
+
+> Financial Services is a huge industry and includes services such as 
+banking, investment
+banking, mutual funds, 
+foreign exchange and 
+much more. A successful 
+modern economy is mostly
+dependant on a steady 
+and efficient financial
+system making financial
+services an essential
+ingredient of a thriving 
+economy. So as long astrong 
+economies are required 
+Financial Services 
+are required.
 
            2）Sharing Economy
               There are 100s of things that we have, but don't use it all the time (home, car, office, 
