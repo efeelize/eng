@@ -2,10 +2,10 @@
 > 口语 3.6
 
 # 1.words
-    generic                  /dʒɪ'nerɪk/         adj. 一般的；属的；类的；非商标的
-    tailor                   /'teɪlə/            v. 专门制作，订做；调整；迎合
-    saturated                /'sætʃəreɪtɪd/      adj.<化>(溶液)饱和的
-    counterfeit              /'kaʊntəfɪt/        n. 仿制品, 伪造物
+    generic                  /dʒɪ'nerɪk/                 adj. 一般的；属的；类的；非商标的
+    tailor                   /'teɪlə/                    v. 专门制作，订做；调整；迎合
+    saturated                /'sætʃəreɪtɪd/              adj.<化>(溶液)饱和的
+    counterfeit              /'kaʊntəfɪt/                 n. 仿制品, 伪造物
 
 # 2.phrase
     registered trademark                                  注册商标
