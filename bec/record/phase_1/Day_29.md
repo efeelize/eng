@@ -49,15 +49,24 @@ impression of richness,luxury,and exclusiveness.
 ### packaging design
 - set a particular product apart from other products,the pakaging should catch 
 buyer's eyes.
-- the desigh of shape,colour,size,graphics and typefaces plays an important role in making the product appealing /əˈpi:lɪŋ/.
+- the desigh of shape,colour,size,graphics and typefaces plays an important
+role in making 
+the product 
+appealing /əˈpi:lɪŋ/.
 
 ## PART III.packing designing
 ### fucnctional value
 - production process/strong enough to resist damage
-- transit process/protect the product against spoilage/'spɒɪlɪdʒ/[n. 损坏，糟蹋；掠夺；损坏物].
+- transit process/protect the product against spoilage/'spɒɪlɪdʒ/
+[n. 损坏，糟蹋；掠夺；损坏物].
 
 ### offer the buyer convenience
-- pump dispenser /dɪ'spensə/ can facilitate the use of products ranging from mustard to insect /'ɪnsekt/ [n. 昆虫] repellent /rɪ'pel(ə)nt/[驱虫剂].
+- pump dispenser /dɪ'spensə/ can facilitate the use of products ranging
+from mustard
+to insect
+/'ɪnsekt/ [n. 昆虫]
+repellent
+/rɪ'pel(ə)nt/[驱虫剂].
 
 
 
