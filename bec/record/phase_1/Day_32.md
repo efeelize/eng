@@ -16,13 +16,25 @@
     image pricing                                      体现产品形象的定价方式
 
 # 3.topic:customer satisfication
-## PART I.
+## PART II.dealing with customer complaints
+> remaining calm
+- apologize first,beacuse customers must be very upset when they are dissatisfied with the product or service.
+- listen to the complaints and apologize for the problem
 
+> suggesting a solution to the problem
 
-## PART II.
+> not make any promises that they cannot keep
 
-
-## PART III.
+## PART III.customer services
+- obtain feedback from customers
+- visit customers,call them ,send out written questionnaires 
+- set up a hot line for customers to air their opinions abouut service
+- sales figures can indicate the degree of customer satisfaction
+- train staff
+- hire experts to pose as routine customers to evaluate the quality of 
+service.
+- provide the product precisely when it is promised and in the minimum
+amount of time.
 
 
 
