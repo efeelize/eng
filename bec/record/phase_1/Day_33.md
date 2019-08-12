@@ -24,10 +24,13 @@ and bring others.
 - it cost siginificantly less to keep a customer than to get a new one.
 
 ## PART II.maintain customer loyalty
-### discount
+> discount
+- a company can make its existing customers happy and remain loyal to 
+the company's discount.
 
-### quality products.
-
+> quality products.
+> quality service
+- supply service and follow-up in a timely manner to retain their customers.
 
 ## PART III.
 
