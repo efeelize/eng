@@ -1,5 +1,5 @@
 # Day_34
-> 口语3.9
+> 口语3.9/vol3_test2_part3
 # 1.words
     miscellaneous              /ˌmɪsə'leɪnɪəs/       adj. 不同种类的;混杂的
     middleman                  /'mɪd(ə)lmæn/         n. 中间人
@@ -13,6 +13,26 @@
     scrambled                  /'skræmb(ə)l/         n.混乱，混乱的一团
                                                      adj.爬，攀登；争抢，抢占
     assortment                 /ə'sɔːtm(ə)nt/        n. 分类；混合物
+
+## PART III.
+    operators                  /'ɒpəreɪtə/
+    internal                   /ɪn'tɜːn(ə)l/
+    studio
+    retention                  /rɪ'tenʃ(ə)n/         n. 具有, 具备;记忆力, 记性
+    definitely                 /'dɛfɪnətli/
+    noticeboards/Bulletin board
+    definite                   /'defɪnɪt/
+    insecurity                 /ˌɪnsɪˈkjʊərɪtɪ/
+    organogram/Organizational chart
+    vacuum                     /'vækjʊəm/
+    substitute                 /'sʌbstɪtjuːt/        vt. & vi. 代替, 替换, 代用
+    physically                 /'fizikli/
+    suprisingly
+    internally                 /in'tə:nəli/          adv. 内地；内部地
+    entirely
+    disturb                    /dɪ'stɜːb/
+    rapport                    /ræ'pɔː/             n. 密切关系，交往；和谐一致
+    chaos                      /'keɪɒs/
 
 # 2.phrase
     marketing intermediaries   /ˌɪntə'miːdɪərɪ/   n. 中间人;调解人/营销中间渠道
@@ -58,25 +78,6 @@
 ### agents
 ### manufacturess' and retailers' branches and office
 ### miscellaneous /ˌmɪsə'leɪnɪəs/ wholesalers
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
