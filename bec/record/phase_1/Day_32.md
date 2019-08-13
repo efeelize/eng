@@ -53,7 +53,9 @@
 # 3.topic:customer satisfication
 ## PART II.dealing with customer complaints
 > remaining calm
-- apologize first,beacuse customers must be very upset when they are dissatisfied with the product or service.
+- apologize first,beacuse customers must be very upset when they are dissatisfied with the 
+product 
+or service.
 - listen to the complaints and apologize for the problem
 
 > suggesting a solution to the problem
