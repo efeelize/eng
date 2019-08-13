@@ -45,7 +45,8 @@
 # 3.topic:travel and transport
 ## PART I.choosing an airline for a business trip
 - in-flight catering /ˈkeɪtərɪŋ/
-- in-flight video,free newspaper & magazines so that you may read through the long flight.
+- in-flight video,free newspaper & magazines so that you may read through
+the long flight.
 - offers broadband connectivity that can beam live TV programs
 
 ## PART II:choosing transport for a business trip
@@ -64,16 +65,29 @@ your targets.
 
 ## PART III.green travel plan
 ### how
-- provide your staff with more efficient and enviromentally friendly options for travelling to work and travelling on business.
+- provide your staff with more efficient and enviromentally friendly 
+options for
+travelling
+to work 
+and travelling
+on business.
 - developing and encouraging staff car pool or car-sharing schemes
 - encouraging use of cleaner and less polluting fuel
-- providing bike racks /ræk/ [n. 货架；行李架]and shower and changing facilities for cyclists
+- providing bike racks /ræk/ [n. 货架；行李架]and shower and changing
+facilities 
+for cyclists
 - promotion of public transport
-- paying mileage  /'maɪlɪdʒ/ [n. 英里数] for employees using cycles on business errands/'er(ə)nd/ [n. 差事；差使；使命
+- paying mileage  /'maɪlɪdʒ/ [n. 英里数] for employees using cycles
+on business 
+errands/'er(ə)nd/
+[n. 差事；
+差使；使命
 ].
 - using IT systems such as videoconferencing and email.
 - looking at alternative methods of distribution
-- provide on-site facilities such as a cash machine to reduce the need for journeys offsite.
+- provide on-site facilities such as a cash machine to reduce
+the need for 
+journeys offsite.
 
 ### sentence
 - what measures shall we take to ensure that...
