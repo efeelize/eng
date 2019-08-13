@@ -1,12 +1,11 @@
 # Day_37.md
 > 口语 4.2
 # 1.words
-<<<<<<< HEAD
+
 
 # 2.phrase
 
 # 3.topic
-=======
     guesthouse
     
 
@@ -14,7 +13,7 @@
     mountain resort                 /rɪ'zɔːt/                    避暑山庄
     vacancy rate                                                 空房率
     per diem
-    
+
 
 
 # 3.topic:travel and accommodation
