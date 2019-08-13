@@ -1,9 +1,6 @@
 # Day_35.md
-<<<<<<< HEAD
 > 口语 4.1/vol3_test3_part1
-=======
-> 口语 4.1
->>>>>>> refs/remotes/origin/master
+
 # 1.words
     accreditation                  /ə,kredi'teiʃən/             n. 委派,信赖,鉴定合格
     mileage                        /'maɪlɪdʒ/                   n. 英里数
@@ -13,7 +10,6 @@
 
     subsidize                       /ˈsʌbsidaiz/                vt. 给…津贴或补贴; 资助或补助…
     subsidy                                                     n. 津贴；补助金；补贴
-<<<<<<< HEAD
   
 ## PART I.
     perennial                       /pə'renɪəl/            adj & adv. 经常出现的;长期的
@@ -29,9 +25,6 @@
     uplift on                                                   vt. 提高；抬起
     teen                            /tiːn/                      n. 十几岁
     loyalty
-=======
-     
->>>>>>> refs/remotes/origin/master
 
 # 2.phrase
     traveling type                                               喜欢旅行的人
@@ -62,8 +55,7 @@
     compressed work week                                         每天工作长时间，少上几天班
     rush-hour congestion                                         高峰时段的拥挤现象
     free shuttle                                                 免费班车
-    
-    
+
 # 3.topic:travel and transport
 ## PART I.choosing an airline for a business trip
 - in-flight catering /ˈkeɪtərɪŋ/
@@ -113,12 +105,4 @@ journeys offsite.
 
 ### sentence
 - what measures shall we take to ensure that...
-<<<<<<< HEAD
-=======
 
-
-
-
-
-
->>>>>>> refs/remotes/origin/master
