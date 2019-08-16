@@ -1,7 +1,8 @@
 # Day_37.md
 > 口语 4.2/vol3_test3_part2、part3
 # 1.words
-    guesthouse
+    guesthouse                                     n.家庭旅馆
+    
 
 ## PART II
     employee                /emplɒɪ'iː/             n. 雇工, 雇员
@@ -82,6 +83,7 @@
     mountain resort           /rɪ'zɔːt/             避暑山庄
     vacancy rate                                    空房率
     per diem                  /pə ˈdiəm/            [拉]n. 每日
+    nary a/an                 /'neərɪ/              adj. 连…也没有的
 
 # 3.topic:travel and accommodation
 
