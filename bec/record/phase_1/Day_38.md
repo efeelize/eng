@@ -71,10 +71,27 @@
     better-value                                    adj.更合算的
 
 # 3.topic:domestic travel
-## PART I.
+## PART I.what is improtant when planning business trips
+### purpose 
+- if it is a business visit to another company for potential contract,you'll have to think
+beforehand [adv. 预先, 事先] who you're going to meet,what to discuss and how to promote
+your company.
+- if your purpose is to launch a product,you'll have to collect detailed information 
+about the product and be prepared to answer any questions that may be raised.
 
+### travel arrangement
+- have advanced booking for deals and discounts and have a good preparation of the trip
+- an itinerary /aɪ'tɪn(ə)(rə)rɪ/ [n. 旅程;行程] is very important so that you can manage your time
+in an efficient way to better fulfill your  purposes.
 
-## PART II.
+### give a thought to the luggage
+- keep your luggage light and never expect anyone else to carry it for you.
+- well prepared and travelling light,the business trip will be rewarding delight.
+
+## PART II.selecting an agency to arrange business travel
+### reputation
+- an agency with a good repution is usually reliable and offers quality service which is essential
+for the accomplishment of your business tasks.
 
 
 ## PART III.
