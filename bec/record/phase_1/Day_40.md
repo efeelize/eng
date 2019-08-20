@@ -50,23 +50,83 @@
 ## PART I.
 ### 1.why is corporate culture important to a company?
 - it is improtant because it can make or break your company,company
-culture is actually the shared values and norms of the organisation,
-and it guide the day-to-day operation of the company,so it is vital
-in this competitive age.
+culture is 
+actually 
+the shared
+values and 
+norms of
+the organisation,
+and it 
+guide 
+the day-to-day 
+operation 
+of the company,
+so it is 
+vital
+in this
+competitive 
+age.
 
 ### 2.do you think corporate culture will change or always remain the same.
-- should adaptive,and should be aligned to the business goals of the company,in this way,
-the company will be able to adapt itself to the changing business environment,outperform 
-the competitors and achieve success.
+- should adaptive,and should be aligned to the business goals of the company,
+in this way,
+the company
+will be 
+able to 
+adapt itself
+to the 
+changing
+business
+environment,
+outperform 
+the competitors 
+and achieve
+success.
 
 ## PART II.design a company brochure /'brəʊʃə/
 ### company culture
-- if the brochure is printed on environmentally friendly paper,it tells the p
+- if the brochure is printed on environmentally friendly paper,it tells 
+the public 
+about your
+ethic values.
 
-### costs
+### the profile of the target market
+- your brochures are attractive to your target customers
+- the brochures should also reflect the characteristics of the industry your
+company 
+is in.
+
+## PART III.creating healthy corporate culture
+- the essence of a company culture should include:teamwork,mutual respect,commitment
+and integrity.
+- corporate culture is virtually the personality of an organisation ,as it determines 
+how things
+are done
+around here.
+- enhance job satisfaction in our employeesm,so we need to provide more channels of 
+communication
+among and 
+between 
+management 
+and staff.
+- provide training programs,outdoor events,in-company seminars,etc,so as to increase
+personal 
+awareness
+of ablities
+and complementary
+skills in 
+colleagues.
+- readjust our staff appraisal policy and provide enough incentives to show that we
+recognize and 
+reward the 
+commitments and 
+talents of 
+our employees.
+- offer additional benefits to excellent performers,like a paid holiday or retail 
+vouchers.
 
 
-## PART III.
+
 
 
 
