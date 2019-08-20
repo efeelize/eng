@@ -47,10 +47,14 @@
     care for people and environment                以人为本、注重环境
 
 # 3.topic:corporate culture
-## PART I.why is corporate culture important to a company?
+## PART I.
+### 1.why is corporate culture important to a company?
 - it is improtant because it can make or break your company,company
-culture is 
+culture is actually the shared values and norms of the organisation,
+and it guide the day-to-day operation of the company,so it is vital
+in this competitive age.
 
+### 2.do you think corporate culture will change or always remain the same.
 
 ## PART II.
 
