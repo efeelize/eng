@@ -47,7 +47,9 @@
     care for people and environment                以人为本、注重环境
 
 # 3.topic:corporate culture
-## PART I.
+## PART I.why is corporate culture important to a company?
+- it is improtant because it can make or break your company,company
+culture is 
 
 
 ## PART II.
