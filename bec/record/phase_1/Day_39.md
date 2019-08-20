@@ -33,17 +33,99 @@
     cultural conflict                               文化冲突
     do's and don'ts                                 行为准则，注意事项
 
-
-
 # 3.topic:travelling abroad
-## PART I.
+## PART I.what is improtant when having a business travel abroad?
+### advance preparations
+- the traveller should accomplish as much as possible before the trip begins,by 
+obtaining 
+names
+of possible
+contacts,
+arranging 
+appointments,
+checking 
+transportation
+schedules,etc.
+- get maximum value from the time spent abroad
 
+### dress properly
+- your dress should show respect to your host and the culture of the
+host country 
+and should 
+reflect your
+status as
+a decent 
+business 
+person.
 
-## PART II.
+## PART II.what is improtant when selecting staff for fact-finding tours abroad
+### positions in the company
+- people selected should be related to the tasks to accomplish.
+- for instance,if the mission of the trip is to observe the overseas market 
+and the consuming
+habits of 
+the customers 
+there,we 
+should select
+those in 
+charge of
+the market
+research 
+in the company 
+in order
+to carry out
+the work 
+successfully.
 
+### previous experience
+- a good understanding of the culture and the ways of doing business in the
+target country 
+is vital to
+aviod cultural 
+pitfalls 
+/'pɪt,fɔl/ 
+[n. 陷阱；诱惑].
+- in this respect,those who have been abroad and have previous 
+experience of 
+other
+countries will
+obviously do 
+better than 
+those who
+haven't.
 
-## PART III.
+### foreign language skills
+- it may pose a barrier if its use obscures meaning and distorts what you
+want to say.
+- a competent translator would be necessary if the fact-finding team hasn't 
+got anyone
+who speaks 
+the foreign
+language well.
 
+## PART III.foreign business trip
+- make travel and accommodation arrangements,such as choosing an airline
+offering good 
+services and 
+the flight of
+the right time
+so that we can
+arrange things
+well and in an
+effective way.
+- make advance reservation with a local hotel so that the people for the
+trade fair can
+have a place
+to stay
+immediately 
+after they 
+arrive in 
+the country.
+
+### sentence
+- ... is a top proproty that...
+- in this respect
+- for instance
 
 
 
