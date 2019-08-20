@@ -93,9 +93,17 @@ in an efficient way to better fulfill your  purposes.
 - an agency with a good repution is usually reliable and offers quality service which is essential
 for the accomplishment of your business tasks.
 
+### speed of service
+- it often means business opportunities,sometimes there may be an urgent trip to make so it is better
+to select a travel agency which deals with last-minutes airline bookings.
 
-## PART III.
-
+## PART III.cut traveling cost
+- some of the face-to-face talks may simply be replaced by a conference call
+- some travels can be arranged at a later date in conjunction with another trip
+- the company should encourage its staff to stay in nice hotels instead of expensive ones and always ask for a discount.
+- employees should be advised not to choose convenience over cost-effectiveness.for instance,a taxi is much less expensive than a 
+chauffeured /'ʃəʊfə/  car.[专车]
+- have one set procedure for all employees to follow for business travel expenses.
 
 
 
