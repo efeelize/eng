@@ -55,8 +55,15 @@ and it guide the day-to-day operation of the company,so it is vital
 in this competitive age.
 
 ### 2.do you think corporate culture will change or always remain the same.
+- should adaptive,and should be aligned to the business goals of the company,in this way,
+the company will be able to adapt itself to the changing business environment,outperform 
+the competitors and achieve success.
 
-## PART II.
+## PART II.design a company brochure /'brəʊʃə/
+### company culture
+- if the brochure is printed on environmentally friendly paper,it tells the p
+
+### costs
 
 
 ## PART III.
