@@ -73,37 +73,109 @@
 # 3.topic:domestic travel
 ## PART I.what is improtant when planning business trips
 ### purpose 
-- if it is a business visit to another company for potential contract,you'll have to think
-beforehand [adv. 预先, 事先] who you're going to meet,what to discuss and how to promote
-your company.
-- if your purpose is to launch a product,you'll have to collect detailed information 
-about the product and be prepared to answer any questions that may be raised.
+- if it is a business visit to another company for potential contract,
+you'll have
+to think
+beforehand
+[adv. 预先, 事先] 
+who you're 
+going to 
+meet,what
+to discuss
+and how
+to promote
+your 
+company.
+- if your purpose is to launch a product,you'll have to collect
+detailed 
+information 
+about the product and be prepared to answer any questions that
+may be
+raised.
 
 ### travel arrangement
-- have advanced booking for deals and discounts and have a good preparation of the trip
-- an itinerary /aɪ'tɪn(ə)(rə)rɪ/ [n. 旅程;行程] is very important so that you can manage your time
-in an efficient way to better fulfill your  purposes.
+- have advanced booking for deals and discounts and have a good 
+preparation
+of
+the 
+trip.
+- an itinerary /aɪ'tɪn(ə)(rə)rɪ/ [n. 旅程;行程] is very important so 
+that you 
+can manage 
+your time.
+in an 
+efficient 
+way to
+better 
+fulfill 
+your purposes.
 
 ### give a thought to the luggage
-- keep your luggage light and never expect anyone else to carry it for you.
-- well prepared and travelling light,the business trip will be rewarding delight.
+- keep your luggage light and never expect anyone else to carry
+it for you.
+- well prepared and travelling light,the business trip will be 
+rewarding
+delight.
 
 ## PART II.selecting an agency to arrange business travel
 ### reputation
-- an agency with a good repution is usually reliable and offers quality service which is essential
-for the accomplishment of your business tasks.
+- an agency with a good repution is usually reliable and offers 
+quality service 
+which is 
+essential
+for the
+accomplishment 
+of your 
+business 
+tasks.
 
 ### speed of service
-- it often means business opportunities,sometimes there may be an urgent trip to make so it is better
-to select a travel agency which deals with last-minutes airline bookings.
+- it often means business opportunities,sometimes there may 
+be an 
+urgent
+trip to
+make so
+it is better
+to select 
+a travel
+agency which
+deals with 
+last-minutes
+airline 
+bookings.
 
 ## PART III.cut traveling cost
-- some of the face-to-face talks may simply be replaced by a conference call
-- some travels can be arranged at a later date in conjunction with another trip
-- the company should encourage its staff to stay in nice hotels instead of expensive ones and always ask for a discount.
-- employees should be advised not to choose convenience over cost-effectiveness.for instance,a taxi is much less expensive than a 
+- some of the face-to-face talks may simply be replaced by a 
+conference call.
+- some travels can be arranged at a later date in conjunction 
+with 
+another trip.
+- the company should encourage its staff to stay in nice hotels
+instead of 
+expensive
+ones and
+always ask 
+for a discount.
+- employees should be advised not to choose convenience over 
+cost-effectiveness.
+for instance,
+a taxi is 
+much less
+expensive 
+than a 
 chauffeured /'ʃəʊfə/  car.[专车]
-- have one set procedure for all employees to follow for business travel expenses.
+- have one set procedure for all employees to follow for 
+business 
+travel expenses.
+- pick a simplest financial software system that serves your 
+business travel
+needs
+and then
+have everyone
+from the
+top down 
+follow it
+excatly.
 
 
 
