@@ -90,31 +90,113 @@
 
 # 3.topic:travel and accommodation
 ## PART I.
-### 1.could you suggest any effective way to find affordable accommodation without sacrificing comfort?
-- online booking can be a good way.many of the nicest hotels in the world offer deals online that are far below their standard rack rates.
+### 1.could you suggest any effective way to find affordable accommodation without 
+sacrificing comfort?
+- online booking can be a good way.many of the nicest hotels in the world offer deals
+online that are
+far below their
+standard rack rates.
 
 ### 2.what do you think can do about emoloyees dishonest in travel expense reporting?
-- have a single,clear and well-introduced travel expense policy in place,then you may find a majority of your employees honestly reporting their expenses.
+- have a single,clear and well-introduced travel expense policy in place,then
+you may find
+a majority of
+your employees 
+honestly 
+reporting 
+their expenses.
 
 ## PART II.choosing a hotel for people willing on business
 ### location
-- choose to stay in a hotel at a central business district with good transport connections for the convenience of business meetings and talks with your clients.
-- stay in a nicely located hotel which offers esay access to good restaturant and major airline offices for better entertainment of your clients and easy arrangement of tour trips.
+- choose to stay in a hotel at a central business district with good transport 
+connections 
+for the convenience
+of business 
+meetings 
+and talks
+with your 
+clients.
+- stay in a nicely located hotel which offers esay access to good restaturant 
+and major airline
+offices for 
+better
+entertainment
+of your clients
+and easy 
+arrangement 
+of tour trips.
 
 ### facilities provided
-- should come equipped to handle standard business needs,such as cordless telephones,voice mail,internet access,data/fax modem ports and meeting rooms as well as CD/clock radios to awaken you in the morning with nature sounds.
+- should come equipped to handle standard business needs,such as cordless telephones,
+voice mail,
+internet 
+access,data/fax
+modem ports
+and meeting 
+rooms as well 
+as CD/clock radios
+to awaken you 
+in the morning
+with nature
+sounds.
 - same-day dry-cleaning and workout facilities
 - workout facilities
 
 ### size
-- larger hotels usually offers centralized and off-premises reservation systems and information about flights,currency exchange,as well as courtesy coach sevice to the airport,which is convenient for business travellers.
+- larger hotels usually offers centralized and off-premises reservation systems
+and information
+about flights,
+currency exchange,
+as well as 
+courtesy 
+coach 
+sevice to
+the airport,
+which is 
+convenient 
+for business
+travellers.
 - a large hotel will give your visitors a better impression of your company
 
 ## PART III.dealing with high vacany rate.
 ### how
-- introduce schemes such as a health club where business travellers are given massages and health treatments,workouts and a range of services such as psychological consultancy to combat /'kɒmbæt/ [vi. 战斗；搏斗] stress.
-- upgrade their facilities with modem connections for laptop computers and other business-oriented amenities /ə'miːnɪtɪ/  such as mutli-line phone with voicemail and fax machine to make it more convenient for business travellers.
-- get to know customers and their special interests better,offering customized services to pamper /'pæmpə/ [vt. 纵容;宠;娇养] our business guests wanting a higher level of comfort and service to make their stay an unforgettable experience.
+- introduce schemes such as a health club where business travellers are
+given massages 
+and health
+treatments,
+workouts 
+and a range 
+of services
+such as
+psychological 
+consultancy
+to combat
+/'kɒmbæt/ [vi. 战斗；搏斗] 
+stress.
+- upgrade their facilities with modem connections for laptop computers 
+and other
+business-oriented 
+amenities /ə'miːnɪtɪ/ 
+such as mutli-line
+phone with 
+voicemail 
+and fax machine
+to make it more
+convenient
+for business
+travellers.
+- get to know customers and their special interests better,offering
+customized services
+to pamper /'pæmpə/ 
+[vt. 纵容;宠;娇养] 
+our business guests
+wanting a higher
+level of comfort
+and service 
+to make their
+stay an
+unforgettable
+experience.
 
 ### sentence
 - these are reasons form outside,looking at reasons from within.
