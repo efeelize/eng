@@ -41,16 +41,41 @@
 
 # 3.topic：company image
 ## PART I.logo
-- the company's image and target audience should be put high on the priority list.
-- the logo should reflect the cultural values the company upholds,and be attractive to the targeted potential customers.
+- the company's image and target audience should be put high on the
+priority list.
+- the logo should reflect the cultural values the company upholds,
+and be
+attractive 
+to the 
+targeted
+potential 
+customers.
 
 ## PART II.what's important when designing a company magazine
 ### target readership
-- whether it is an in-house magazine designed for employees or a magazine that aims to attract your customers.
+- whether it is an in-house magazine designed for employees or
+a magazine
+that aims
+to attract
+your
+customers.
 
 ### contents included
-- it should cover such topics as news about people and events in the company,or the latest sales figures,staff competition,etc.
-- advertise your new products,release latest news about product development or give special offers to customers.
+- it should cover such topics as news about people and events
+in the 
+company,
+or the 
+latest sales
+figures,
+staff 
+competition,
+etc.
+- advertise your new products,release latest news about
+product development
+or give
+special 
+offers
+to customers.
 
 
 
