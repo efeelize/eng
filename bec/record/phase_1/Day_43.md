@@ -29,23 +29,69 @@
 # 3.topic:corporate gifting
 ## PART I.give gifts to clients
 ### importance
-- help to retain our customers over the long term,as corporate gifts can help us build closer ties with our existing clients.
-- helps to create excellent business chances,it also helps to ensure customer satisfaction.
-- gifts demonstrate that we appreciate the choice they have made to buy services and products from our company instead of our competitors.
-- can be used to remember special events in our business relationship.
-- corporate gifts are tokens of appreciation and respect.It's good business etiquette /'etɪket/ to send gifts to your clients,as they bring about a feeling of warmth and friendship.
-- it helps to maintain good business relationship between suppliers and clients.
+- help to retain our customers over the long term,as corporate 
+gifts can
+help us
+build 
+closer
+ties with 
+our 
+existing
+clients.
+- helps to create excellent business chances,it also helps 
+to ensure
+customer
+satisfaction.
+- gifts demonstrate that we appreciate the choice they 
+have made
+to buy 
+services 
+and products
+from 
+our company 
+instead of
+our competitors.
+- can be used to remember special events in our business 
+relationship.
+- corporate gifts are tokens of appreciation and
+respect.
+It's good
+business
+etiquette
+/'etɪket/ 
+to send 
+gifts to 
+your clients,
+as they
+bring about 
+a feeling 
+of warmth 
+and 
+friendship.
+- it helps to maintain good business relationship between suppliers 
+and clients.
 
 ### how
-- cultural differences,we have to understand the culture of the receiver.
-- personalize the gift reflects company image sand personality,we want to leave a striking impression on our clients.
-- the gift should be the highest quality and the best tatse.because it not only conveys our warm feeling of respect and appreciation,but also says a lot about our company.
-
-## PART II.
-
-
-## PART II.
-
-
+- cultural differences,we have to understand the culture 
+of the 
+receiver.
+- personalize the gift reflects company image sand personality,
+we want 
+to leave
+a striking
+impression 
+on our clients.
+- the gift should be the highest quality and the best tatse.
+because it 
+not only
+conveys 
+our warm
+feeling 
+of respect
+and appreciation,
+but also says
+a lot 
+about our
+company.
 
 
