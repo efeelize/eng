@@ -1,4 +1,4 @@
-# Day_48
+# Day_50
 > 口语6.3
 ## 1.words
     embargo                 /em'bɑːgəʊ/      vt. 禁止或限制贸易；征用或扣押
