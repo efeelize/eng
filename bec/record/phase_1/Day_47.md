@@ -17,6 +17,47 @@
     market-oriented location                             靠近市场的场所
 
 # 3.topic:site location and relocation
+## factors
+### economies 
+- economies of cost or other economic advantage for land,building or units,taxes,insurance
+- taxes may be sizable for a company with a multimillion-dollar investment in facilities and inventory,so it may
+select a location where tax reductions or exemptions are allowed to new business.
+
+### demand for products or services
+- nearness to related industries and suppliers,warehouse,or service operations
+- location of competitors
+- availability of appropriate labor force,considering such factors as quality or low cost.
+- availability of economical  transportation for materials and suppliers as well as for finished 
+goods.
+- nearness to market for goods.
+- air and water conditions
+- nearness to plentiful and economical energy sources.
+- climate and environment in line with needs for the kind of industry and amenable for employees' lifestyle.
+- ample space for planned needs of business and for later expansion.
+- nearness to such employee needs as housing,schoold,transportation,religious facilities,day care,shopping,
+and recreational facilities.
+- community receptiveness.
+
+## improtance
+- it enable a company to provide convenient,dependable service to iys customers.locating in areas where there
+are sufficient skilled or trained workers with a good work ethic can lead to higher-quality performance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
