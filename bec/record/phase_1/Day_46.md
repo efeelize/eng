@@ -36,13 +36,15 @@
     business interaction                                     商务交往
 
 # 3.topic:entertaining business clients
+## PART I.what is important when entertaining business clients?
+> a clear plan
+- work out a list of specific business objectives to achieve,therefore while making sure our business
+clients enjoy themselves,we quitely and smoothly direct the meeting step by step towards our goal.
 
-
-
-
-
-
-
+> the timing
+- inopportune /ɪn'ɒpətjuːn/ [adj. 不凑巧的;不合时宜的] mentioning of the matter of business may embarrass
+our clients at a social setting and discourage their interest in business you intend to do and even ruin 
+a fine business opportunity.
 
 
 
