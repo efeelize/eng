@@ -63,15 +63,43 @@
     court shoes                                         与正装配套的高跟鞋
 
 # 3.topic:dress code
+## PART I.dressing for a job interview
+### improtant
+- give our customers a sense of credibility and a sense of efficiency.
+- the way you dress reflects the professional image of the company,
+because you 
+represent 
+your company
+to everyone 
+on the 
+outside,
+so companies
+should set 
+rules about
+what their'
+staff should
+wear in
+working
+hours.
+- looking your best also show
 
+### how
+- dress a bit conservatively-man can wear suit,at least wear a jacket,polishde shoes and pressed pants,
+ladies can wear dress and smart-looking pant suit and complementary blouse with stylish dress shoes.
+- if you appear slovenly /'slʌv(ə)nlɪ/ [adj. 疏忽的;懒散的；邋遢的;不整洁的],no one can really trust you,
+looking your best also shows respect for the meeting and for the interview.
 
+## PART II.adopting a business-appropriate dress policy
+### improtance
+- what our staff wear demonstrates the values and the morale of our company.
+- enhance the professional image of the company,as staff members look neat and sharp in uniforms.
 
-
-
-
-
-
-
+### how
+- hold lectures /'lɛktʃɚ/ [n. 演讲，讲演] or training sessions on how their staff members should dress themselves or behave 
+on public occasions,to maintain a good public image.
+- formal business attire  /ə'taɪə/ [n. 服装；盛装] should be worn when facing our customers and clients and at scheduled meetings.
+- gain the trust of our customers,because they'll associate our professional image with the quality of business we run.
+- we should not only write down what should be worn ,we should also make clear what should not be worn in workplace.
 
 
 
