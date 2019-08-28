@@ -23,12 +23,8 @@
     pet shop                                               宠物店
     shopping mall                                   （只限行人活动的）商店区
     
-    
-    
-    
-
-
 ## 3.topic:franchise
+
 
 
 
