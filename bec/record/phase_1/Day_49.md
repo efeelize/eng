@@ -25,11 +25,7 @@
     local adaptation                                             产品调整
     marketing disater                                            营销惨败
     
-    
-
-
-
-## 3.topic
+## 3.topic：
 
 
 
