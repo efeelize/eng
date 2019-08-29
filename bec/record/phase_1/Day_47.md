@@ -18,31 +18,120 @@
 
 # 3.topic:site location and relocation
 ## improtance
-- it enable a company to provide convenient,dependable service to iys customers.locating in areas where there
-are sufficient skilled or trained workers with a good work ethic can lead to higher-quality performance.
+- it enable a company to provide convenient,dependable service to its 
+customers.
+locating 
+in areas
+where there
+are 
+sufficient
+skilled
+or trained
+workers 
+with a 
+good work
+ethic
+can lead 
+to higher
+-quality
+performance.
 
 ## how
 ### economies 
-- economies of cost or other economic advantage for land,building or units,taxes,insurance
-- taxes may be sizable for a company with a multimillion-dollar investment in facilities and inventory,so it may
-select a location where tax reductions or exemptions are allowed to new business.
+- economies of cost or other economic advantage for land,building
+or units,
+taxes,
+insurance.
+- taxes may be sizable for a company with a multimillion-dollar
+investment
+in facilities
+and inventory,
+so it may
+select 
+a location 
+where 
+tax reductions 
+or exemptions
+are allowed
+to new 
+business.
 
 ### demand for products or services
-- nearness to related industries and suppliers,warehouse,or service operations
-- demand forecasts help determine where goods or services are most likely to be sold.
-- a weighted center of demand exists for each product or product family,so a company should select a location which suppliers this demand.
-- availability of economical  transportation for materials and suppliers as well as for finished goods.
+- nearness to related industries and suppliers,warehouse,
+or service 
+operations.
+- demand forecasts help determine where goods or 
+services 
+are most
+likely 
+to be sold.
+- a weighted center of demand exists for each product or
+product family,
+so a 
+company
+should 
+select 
+a location
+which 
+suppliers
+this demand.
+- availability of economical transportation for materials
+and suppliers
+as well 
+as for
+finished 
+goods.
 
 ### employees
-- climate and environment in line with needs for the kind of industry and amenable for employees' lifestyle.
-- ample space for planned needs of business and for later expansion.
-- nearness to such employee needs as housing,schoold,transportation,religious facilities,day care,shopping,
-and recreational facilities.
+- climate and environment in line with needs for the 
+kind of 
+industry
+and 
+amenable
+for 
+employees' 
+lifestyle.
+- ample space for planned needs of business and for 
+later 
+expansion.
+- nearness to such employee needs as housing,schoold,
+transportation,
+religious 
+facilities,
+day care,
+shopping,
+and 
+recreational 
+facilities.
 
 ### location
-- located in a well-established and fast-growing business area,because in such an area,there are many businesses which will need law services.
-- the public transportation is very convenient in such an area,customers will find it easy to get to us.
-- being located in a place with high demand will boost our business,thus increaing the company's profits.
+- located in a well-established and fast-growing 
+business 
+area,because
+in such 
+an area,
+there are 
+many businesses
+which 
+will 
+need 
+law 
+services.
+- the public transportation is very convenient
+in such 
+an area,
+customers
+will find
+it easy 
+to get 
+to us.
+- being located in a place with high demand will
+boost our 
+business,
+thus increaing
+the 
+company's
+profits.
 
 ## PART III.
 ### sentence
