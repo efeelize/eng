@@ -27,22 +27,53 @@
     
 ## 3.topic：
 ## PART I.set prices for product sold in foreign markets
-- include production costs and costs of foreign trade,such as taxes,tariffs,and transportation,
-often they are higher than prices in domestic markets.
+- include production costs and costs of foreign trade,such as taxes,
+tariffs,
+and 
+transportation,
+often they
+are higher
+than prices
+in 
+domestic
+markets.
 
 ## PART II. exporting goods or services for the first time
 ### improtance
-- in order to develop new market or to reduce costs through economies of scale or lower wages.
-- take advantage of rich resources in other countries or lower government restrictions.
+- in order to develop new market or to reduce costs through economies
+of scale
+or lower
+wages.
+- take advantage of rich resources in other countries or
+lower government
+restrictions.
 
 ### how
-- take cultural differences into consideration when exporting goods or services for the first time.
-- seek professional advice,it may aviod marketing disaters which may lead to big loses.
+- take cultural differences into consideration when exporting
+goods or 
+services 
+for the 
+first time.
+- seek professional advice,it may aviod marketing disaters 
+which 
+may lead 
+to big 
+loses.
 
 ## PART III.entering foreign markets
 ### how
-- by setting up subsidiary,we can save the shipping costs and keep complete control of the business.
-- to meet the needs in foreign markets,we have to adapt product even through the process in costly.
+- by setting up subsidiary,we can save the shipping costs
+and keep 
+complete
+control 
+of the 
+business.
+- to meet the needs in foreign markets,we have to adapt 
+product even 
+through 
+the 
+process
+in costly.
 
 
 
