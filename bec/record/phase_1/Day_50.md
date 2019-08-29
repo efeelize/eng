@@ -26,15 +26,29 @@
 # 3.topic:franchise
 ## PART II.entering a franchising argeement
 ### training programme
-- overcome managerial deficiencies or inexperience by providing some form of training.
+- overcome managerial deficiencies or inexperience by providing some form 
+of training.
 
 ### brand name
-- the investor who signs a franchaise agreement acquires the right to use a certain brand name,
-this identifies the local unit with a recongized product or service.
+- the investor who signs a franchaise agreement acquires the right to use 
+a certain
+brand name,
+this identifies
+the local
+unit
+with 
+a recongized
+product 
+or service.
 
 ### costs
-- association with a well-established franchisor-through its reputation-may enhance the investor's
-credit rating with local banks.
+- association with a well-established franchisor-through its 
+reputation-may
+enhance 
+the investor's
+credit 
+rating with
+local banks.
 
 ## PART III.
 ### sentence
@@ -42,9 +56,37 @@ credit rating with local banks.
 - that's true.
 
 ### how
-- look into some of the franchise firm's information,like its fiancial statement,because it can show
-whether the franchise firm is makeing profits or not,in other words,whether the firm is doing well or
+- look into some of the franchise firm's information,like 
+its fiancial 
+statement,
+because 
+it can show
+whether
+the franchise
+firm is 
+makeing profits
+or not,
+in other 
+words,whether
+the firm 
+is doing 
+well or
 poorly.
-- look into the franchise fee:how much does the firm charge to the buyer?is the fee too high compared to 
-other franchise firms?
-- whether the franchise firm has a nationally or regionally well-know name.
+- look into the franchise fee:how much does the firm 
+charge to 
+the buyer?
+is the fee
+too high 
+compared to 
+other 
+franchise
+firms?
+- whether the franchise firm has a nationally or regionally
+well-know name.
+
+
+
+
+
+
+
