@@ -1,5 +1,6 @@
 # Day_45
 > 口语5.5
+
 # 1.words
     jammies                   /ˈdʒæmiz/                 n. 〈口〉睡衣裤
     pajamas                   /pə'dʒɑːməz/              n. 睡衣；宽长裤

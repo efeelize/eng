@@ -1,5 +1,6 @@
 # Day_46
 > 口语5.6
+
 # 1.words
     hospitality                 /hɒspɪ'tælɪtɪ/               n. 殷勤, 好客
                                                              (提供给客人的)食宿招待
