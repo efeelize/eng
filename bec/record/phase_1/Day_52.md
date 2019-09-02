@@ -5,12 +5,38 @@
     overtake                                 vt. 赶上；压倒；突然来袭
     bunk                  /bʌŋk/             n. 铺位；座床；床铺
                                              vi. 睡在铺上；逃跑
-    
-
+    janitor               /'dʒænɪtə/         n. 守卫；门警
+    mentor                /'mentɔ:/          n. 指导者，良师益友
+                                             vt. 指导
+    responsiveness                           n.快速反应
+    confidential                             adj.机密的
+    leakage               /'liːkɪdʒ/         n. 漏出物,渗漏物
+    ongoing                                  adj.不间断的
+    intranet              /'intrənet/        n. [计]内联网；企业内部网
+    finalisation                             n. 最终确定；定稿
+    radiation             /reɪdɪ'eɪʃ(ə)n/    n. 辐射(能); 放射
+    flickering            /'flikəriŋ/        adj. 闪烁的,摇曳的
+    fold                                     倍数
 
 # 2.phrase
-
-
+    industrial revolution                    工业革命
+    rules-based                              adj.基于规律的
+    hollow out            /'hɒləʊ/           adj. 空的；凹的；虚伪的；
+                                             n. 洞；山谷；窟窿
+    IT consultancy                           信息咨询公司
+    cyber age                                网络时代
+    tech support                             技术支持
+    sales package                            销售套餐
+    security system                          安全系统
+    intrusion detection   /ɪn'truːʒ(ə)n/     侵入检测
+    expert hacker                            黑客高手
+    authorized user                          特许用户
+    in-house training program                公司内部的培训项目
+    word pro/word processing                 文字处理能力
+    computer literacy     /'lɪt(ə)rəsɪ/  【有文化, 会读写】      会使用电脑
+    computer illiterate   /ɪ'lɪt(ə)rət/  【n. 目不识丁者,文盲】  不会用电脑的人  
+    plough into           /plaʊ/  [vt. 耕；犁]    把资金投入
+ 
 # 3.topic:office automation
 ## PART I.basic computer skills
 - word pro;
