@@ -2,8 +2,13 @@
 > 口语7.4
 # 1.words
     cubicle                 /'kjuːbɪk(ə)l/                n. 小卧室, 斗室
+    
+    
     telecommute             /ˌtɛlɪkə'mjut/                在家上班
-
+    telecommuting                                         n.在家上班制度
+    telework                /'teliwə:k/                   v.电子居家办公
+    teleworking             /teli'wə:kiŋ/              n. 电子办公；在家中上班 
+    teleworker                                        n.采取居家办公方式的员工
 
 # 2.phrase
     work form home                                         在家上班
