@@ -3,6 +3,21 @@
 # 1.words
     elastic                      /ɪ'læstɪk/               adj. 有弹性的；易伸缩的；灵活的
                                                           n. 松紧带；橡皮圈
+
+## test4_part1
+    catchment                   /'kætʃm(ə)nt/             顾客来源区
+    flyers                      /'flaɪə/                  宣传单张
+    detailing                   /'ditelɪŋ/
+    cereals                     /'sɪrɪəl/                 n. 谷类食品；谷类
+    impact                      /'ɪmpækt/
+    feasible                    /'fiːzɪb(ə)l/          adj. 可行的；可能的；可实行的
+    momentum                    /mə'mentəm/               n. 动力；动量
+    renewed                     /ri'nju:d/                adj. 复兴的
+                                                          v. 更新；恢复
+    tempted                     /'temptid/                adj. 有兴趣的
+                                                          v. 诱惑；冒…的险
+    electrical                  /ɪ'lektrɪk(ə)l/     adj. 用电的; 与电有关的, 电学的
+
 # 2.phrase
     experience curve                                      经验曲线（生产效率随着经验积累上升）
    
