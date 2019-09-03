@@ -1,10 +1,14 @@
 # Day_57
 > 口语7.4
 # 1.words
+    cubicle                 /'kjuːbɪk(ə)l/                n. 小卧室, 斗室
+    telecommute             /ˌtɛlɪkə'mjut/                在家上班
 
 
 # 2.phrase
-
+    work form home                                         在家上班
+    
+    
 
 
 # 3.topic:felxible patterns of work
