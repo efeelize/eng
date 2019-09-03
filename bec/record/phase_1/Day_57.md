@@ -10,8 +10,13 @@
     teleworking             /teli'wə:kiŋ/              n. 电子办公；在家中上班 
     teleworker                                        n.采取居家办公方式的员工
 
+
+
 # 2.phrase
     work form home                                         在家上班
+    touchdown center                                       触地中心
+    maternity-leave    /mə'tɜːnɪtɪ/ 【n. 母性;为母之道】     产假
+    
     
     
 
