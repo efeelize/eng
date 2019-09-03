@@ -2,12 +2,43 @@
 > 口语 7.1
 
 # 1.words
-
+    cyberpromotion                                        网上促销
+    banner                                                横幅式广告
+    sponsorship              /ˈspɔnsəʃɪp/                 n. 赞助者
+    sweepstakes              /'swiːpsteɪks/           (单复数相同)有奖销售
+    coupon                                                优惠券
+    rebate                    /'riːbeɪt/                  回赠券
+    cyberspace                                            n.网络空间
+    interaction             /ɪntər'ækʃ(ə)n/  n. 一起活动, 合作, 配合, 相互作用
+    synergistic              /ˌsinə'dʒistik/              增效的;协作的
+    
+    authentication                                        n. 认证，证明,鉴定
+    authorisation                                         n.授权
+    animations               /ænɪ'meɪʃ(ə)n/               n.卡通〔动画〕 片的制作
+    intrusive                /ɪn'truːsɪv/                 adj.抢眼
+    relevant                 /'relɪv(ə)nt/                adj. 有关的, 切题的
+    overuse                  /əʊvə'juːz/                  n. 过度使用
+                                                          vt. 把…使用过度
+    preservative             /prɪ'zɜːvətɪv/               n. 防腐剂
+    antiseptic               /æntɪ'septɪk/                adj. 防腐的, 杀菌的，消毒的
+    cornerstone              /'kɔːnəstəʊn/                n. 奠基石;基础
 
 # 2.phrase
+    prospective customer                                  潜在客户
+    advertising revenue                                   广告收入
+    hard-copy                                             n.平面印刷、打印稿
+    marketing mix                                         营销组合
+    classified authorisation                              分级授权
+    multi-tiered                 /tɪə/                    adj.分级的，多层的
+    Internet security solution                            网络安全方案
+    unauthorized system access                            未经许可进入系统
+    non-promotional information                           非广告信息
+    weekend holiday                                       周末游
+    stamp collection                                      邮集
+    brand recognition                                     品牌认可度
+    opt-in E-mail announcement                            电子期刊订阅公告
 
-
-# 3.topic
+# 3.topic:internet marketing
 ## PART I.
 ### 1.what is the advantage for a company to advertise on line
 - online promotion can create product loyalty and help the company know its customers better.
