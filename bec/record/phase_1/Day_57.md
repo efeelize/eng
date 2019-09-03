@@ -2,7 +2,11 @@
 > 口语7.4
 # 1.words
     cubicle                 /'kjuːbɪk(ə)l/                n. 小卧室, 斗室
-    
+    compatible              /kəm'pætəbl/       adj. 可以并存的, 相容的, 协调的
+    contact                                    熟人、有影响的熟人、有用的社会关系
+    commute                 /kə'mjuːt/                    vt. 交换；减刑；
+    formality               /fɔː'mælɪtɪ/       n. 拘泥形式, 拘谨;遵守礼节
+    hotdesking                                            共享办公桌
     
     telecommute             /ˌtɛlɪkə'mjut/                在家上班
     telecommuting                                         n.在家上班制度
@@ -10,17 +14,18 @@
     teleworking             /teli'wə:kiŋ/              n. 电子办公；在家中上班 
     teleworker                                        n.采取居家办公方式的员工
 
-
-
 # 2.phrase
     work form home                                         在家上班
     touchdown center                                       触地中心
     maternity-leave    /mə'tɜːnɪtɪ/ 【n. 母性;为母之道】     产假
+    changeover file                                        交接文件
+    case-load                                              n.工作量
+    daily log                                              日志
+    clerical job            /'klerɪk(ə)l/                  办事员工作
+    self disciplined                                       adj.自律的
+    work-at-home                                           在家工作的人
+    copy writer                                            广告撰写人
     
-    
-    
-
-
 # 3.topic:felxible patterns of work
 ## PART I.
 ### 1.what do you think is the major advantage of telecommuting
