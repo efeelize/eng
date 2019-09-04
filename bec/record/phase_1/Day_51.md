@@ -18,6 +18,18 @@
                                                           v. 诱惑；冒…的险
     electrical                  /ɪ'lektrɪk(ə)l/     adj. 用电的; 与电有关的, 电学的
 
+## test4_part2
+    contractor                 /kən'træktə/
+    halfway                    /hɑːf'weɪ/            adj. & adv. 半途(的),中间(的)
+    inflated                   /ɪn'fleɪtɪd/          adj. (价格)飞涨的;(通货)膨胀的
+    studio                     /'stjuːdɪəʊ/
+    necessarily                /'nesəs(ə)rɪlɪ/
+    transferred                /træns'fə:d/
+    rounds                     /raunds/                    n. ①巡视②〈非正〉传播
+    journalist                 /'dʒɜːn(ə)lɪst/       n. 记日志者；新闻工作者；报人
+
+## test4_part3
+
 # 2.phrase
     experience curve                                      经验曲线（生产效率随着经验积累上升）
    
