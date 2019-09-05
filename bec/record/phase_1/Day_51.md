@@ -29,6 +29,23 @@
     journalist                 /'dʒɜːn(ə)lɪst/       n. 记日志者；新闻工作者；报人
 
 ## test4_part3
+    audit                      /'ɔːdɪt/
+    scheme                     /skiːm/                     n.计划, 方案
+    tide                       /taɪd/                      vt. 随潮漂流
+    measures                   /'mɛʒɚ/
+    authored                   /'ɔːθə/                n. 著作家, 作者
+                                                      创造者, 创始人; 发起人
+    thorough                   /'θʌrə/                adj. 彻底的；十分的；周密的
+    accurate                  /'ækjʊrət/
+    swap                       /swɔp/                      n. 交换
+    throughout                /θruː'aʊt/              (表示时间)自始至终;在…期间
+    scheme                    /skiːm/                      vt. & vi. 策划; 图谋
+    especially                /ɪ'speʃ(ə)lɪ/
+    similarly                 /'sɪməlɚli/
+    negative                  /'negətɪv/
+    incorporating             /ɪn'kɔːpəreɪt/
+    competitors               /kəm'petɪtə/
+    scrutinize              /ˈskru:tnˌaɪz/                 vt. 仔细检查,详审
 
 # 2.phrase
     experience curve                                      经验曲线（生产效率随着经验积累上升）
