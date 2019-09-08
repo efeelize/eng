@@ -18,8 +18,6 @@
     advertising agency                               广告公司
     Prize Give-Away                                  有奖问答活动
 
-
-
 # 3.topic:give a presentation
 
 

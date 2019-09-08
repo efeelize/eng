@@ -12,8 +12,6 @@
     absence of leadership                         指挥缺位
     interruption of work tasks                    工作不衔接
 
-
-
 # 3.topic:attending a meeting conference
 ## PART I.
 

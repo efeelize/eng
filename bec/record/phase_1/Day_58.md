@@ -29,7 +29,6 @@
     informed decision                             在了解的基础上
     interpersonal communication                   人际交往
 
-
 # 3.topic：staging a meeting/conference
 ## PART I.
 
