@@ -31,12 +31,46 @@
 
 # 3.topic：staging a meeting/conference
 ## PART I.
+### 1.what is improtant when planning a meeting?
+> agenda
+- help paticipates know what they should be talking about and keeps the conversation focused.
+- all items to be discussed at the meeting should be listed on the agenda and the purpose of 
+each item should be clearly indicated.
+- make sure copies of the agenda are available before the meeting.
 
+> size
+- a meeting for passing on information to employees can be fairly large,for few questions and 
+comments are expected from the audience.If it's a meeting where different ideas are contributed
+and a decision is to be reached,its size should be controlled to save time.
 
-## PART II.
+### 2.what is improtant when preparing for a product launch?
+> people involved
+- account executives,sales managers,and critical selling team memebers should be included.these
+people know customers as well as the product and can ensure proper communication of selling points
+to all prospective customers to accelerate their acceptance of the product.
 
+> cost
+- the money will not be wasted if the launch is well handled and the cost will be justified by subsequent good sales figures.
 
-## PART III.
+### 3.what is improtant when chairing a meeting?
+> preparation
+- before teh meeting,a chairman should consult with secretary regarding the agenda,ensure that all people involved have been notified so that participants have time to prepare.
+
+> keeping to the agenda
+- the chair should see that the meeting does not get off-topic so that all items listed on the agenda will be dicussed at the meeting to achieve its original purpose.
+
+### 4.what kind of data should be provided for agents at this kind of conference?
+- some data can be very improtant,like sales targets and goals to reach,as well as promotion plans including information about the new products to be sold,they should be provided for agents to inform,to share and to implement.
+
+## PART III.organising sales conferences
+### improtance
+- those conferences can work as an information relay station for the purpose of spreading information to keep participate well informed about what's going on in the company and in the industry.
+- informal meeting between participants is made possible which can lead to closer contact and is good to the company as a whole.
+
+### how
+- there should be review of what is done in the past year to give participates an overall picture of overseas sales,including achievements and whatever that needds improvement.
+- there shoud be sales reports to let participants knows about how their products sell and the market situations in different parts of the world.
+
 
 
 
