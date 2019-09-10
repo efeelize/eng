@@ -1,9 +1,29 @@
 # Day_60
-> 口语8.3
+> 口语8.3/vol4_test1_part1
 # 1.words
     assertive               /ə'sɜːtɪv/             adj. 断言的,肯定的
     mannerism               /'mænərɪz(ə)m/          n. 习性;言谈举止
     
+
+## PART I
+    headquaters/HQ          /hed'kwɔːtəz/
+    manufacture             /mænjʊ'fæktʃə/
+    amateur                 /'æmətə/
+    natural                 /'nætʃ(ə)r(ə)l/
+    mail order                                      v.邮购
+    portion                 /'pɔːʃ(ə)n/
+    stave off               /steɪv/                 v.避开；延缓
+    engineering             /endʒɪ'nɪərɪŋ/
+    purchased               /'pɜːtʃɪs/
+    modest                  /'mɒdɪst/
+    rely on                                         vt. 依靠(信赖)
+    frank                   /fræŋk/
+    models                  /ˈmɔdəl/
+    competencies            /'kɔmpitənsi/           n. 资格,能力,作证能力
+    optical                 /'ɒptɪk(ə)l/            adj. 光学的；眼睛的，视觉的
+
+    astronomer             /ə'strɒnəmə/             n. 天文学者；天文学家
+    astronomy              /ə'strɒnəmɪ/             n. 天文学
 
 # 2.phrase
     product presentation                            产品展示会
