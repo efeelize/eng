@@ -1,5 +1,5 @@
 # Day_60
-> 口语8.3/vol4_test1_part1
+> 口语8.3/vol4_test1_part1/part2
 # 1.words
     assertive               /ə'sɜːtɪv/             adj. 断言的,肯定的
     mannerism               /'mænərɪz(ə)m/          n. 习性;言谈举止
@@ -24,6 +24,44 @@
 
     astronomer             /ə'strɒnəmə/             n. 天文学者；天文学家
     astronomy              /ə'strɒnəmɪ/             n. 天文学
+
+## PART II.
+    prospectus             /prə'spektəs/            n. 章程,简章,简介
+    facilities             /fə'sɪlɪtɪ/
+    insights               /'insait/
+    commerce               /'kɒmɜːs/                n. 商业, 贸易
+    college                /'kɒlɪdʒ/
+    miles away
+    pleasantly             /'plezntli/              adv. 愉快地,快活地
+    grounding              /'graʊndɪŋ/              n. 对某学科基本要素的传授;基础
+    disappointed           /dɪsə'pɒɪntɪd/           adj. 失望的
+    advanced               /æd'vɑːnst/
+    course                 /kɔːs/
+    self-discipline        /'self'disiplin/         n. 自我训练;自我修养
+    personnel              /pɜːsə'nel/              n. (总称)人员; 员工;人事部门
+    ironically             /aɪ'rɑnɪkli/             adv. 嘲讽地, 挖苦地
+    strength               /streŋθ/                 n. 力量；力气
+    weaknesses lie         /'wiːknɪs/
+    advanced               /æd'vɑːnst/
+    disappointed           /dɪsə'pɒɪntɪd/
+    lowly                  /'ləʊlɪ/
+    fascinated             /'fæsɪneɪt/
+    opportunities          /ɒpə'tjuːnɪtɪ/
+    innovative             /ˈinəuveitiv/
+    thrived                /θraiv/
+    co-operative           /kəuˈɔpərətiv/
+    although               /ɔːl'ðəʊ/
+    thought                /θɔːt/
+    statue                 /'stætjuː/
+    regret                 /rɪ'gret/
+    thesis                 /'θiːsɪs/               n. 论文；论点
+    standardisation        /ˌstændədai'zeiʃən/     n. 标准化
+    monitoring             /'mɑnətɚ/               n. 监视;控制;监测;追踪
+
+## PART III.
+    the soft-drinks                                软饮料
+    manufacture            /mænjʊ'fæktʃə/          vt. 制造
+
 
 # 2.phrase
     product presentation                            产品展示会

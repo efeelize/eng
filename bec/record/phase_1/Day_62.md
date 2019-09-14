@@ -1,5 +1,5 @@
 # Day_62
-> 口语 8.4
+> 口语 8.4/vol4_test2_part1
 # 1.words
     protfolio                /pɔːt'fəʊlɪəʊ/        投资组合
     convention               /kən'venʃ(ə)n/        大会
@@ -13,6 +13,30 @@
     penetration              /penɪ'treɪʃ(ə)n/      n. 穿透;穿透能力
     penetrate                /'penɪtreɪt/          vt. & vi. 穿过, 刺入, 渗入
     presentable              /prɪˈzentəbəl/        adj. 拿得出的;像样的
+
+## PART I.
+    sifting                  /'siftiŋ/             n & v. 过筛，过滤；筛选
+    essential                /ɪ'senʃ(ə)l/
+    allocate                 /'æləkeɪt/
+    project                  /'prɔdʒekt/
+    enthusiastic             /ɪn,θjuːzɪ'æstɪk/
+    emphasise                /'emfəsaiz/
+    convince                 /kən'vɪns/
+    constraints              /kən'streint/         约束
+    progress                 /'prəʊgres/
+    across boundaries                              跨越边界
+    well-managed                                   管理有方的
+    find that                                      发觉到……/意识到……
+    inevitable               /ɪn'evɪtəb(ə)l/
+    approaches               /ə'prəʊtʃ/
+    altering                 /'ɔːltə/
+    businesses               /'bɪznɪs/
+    competitiveness          /kəm'pɛtətɪvnɪs/      n. 竞争能力
+    willingness              /ˈ wɪlɪ ŋnɪs/         n. 自愿;乐意
+    contemplating            /'kɒntempleɪt/        vt. 注视, 凝视
+
+    different disciplines    /'dɪsɪplɪn/           不同学科
+    discipline               /'dɪsɪplɪn/
 
 # 2.phrase
     conference and exhibition                      会展
