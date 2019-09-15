@@ -1,5 +1,5 @@
 # Day_60
-> 口语8.3/vol4_test1_part1/part2
+> 口语8.3/vol4_test1_part1/part2/part3
 # 1.words
     assertive               /ə'sɜːtɪv/             adj. 断言的,肯定的
     mannerism               /'mænərɪz(ə)m/          n. 习性;言谈举止
@@ -61,7 +61,64 @@
 ## PART III.
     the soft-drinks                                软饮料
     manufacture            /mænjʊ'fæktʃə/          vt. 制造
+    range                  /reɪn(d)ʒ/              n. 范围
+    arrived                /a'raivd/
+    introduced             /ɪntrə'djuːs/           vt. 介绍, 引见
+    a slide in             /slaɪd/                 vi. 滑落, 跌落
+    stiff                  /stɪf/                  adv. 彻底地；僵硬地
+                                                   vi. 在商业上惨败
+    multinationals       /mʌltɪ'næʃ(ə)n(ə)l/       adj. 多国的
+                                                   n. 跨国公司
+    interested parties                             有关各方；利益相关团体
+    advocated            /'ædvəkeɪt; -ət/          vt. 提倡，主张，拥护
+    dilute               /daɪ'l(j)uːt/             vt. 稀释, 冲淡
+                                                   adj. 稀释的, 冲淡的
+    at the top favoured                            最受欢迎的
+    board                  /bɔːd/
+    separately            /'sepəritli/
+    maximum               /'mæksɪməm/
+    replicate             /'replɪkeɪt/             vt. 复制;重复
+    eat into                                消耗、侵蚀、对……产生不良作用或影响
+    focus solely on       /'səʊllɪ/
+    youth                 /juːθ/
+    sophisticated         /sə'fɪstɪkeɪtɪd/
+    riskily               /'riskili/
+    plumped               /plʌmp/              adv. 突然（或重重）坠地；直接地
+    developing            /dɪ'veləpɪŋ/
+    all-improtant
+    specialized           /ˈspeʃəlaɪzd/
+    trawled               /trɔːl/                 n & v.彻底搜查
+    graduates             /'grædʒʊət/
+    enthusiasm            /ɪn'θjuːzɪæz(ə)m/       
+    approached            /ə'prəʊtʃ/
+    make up for                                   v.补偿，弥补
+    halted                /hɔ:lt/                 v. 停止，停顿
+    geared                /giəd/                  adj. 连接的
+    intervened            /ɪntə'viːn/             vi. 干涉, 干预; 调解
+    delayed               /di'leid/
+    brilliantly           /'briljəntli/
+    exploit               /ɪk'splɒɪt/             vt. 开发，开拓；剥削；开采
+    research              /rɪ'sɜːtʃ/
+    chord                 /kɔːd/                  n. 弦；和弦
+    mixers                /'miksə/
+    at the forefront of                           最前沿
+    constantly            /ˈk ɔnstəntlɪ/          adv. 不断地;时常地
+    division              /dɪ'vɪʒ(ə)n/
+    copious               /'kəʊpɪəs/              adj. 丰富的；很多的；多产的
+    experience            /ɪk'spɪərɪəns/
+    companies             /'kʌmp(ə)nɪ/
+    prepared              /prɪˈpeəd/
+    lower limb            /lɪm/                   边缘
+    finely                /'faɪnlɪ/               adv. 微细地, 微小地
+                                                       精细地, 细致地
+                                                       (正式)很好地, 端正地
+    targeted             /'tɑ:ɡitid/
+    general appeal                                普遍诉求
+    uniquely             /ju:'ni:kli/             adv. 独特地；珍奇地
 
+    latter                /'lætə/           adj. 后者的；较后的；近来的；后面的
+    latterly              /'lætəlɪ/                adv. 近来；最近
+    later                 /'leɪtə/                 adv. 较晚地; 后来
 
 # 2.phrase
     product presentation                            产品展示会
