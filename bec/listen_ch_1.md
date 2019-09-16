@@ -1,4 +1,5 @@
 # listen_ch_1
+
 # part I.填空题
 > 保证全对，十几秒一个题
 # 1.做听力前：
@@ -20,7 +21,7 @@ company's assessment centre
 - Another ,then , once ,
 - So, finally , last but not least
 
-###  2.3）原则
+###  2.3）原则：越具体的词语越不容易被替换
 - 实词优先v/adj
 - 空格前后
 - ie.如果出现在空格后，就是难题
