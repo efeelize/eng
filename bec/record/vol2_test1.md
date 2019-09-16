@@ -112,7 +112,7 @@
     
     
 # listening
-## part1
+## PART I.
      available              /ə'veɪləb(ə)l/                     adj. 可用的或可得到的
      availability           /ə,veɪlə'bɪlətɪ/                   n. 有效;有益;可利用性
      availably              /ə'veiləbli/                       adv. 有效地
@@ -131,7 +131,7 @@
      implement
      instrumentality         /ɪnstrʊmen'tælɪtɪ/                n. 手段
 
-## part 2
+## PART II.
      lengthy                 /'leŋθɪ/                          adj. 漫长的，冗长的；啰唆的
      lengthily               /'leŋθili/                        adv. 长,冗长地
 
@@ -150,14 +150,21 @@
      candidates               /'kændɪdeɪt/                     n. 申请求职者, 候选人
      candidacy                /'kændɪdəsɪ/                     n. 候选人的资格(或身份)
 
-     certainly                /'sɜːt(ə)nlɪ/                 adv. 无疑地; 确定地;强调有把握，深信不疑。
-     naturally                                                 指自然而然，毫无造作或天生如此。
-     of course                                    指毫无疑问，自然如此。可与certainly和naturally换用。
-     surely                                     表一种必然的可能性，也可表示信心或不轻信。强调主观判断。
-     definitely                                                adv. 明确地, 确切地
+     certainly                /'sɜːt(ə)nlɪ/                 
+     adv. 无疑地; 确定地;强调有把握，深信不疑。
+     naturally                                                
+     指自然而然，毫无造作或天生如此。
+     of course                                    
+     指毫无疑问，自然如此。可与certainly和naturally换用。
+     surely                                     
+     表一种必然的可能性，也可表示信心或不轻信。强调主观判断。
+     definitely                                                
+     adv. 明确地, 确切地
 
-     recommending             /rekə'mend/               vt. 推荐, 介绍, 赞许某人[某事物];劝告, 建议
-     propose                                                   vt. & vi. 提议; 建议
+     recommending             /rekə'mend/               
+     vt. 推荐, 介绍, 赞许某人[某事物];劝告, 建议
+     propose                                                   
+     vt. & vi. 提议; 建议
 
      analysis                 /ə'nælɪsɪs/                      n. 分析
      analyse/analyze          /ˈænəlaiz/                       vt. 对…进行分析，分解
@@ -166,7 +173,7 @@
                                                                vt. 重读
      recruit                  /rɪ'kruːt/
 
-## part 3
+## PART III.
      separately               /'sepəritli/                     adv. 分离地
      retaining
      boutiques                /buː'tiːk/                       n. 精品店；专卖流行衣服的小商店
