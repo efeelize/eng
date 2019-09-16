@@ -79,12 +79,19 @@
 ### 2.words
     free of charge/withhold payment                    免费
     
-    so far/thus far
-    as far as
-    by far
+    so far/thus far                                    迄今为止,到某个程度
+    as far as                                          adv. 就…而言；至于，直到，远到
+    as far as i know                                   据我所知；就我所知
+    by far                                             到目前为止
+    in so far as                                       至于
+    in as far as                                       在…的范围内
     
-    place an order
+    place an order                                     订货，定购
     place an order with sb
+    place an order for                                 订购；或是更完整一些说；定购 
+    place an initial order:                            首次订购 
+    place an trial order                               试订购 
+    place an aditional order                           追加一份订单 
     
     a lot/much/great deal/little more                  more前面可以加修饰词
     it's so much more than a perfume                   它不仅仅是一种香水
@@ -110,7 +117,6 @@
     interdependent       /ˌɪntədɪˈpendənt/            adj. 互相依赖的,互相依存的
     despatch/dispatch    /disˈpætʃ/                   vt. 派遣；[计算机]分派
     
-    
 # listening
 ## PART I.
      available              /ə'veɪləb(ə)l/                     adj. 可用的或可得到的
@@ -128,8 +134,13 @@
      organisations                                             n. 〈主英〉组织,机构,团体
      organisational
 
-     implement
-     instrumentality         /ɪnstrʊmen'tælɪtɪ/                n. 手段
+     implement             /'ɪmplɪm(ə)nt/ 
+     instrumentality       /ɪnstrʊmen'tælɪtɪ/                  n. 手段
+     
+     plc/public limited company                                上市公司
+     pharmaceutical        /ˌfɑːmə'suːtɪk(ə)l/                 adj. 制药的;配药的
+     in action                                                 在运转中，在活动中
+     live up to/carry out/fullfill                             实行、完成
 
 ## PART II.
      lengthy                 /'leŋθɪ/                          adj. 漫长的，冗长的；啰唆的
@@ -172,7 +183,12 @@
      accent                   /'æks(ə)nt/                      n. 口音, 腔调
                                                                vt. 重读
      recruit                  /rɪ'kruːt/
-
+     initiative               /ɪ'nɪʃɪətɪv/                     n. 主动性, 首创精神
+     underperform             /ˌʌndəpəˈfɔ:m/ 
+     v. 表现不佳,工作不如预期(或同行);(股票等)运作差于(一般市场价格)
+     feel up to sth                                            感到能胜任...
+     as it were                                                可以说、似乎是、好像
+     
 ## PART III.
      separately               /'sepəritli/                     adv. 分离地
      retaining
@@ -234,11 +250,19 @@
      itemised/itemized          /'aɪtəm,aɪz/                 adj. 编位号的；逐项逐笔登记的
                                                              v. 逐条记载
      furious                    /'fjʊərɪəs/                  adj. 狂怒的, 暴怒的
-     aggrieved
-     inspections
-   
-   
-   
+     aggrieved                  /ə'griːvd/                   
+     <律>(在合法权利方面)受侵害的，被剥夺合法权利的
+     v.收到不公正对待的
+     inspections                /ɪn'spekʃn/                  n. 检查,视察
+     autocratic                 /ˌɔ:təˈkrætɪk/               adj. 独裁的,专制的
+     sectionalise flow approach                              分区段流水作业法
+     itemize                     /ˈaɪtəˌmaɪz/                vt. 逐条列记
+     piecework                  /'piːswɜːk/                  n. 计件工作,按件计酬的工作
+     
+     name after                                              以...的名字命名
+     make inroad at sth/sb      /'ɪnrəʊd/                     n. 侵袭，袭击；减少
+     get on to advance in years                              年纪增长
+     top-ended                                               高端、尖端
    
    
    
