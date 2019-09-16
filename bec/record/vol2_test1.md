@@ -3,6 +3,7 @@
 ## PART I.
 ### 1.technique
 - 提到2个数字的，后句对应More
+
 ### 2.words
      inflate                /ɪn'fleɪt/              vi. 膨胀；充气
      gauge                   /geɪdʒ/                vt. 计量, 度量
@@ -14,14 +15,17 @@
      acquisition            /ˌækwɪ'zɪʃ(ə)n/         n. 获得, 得到
      shake-up                                       大力整顿、重组
      whilst                 /waɪlst/                conj. 时时,同时
-   
- ## PART II.
- ### 1.technique:注意选项与原文的对应词     
+     interim
+     somewhat
+     
+
+## PART II.
+### 1.technique:注意选项与原文的对应词     
      引进-影响/effect
      as a result of-consequently
      account for about half-this growth
      however-instead
- ### 2.words
+### 2.words
      implicit               /ɪm'plɪsɪt/              adj. 暗示的；盲从的；含蓄的
      explicit               /ɪk'splɪsɪt/             adj. 详述的, 明确的, 明晰的
      perception             /pə'sepʃ(ə)n/            n. 感知(能力); 觉察(力)
@@ -34,6 +38,7 @@
      temp                    /temp/                  n. 临时雇员;(尤指)临时秘书
      appraisal              /ə'preɪz(ə)l/            n. 估计, 估量, 评价
      
+
 ## PART III.
 ### 1.tech
 - 文章中没有提到的选项不要扩展意思   
