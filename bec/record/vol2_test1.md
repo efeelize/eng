@@ -46,11 +46,71 @@
      dexterity              /dek'sterɪtɪ/            n. 灵巧;熟练;敏捷;聪敏;机敏
      inexhaustible          /ɪnɪg'zɔːstɪb(ə)l/       adj. 无穷无尽的;用不完的
      
-     
+## PART IV.
+    offer to sb/for sth
+    contributes to/towards sth
+    give sth to sb/sb sth
+    provide with
     
+    portion                  /'pɔːʃ(ə)n/             
+    n & v. 把…分成份额, 分配
+      1) A portion of something is a part of it.
+      2) the allotment of some amount by dividing something
+    
+    component                /kəm'pəʊnənt/           
+    n.1) an abstract part of something
+      2) something determined in relation to something that includes it
+                                                     
+    
+    business                                           一件严肃的工作、要事/消费
+    affair                                             事务
+    
+    psychometric           /ˌsaɪkə'mɛtrɪk/             adj. 心理测量的,心理测量学的
+    instinctive            /ɪn'stɪŋ(k)tɪv/             adj & adv. 凭本能的,天生的,直觉的
+    ascertain              /ˌæsə'teɪn/                 vt. 弄清, 确定, 查明
+     
+## PART V.
+### 1.tech
+- why/so/how
+- those who/that
+- as/of/for
+- 词组的固定搭配
+
+### 2.words
+    free of charge/withhold payment                    免费
+    
+    so far/thus far
+    as far as
+    by far
+    
+    place an order
+    place an order with sb
+    
+    a lot/much/great deal/little more                  more前面可以加修饰词
+    it's so much more than a perfume                   它不仅仅是一种香水
+    
+    ultimate             /'ʌltɪmət/                    adj. 最后的, 最终的、基本的, 根本的
+    indulgence           /ɪn'dʌldʒ(ə)ns/               n. 放纵；纵容；嗜好；沉溺
+    impeccable           /ɪm'pekəb(ə)l/                adj. 无瑕疵的；没有缺点的
+    publicity            /pʌb'lɪsɪtɪ/                  n. 公众的注意, 众所周知
+    eau-de-toilette      [,əudetwɑ:'let]               淡香水
+    
+## PART VI.
+### 1.tech
+- they/their
+- that/which/when
+- for/should
+- which is...
+- should做情态动词，表示 应该、竟然
+- that+从句
+- when+时间状语从句
    
-   
-   
+### 2.words
+    endeavour            /in'devə/                    n. 〈英〉尽力,竭力
+    interdependent       /ˌɪntədɪˈpendənt/            adj. 互相依赖的,互相依存的
+    despatch/dispatch    /disˈpætʃ/                   vt. 派遣；[计算机]分派
+    
+    
    
    
    
