@@ -15,9 +15,13 @@
      acquisition            /ˌækwɪ'zɪʃ(ə)n/         n. 获得, 得到
      shake-up                                       大力整顿、重组
      whilst                 /waɪlst/                conj. 时时,同时
-     interim
-     somewhat
-     
+     interim                /'ɪnt(ə)rɪm/          adj. 临时的，暂时的；中间的；间歇的
+                                                    n. 过渡时期，中间时期；暂定
+     somewhat                                     adv. 稍微, 有点, 达到某种程度
+     set out                                        vt. 规划,展现，出发
+
+     protfolio career   组合型职业（综合自身各种技能和专长，从事多份兼职的新型职业类型）
+     portfolio value                                投资组合总市值
 
 ## PART II.
 ### 1.technique:注意选项与原文的对应词     
@@ -37,7 +41,10 @@
      freelance              /ˈfri:lɑ:ns/             vi. 当自由职业者
      temp                    /temp/                  n. 临时雇员;(尤指)临时秘书
      appraisal              /ə'preɪz(ə)l/            n. 估计, 估量, 评价
-     
+     adversarial           /ˌædvəˈsɛəriəl/           adj. 敌手的,对手的,对抗(性)的
+
+     dress down                                      穿休闲装
+     dress sb down                                   斥责某人
 
 ## PART III.
 ### 1.tech
@@ -50,7 +57,8 @@
      alienate                /'eɪlɪəneɪt/            vt. 使疏远, 使不友好, 离间
      dexterity              /dek'sterɪtɪ/            n. 灵巧;熟练;敏捷;聪敏;机敏
      inexhaustible          /ɪnɪg'zɔːstɪb(ə)l/       adj. 无穷无尽的;用不完的
-     
+     superior               /suː'pɪərɪə/
+
 ## PART IV.
     offer to sb/for sth
     contributes to/towards sth
@@ -65,15 +73,14 @@
     component                /kəm'pəʊnənt/           
     n.1) an abstract part of something
       2) something determined in relation to something that includes it
-                                                     
-    
+
     business                                           一件严肃的工作、要事/消费
     affair                                             事务
-    
+  
     psychometric           /ˌsaɪkə'mɛtrɪk/             adj. 心理测量的,心理测量学的
     instinctive            /ɪn'stɪŋ(k)tɪv/             adj & adv. 凭本能的,天生的,直觉的
     ascertain              /ˌæsə'teɪn/                 vt. 弄清, 确定, 查明
-     
+ 
 ## PART V.
 ### 1.tech
 - why/so/how
@@ -82,31 +89,32 @@
 - 词组的固定搭配
 
 ### 2.words
-    free of charge/withhold payment                    免费
-    
     so far/thus far                                    迄今为止,到某个程度
     as far as                                          adv. 就…而言；至于，直到，远到
     as far as i know                                   据我所知；就我所知
     by far                                             到目前为止
     in so far as                                       至于
     in as far as                                       在…的范围内
-    
+  
     place an order                                     订货，定购
     place an order with sb
     place an order for                                 订购；或是更完整一些说；定购 
     place an initial order:                            首次订购 
     place an trial order                               试订购 
     place an aditional order                           追加一份订单 
-    
+   
     a lot/much/great deal/little more                  more前面可以加修饰词
     it's so much more than a perfume                   它不仅仅是一种香水
-    
+
     ultimate             /'ʌltɪmət/                    adj. 最后的, 最终的、基本的, 根本的
     indulgence           /ɪn'dʌldʒ(ə)ns/               n. 放纵；纵容；嗜好；沉溺
     impeccable           /ɪm'pekəb(ə)l/                adj. 无瑕疵的；没有缺点的
     publicity            /pʌb'lɪsɪtɪ/                  n. 公众的注意, 众所周知
     eau-de-toilette      [,əudetwɑ:'let]               淡香水
-    
+    free of charge/withhold payment                    免费    
+    reassure             /riːə'ʃʊə/                    vt. 消除恐惧或疑虑; 恢复信心
+    ruby/rubies(pl)      /'ruːbɪ/                      n. 红宝石/红宝石色; 深红色
+
 ## PART VI.
 ### 1.tech
 - they/their
@@ -121,7 +129,7 @@
     endeavour            /in'devə/                    n. 〈英〉尽力,竭力
     interdependent       /ˌɪntədɪˈpendənt/            adj. 互相依赖的,互相依存的
     despatch/dispatch    /disˈpætʃ/                   vt. 派遣；[计算机]分派
-    
+
 # listening
 ## PART I.
      available              /ə'veɪləb(ə)l/                     adj. 可用的或可得到的
@@ -193,7 +201,7 @@
      v. 表现不佳,工作不如预期(或同行);(股票等)运作差于(一般市场价格)
      feel up to sth                                            感到能胜任...
      as it were                                                可以说、似乎是、好像
-     
+
 ## PART III.
      separately               /'sepəritli/                     adv. 分离地
      retaining
