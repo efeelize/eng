@@ -19,7 +19,7 @@
       commentate                                         v.评论；解说；注释
 
       prerequistie        /priː'rekwɪzɪt/                n. 先决条件,前提
-      nuture                                             培养、教育
+      nuture                                             培养、教育 
 
       inhibit                                            vt.约束、抑制
       inhibitive                                         adj. 禁止的,抑制的
