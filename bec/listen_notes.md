@@ -81,4 +81,38 @@
 
 # listen_ch_3
 # PART III.
+# 1.方法
+## 1）简化题干
+> mark says its improtant when starting up a business?
+
+- 路标词（starting up a business）：定位
+- 从提问词开始速记(improtant)
+- 读题的时候先把所有的题干都读一遍；然后再读题目选项
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
