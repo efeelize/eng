@@ -129,8 +129,22 @@
     7）时间、地点
     8）助动词、动词
        have/does/be/being
-## 2.固定搭配
 
+## 2.时态
+    1）一般现在时
+    2）一般过去式：有具体的过去时间
+    3）过去完成式
+      3.1）发生在过去，持续到现在
+      3.2）发生在过去，但是不记得具体的过去时间
+           already
+           just:I have just finished my homework.
+           not yet:I haven't finished my homework yet.
+    4) 一般将来式
+       be going to 
+       will 
+    5) 虚拟语气
+       could/would
+       if I were you.
 
 
 # PART VI.

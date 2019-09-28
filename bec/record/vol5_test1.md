@@ -43,8 +43,15 @@
 
 
 ## PART V.
-
-
+    be easy on the eye              To be attractive or aesthetically pleasing.
+    by no means                     definitely not
+    by all means                    尽一切办法；一定，务必
+    to the best of                  就…所及
+    To the best of your knowledge   据你所知
+    To the best of my memory.       我记忆中是这样
+    To the best of my ability       我会尽我一切所能的
+    interior design                 室内设计
+    
 
 ## PART VI.
 
