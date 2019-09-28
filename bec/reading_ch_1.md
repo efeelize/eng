@@ -1,94 +1,71 @@
-# reading_ch_1
+# READING NOTES
 > core:正确的缩小范围
 
 # Part I.给出的选项对应statement的某几句话
-## 1.做题步骤
-### 1.1）找话题词
-### 1.2）简化statement，保留核心词
-- 1）看懂statemnet
-- 2）划出关键词:核心信息+替换词 
-- 3）找出相似的选项
-
-### 1.3）1st读，每一段找到至少 1 个 statement
+## 1）找话题词
+      话题词不再是路标词，无需再进行标记
+## 2）简化statement，保留核心词
+     1）看懂statemnet 
+     2）划出关键词:核心信息+替换词 
+     3）找出相似的选项
+## 3）1st读，每一段找到至少 1 个 statement
 > ie.读段落，简化句子，保留核心词组 ，匹配选项
-- 1）找到确定的选项，把序号写在旁边
-- 2）每一个 statment 最多 2 个选项来对应
-- 3）肯定没有用的话×掉，第 2-3 遍也不要再读了
-- 4）不是很明显的句子留着第 2-3 遍读
+    1）找到确定的选项，把序号写在旁边
+    2）每一个 statment 最多 2 个选项来对应
+    3）肯定没有用的话×掉，第 2-3 遍也不要再读了
+    4）不是很明显的句子留着第 2-3 遍读
+## 4）2nd-3rd 读,排除找到剩下的 statement
+    1)面对不确定的选项，优先去只选了 1 个选项的段落里面找
+    2）对statement同时符合几个选项的，要区分区别
 
-### 1.4）2nd-3rd 读,排除找到剩下的 statement
-- 1)面对不确定的选项，优先去只选了 1 个选项的段落里面找
-- 2）比较难的题目，可以读 3 遍来排除
-
-## 2.
-
-
-# Part II.考查语法、句间关系
-- 不要轻易下决定。选项之间的差异较小；
-- 首先划掉范例句和范例句在的段落；
-- 只需要看空格前后的句子，不行的话再看该段落在讲什么；
-- 最后一段不用看，理解文章中心意思与做题无关
-
+# Part II.
 # 1.简化选项
 ## 1.1）承前：逻辑关系词->圆圈圈
-- But, yet, however, nevertheless
-- So , therefore, thus, as a result, consequently,
-- In addition, also, an other, the second, last but not least
-- Although, even if,
-- For example ,
-- In the past, currently,
-- Not right is ...
-       
+    1）But, yet, however, nevertheless
+    2）So , therefore, thus, as a result, consequently,
+    3）In addition, also, an other, the second, last but not least
+    4）Although, even if,
+    5）For example ,
+    6）In the past, currently,
+    7）Not right is ...
 ## 1.2) 承前：代词->方框框
-- he, she, it, they, them, that approach, that project,
-- such strategy, his, her, their, its , whose, 
-- this way, this structure, under certain conditions
-       
-## 1.3）启后:核心内容->波浪线
-> exp:句子主谓宾/主表
-     
-# 2.初次匹配(按难易顺序)
-- 2.1）初选后保持警惕，随时调整；
-- 2.2）选完一定要通读检查读部分文章，分析空格前后句 
+    1）he, she, it, they, them, that approach, that project,
+    2）such strategy, his, her, their, its , whose, 
+    3）this way, this structure, under certain conditions
+## 1.3）承前/启后:核心内容->横线
+    exp:句子主谓宾/主表     
 
-# 3.选完一定要通读检查
-# 4.调整匹配
+# 2.匹配
+    2.1）空格后句的匹配更为重要，因为多数有指代
+    2.2）选完一定要通读检查读部分文章，分析空格前后句 
 
 # Part III.
 # 1.基础版本做题方法（正确率高）
 ## 1）简化题干 
 ### 1.1）定位路标词
-- 问句中会最先提到的实词(组)/exp:自然段、实词        
-
+         问句中会最先提到的实词(组)/exp:自然段、实词        
 ### 1.2）定位提问词,排除/选择选项
-- ie.问句最终问的方面，对应选项的实词(组)/exp:实词、简短、对应选项
-
+         ie.问句最终问的方面，对应选项的实词(组)/exp:实词、简短、对应选项
 ## 2）简化选项
-- 选项中回答问题的词/对应的提问词
-- 选项之间的区别词 
-- 符号简化，简化一提做一提
-- 简短(为了排除3)
-
+    2.1)选项中回答问题的词/对应的提问词
+    2.2)选项之间的区别词 
+    2.3)符号简化，简化一提做一提
+    2.3)简短(为了排除3)
 ## 3）定位 （一段一般 1-2 题）
-- 提到了某自然段，全段都要看
-- 某词---前1句/本句—段末
-
+    提到了某自然段，全段都要看
+    某词---前1句/本句—段末
 ## 4）首读排除 2个错误选项 
-> 速度，排除不重要的句子/不能回答问题的句子不要看
-
-- 读主句主干:主谓(宾)、主表 
-- 跟题目有关再读从句修饰:定从 ，状从，名从，插入语，状语
-
+    速度，排除不重要的句子/不能回答问题的句子不要看
+    读主句主干:主谓(宾)、主表 
+    跟题目有关再读从句修饰:定从 ，状从，名从，插入语，状语
 ## 5）二读确定答案句 
-### 5.1）排除
-- 无关内容 
-- 情感态度不符 
-- 文章提到但文章里面否认
-
+### 5.1）排除 
+         无关内容 
+         情感态度不符 
+         文章提到但文章里面否认
 ### 5.2）比较明确剩下选项的区别
-- 在文中找对应词，一一对应 
-- 比较符合度，确定选项
-
+         在文中找对应词，一一对应 
+         比较符合度，确定选项
 ## 6）确定选项
 
 # 2.高阶版本做题方法（速度快）
@@ -124,10 +101,67 @@
 ***对应选项 B：By recommending caution in predicting the future.***
 
 ## 3.常考陷阱
-- 1）原词出现：大部分是错误选项，正确选项大多数是同义词替换
-- 2）选项是原句替换，但不回答题目
-- 3）错误归因：讲了AB两件事情，原因讲的是对的，但是归于A 而不是 B
-- 4）主旨题、全文结构体：选项概括了某几段的内容，没有概括全文
+    3.1）原词出现：大部分是错误选项，正确选项大多数是同义词替换
+    3.2）选项是原句替换，但不回答题目
+    3.3）错误归因：讲了AB两件事情，原因讲的是对的，但是归于A 而不是 B
+    3.4）主旨题、全文结构体：选项概括了某几段的内容，没有概括全文
+
+# PART IV.
+
+
+# PART V.
+    1)理解句意
+    2)分析语法结构，确定词性
+## 1.常考虚词
+    1）介词
+       to/in/as/for/rather
+    2）连词
+       despite/thogh/if/because/and/but 
+    3）副词
+    4）关系代词、副词
+       which/who/what/why
+       where/when
+    5）代词
+       anywhere/anybody/nobody/everybody
+       myself
+    6）否定
+       no/without/except/besides
+    7）时间、地点
+    8）助动词、动词
+       have/does/be/being
+## 2.固定搭配
+
+
+
+# PART VI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

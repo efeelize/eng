@@ -30,7 +30,6 @@
 
 ***2)the company,a leader in the provisions of services to business in the telecommunication sector,has a strong reputation for quality and (speed of solution delivery).->1.this company is known for (dealing with probelms quickly)***
 
-
 ## PART II.
 
 

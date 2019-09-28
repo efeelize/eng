@@ -1,4 +1,4 @@
-# listen_ch_1
+# LISTENING NOTES
 > 总：看背景+看选项+速记+检查
 
 # PART I.
