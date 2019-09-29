@@ -43,6 +43,7 @@
 
 
 ## PART V.
+### 1.固定搭配
     be easy on the eye              To be attractive or aesthetically pleasing.
     by no means                     definitely not
     by all means                    尽一切办法；一定，务必
@@ -50,7 +51,16 @@
     To the best of your knowledge   据你所知
     To the best of my memory.       我记忆中是这样
     To the best of my ability       我会尽我一切所能的
+    have effect on                  对...产生影响
+
+### 2.口语素材
     interior design                 室内设计
+    a major influence 
+    attracting and retaining good-quality workers  
+    feels unfulfilled               不满足
+    highly likely
+    
+    
     
 
 ## PART VI.
