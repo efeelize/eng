@@ -117,6 +117,8 @@
        to/in/as/for/rather
     2）连词
        despite/thogh/if/because/and/but 
+       that/which/whose/whom/who
+       when/where/what
     3）副词
     4）关系代词、副词
        which/who/what/why
@@ -125,6 +127,17 @@
        anywhere/anybody/nobody/everybody
        myself
     6）否定
+       6.1）连词:连接2套主谓
+            but
+            yet
+       6.2）副词：只能连接1个句子/位置自由，可以放在任何的位置
+            however
+            1）A1,however，A2->A2与（A1,however）整体是一个转折的关系
+            2）A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分
+            3）A.B1,B2,however,C->
+       6.3）despite+n.
+       6.4)although/though+句子
+       
        no/without/except/besides
     7）时间、地点
     8）助动词、动词
@@ -146,6 +159,36 @@
        could/would
        if I were you.
 
+## 3.语法
+### 3.1 定语从句
+***that/which/who/whom/whose***
+     1)I saw a girl who wore a red dress.
+     2)The girl wears a red dress which is expensive.
+     3)This is the house which I lived in.
+     4)This is the house where I lived.
+     5)We should all attend the meeting whose improtance is so obvious.
+     6)I bought a new phone whose screen is 4.3 inches.
+     7)I have a crash on the girl whose hair is red.
+     8)I talked to the man whom my father worked with.
+     9)I leave the guy my sister hates.
+
+### 3.2 名词性从句
+     1）That I love you confuses me.
+     2) It confuses me that I love you.
+     3) It was a mistake that I wrote this letter.
+     4) Whether he will come is a question.
+     5) Who killed the poor man raised an argument.
+     6) I never doubt where you belong.
+     7) I know you don't like him.
+     8) I don't understand how he got involved.
+     
+### 3.3 状语从句
+***because/so/when/where/if/although***
+     1)I have studied French for 10years since I was 6.
+     2)I knew him when we were in primary school.
+     3)If I were you,I would never marry him.
+     4)Althogh it is a great idea,we shouldn't do it.
+     5)He called me,after he realised it was a mistake.
 
 # PART VI.
 
