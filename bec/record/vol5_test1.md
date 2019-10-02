@@ -59,13 +59,17 @@
     attracting and retaining good-quality workers  
     feels unfulfilled               不满足
     highly likely
-    
-    
-    
 
 ## PART VI.
+### 1.固定搭配
+     at present/currently
+     as for/regarding/about/for
+     tell me 
+     in XX management (行业前面不加 the)
 
-
+### 2.语法
+     not yet    在剑桥考试中是现在完成时
+     there were requirement to do sth/I had to do sth 
 
 # listening
 ## PART I.
