@@ -2,22 +2,114 @@
 > core:正确的缩小范围
 
 # 长难句
-# 1.划分原则
-## 1）I know you love me.He stopped looking at me and cried.
-- 一个单句一定有一套主谓
-- 一个连词连接两套主谓
-- however,thus,therefore.in addition,for example 都是adv.
-- 连词可能被省略
+# 1.句子结构
+## 1）主语/宾语：动作的发出者、承受者
+***to do/doing/pron/N/clause***
 
-## 2)the age of the students varies
-- prep+n 不是句子的主要成分，n不是句子主宾语
+## 2)谓语/动作
+### 2.1）是谓语
+***do/does/did/am/is/are/was/were/have/has/had/can/should/would***
+***have/has+done***
+***have/has+been done/been doing***
+***would/should have done->虚拟语气***
 
-## 3）并列顺序
-- A,B and C
-- A of B and C 
-- 
+### 2.2）不是谓语，非谓语修饰n,或者补充说明句子
+***to do/doing/done***
+***A singing birds***
+***a home made cake***
+***a stone made...***
+***driving on the way back home,I saw a little girl***
+***decorated with balloons,the house looks fascinating.***
+
+## 3)表语：主语的性质状态特征
+***n/adj***
+
+## 4)系动词:没有动作，连接主表
+***be/look/smell***
 
 
+# 2.从句
+## 2.1 定语从句:等同于形容词修饰名词
+***that/which/who/whom/whose***
+
+     1)I saw a girl who wore a red dress.
+     2)The girl wears a red dress which is expensive.
+     3)This is the house which I lived in.
+     4)This is the house where I lived.
+     5)We should all attend the meeting whose improtance is so obvious.
+     6)I bought a new phone whose screen is 4.3 inches.
+     7)I have a crash on the girl whose hair is red.
+     8)I talked to the man whom my father worked with.
+     9)I leave the guy my sister hates.
+     10）The couple（主语）【 who live next to us：修饰 couple】 (have:主句真正的谓语) a son.
+
+## 2.2 名词性从句
+     1）That I love you confuses me.
+     2) It confuses me that I love you.
+     3) It was a mistake that I wrote this letter.
+     4) Whether he will come is a question.
+     5) Who killed the poor man raised an argument.
+     6) I never doubt where you belong.
+     7) I know you don't like him.
+     8) I don't understand how he got involved.
+     
+
+## 2.3 状语从句
+***because/so/when/where/if/although***
+
+     1)I have studied French for 10years since I was 6.
+     2)I knew him when we were in primary school.
+     3)If I were you,I would never marry him.
+     4)Althogh it is a great idea,we shouldn't do it.
+     5)He called me,after he realised it was a mistake.
+
+## 2.4 主语从句
+     1）【what we gave them:主语】was some home-made ice-cream
+     2)it was【强调句】Tom【表语】that/who【连词】【Helen bought the car from：主语】.
+     3)it is impossible 【表语】【 to see the house in universe：主语】-> To see the house in universe is impossible.
+     4)【whether he will come：主语】 really bothers me.
+
+
+## 2.5 限定性 & 非限定性 定语从句
+### 1）非限定性
+***Professor John , who(m) I have long admired , is to visit(to do 表示将来时) our university.***
+      
+      不用于 define professor john,只是自己为了增加更多信息。
+
+### 2）限定性
+***Professor John who(m) I have long admired is to visit (to do 表示将来时) our university.***
+      
+      定语是用来 define professor John.
+
+# 3.拆句原则
+## 3.1)连词可能被省略，在不影响理解的情况下
+***I know(that）you love me***
+***He(两个动作一个主语) stopped looking(V1) at me and cried(V2).***
+
+## 3.2）1 个连词连接2套主谓，2 个连词连接 3 套主谓。
+***He is cool (and) I love him.***
+
+## 3.3）不是连词是adv的词语 
+***however,thus,therefore.neverless,in addition,for example*** 
+
+***A1,however，A2->A2与（A1,however）整体是一个转折的关系***
+***A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分***
+***A.B1,B2,however,C->***
+
+## 3.4）可以做连词的词语
+***whose,where,when,why,whereby,what,whoever,whichever.***
+
+## 3.5）介词+名词：分析句子成分的时候可以直接划掉不看
+***the age of the students varies***
+
+## 3.6）两个逗号/破折号之间是插入语，不用看
+
+# 4.并列顺序
+***and,or,as well as,not only but also***
+***A,B and C->if ABC三个是列举；else ABC是一起理解的***
+***A of B and C->根据单词意思搞清楚是哪2个在并列*** 
+
+## 5.
 
 
 # PART IV.着重积累搭配
@@ -89,14 +181,9 @@
             but
             yet
        6.2）副词：只能连接1个句子/位置自由，可以放在任何的位置
-            however
-            1）A1,however，A2->A2与（A1,however）整体是一个转折的关系
-            2）A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分
-            3）A.B1,B2,however,C->
        6.3）despite+n.
        6.4)although/though+句子
-       
-       no/without/except/besides
+       6.5)no/without/except/besides
     7）时间、地点
     8）助动词、动词
        have/does/be/being
@@ -116,40 +203,6 @@
     5) 虚拟语气
        could/would
        if I were you.
-
-## 3.语法
-### 3.1 定语从句
-***that/which/who/whom/whose***
-
-     1)I saw a girl who wore a red dress.
-     2)The girl wears a red dress which is expensive.
-     3)This is the house which I lived in.
-     4)This is the house where I lived.
-     5)We should all attend the meeting whose improtance is so obvious.
-     6)I bought a new phone whose screen is 4.3 inches.
-     7)I have a crash on the girl whose hair is red.
-     8)I talked to the man whom my father worked with.
-     9)I leave the guy my sister hates.
-
-### 3.2 名词性从句
-     1）That I love you confuses me.
-     2) It confuses me that I love you.
-     3) It was a mistake that I wrote this letter.
-     4) Whether he will come is a question.
-     5) Who killed the poor man raised an argument.
-     6) I never doubt where you belong.
-     7) I know you don't like him.
-     8) I don't understand how he got involved.
-     
-### 3.3 状语从句
-***because/so/when/where/if/although***
-
-     1)I have studied French for 10years since I was 6.
-     2)I knew him when we were in primary school.
-     3)If I were you,I would never marry him.
-     4)Althogh it is a great idea,we shouldn't do it.
-     5)He called me,after he realised it was a mistake.
-
 
 # Part I.给出的选项对应statement的某几句话
 ## 1）找话题词
