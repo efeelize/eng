@@ -15,11 +15,11 @@
 
 ### 2.2）不是谓语，非谓语修饰n,或者补充说明句子
 ***to do/doing/done***
-***A singing birds***
-***a home made cake***
+***A singing(-ing不表达现在正在唱歌，表示与bird是主动的关系) birds->名词短语，唱歌的鸟***
+***a home made（表示与cake是被动的关系）cake***
+***jobs to do***
+***a man【killed in woods：修饰 man】***
 ***a stone made...***
-***driving on the way back home,I saw a little girl***
-***decorated with balloons,the house looks fascinating.***
 
 ## 3)表语：主语的性质状态特征
 ***n/adj***
@@ -27,6 +27,9 @@
 ## 4)系动词:没有动作，连接主表
 ***be/look/smell***
 
+## 5）独立主格
+***Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl***
+***Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.***
 
 # 2.从句
 ## 2.1 定语从句:等同于形容词修饰名词
@@ -104,13 +107,23 @@
 
 ## 3.6）两个逗号/破折号之间是插入语，不用看
 
-# 4.并列顺序
+## 3.7）并列顺序
 ***and,or,as well as,not only but also***
 ***A,B and C->if ABC三个是列举；else ABC是一起理解的***
 ***A of B and C->根据单词意思搞清楚是哪2个在并列*** 
 
-## 5.
+# 4.例句
+***1）Market awareness【主语1】of the mobile telephone【省略不看】has exploded 【谓语】 and 【连词 1】the retailer【主语2】{who【主语3】【连词2】specialises in mobile phones:从句省略不看}is seeing 【谓语】 growth like never before.->2 个连词，3 套主谓->awareness has exploded and the retailer is seeing growth.***
 
+***2）Admittedly【副词开头省略不看】,some customers【主语1】 buy【谓语 1】 their first mobile phone in the super market,but for advice【副词+名词，省略不看】[A],add-ons[B] and particular services [C] they turn 【主语2】【谓语2】 to the specialist.->后半句是并列：FOR A,B AND C->对于 ABC 这样的东西，他们还是找专业的人士。***
+
+***3）There are【谓语1】a large number of mobile phone retailers【主语1】 and I 【主语 2】can't help but feel（谓语 2） the market（主语3）only has（谓语3） room for 4 players.***
+
+***4）Undoubtedly,customer service【主语1】 is（谓语1）the factor{that【主语2】 differetiates【谓语2】operators} and I think this year we【主语3】 will probably see【谓语3】rationalisation in the sector.***
+
+***5)In the past,feedback【主语】 about your performance 【used to mean：谓语】 a quiet chat with the boss.But now 【360-degree feedback主语 2】-the system where employees are also given feedback from peers and from the people they manage-is【谓语 2】taking root in corporate culture.The system 【主语 3】is characterised by 【greater participation谓语 3】 and has grown【谓语 3】out of the desire of companies {to create more open working enviroments:to do 引导的目的状语} {where people work better together and ideas and opinions are exchanged between teams and across levels of seniority:修饰 enviroment}.***
+
+***6)[Basic activities主语 1] such as catering,cleaning and security were often the first to be contracted out as both the privite and publics sectors yielded to the 1990's  philosophy of concentrating on core activities.As a result of outsourcing,many canteens have lost their institutional atmosphere and resemble high-street retail outlets,boosting both the range of products and facilities for workers and the MSSs' turnover.Profits from the growing UK outsourcing market are helping the biggest catering MSSs to expend overseas as the industry develops a global dimension.There are signs that the spread of contracting out to MSSs is impacting on the way OWOs are run,generating a need for high-level staff who will be skilled at negotiating and handling relationships with partner organisations rather than simply giving internal directions.Meanwhile,many MSSs as their workforces often consist of staff inherited from dozens of organisations in both the public and private sectors.***
 
 # PART IV.着重积累搭配
     1）近义词辨析；
