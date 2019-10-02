@@ -8,18 +8,19 @@
 
 ## 2)谓语/动作
 ### 2.1）是谓语
-***do/does/did/am/is/are/was/were/have/has/had/can/should/would***
-***have/has+done***
-***have/has+been done/been doing***
-***would/should have done->虚拟语气***
+    1）do/does/did/am/is/are/was/were/have/has/had/can/should/would
+    2）have/has+done
+    3）have/has+been done/been doing
+    4）would/should have done->虚拟语气
 
 ### 2.2）不是谓语，非谓语修饰n,或者补充说明句子
-***to do/doing/done***
-***A singing(-ing不表达现在正在唱歌，表示与bird是主动的关系) birds->名词短语，唱歌的鸟***
-***a home made（表示与cake是被动的关系）cake***
-***jobs to do***
-***a man【killed in woods：修饰 man】***
-***a stone made...***
+    1）to do/doing/done
+    2）A singing(-ing不表达现在正在唱歌，表示与bird是主动的关系) 
+       birds->名词短语，唱歌的鸟
+    3）a home made（表示与cake是被动的关系）cake
+    4）jobs to do
+    5）a man【killed in woods：修饰 man】
+    6）a stone made...
 
 ## 3)表语：主语的性质状态特征
 ***n/adj***
@@ -28,8 +29,8 @@
 ***be/look/smell***
 
 ## 5）独立主格
-***Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl***
-***Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.***
+***1）Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl***
+***2）Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.***
 
 # 2.从句
 ## 2.1 定语从句:等同于形容词修饰名词
@@ -95,9 +96,9 @@
 ## 3.3）不是连词是adv的词语 
 ***however,thus,therefore.neverless,in addition,for example*** 
 
-***A1,however，A2->A2与（A1,however）整体是一个转折的关系***
-***A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分***
-***A.B1,B2,however,C->***
+    1）A1,however，A2->A2与（A1,however）整体是一个转折的关系
+    2）A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分
+    3）A.B1,B2,however,C->
 
 ## 3.4）可以做连词的词语
 ***whose,where,when,why,whereby,what,whoever,whichever.***
@@ -109,8 +110,9 @@
 
 ## 3.7）并列顺序
 ***and,or,as well as,not only but also***
-***A,B and C->if ABC三个是列举；else ABC是一起理解的***
-***A of B and C->根据单词意思搞清楚是哪2个在并列*** 
+     
+    1）A,B and C->if ABC三个是列举；else ABC是一起理解的
+    2）A of B and C->根据单词意思搞清楚是哪2个在并列
 
 # 4.例句
 ***1）[Market awareness:主语1]of the mobile telephone【省略不看】has [exploded:谓语 1] and 【连词 1】the retailer【主语2】{who【主语3】【连词2】specialises in mobile phones:从句省略不看}is seeing 【谓语】 growth like never before.->2 个连词，3 套主谓->awareness has exploded and the retailer is seeing growth.***
@@ -155,9 +157,9 @@
     跟题目有关再读从句修饰:定从 ，状从，名从，插入语，状语
 ## 5）二读确定答案句 
 ### 5.1）排除 
-         无关内容 
-         情感态度不符 
-         文章提到但文章里面否认
+    无关内容 
+    情感态度不符 
+    文章提到但文章里面否认
 ### 5.2）比较明确剩下选项的区别
          在文中找对应词，一一对应 
          比较符合度，确定选项
@@ -179,20 +181,20 @@
     1)理解句意
     2)分析语法结构，确定词性
 ## 1.常考虚词
-    1）介词
+### 1）介词
        to/in/as/for/rather
-    2）连词
+### 2）连词
        despite/thogh/if/because/and/but 
        that/which/whose/whom/who
        when/where/what
-    3）副词
-    4）关系代词、副词
+### 3）副词
+### 4）关系代词、副词
        which/who/what/why
        where/when
-    5）代词
+### 5）代词
        anywhere/anybody/nobody/everybody
        myself
-    6）否定
+### 6）否定
        6.1）连词:连接2套主谓
             but
             yet
@@ -200,23 +202,23 @@
        6.3）despite+n.
        6.4)although/though+句子
        6.5)no/without/except/besides
-    7）时间、地点
-    8）助动词、动词
+### 7）时间、地点
+### 8）助动词、动词
        have/does/be/being
 
 ## 2.时态
-    1）一般现在时
-    2）一般过去式：有具体的过去时间
-    3）现在完成式
+### 1）一般现在时
+### 2）一般过去式：有具体的过去时间
+### 3）现在完成式
       3.1）发生在过去，持续到现在
       3.2）发生在过去，但是不记得具体的过去时间
            already
            just:I have just finished my homework.
            not yet:I haven't finished my homework yet.
-    4) 一般将来式
+### 4) 一般将来式
        be going to 
        will 
-    5) 虚拟语气
+### 5) 虚拟语气
        could/would
        if I were you.
 
