@@ -128,7 +128,23 @@
 ***6)[Basic activities主语 1] such as catering,cleaning and security were often the first to be [contracted:谓语 1] out as both the privite and publics sectors yielded to the 1990's  philosophy of concentrating on core activities.As a result of outsourcing,[many canteens:主语 2] have [lost:谓语 2] their institutional atmosphere and [resemble:谓语 3] high-street retail outlets,boosting both the range of products and facilities for workers and the MSSs' turnover.[Profits:主语 3] from the growing UK outsourcing market are [helping:谓语 3] the biggest catering MSSs to expend overseas as the industry develops a global dimension.***
 ***简略版：basic activities were first to be contracted.Many canteens have lost sth,and resemble sth.profits are helping sth.***
 
-***7){There are[signs:主语 1] that:==It is true that...} the spread of contracting out to MSSs is [impacting on the way:谓语 1] OWOs are run,generating a need for high-level staff who will be skilled at negotiating and handling relationships with partner organisations rather than simply giving internal directions.Meanwhile,[many MSSs:主语 2] face new employment and recuritment [issues:主语 3] as their workforces often consist of staff inherited from dozens of organisations in both the public and private sectors.***
+***7){There are[signs:主语 1] that:==It is true that...} the spread of contracting out to MSSs is [impacting on the way:谓语 1] OWOs are run,generating a need for [high-level staff] {who will be skilled at negotiating and handling relationships with partner organisations rather than simply giving internal directions}.Meanwhile,[many MSSs:主语 2] face new employment and recuritment [issues:主语 3] as their workforces often consist of staff inherited from dozens of organisations in both the public and private sectors.***
+
+***8)[Donkey:主语],which were improted to the distinct,[have become more common:谓语 1]and [contribute:谓语 2],in particular,to the transportation of crops and goods to market.Those who have bought donkeys are mainly from richer households but,with an increased supply through local breeding,[donkeys should become more affordable].Meanwhile,[local initiatives:主语] are [promoting：谓语] the renting out of the existing donkeys.***
+     
+     精简版：donkey have become common and contribute to the transportation.
+            donkey should become more afforable.
+            local initiatives promoting.
+
+***9)It should be noted,however,that a [donkey:主语],{which at 20000 Tanzanian shilling costs less than a bicycle,} [is:谓语] still an investment equal to an average household's income over half a year.This clearly illustrates the need for supplementary measures if one wants to assist the rural poor.***
+   
+     精简版：donkey is an investment.
+
+***10)It would have been easy to[critise the MIRTP] for using in the early phases a "top-down"approach,in which  decisions were made by experts and officials before being handed down to communities,but [it was necessary to start the process] from the level of the governmental authorities of the district.[It would have been difficult to respond to the requests] of villagers and other rural inhabitants without the support and understanding of district authorities.***
+
+***11)There are [people:主语] in Europe who,confounding together the different characteristics of the sexes,would make of man and woman beings [not only equal but alike].[They would give] to both the [same functions],impose on both the [same duties],and grant to both the [same rights];they would [mix them in all things]——their occupations,their pleasures,their business.It may readily be conveived,that by thus attempting to [make one sex equal to the other,both are degraded];and from so preposterous a medley of the works of nature nothing could ever [result but weak men and disorderly women].It is not thus that the Americans understand that species of demorcratic equality which may be established between the sexes.They admit,that as nature has appointed such wide differences between the physical and moralconstitution of man and woman,her manifest design was to give a distinct employment to their various faculties;and they...***
+
+***12)Anaerobic glycolysis is a [process] in which [energy is produced],without oxygen,through the breakdown of muscle glysogen into lactic acid and adenosine triphosphate(ATP),the energy provider.The[amount of energy] that can be produced anaerobically is a function[函数] of the [amount of glycogen] present——in all vertebrates about 0.5 percent of their muscles'wet weight.Thus the anaerobic [energy] reserves of a vertebrate are [proportional(成比例的) to the size] of the animal.If,for example,some predators had attacked a 100-ton disnosaur,normally torpid,the dinosaur swould have been able to generate almost instantaneously,via anaerobic glycolysis,the energy of 3000 humans at maximum oxidative metabolic energy production.***
 
 # PART IV.着重积累搭配
     1）近义词辨析；
