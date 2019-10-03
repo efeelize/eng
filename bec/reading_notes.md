@@ -69,7 +69,8 @@
 ## 2.4 主语从句
      1）【what we gave them:主语】was some home-made ice-cream
      2)it was【强调句】Tom【表语】that/who【连词】【Helen bought the car from：主语】.
-     3)it is impossible 【表语】【 to see the house in universe：主语】-> To see the house in universe is impossible.
+     3)it is impossible 【表语】【 to see the house in universe：主语】
+       -> To see the house in universe is impossible.
      4)【whether he will come：主语】 really bothers me.
 
 
