@@ -115,20 +115,27 @@
     2）A of B and C->根据单词意思搞清楚是哪2个在并列
 
 # 4.例句
-***1）[Market awareness:主语1]of the mobile telephone【省略不看】has [exploded:谓语 1] and 【连词 1】the retailer【主语2】{who【主语3】【连词2】specialises in mobile phones:从句省略不看}is seeing 【谓语】 growth like never before.->2 个连词，3 套主谓->awareness has exploded and the retailer is seeing growth.***
+***1）[Market awareness:主语1]{of the mobile telephone:省略不看}has [exploded:谓语 1]  [and:连词 1] the [retailer:主语2] { [who:主语3]specialises in mobile phones:从句省略不看} is [seeing :谓语2] growth like never before.***
+    
+    2 个连词，3 套主谓
+    精简版：awareness has exploded and the retailer is seeing growth.
 
-***2）Admittedly【副词开头省略不看】,some customers【主语1】 buy【谓语 1】 their first mobile phone in the super market,but for advice【副词+名词，省略不看】[A],add-ons[B] and particular services [C] they turn 【主语2】【谓语2】 to the specialist.->后半句是并列：FOR A,B AND C->对于 ABC 这样的东西，他们还是找专业的人士。***
+***2）{Admittedly:副词开头省略不看},some [customers:主语1]  [buy:谓语 1] their first mobile phone in the super market,[but for advice:副词+名词，省略不看]  [A],add-ons[B] and particular services [C]  [they:主语2]  [turn:谓语2] to the specialist.***
 
-***3）There are【谓语1】a large number of mobile phone retailers【主语1】 and I 【主语 2】can't help but feel（谓语 2） the market（主语3）only has（谓语3） room for 4 players.***
+    后半句是并列：FOR A,B AND C
+    对于 ABC 这样的东西，他们还是找专业的人士。
 
-***4）[Undoubtedly,customer service：主语1] is（谓语1）the factor{that【主语2】 differetiates【谓语2】operators} and I think this year we【主语3】 will probably see【谓语3】rationalisation in the sector.***
+***3）There [are:谓语1]a large number of mobile phone [retailers:主语1] and [I :主语 2]can't help but [feel:谓语 2] the [market:主语3]only [has:谓语3] room for 4 players.***
 
-***5)In the past,feedback【主语】 about your performance 【used to mean：谓语】 a quiet chat with the boss.But now 【360-degree feedback主语 2】-the system where employees are also given feedback from peers and from the people they manage-is【谓语 2】taking root in corporate culture.The system 【主语 3】is characterised by 【greater participation谓语 3】 and has grown【谓语 3】out of the desire of companies {to create more open working enviroments:to do 引导的目的状语} {where people work better together and ideas and opinions are exchanged between teams and across levels of seniority:修饰 enviroment}.***
+***4）[Undoubtedly,customer service：主语1]  [is:谓语1]the factor{[that:主语2]  [differetiates:谓语2]operators} and I think this year [we:主语3] will probably [see:谓语3]rationalisation in the sector.***
+
+***5)In the past,[feedback:主语] about your performance [used to mean：谓语] a quiet chat with the boss.But now [360-degree feedback:主语 2]-the system where employees are also given feedback from peers and from the people they manage——[is:谓语 2]taking root in corporate culture.The[system :主语 3]is characterised by [greater participation：谓语 3] and has [grown:谓语 3]out of the desire of companies {to create more open working enviroments:to do 引导的目的状语} {where people work better together and ideas and opinions are exchanged between teams and across levels of seniority:[修饰 enviroment]}.***
 
 ***6)[Basic activities主语 1] such as catering,cleaning and security were often the first to be [contracted:谓语 1] out as both the privite and publics sectors yielded to the 1990's  philosophy of concentrating on core activities.As a result of outsourcing,[many canteens:主语 2] have [lost:谓语 2] their institutional atmosphere and [resemble:谓语 3] high-street retail outlets,boosting both the range of products and facilities for workers and the MSSs' turnover.[Profits:主语 3] from the growing UK outsourcing market are [helping:谓语 3] the biggest catering MSSs to expend overseas as the industry develops a global dimension.***
-***简略版：basic activities were first to be contracted.Many canteens have lost sth,and resemble sth.profits are helping sth.***
 
-***7){There are[signs:主语 1] that:==It is true that...} the spread of contracting out to MSSs is [impacting on the way:谓语 1] OWOs are run,generating a need for [high-level staff] {who will be skilled at negotiating and handling relationships with partner organisations rather than simply giving internal directions}.Meanwhile,[many MSSs:主语 2] face new employment and recuritment [issues:主语 3] as their workforces often consist of staff inherited from dozens of organisations in both the public and private sectors.***
+     精简版：basic activities were first to be contracted.Many canteens have lost sth,and resemble sth.profits are helping sth.
+
+***7){There are[signs:主语 1] that:==It is true that...} the [spread of contracting:主语] out to MSSs is [impacting on the way:谓语 1] OWOs are run,generating a need for [high-level staff] {who will be skilled at negotiating and handling relationships with partner organisations rather than simply giving internal directions}.Meanwhile,[many MSSs:主语 2] face new employment and recuritment [issues:主语 3] as their workforces often consist of staff inherited from dozens of organisations in both the public and private sectors.***
 
 ***8)[Donkey:主语],which were improted to the distinct,[have become more common:谓语 1]and [contribute:谓语 2],in particular,to the transportation of crops and goods to market.Those who have bought donkeys are mainly from richer households but,with an increased supply through local breeding,[donkeys should become more affordable].Meanwhile,[local initiatives:主语] are [promoting：谓语] the renting out of the existing donkeys.***
      
@@ -142,9 +149,15 @@
 
 ***10)It would have been easy to[critise the MIRTP] for using in the early phases a "top-down"approach,in which  decisions were made by experts and officials before being handed down to communities,but [it was necessary to start the process] from the level of the governmental authorities of the district.[It would have been difficult to respond to the requests] of villagers and other rural inhabitants without the support and understanding of district authorities.***
 
+     精简版：critise the MIRTP.It was necessary to start the process,it would have been difficult to respond to the requests.
+
 ***11)There are [people:主语] in Europe who,confounding together the different characteristics of the sexes,would make of man and woman beings [not only equal but alike].[They would give] to both the [same functions],impose on both the [same duties],and grant to both the [same rights];they would [mix them in all things]——their occupations,their pleasures,their business.It may readily be conveived,that by thus attempting to [make one sex equal to the other,both are degraded];and from so preposterous a medley of the works of nature nothing could ever [result but weak men and disorderly women].It is not thus that the Americans understand that species of demorcratic equality which may be established between the sexes.They admit,that as nature has appointed such wide differences between the physical and moralconstitution of man and woman,her manifest design was to give a distinct employment to their various faculties;and they...***
 
+     精简版：people not only equal but alike.they would give same functions,same duties,same rights.make one sex equal to the other,both are degraded,result but weak men and disorderly women.
+
 ***12)Anaerobic glycolysis is a [process] in which [energy is produced],without oxygen,through the breakdown of muscle glysogen into lactic acid and adenosine triphosphate(ATP),the energy provider.The[amount of energy] that can be produced anaerobically is a function[函数] of the [amount of glycogen] present——in all vertebrates about 0.5 percent of their muscles'wet weight.Thus the anaerobic [energy] reserves of a vertebrate are [proportional(成比例的) to the size] of the animal.If,for example,some predators had attacked a 100-ton disnosaur,normally torpid,the dinosaur swould have been able to generate almost instantaneously,via anaerobic glycolysis,the energy of 3000 humans at maximum oxidative metabolic energy production.***
+
+     精简版：process energy is produced,amount of energy is a function of the amount of glycogen.energy are proportional to the size.
 
 # PART IV.着重积累搭配
     1）近义词辨析；
@@ -153,35 +166,35 @@
     4）动词词组
 
 # Part III.
-# 1.基础版本做题方法（正确率高）
-## 1）简化题干 
-### 1.1）定位路标词
+## 1.基础版本做题方法（正确率高）
+### 1）简化题干 
+#### 1.1）定位路标词
          问句中会最先提到的实词(组)/exp:自然段、实词        
-### 1.2）定位提问词,排除/选择选项
+#### 1.2）定位提问词,排除/选择选项
          ie.问句最终问的方面，对应选项的实词(组)/exp:实词、简短、对应选项
-## 2）简化选项
+### 2）简化选项
     2.1)选项中回答问题的词/对应的提问词
     2.2)选项之间的区别词 
     2.3)符号简化，简化一提做一提
     2.3)简短(为了排除3)
-## 3）定位 （一段一般 1-2 题）
+### 3）定位 （一段一般 1-2 题）
     提到了某自然段，全段都要看
     某词---前1句/本句—段末
-## 4）首读排除 2个错误选项 
+### 4）首读排除 2个错误选项 
     速度，排除不重要的句子/不能回答问题的句子不要看
     读主句主干:主谓(宾)、主表 
     跟题目有关再读从句修饰:定从 ，状从，名从，插入语，状语
-## 5）二读确定答案句 
-### 5.1）排除 
+### 5）二读确定答案句 
+#### 5.1）排除 
     无关内容 
     情感态度不符 
     文章提到但文章里面否认
-### 5.2）比较明确剩下选项的区别
+#### 5.2）比较明确剩下选项的区别
          在文中找对应词，一一对应 
          比较符合度，确定选项
-## 6）确定选项
+### 6）确定选项
 
-# 2.高阶版本做题方法（速度快）
+## 2.高阶版本做题方法（速度快）
     简化题干 (路标+提问)
     定位段落
     确定答案句
