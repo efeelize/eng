@@ -1,4 +1,4 @@
-# writing 
+# writing_notes
 # 1.原则
 ## 1) 客观
       不能有任何主观想象的成分
@@ -38,6 +38,7 @@
 > 结构：总分总
 # 1.opening para
     介绍图表主体/改写题干
+    最好写小标题
 
 # 2.body para 
     介绍主要数据（不用写每一个 percentage）+对比
@@ -252,7 +253,16 @@
        slight:small in amount or degree
        slow:moving, happening, or doing something without much speed
 
+# PART II.
+# REPORT
+## 1.MEMO
+     To: Mr. Brown, Director of Human Resources Department
+     From: Song Goudan, Translating Coordinator 
+     Date: 8 Oct 2017
+     Subject: Company Training Course Most Suitable for Foreign Language Translators
 
+## 2.SHORT REPORT
+     
 
 
 
