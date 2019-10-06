@@ -445,6 +445,7 @@
         budget planning;accounting cost
 
 > 参考答案
+
 ***Introduction:In my opinion,the most useful courses were:Managing people and Trends in Electronic Commerce.'Managing People was a one-day course focused on management techniques and their successful implementation.It examined different management styles and their benefits and disadvantages.'Trends in Electronic Commerce'was a practically oriented one-day course.The main issues discussed involved:the latest trends in e-commerce,security of information,business to business(B2B) trading and potential savings enable by e-commerce.***
 
 ***Benefits:Both of these courses were very interesting for me,as I work as a Purchase Manager.I am going to use some of the management techniques in my department.I would like to improve the current approach to motivation or organization of meetings for example. I think that'motivating people'is a key aspect of my job.'Trends in Electronic Commerce'course was also very useful for me as we are set to start ordering process using the Internet technology.***
