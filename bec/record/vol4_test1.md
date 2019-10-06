@@ -12,11 +12,6 @@
     subordinates          /sə'bɔːdɪnət/
     be subordinate to                           次于…；从属于…
 
-    charismatic[attractive] /kærɪz'mætɪk/       adj. 有魅力的;有感召力的
-    charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
-    charm
-
-
      implement a major change
 
      go forth with:           Determined managers go forth with the plans
@@ -25,16 +20,13 @@
 
 > relayed/ re-laying, re-lays /名词读作ˈriːleɪ，动词读作rɪˈleɪ
 
-***...the speeches relayed [转播]by satellite /'sætəlaɪt/...***
+***...the speeches relayed  [转播] by satellite /'sætəlaɪt/...***
 
-> undergrowth[small bushes]  
-
-    the brush  growing beneath taller trees in a wood or forest
+> undergrowth[small bushes] :the brush  growing beneath taller trees in a wood or forest
 
 ***his strategy-renewal process leads managers through the undergrowth of a business unit's complexity...***
 
-    thicket                /'θɪkɪt/          
-             a dense growth of bushes
+    thicket                /'θɪkɪt/           a dense growth of bushes
 
 > prune[remove] /pruːn/           
   
@@ -79,10 +71,20 @@
 
 ***business units often take charge of formulating strategy in today's environment.接管，负责***
 
-## 2.sentence
-***Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
+> rouse/roused, rousing, rouses/cause to be agitated, excited 
 
-***The author presents two case studies of his ideas in action.***
+***...giving up the image of the charismatic executive rousing the troops.***
+
+    charismatic[attractive] /kærɪz'mætɪk/       adj. 有魅力的;有感召力的
+    charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
+    charm
+
+
+
+## 2.sentence
+***1) Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
+
+***2) The author presents two case studies of his ideas in action.***
 
 # PART II.
 
