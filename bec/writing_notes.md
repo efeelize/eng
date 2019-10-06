@@ -287,15 +287,186 @@
        slight:small in amount or degree
        slow:moving, happening, or doing something without much speed
 
-# PART II.
+# PART II.（200-250words）
 # REPORT
-## 1.MEMO
+## 1.SHORT REPORT
+    title:           Report on the XXX
+    Introduction：要做什么/aim
+    Findings 1：描述现状
+    Conclusion/comment 1：评估现状、优缺点
+    Recommendations 1：根据现状的 不好 来写->具体到请几个员工/要求增加购入XX设备;
+                       现状好的地方就不用写了
+    Findings 2
+    Conclusion 2
+    Recommendations 2 ...
+
+    checklist:
+    1）单词拼写：-ed/-s；
+    2）题目中要求的 bullet point 都要写到
+    3）字数太多可以删除
+
+### 1.Introduction 背景和事由
+> 目的，研究范围，具体部门，具体时间段，数据基础， etc.
+
+***This report aims / sets out to...***
+***The report is based on...***
+***The aim of this report is to...***
+
+### 2. Findings 调查结果或比较结果 
+> 现状，问题，后果;论点，原因，etc.
+
+***It was found that...***
+***The following points summarize our key findings.***
+***The key findings are outlined below.***
+
+### 3. Conclusion 结论或推论 
+> 逐层，渐进，从现状推导需求
+
+***It was decided that...***
+***It is clear that...***
+
+### 4. Recommendations 建议
+> 具体办法，其他方面处理，etc.
+
+***It is suggested / proposed / recommended that...***
+***We (strongly) recommend that...***
+***It is essential to...***
+***It would be advised to...***
+
+### 5.Additional Budget->additional money
+    Your comapny recently is considering giving additional budget for for a 
+    certain department. Your Head of Department has asked to to produce the 
+    report about the necessity of the budget.
+    Write the report for the Managing Director, explaining:
+    the general description of the department. Why the department need the 
+    budget. how to plan the budget.
+
+    内容扩充
+    1.training
+    2.lauch product
+    3.relocation
+    4.trade fairs
+    5.brand building
+    6.recruit
+       how:advertising channels
+           improved survey in XX...
+
+***Introduction : (目的)The [aim] of this report is to consider additional budget for (拟出具体部门)the public relations department for (拟出具体 时段)the coming year. (数据来源)It is [based on] the survey by human resources department.***
+
+***Findings:The following points summarize our key findings.(现状)The Public Relations Department is now having three interpreters and one receptionist. (问题)They can hardly deal with the increasing number of visitors and clients. (后果)It is impossible for them to cover over the upcoming busy seasons.***
+
+***Findings:Due to rapid business increase, (论点1)the Department needs to recruit five new employees (原因1)to cover over the loss of staff through retirement later in the year, (论点2)as well as two temporary workers (原因2)to provide cover for maternity leave that may well be long-term.***
+
+***可以附加：...What’s more, the existing office [space and equipment] is inadequate for a busy department of public relations.***
+
+***Conclusion : We have assessed the current staffing levels, and come to a conclusion: (第1层)The Public Relations Department is [short staffed]. (第2层)It is clear that the Public Relations Department have to [recruit] new employees to tackle the possible problems occurring in booming business of the company. (第3层)Therefore, it needs badly extra [money] for business expansion.***
+
+***Recommendations（1）:It is recommended that（具体）the Department start to recruit the new employees immediately [by advertising] in national newspapers and trade magazines.***
+
+***Recommendations（2）:[Temporary positions] should also be advertised in local newspapers for four production workers and two receptionists. If the successful candidates prove reliable, they can [be offered full-time contracts:得到转正的机会] to replace employees retiring or not returning from maternity /mə'tɜːnɪtɪ/ leave.***
+
+### 6.re-investing the profits
+***Introduction:(目的)This report [sets out to] examine how the company shoudl re-invest this year's profits.(研究范围)The [areas under consideration]are the purchase of [new computers],the provision of [language training courses]and the payment of [special bonuses].[在 introduction里面要泛泛的写 3 个方面]***
+
+***Findings:New computers[小标题]. (原因)The majority of company computers are quite new and fast enough to handle the work done on them. (结论)Consequently, new computers would not be recommended.***
+
+      Findings:三个领域的调查、运行现状 不买产品的原因?
+      (1)现在产品很新; (2)仍能胜任工作。
+
+***Findings:[Language training courses]. The company aims to [increase exports], (原因1)particularly in [Spain and France]{先讲清楚服务的区域}. Therefore, (结论1)language training courses would be an [excellent idea] for those employees who deal with business partners and customers overseas. (原因2)In addition, training courses would [increase motivation]: staff would enjoy the lessons and perceive that the company is investing in them. (结论2)Therefore, language training [would be an option].***
+
+      需要语言培训吗?
+      (1)国际业务需要(具体国家;谁负责业务); 
+      (2)员工被激励(享受课程;被重视感)。
+
+***Findings:Special bonus payments. (利)Although special bonus payments would have a beneficial impact on [motivation], (弊1)they would have no direct effect on the company’s operations. (弊2)There are also potential problems concerning the selection of staff eligible for the payments and the setting of a precedent for future payments. (论点)Therefore, bonus payments would not be advisable.***
+
+      发特别奖金的利弊?
+     (利)激励员工; 
+     (弊1)对公司无直接促进;
+     (弊2)奖励对象难筛选。
+
+***Conclusion and Recommendations:(选择结果)It is felt that the best solution for both the company and staff would be to invest in [language training]. (操作办法)It is suggested that the company should organize courses in [French and Spanish]. (受益对象)Those employees who have contact with partners and customers should be [assured] of places but other interested members of staff should also be [allowed] to attend.***
+
+      incl:选择结果;操作办法;受益对象
+      finding 写的多，conclusion和 recommendations 可以合并在一起写
+
+### 7.staff dissatisfaction
+#### 7.1)findings：具体到每个部门的不满
+      Sales: 提成少，待遇不如竞争对手好;
+             (undervalued, remuneration, unappreciative，inadequate training)
+      R&D: 无挑战性，潜能得不到施展;
+             (under-challenged, not exploit potential)
+      Production: 衔接断裂，生产循环受阻。
+             (breakdown of communication, confusion/kən'fjuːʒ(ə)n/[混淆], disrupt production cycles)
+      commute
+
+***Findings:{总结句}A number of employees clearly suffer from a lack of motivation as a result of dissatisfaction in one or more areas of their work. [The key findings are outlined below]:(待遇少)Staff feel [undervalued] by the company, both on a financial and a personal level. (竞争对手待遇好)It is generally felt that the company’s competitors offer higher levels of [remuneration] /rɪ,mjuːnə'reɪʃ(ə)n/. (感觉不被重视)The perception that managers are unappreciative of staff efforts is particularly noticeable in the [Sales Department].***
+
+***(无挑战性)Certain employees feel [under-challenged]. (潜能无法施展)The company is clearly not exploiting the [potential] of its human resources.(沟通不畅)There appears to be a [breakdown] of communication in the [Production Department]. (困惑)The [confusion] and resultant [ill-feeling] towards managers has the potential to (阻断生产)disrupt production cycles.***
+
+#### 7.2)recommedation
+      Sales: 检查工资结构，对比竞争对手;
+             (review salary structure, comparison)
+      R&D: 剖析工作，评估人力资源效率; 
+             (evaluation of job profiles, utilize human resources more
+              efficiently)
+      Production: 调查、解决沟通问题。 (investigate, take actions)
+
+***We strongly recommend the following measures:A review of the current [salary structure] involving comparison with [similar organizations].An [evaluation of job profiles] throughout the company to assesswhether skills could be [utilized more efficiently.]It is also essential to [investigate] and [take action] regarding [communication] in the Production Department.***
+
+### 8.topic
+#### 8.1 公司怎样用钱
+     1）新产品可以不买，因为现有产品仍然可用(new, fast, handle, etc.);
+     2）奖金
+       2.1）好处(motivation)
+       2.2）坏处(selection of those eligible); 
+       2.3）语言培训
+            1）业务需要(business partners)；
+            2）激励员工(motivation and invest in staff)
+
+
+## 2.PRPPOSAL
+> proposal 讲的是未来的事情，report 的基于以前的事情提出对未来事情的建议
+
+### 2.1 固定表达
+#### 1)Strong Recommending 强烈建议***
+***(1) must / should + 被动语态***
+         
+          After-sale care must be improved.
+
+***(2) It is strongly recommended that ...***
+          
+          It is strongly recommended that national advertising be stopped.
+
+#### 2)Neutral Recommending 中性建议 
+***(1) It is recommended that...***
+***(2) It is advised to...***
+          
+          It is advised to investigate competitor’s salesmen’s salaries.
+
+#### 3)Weak Recommending 弱建议 
+***(1) could be...***
+***(2) might be...***
+
+
+
+
+
+## 3.
+
+
+
+## 4.
+
+
+
+
+## 5.MEMO
      To: Mr. Brown, Director of Human Resources Department
      From: Song Goudan, Translating Coordinator 
      Date: 8 Oct 2017
      Subject: Company Training Course Most Suitable for Foreign Language Translators
-
-## 2.SHORT REPORT
 
 
 
