@@ -31,10 +31,20 @@
     4.3）intersection：交叉点
     4.4）trend:变化趋势
 
-## 5)段首缩进 5space，段间不空行
-## 6）注意单位、年份不要写错
+# 2.checklist
+## 2.1)Logic
+       要做到前后呼应，有因有果有例。
+       Example: 论证和举例一定要逻辑吻合。
+## 2.2)Requirement
+       一定要具体明确。
+## 2.3）Article
+       初次出现用a或零冠词;再次出现用the。
+## 2.4)段首缩进 5space，段间不空行
+## 2.5）注意单位、年份不要写错
+## 2.6）单词拼写：-ed/-s；
+## 2.7）字数太多可以删除
 
-# PART I.
+# PART I.（120-140words）
 > 结构：总分总
 # 1.opening para
     介绍图表主体/改写题干
@@ -300,11 +310,6 @@
     Conclusion 2
     Recommendations 2 ...
 
-    checklist:
-    1）单词拼写：-ed/-s；
-    2）题目中要求的 bullet point 都要写到
-    3）字数太多可以删除
-
 ### 1.Introduction 背景和事由
 > 目的，研究范围，具体部门，具体时间段，数据基础， etc.
 
@@ -312,14 +317,14 @@
 ***The report is based on...***
 ***The aim of this report is to...***
 
-### 2. Findings 调查结果或比较结果 
+### 2. Findings 调查结果或比较结果/客观的
 > 现状，问题，后果;论点，原因，etc.
 
 ***It was found that...***
 ***The following points summarize our key findings.***
 ***The key findings are outlined below.***
 
-### 3. Conclusion 结论或推论 
+### 3. Conclusion 结论或推论/主观的
 > 逐层，渐进，从现状推导需求
 
 ***It was decided that...***
@@ -415,8 +420,38 @@
 
 ***We strongly recommend the following measures:A review of the current [salary structure] involving comparison with [similar organizations].An [evaluation of job profiles] throughout the company to assesswhether skills could be [utilized more efficiently.]It is also essential to [investigate] and [take action] regarding [communication] in the Production Department.***
 
-### 8.topic
-#### 8.1 公司怎样用钱
+### 8.4courses
+     You have recently attended the following one-day courses:
+      1)Developing Your Potential;
+      2)Trends in Electronic Commerce;
+      3)Managing People;
+      4)Reducing Costs.
+     Your company's Training Manag has asked you to write a short report about
+     the training. Write the report for the Training Manager:
+     1)describing the two courses which you found most useful;
+     2)exlaining how you benefited from them;
+     3)outlining the specific training courses you would like to attend next 
+       year;
+     4)giving reasons why these courses would be useful to you.
+
+      思路：
+      1)Developing Your Potential;
+        personality building；career development;
+      2)Trends in Electronic Commerce;
+        latest trends;information security
+      3)Managing People;
+        sucessful/failure cases;case study;
+      4)Reducing Costs.
+        budget planning;accounting cost
+
+> 参考答案
+***Introduction:In my opinion,the most useful courses were:Managing people and Trends in Electronic Commerce.'Managing People was a one-day course focused on management techniques and their successful implementation.It examined different management styles and their benefits and disadvantages.'Trends in Electronic Commerce'was a practically oriented one-day course.The main issues discussed involved:the latest trends in e-commerce,security of information,business to business(B2B) trading and potential savings enable by e-commerce.***
+
+***Benefits:Both of these courses were very interesting for me,as I work as a Purchase Manager.I am going to use some of the management techniques in my department.I would like to improve the current approach to motivation or organization of meetings for example. I think that'motivating people'is a key aspect of my job.'Trends in Electronic Commerce'course was also very useful for me as we are set to start ordering process using the Internet technology.***
+
+***Conclusion:Next year,I would like to attend at least one of the following courses:1)Effective Negotiations;2)Time Management;3)Communication——a key factor for success.As all of these topics are closely related to my profession,I am sure that it would be to my and also company's benefit if I could attend these courses.***
+
+### 9.topic:公司怎样用钱
      1）新产品可以不买，因为现有产品仍然可用(new, fast, handle, etc.);
      2）奖金
        2.1）好处(motivation)
@@ -424,7 +459,6 @@
        2.3）语言培训
             1）业务需要(business partners)；
             2）激励员工(motivation and invest in staff)
-
 
 ## 2.PRPPOSAL
 > proposal 讲的是未来的事情，report 的基于以前的事情提出对未来事情的建议
@@ -449,61 +483,231 @@
 ***(1) could be...***
 ***(2) might be...***
 
+### 2.3)vol5_test1_Q4
+***Introduction:(目的)This proposal sets out to examine options for the successful globalization of [our ‘B’ brand]. (调查对象)The initial market under consideration is [Continental /kɒntɪ'nent(ə)l/ Europe]. (考查范围)For the purposes of this proposal, we will be considering [three aspects] of the brand, namely our logo, the ‘B’ concept and finally, the product itself, ‘B’ boots.***
 
+     国际品牌，优势在何处?(万能思路)
+      (1)标识:图文，易懂，即使外国; 
+         (logo, visual enough) 
+      (2)品牌概念:保持自己的市场定位; 
+         (appeal to, upper-class) 
+      (3)用途:多功能，适应不同环境。
+         (multi-purposes, not need adapting)
 
+***Findings:The following points summarise our key findings.(要素1)It was found that our [existing logo], (描述)a pair of boots encircled by the word ‘B’, is (在外国也易懂)[visual enough] to be used in markets where English is not widely spoken.***
 
+***(现状的不利)Although Danish farmers would be willing to purchase such a high quality product, farmers in some countries would be unlikely to choose a British brand over a domestic product. [However], (自己的优势) [the very Britishness of the product] would appeal to the style- conscious elements of the French and Italian markets, summoning up images of the English upper classes.***
 
-## 3.
+***(多功能)Our current product is [multi-purpose] and as such would [not need adapting] to suit different sectors of the European market. (万能 段落)***
 
+***Conclusions:It was agreed that although the present logo and product are suitable for globalization as they stand, we propose that the ‘B’ concept be adapted for different markets.***
 
+     得出什么结论? 
+     (1)logo和product适应全球化要求; 
+     (2)‘B’ concept还需改进，以适应不同市场
 
-## 4.
+***Recommendations:We recommend that further studies be carried out into the marketing strategies best suited to different European regions.***
 
+      采取什么措施?
+     (1)适应不同市场; 
+     (2)进一步研究，调查最优市场战略。
 
+## 3.LETTER
+### 3.1 结构
+#### 1）标题
+        下划线、居中、相当于信件的标题
+        New Product Launching Press Conference Comments, BMW Report
 
+#### 2）正文
+    一家公司写给另一家公司的信
+    1）目的：介绍背景
+      (介绍自己公司/介绍某件事的起源)
+    2）我们公司希望收到信的公司做什么 
+      (进行哪方面改变?/进行什么合作?)
+    3）我们公司希望收到信的公司下一步具体做什么事
+     (我们希望贵司怎么回复信件?做出哪些具体步骤?)
+
+#### 3）结尾
+     Yours faithfully / faithfully yours
+     Yours sincerely / sincerely yours
+
+### 3.2 格式
+#### 1）Address
+        55 Jinfan Road
+        Canglang District
+        Suzhou City, Jiangsu Province, 215000 P.R.China 
+
+#### 2） Reference Number(可以编号码)
+        Your Ref. No.:
+        Our Ref. No.:
+
+#### 3）Date
+        4 May 2017
+        April 5, 2017
+
+#### 4）Salutation(可以编人名)
+       寄给个人，且知道名字:
+       Dear Mr. / Miss / Mrs. / Ms., 
+       寄给个人，且不知道名字:
+       Dear Sir / Madam / Sir or Madam, 
+       寄给公司:
+       Dear Sirs,
+       Dear Ladys and Gentlemen
+
+### 3.3 小结
+#### 1）扩展叙述
+***I am sorry but I will be unable to go to the meeting at our company’s head office.***
+***I cannot attend it because of previous arrangements which I cannot change.***
+***Mr. Jane, a very good colleague of mine, will go instead of me.***
+***Please accept my apologies.***
+
+#### 2）通过语序表达强调
+> 下个月，销售部门将雇佣两名新的客户经理，来提高我们的售后服务质量。
+
+***[The after-sale service] will be improved next month due to the two new client managers to be employed by marketing department.***
+
+***[Next month], sales department will hire two new client managers to improve our after-sale service.***
+
+***[Two new client managers] will be hired next month to improve our after-sale service.***
+
+### 3.4 回信
+    1）开头
+       表示收到，并提及对方内容。
+       有问必答，如“是否接受邀请”等;
+    2）正文
+       考试时，可自己模拟情景。
+       有建议，就一定要有原因。
+       难以建议，则一定要有选项和各项详情，以便对方选择。
+       称呼等从头到尾保持风格一致，风格由双方关系决定。
+
+***Topic:a replay of guide***
+***Dear Chen,I was very pleased to [receive your letter].As requested,I enclose some advice about visiting Milan.***
+***(果 1)[There are lots of]good hotels near the Fiera and [I recommend]the Hotel Wagner:(因1)it is about a ten-minute walk from the trade fair but also has metro and tram connections.(因 2)The public transport system here is[quite reliable]and I [do not think]you need to hire a car(果 2)；the traffic in Milan can be a bi[t chaotic.***
+
+***Finding somewhere to eat in the evening should be easy. [There are plenty of ]restaurants and pizzerias near the hotel. [My favourite] is Nove Cento, [which] serves excellent seafood pasta.***
+
+***It is [difficult to know] what to recommend for sightseeing [as the city has so much to offer]. (选项1)If you are interested in [art], then the world famous ‘Last Supper’ by Leonardo da Vinci is a short tram ride from the hotel or you could visit the Brera art gallery. (选项2)There is also the Duomo, Milan’s huge gothic cathedral. (选项3)If you are interested in [football], there should be a midweek match featuring either AC or Inter Milan. (选项4)Alternatively, you could visit the fashion area around via Montenapoleone.***
+
+***[Thank you] for inviting me for a meal one evening during your stay. I would [be very happy to] accept.***
+
+***I [look forward to hearing from you] nearer the time. We can then make arrangements for where and when we are going to meet.***
+
+***Best regards*** 
+***Maurizio***
+
+## 4.商务信函
+      开头
+      提及背景
+      能或不能
+      告知好坏消息
+      说明原因
+      请求行动
+      结尾
+
+### 4.1 开头
+#### 1)表明目的
+***I am writing to...***
+***We are interested in...***
+***We would like to know...***
+
+> ex1:You want to know the prices of some air conditioners.
+
+***We are interested in your air conditioner and we would like to know the prices of some air conditioners.***
+
+#### 2）表示收到
+***We have received ...***
+***Thank you for ...***
+
+#### 3)提及对方内容
+***asking me...***
+***saying that...***
+
+>  A company wrote to you on 23 July. They wanted to know if you sell photocopiers.
+
+***Thank you for your letter of 23 July, asking if we sell photocopiers.***
+
+>  A man wrote to you on 18 December. He wanted employment with your company. He also sent his curriculum vitae.
+
+***We have received your letter of 18 December, enclosing/attaching your curriculum /kʌ'rɪkjʊləm/ vitae /'vi:tai/ [n. 个人简历].***
+
+#### 4) 提及背景
+***with reference to...***
+***with regard to...***
+***in connection with...***
+***further to...[表示递进性的结果]***
+
+> an invoice (No. 679) for a photocopier
+
+***With reference to Invoice No. 679, we regret to tell you that the product arrived in bad condition.***
+
+> a meeting you had with the addressee on Jan. 16th
+
+***Further to the meeting on 16 January, I am delighted to tell you that we are now able to give you a special offer for our Peach Series computer.***
+
+#### 5) 能或不能
+***We are unable to ...***
+***We are able to ...***
+***We have been forced to ...***
+
+> You cannot lower your prices.
+
+***We regret that we are unable to reduce out prices.***
+
+> You have had to raise your prices because the government has increased the sales tax.
+
+***We have been forced to raise our prices because the government has increased the sales tax.***
+
+> However, you can give them a discount of 5% if their order is more than $8,000.
+
+***We [are able to] give you a discount of 5% if your order is more than $8,000.***
+
+#### 6) 告知好、坏消息
+***I am pleased / delighted to tell / inform / advice you that...***
+***I regret[相当于系动词] / am sorry to tell / inform / advice you that...***
+
+#### 7) 说明原因
+***due to...***
+***owing to...***
+***a result of...*** 
+***because of...***
+***the fact that...***
+
+> increase prices --- fall of the dollar
+
+***We have been force to increase our prices. This is owing to the fall of the dollar.***
+
+#### 8)要有请求的语气
+***Please could you...***
+***We would appreciate it if you could...***
+***We would be grateful if you ...***
+
+#### 9）要有时间限制
+***as soon as possible***
+***immediately***
+***without delay / with no delay***
+***in due course:及时地***
+
+> You have seen an advertisement in the newspaper for a post as office manger. You want an application form.
+
+***I would appreciate it if you could send me an application form.***
+
+### 4.2结尾
+#### 1）期待
+***I look forward to receiving your reply / order / products etc.***
+***Looking forward to hearing from you.***
+***Looking forward to your reply in due course***
+
+#### 2）希望对您有帮助
+***I hope that this information will help you.***
+***Please [contact me] if you need any further information.***
+***Please [feel free / do not hesitate] to contact me if you have any further questions.***
+***Please let me know if you need any further information.***
 
 ## 5.MEMO
      To: Mr. Brown, Director of Human Resources Department
      From: Song Goudan, Translating Coordinator 
      Date: 8 Oct 2017
      Subject: Company Training Course Most Suitable for Foreign Language Translators
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -71,6 +71,37 @@
      not yet    在剑桥考试中是现在完成时
      there were requirement to do sth/I had to do sth 
 
+# WRITING
+## PART II.Q4
+***Introduction:(目的)This proposal sets out to examine options for the successful globalization of [our ‘B’ brand]. (调查对象)The initial market under consideration is [Continental /kɒntɪ'nent(ə)l/ Europe]. (考查范围)For the purposes of this proposal, we will be considering [three aspects] of the brand, namely our logo, the ‘B’ concept and finally, the product itself, ‘B’ boots.***
+
+     国际品牌，优势在何处?(万能思路)
+      (1)标识:图文，易懂，即使外国; 
+         (logo, visual enough) 
+      (2)品牌概念:保持自己的市场定位; 
+         (appeal to, upper-class) 
+      (3)用途:多功能，适应不同环境。
+         (multi-purposes, not need adapting)
+
+***Findings:The following points summarise our key findings.(要素1)It was found that our [existing logo], (描述)a pair of boots encircled by the word ‘B’, is (在外国也易懂)[visual enough] to be used in markets where English is not widely spoken.***
+
+***(现状的不利)Although Danish farmers would be willing to purchase such a high quality product, farmers in some countries would be unlikely to choose a British brand over a domestic product. [However], (自己的优势) [the very Britishness of the product] would appeal to the style- conscious elements of the French and Italian markets, summoning up images of the English upper classes.***
+
+***(多功能)Our current product is [multi-purpose] and as such would [not need adapting] to suit different sectors of the European market. (万能 段落)***
+
+***Conclusions:It was agreed that although the present logo and product are suitable for globalization as they stand, we propose that the ‘B’ concept be adapted for different markets.***
+
+     得出什么结论? 
+     (1)logo和product适应全球化要求; 
+     (2)‘B’ concept还需改进，以适应不同市场
+
+***Recommendations:We recommend that further studies be carried out into the marketing strategies best suited to different European regions.***
+
+      采取什么措施?
+     (1)适应不同市场; 
+     (2)进一步研究，调查最优市场战略。
+
+
 # listening
 ## PART I.
 
