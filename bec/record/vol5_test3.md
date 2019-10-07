@@ -137,8 +137,129 @@
 ### 3.答案句前的提示
 ***the most urgent thing...***
 
+> it's worth making 非常值得一提的是...
+
+***...it's worth making a small internal group responsible for overseeing [monitor：监管]things so somebody is looking at the detail.***
+
+> it's worth
+
+***It worth getting a range of companies to put in a bid.***
+
+> recommend
+
+***I think I'd recommend that...**
+
 ### 4.表示到下一个题目
-> then/however/but/at mean time/at same time
+> then/however/but/at mean time/And at the same time
+
+***But it's the ongoing problems[一直以来的问题]that...***
+
+
+## PART II.
+### 1.words
+> outshirts
+
+***we decided to open this new production facility on the outskirts of Madrid.***
+
+> hindsight
+
+***I think with hindsight I'd say that once you've sorted out your contractors...***
+
+> things never turn out as planned:事与愿违
+
+***things never turn out as planned when you're looking at building.***
+
+> recoup
+
+***it'll take us a while to recoup this and ,as you can imagine...***
+
+> beyond 
+
+***...and your staff are not tested beyond their abilities.***
+
+> check up;监察
+
+***Perhaps it's also worth getting a fairly senior member of staff to check up on these contractors.***
+
+> steep:陡峭/routine:n. 例行公事;adj. 日常的；例行的
+
+***I have to say that when we built the new site in the valley the route/ruːt/[路, 路途, 路线] in was very steep.***
+
+### 2.techniques
+#### 2.1 词汇联想
+> missed->product/fell behind/completion stage.. was missed = didn’t not meet the deadline 
+
+***a completion stage[v.阶段] on the building was missed:错过工期***
+***...that worrying about that would mean that construction work fell behind and the contractors didn't meet one of their interim /'ɪnt(ə)rɪm/ [中间的] deadline.***
+
+> 1)installations->fix/equipement/fixture;
+> 2)exceed projected figures->over the budget
+
+***spending on installations exceeded projected figures.***
+***this focus on the site meant the manager responsible for [internal fixtures].etc was on his own and [went over budget].***
+
+> inadequately->not enough/short of/lack of/insufficient
+
+***equipment was inadequately tested.***
+***...that meant there weren't enough people around to arrange the necessary checks on the machinery that keep the whole site operational.***
+
+> air-conditioning->ventilation[固定替换]
+
+***ineffective air-conditioning was installed.***
+***...prevent it being a success such as new equipment constantly breaking down or,as in our case,a faulty ventilaition system,which now needs replacing.***
+
+> 1)failed to->couldn't->didn't;
+> 2)plan->project/design/layout/shedule/scheme/outline
+
+***plans failed to include access to the site.***
+***we didn't foresee that...***
+***So we didn't spot the facts that the necessary link road wasn't included in the developer's original outline.*** 
+
+> outsourcing:外包服务
+
+***use an external company to research the site.***
+
+> 1)service agreements->after-sales contract;
+> 2)good deal->competitive
+
+***negotiate good deals for servicing agreements.***
+***I would recommend that serval differnent options are considered when you're arranging after-sales contracts.***
+
+> tender->put in a bid 投标
+
+***invite firms to tender for parts of the project.***
+***It worth getting a range of companies to put in a bid.***
+
+> alternative->many options/optional
+
+***investigate alternative methods of expansion.***
+***I think we could look into[investigate;调查] what other option were possible.***
+
+> reputable->reliable/good reputation
+
+***only use reputable contractors.***
+***In future,I would make sure I'd checked out whoever was fitting it with their previous customers.***
+
+### 3.漏听
+#### 3.1 否定
+***I think we felt that the location was [not] too difficult to commute to,space [not] a problem,etc.the proposal was [well] within budget.***
+
+***we sent [few] managers to the site as there [wasn't much]space for them and that meant there [werent't]enough people around...***
+
+#### 3.2 转折
+***cost always overrun[超支],so we thought we were very smart[没有超支] in keeping a tight rein on the contractors.***
+
+***and we thought parking would be an issue[实际上不是问题]***
+
+***Change one’s topic – one’s topic now is...***
+
+## PART III.
+### 1.words
+
+
+### 2.
+
+
 
 
 
