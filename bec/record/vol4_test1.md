@@ -2,17 +2,32 @@
 # READING
 # PART I.
 ## 1.words
-    monopolise             /mə'nɔpəlaiz/
-    sterile[frultless]     /'steraɪl/           adj.无效果的
-    uninspiring             /ɪn'spaɪərɪŋ/        adj. 鼓舞人的;使人感兴趣的
-    fad[fashion;crazy]     /fæd/                adj.时尚、短暂狂热
-    guru[a leading authority] /'gʊruː/          n.专家、权威、大师
-    status quo            /ˏsteɪtəs ˈkwəu/      n. 现状
+> 1)monopolise         /mə'nɔpəlaiz/
+> 2)sterile[frultless]  /'steraɪl/  adj.无效果的
+> 3)uninspiring      /ɪn'spaɪərɪŋ/  adj. 鼓舞人的;使人感兴趣的
 
-    subordinates          /sə'bɔːdɪnət/
-    be subordinate to                           次于…；从属于…
+***...the strategy-planning process is monopolised by senior managers,and what passes sfor strategy is sterile and uninspiring.***
+
+> 1)fad[fashion;crazy]   /fæd/  adj.时尚、短暂狂热
+> 2)guru[ a leading authority] /'gʊruː/  n.专家、权威、大师
+
+***XXX takes on management fads,management education and the wornship of management gurus...***
+
+> status quo /ˏsteɪtəs ˈkwəu/n. 现状
+
+***...that any approach that does not challenge the status quo is not a strategy at all.***
+
+> subordinates  /sə'bɔːdɪnət/
+> be subordinate to   次于…；从属于…
+
+***...and they expect enthusiam and commitment from their subordinates.***
+
 
      implement a major change
+
+> go forth
+
+***Determined managers go forth with the plans...***
 
      go forth with:           Determined managers go forth with the plans
      go forth without:        Everyone shall go forth freely without fear
@@ -26,11 +41,9 @@
 
 ***his strategy-renewal process leads managers through the undergrowth of a business unit's complexity...***
 
-    thicket                /'θɪkɪt/           a dense growth of bushes
+    thicket       /'θɪkɪt/           a dense growth of bushes
 
-> prune[remove] /pruːn/           
-  
-    weed out unwanted or unnecessary things
+> prune[remove] /pruːn/ ;weed out unwanted or unnecessary things
   
 ***...provides a method for business units to prune their gardens and regain perspective.***
 
@@ -38,10 +51,25 @@
 
 ***units that do not meet these criteria must cut back to allow a greater concentration on cultivating their most worthy projects.***
 
-> streamline[simplify]
+> streamline[simplify] ;  an organization or process means to make it more efficient by removing unnecessary parts of it.
 
-    an organization or process means to make it more efficient by removing
-    unnecessary parts of it.
+***it considers the need to streamline commercial activities in order to have a clearer focus.***
+
+> validity /və'lɪdɪtɪ/ 有效性
+
+***It questiones the validity of certain accepted management training approaches.***
+
+> obsolete /'ɒbsəliːt/
+
+***It stresses that it is vital to exclude obsolete views when drawing up[制定] company policy.***
+
+> initiatives /ɪ'nɪʃɪətɪv/ n.adj.
+
+***It explains who are the communicators of initiatives within a company should be.***
+
+***He announces the education initiative on Monday.他周一就要宣布教育改革计划了***
+
+***She runs the Clean Water Initiative.她运作净水计划***
 
 > rid
 
@@ -79,14 +107,40 @@
     charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
     charm
 
-
-
 ## 2.sentence
 ***1) Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
 
 ***2) The author presents two case studies of his ideas in action.***
 
 # PART II.
+## 1.words.
+> fragmentation
+
+
+
+
+> explosion
+
+
+
+
+> cunning
+
+
+
+
+> cliche
+ 
+
+
+
+> forge
+
+
+
+
+
+## 2.sentence.
 
 
 
