@@ -1,12 +1,11 @@
 # over_plan
-
-1.阅读：1h        -   6 个部分   -  52*1= 52分
+# 1.阅读：1h/52题
      1.1）做题顺序：654312
      1.2）难题放在最后
           1）平时训练严格控制在50min左右，预留时间应付突发情况；
           2）每一套题都统计正确率
    
-   2）写作：1h10min   -   2 个题目  - 30分
+# 2.写作：1h10mins/2 个题目
       2.1）part I:report based on graphic input - 10分
            描述图表信息   -  先看范文再动手
                          -  多归类总结短语或句型
@@ -22,87 +21,21 @@
            6）语域和格式完全适当；
            7）给读者影响极佳
            
-# 3.听力：40min     -   3 个部分    - 30题
-      3.1）part I:  12题 - 填空 - 1段材料 - 4min左右  
-                   - 材料放2遍  - 开始前有45sec的审题时间 
-                   - 结束后有20sec检查时间；
-      3.2）part II: 10题 -     -  1段材料 - 5min左右  
-                   - 材料放2遍  - 开始前有30sec的审题时间 
-                   - 无检查时间；
-      3.3）part III: 8题 - 选择-  1段材料 - 5min左右  
-                   - 材料放2遍  - 开始前有45sec的审题时间
-      3.4）练习方法
-           1）按照听力做一次题目->听力材料4遍以上->磨耳朵；
-           2）听写->对照原文更改；
-           3）听着材料跟读2-3遍；
-           4）不看材料跟读
+# 3.听力：30mins做题时间+10mins涂卡/30题
+## 3.1）part I: 4min/12题 
+        开始前45sec的审题时间 
+        结束后20sec检查时间
+        边听边写
+## 3.2）part II: 5min/10题
+        开始前有30sec的审题时间 
+        无检查时间；
+## 3.3）part III: 5min/8题  
+        开始前有45sec的审题时间
+## 3.4)techniques
+        1) 人物态度
+        2) 答案提示词、but/not/well
       
-   4）口语：16min  -  3 个部分 -  75分
-      4.1)part I.conversation with the interlocutor
-          日常的热身：个人情况、学习工作、兴趣爱好
-      4.2)part II.mini-presentation
-          1）1min准备
-            ie.考官会分别给每位考生一张问题卡，上面有三个不同的话题,
-                从三个话题中选择一个进行演讲.
-            1.1）10s to chose 1 topic
-            1.2）50s to prepare :在纸上做笔记；
-                 1)topic sentence
-                 2)key words
-                 3)确定supporting details扩展内容
-                 4）2个点就可以了，多的话展开理由不充分
-          2)partner演讲
-          3）向 partner 提问 （1sentence）
-          4）回答 partner 的问题（2-4sentence）
-      4.3)part III.
-           1)two-way discussion - between candidates
-           2)further prompting from interlocutor
-           两个考生共同看一张纸，30sec的读题时间，读题中不可以讨论，
-           顺序：30sec读题->3min讨论->考官收回卡片后，跟踪继续提问
 
-2. 难点
-   2.1）话题  -  积累商业知识
-   
-   2.2）语言  -  长难句
-        exp:current thinking indicates that,as a society,we 
-            are beginning to appreciate more fully that 
-            there must be limits to our consumption of 
-            natural resources,and that business activities
-            must take greater account of this impact on
-            society and economies,as well as the 
-            enviroment in which we live.
-   
-   2.3）词汇  
-       1)背景知识的理解
-        exp:discount:贴现、贴现率
-            turnover:员工离职率
-            close:股票收盘
-            credit note:贷项通知单
-            unsocial hours 非正常工作时间
-            proof: 样本
-            books：公司账目
-            range:产品组合
-            living out of a suitcase:经常出差在外
-            I’m often charged 18% interest per month on my
-            outstanding balance
-            我每月要为未结清的余额支付 18%的利息
-
-       2)建立不同主题词汇库， 按照话题总结，无论是阅读还是听力、口语     
-        
-   2.4) 听力 - 短时间记忆、捕捉重点信息
-            - 精听/听写
-            - 做题之后想一下自己如何表达，跟听力原文进行对比
-
-   2.5) 口语  - 把大段的话整理成提纲，说出自己习惯的语言
-        1）复习方法
-           1.1）熟悉话题；
-           1.2）对每个问题写outline；
-           1.3）自己总结用的很频繁的理由；
-           1.4）给自己超出1mins的准备时间；
-           1.5）坚持使用总分总的结构
-        2）得分要点
-           1.1）句子简短，信息量很大；
-           1.2）不要使用过多的连接词
-           1.3）quick answer
    
    2.6） 写作  - 考前一个月准备
      
