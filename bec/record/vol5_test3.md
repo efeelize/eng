@@ -255,6 +255,29 @@
 
 ## PART III.
 ### 1.words
+> perennial /pə'renɪəl/
+
+***First,the perennial problem of telephone call.***
+
+> irritating
+
+***It's so irritating when someone's phone is left ringing because they're away from their desk.***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 2.
