@@ -191,9 +191,13 @@ china in the future?
 ## 2）模板
 ### 2.1)总/开头/总结
 ***Well, when it comes to...., several/two important factors must be***
+
 ***taken into account/consideration.***
+
 ***Well, .... is important because ....***
+
 ***... is important for several reasons.***
+
 ***There are several ways to... First, Second, Third...***
 
 ### 2.2）分
@@ -201,8 +205,11 @@ china in the future?
       
 ### 2.3）总
 ***In conclusion***
+
 ***In general***
+
 ***To sum up***
+
 ***So***
 
 # 2.解题步骤
@@ -362,12 +369,11 @@ china in the future?
 #### 2.4)因果关系
   
 ## 3.回答partner的问题
-### 1）simple and concise (2-4 sentences)
-
-### 2）relevant (听不懂的话ask for repetition)
+- simple and concise (2-4 sentences)
+- relevant (听不懂的话ask for repetition)
 ***exp:I'm not sure I understand your question quite clearly...*** 
 
-### 3）Interactive
+- Interactive
 ***I think yes, and it is also a very good point. I think....***
    
 ## 4.考过的真题
