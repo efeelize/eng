@@ -114,10 +114,8 @@
 
 ***Q:whether you think there are some profession in Chinawhich should be better paid？***
     
-    1)Yes,in china people working in different fields are paid quite differently.
-People in some dangerous occupations,like firefighters,should be better paid.
-    2)they risk their lives everyday whether at a fire or at a medicial call.they keep 
-people safe and even save lives if needed.they also save pets,valuables,and other property.
+    1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.
+    2)they risk their lives everyday whether at a fire or at a medicial call.they keep people safe and even save lives if needed.they also save pets,valuables,and other property.
     3)they work under high risk and pressure,so I think they should get paid better for what 
 they do.
 
@@ -128,10 +126,9 @@ they do.
 
 ***Q:Is it a good idea to rent office equipment instead of buying them in china?***
 
-   1)Yes,it saves costs a lot and employees can enjoy the benefit of the new technology 
-all the time.
-   2)No,I think the company should buy basic equipment for a long term running.
-   3)Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
+    1)Yes,it saves costs a lot and employees can enjoy the benefit of the new technology all the time.
+    2)No,I think the company should buy basic equipment for a long term running.
+    3)Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
 
 ## 2.2)Which...
 > 二选一/折中
@@ -141,27 +138,13 @@ all the time.
 ### 1.Q:what kinds of businesses you think will be important for the economy in 
 china in the future?
 
-***Argument 1:[Financial Services] Financial Services is a huge industry and includes services 
-such as banking, investment banking, mutual funds, foreign exchange and much more. A successful 
-modern economy is mostly dependant on a steady and efficient financial system making financial 
-services an essential ingredient of a thriving economy. So as long astrong economies are required 
-Financial Services are required.***
+***Argument 1:[Financial Services] Financial Services is a huge industry and includes services such as banking, investment banking, mutual funds, foreign exchange and much more. A successful modern economy is mostly dependant on a steady and efficient financial system making financial services an essential ingredient of a thriving economy. So as long astrong economies are required Financial Services are required.***
 
-***Argument 2:[Sharing Economy] There are 100s of things that we have, but don't use it all the 
-time (home, car, office, bike). Sharing economy refers to someone else using it while you are 
-not using. This is already a billion dollar industry (led by AirBnb). However, we have not 
-seen the biggest yet and could easily be 10s of billions. I have booked 50+ days with Flightcar
-(renting someone else's car while they are on travel), and I can see potential. There are 100s 
-of segments of this industry that are emerging(such as AirEnvy and Homejoy). Things like research 
-labs will be a part of this economy.***
+***Argument 2:[Sharing Economy] There are 100s of things that we have, but don't use it all the time (home, car, office, bike). Sharing economy refers to someone else using it while you are not using. This is already a billion dollar industry (led by AirBnb). However, we have not seen the biggest yet and could easily be 10s of billions. I have booked 50+ days with Flightcar(renting someone else's car while they are on travel), and I can see potential. There are 100s of segments of this industry that are emerging(such as AirEnvy and Homejoy). Things like research labs will be a part of this economy.***
            
-***Argument3:[Electric cars] Tesla has finally started to produce a more sustainable electric 
-car model. However,we have a long way to go in revolutionzing battery technology, distribution stations,
-and creating automobiles. Most likely, this will be a repacement industry.
+***Argument3:[Electric cars] Tesla has finally started to produce a more sustainable electric car model. However,we have a long way to go in revolutionzing battery technology, distribution stations,and creating automobiles. Most likely, this will be a repacement industry.***
            
-***Argument4:[Online education and training] Online education and training: The MOOCs have started scratching 
-the surface ofeducation. However, moving just videos online doesn't make a school. Education is a trillion dollar 
-industry and it will take 2 decades to enable the industry to reach to major inflection point.***
+***Argument4:[Online education and training] Online education and training: The MOOCs have started scratching the surface ofeducation. However, moving just videos online doesn't make a school. Education is a trillion dollar industry and it will take 2 decades to enable the industry to reach to major inflection point.***
        
 ## 2.4）How.../列举东西
 ### 1)How to...
@@ -174,13 +157,12 @@ industry and it will take 2 decades to enable the industry to reach to major inf
 
     Yes...
     No...
-        
+
 ## 2.5)Why...
     回答：cause +effect
     because/since/for/so/therefore/when
  
-***Q:why should companies create a pleasant working 
-environment?***
+***Q:why should companies create a pleasant working environment?***
 
     A:when companies seek to create appealing working environment,employees will have a good mood in offices.
 
@@ -202,8 +184,8 @@ environment?***
 
 ### 1.2)topic sentence 2...
     supporting detail-1.. 
-    supporting detail-2...
-      
+    supporting detail-2...     
+
 ### 1.3)conclusion
 
 ## 2）模板
@@ -248,19 +230,11 @@ environment?***
 - 2)cultural and communication barriers
                
 ### 2)完整：
-***[总]I choose topic B:'the importance of being willing to make long business trips'.
-Being willing to make long business trips is quite important for career development.***
+***[总]I choose topic B:'the importance of being willing to make long business trips'.Being willing to make long business trips is quite important for career development.***
 
-***[Arguement1]long business trips are essential for business people to 'close deals',
-especially in international transactions.'Face-to-face meetings' can double the chance 
-of closing deals,according to a study done by Oxford University.It is important to 'build the trust'
-between parties in the deal and the trust would be more difficult to generate via telephone or internet.***
+***[Arguement1]long business trips are essential for business people to 'close deals',especially in international transactions.'Face-to-face meetings' can double the chance of closing deals,according to a study done by Oxford University.It is important to 'build the trust'between parties in the deal and the trust would be more difficult to generate via telephone or internet.***
 
-***[Arguement2]Long business trip are also critical for 'bullding the network that promotes career 
-development.Visting colleagues and customers in different parts of the world can 'increase understanding'.
-People in different countries may have different cultural backgrounds and working principles and meetings
-in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of 
-customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
+***[Arguement2]Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
 
 ## 3.2）how to...
 > 列清单 :步骤手段达到目的
@@ -286,22 +260,13 @@ customers and colleagues results in benefits for business and the willing to do 
     new stable clients.
 
 #### 2.2）完整：
-***I choose topic A:the factors involoved in deciding whether to relocate a retail
-business.***
-***[总] relocating the business is always a critical issue for a retail business 
-and serious considerations must be done before making the final decision.***
+***I choose topic A:the factors involoved in deciding whether to relocate a retail business.***
+***[总] relocating the business is always a critical issue for a retail business and serious considerations must be done before making the final decision.***
+***[Arguement] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.***
 
-***[Arguement] one major factor to consider is the workforce,relocating the business 
-often means [hiring a large proportion of employees] in another region.The [possiblity of 
-finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible 
-costs to follow different employment policies should also be carefully considered.***
+***[Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]***
 
-***[Arguement2] Another important factor is the [customer base].The retail business usually has a quite
-[stable customer base] and the change of neighbourhood may affect it.People making decisions should 
-consider whether relocating business can [attract a new group of stable clients.]
-
-***[总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider 
-all factors.***
+***[总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.***
 
 # 4.习惯表达
 ## 4.1）解释说明
@@ -365,8 +330,7 @@ all factors.***
 ***2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?***
 ***3) Do you think A is the most important one?[只听到一个重点]***
 ***4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?***
-***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained
-about the other cultures where you're going to do business trips?***
+***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
 
 ## 2.模板
 ### 1)基础版
@@ -392,8 +356,10 @@ about the other cultures where you're going to do business trips?***
   
 ## 3.回答partner的问题
 ### 1）simple and concise (2-4 sentences)
+
 ### 2）relevant (听不懂的话ask for repetition)
-    exp:I'm not sure I understand your question quite clearly... 
+      exp:I'm not sure I understand your question quite clearly... 
+
 ### 3）Interactive
     I think yes, and it is also a very good point. I think....
    
@@ -487,8 +453,7 @@ about the other cultures where you're going to do business trips?***
 - but i am still worried about...
 - i hear what you say,but what i mean is that...
 - that's very good point,but...
-- that's not exactly what I had in mind/what i was getting at/ what i was thinking
-about.
+- that's not exactly what I had in mind/what i was getting at/ what i was thinking about.
 
 # 4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上
 - we may have some disagree with each other on this point,now let's move to
@@ -513,13 +478,11 @@ first...sencond...
 - as we all know that...
 
 # 7. improve the way they listen and respond to customers
-***your company has received several complaints from customers about how their 
-concerns have been handled.you have been asked to talk to your staff about how
-to [improve the way they listen and respond to customers].***
+***your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].***
 
 ## Q:what aspects of customer care your staff need to be aware of?
 ### 1)outline:
-#### 1.1）verbal quality
+#### 1.1）verbal quality 
      voice volume
      voice speed
      articulation
@@ -538,10 +501,8 @@ to [improve the way they listen and respond to customers].***
 ###  1)outline
      1)record conversations between customers and staff;
      2)invite customers to rate customer service quality;
-     3)enact supervisor support scheme:supervisors give timely professional guidance 
-       to the staff;
-     4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/
-       depends on his/her performance;
+     3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
+     4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
        exp:the amount of complains received;
            the rating outcome
            the positive feedback received from the customers.
@@ -560,23 +521,17 @@ this sort of training?
 # 8.team building
 ***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
 
-## 
-- what kinds of work projects and leisure activities
-would be
-suitable to 
-encourage team work.
-- what benefits effective teamwork
-could bring to the company.
+***what kinds of work projects and leisure activities would be suitable to 
+encourage team work?***
+
+***what benefits effective teamwork could bring to the company?***
         
-## 5.2 follow questions:
-- what benefits do you think individual employees 
-get from working
-in a strong team?
-- what do you think it's the ideal number of
-people to work in a 
-team?
-- Do you think companies need individuals as well
-as team workers?
+## Follow questions:
+***what benefits do you think individual employees get from working in a strong team?***
+
+***what do you think it's the ideal number of people to work in a team?**
+
+***Do you think companies need individuals as well as team workers?***
      
 # 6.机经
 - 项目新经理
