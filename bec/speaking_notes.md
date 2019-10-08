@@ -239,9 +239,9 @@ china in the future?
 ### 2)完整：
 ***[总]I choose topic B:'the importance of being willing to make long business trips'.Being willing to make long business trips is quite important for career development.***
 
-***[Arguement1]long business trips are essential for business people to 'close deals',especially in international transactions.'Face-to-face meetings' can double the chance of closing deals,according to a study done by Oxford University.It is important to 'build the trust'between parties in the deal and the trust would be more difficult to generate via telephone or internet.***
+***[Arguement1] long business trips are essential for business people to 'close deals',especially in international transactions.'Face-to-face meetings' can double the chance of closing deals,according to a study done by Oxford University.It is important to 'build the trust'between parties in the deal and the trust would be more difficult to generate via telephone or internet.***
 
-***[Arguement2]Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
+***[Arguement2] Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
 
 ## 3.2）how to...
 > 列清单 :步骤手段达到目的
