@@ -442,36 +442,36 @@ you're going
 to do business
 trips?
 
-# 2.模板
-## 1)基础版
+## 2.模板
+### 1)基础版
 - what
 - how
 - why
 - when
 - where
 
-## 2)advanced
-### 2.1)正反分析
+### 2)advanced
+#### 2.1)正反分析
 - What's the advantage/disadvantage of...?
      
-### 2.2)昨天今天明天
+#### 2.2)昨天今天明天
 - What are the differences between A now and that of future?
      
-### 2.3)问题解决
+#### 2.3)问题解决
 - What might be the biggest trouble for ...? 
 - What's your possible solution?
 - What are the causes of ...?
      
-### 2.4)因果关系
+#### 2.4)因果关系
   
-# 3.回答partner的问题
-## 1）simple and concise (2-4 sentences)
-## 2）relevant (听不懂的话ask for repetition)
+### 3.回答partner的问题
+#### 1）simple and concise (2-4 sentences)
+#### 2）relevant (听不懂的话ask for repetition)
 - exp:I'm not sure I understand your question quite clearly... 
-## 3）Interactive
+#### 3）Interactive
 - I think yes, and it is also a very good point. I think....
    
-# 4.考过的真题
+## 4.考过的真题
 - Q:the importance of being willing to make long business trips
 - Q:the importance to staff of regularly evaluating their professional skills
 - Q:the importance of being prepared to attend company social events
@@ -482,7 +482,7 @@ trips?
 - Q:Public Relations: the importance to a company of avoiding bad publicity
 - Q:Prices: the importance to a company of having a flexible pricing policy
           
-# 5.重要话题
+## 5.重要话题
 - 公司运作与管理
 - 人力资源管理
 - 市场营销
@@ -496,7 +496,7 @@ trips?
 - 客户关系
 - 企业文化
 
-# 6.机经
+## 6.机经
 - 出差
 - 价格讨论
 - 健康安全
@@ -521,6 +521,16 @@ trips?
 - 市场调研
 - 人力资源
 - 采购
+
+## 7.常考话题
+- market research
+- team work
+- project
+- competition
+- hosipitality
+- customer relationship
+- HR
+- conference
 
 # speaking_ch_3/PART III
 > 没有准备的时间、打草稿的时间/给出的点是一定要讨论到的/两个人的互动是很重要的
