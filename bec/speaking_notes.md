@@ -73,7 +73,7 @@
     living out of a suitcase:经常出差在外
     I’m often charged 18% interest per month on my outstanding balance：我每月要为未结清的余额支付 18%的利息
 
-# 2.变音规则
+# 3.变音规则
 ## 1)连读
 ### 1.1）辅音+元音
     ten of you
@@ -109,7 +109,7 @@
     garden
     written
   
-# 3.PART I. personal question/3-4sectence/30s
+# PART I. personal question/3-4sectence/30s
 # 1.总分总 + quick answer
 
 ***Q:whether you think there are some profession in Chinawhich should be better paid？***
@@ -245,24 +245,27 @@ china in the future?
 
 ## 3.3)the factors of ...to... 影响因素
 ### 1）套路
-    时间;
-    金钱；
-    energy
+- 时间;
+- 金钱；
+- energy
+
 ### 2)the factors involoved in deciding whether to relocate a retail business.
 #### 2.1）outline:
 ##### 1)workforce
-    relocating the business
-    hiring employees
-    possibility of finding qualified workers
-    different costs
+- relocating the business
+- hiring employees
+- possibility of finding qualified workers
+- different costs
+
 ##### 2)customer base/消费群体
-    stable customer base
-    new stable clients.
+- stable customer base
+- new stable clients.
 
 #### 2.2）完整：
 ***I choose topic A:the factors involoved in deciding whether to relocate a retail business.***
 ***[总] relocating the business is always a critical issue for a retail business and serious considerations must be done before making the final decision.***
-***[Arguement] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.***
+
+***[Arguement1] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.***
 
 ***[Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]***
 
@@ -327,9 +330,13 @@ china in the future?
 # II.与parnter互动
 ## 1.万用句型
 ***1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?***
+
 ***2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?***
+
 ***3) Do you think A is the most important one?[只听到一个重点]***
+
 ***4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?***
+
 ***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
 
 ## 2.模板
@@ -348,7 +355,7 @@ china in the future?
 ***What are the differences between A now and that of future?***
      
 #### 2.3)问题解决
-***What might be the biggest trouble for ...? ***
+***What might be the biggest trouble for ...***
 ***What's your possible solution?***
 ***What are the causes of ...?***
      
@@ -358,10 +365,10 @@ china in the future?
 ### 1）simple and concise (2-4 sentences)
 
 ### 2）relevant (听不懂的话ask for repetition)
-      exp:I'm not sure I understand your question quite clearly... 
+***exp:I'm not sure I understand your question quite clearly...*** 
 
 ### 3）Interactive
-    I think yes, and it is also a very good point. I think....
+***I think yes, and it is also a very good point. I think....***
    
 ## 4.考过的真题
 - Q:the importance of being willing to make long business trips
@@ -434,7 +441,7 @@ china in the future?
 - first,let's have a look at...
 
 # 2 表示同意
-- right!that's exactly what i want to say
+- right! that's exactly what i want to say
 - that's just how i see it.
 - I'm of exactly the same idea
 - I totally agree that.
@@ -480,53 +487,55 @@ first...sencond...
 # 7. improve the way they listen and respond to customers
 ***your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].***
 
-## Q:what aspects of customer care your staff need to be aware of?
+## Q1:what aspects of customer care your staff need to be aware of?
 ### 1)outline:
 #### 1.1）verbal quality 
-     voice volume
-     voice speed
-     articulation
-     tenderness
+- voice volume
+- voice speed
+- articulation
+- tenderness
 
 #### 1.2)root problem detection
-    clarify problems
-    classify problems
-    problem solving skills
-    guide the customers the way for effective solution
+- clarify problems
+- classify problems
+- problem solving skills
+- guide the customers the way for effective solution
 
 #### 1.3)empathy
-    make customers feel you are standing in their shoes to shoot problems.
+- make customers feel you are standing in their shoes to shoot problems.
 
-## Q:how you will monitor their dealing with customers?
+## Q2:how you will monitor their dealing with customers?
 ###  1)outline
-     1)record conversations between customers and staff;
-     2)invite customers to rate customer service quality;
-     3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
-     4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
+- 1)record conversations between customers and staff;
+- 2)invite customers to rate customer service quality;
+- 3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
+- 4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
        exp:the amount of complains received;
            the rating outcome
            the positive feedback received from the customers.
                  
-## Follow questions
-> how improtant do you think customer care is?
-- provide with professional training and support
-        
-> what negative reaction might you get from some staff about
-this sort of training?
-- recorded as being controlled and monitored
-          
-> Do you think it's important to feed back to staff?why?
-- if yes,the feedback can contain can-do tips for staff.
-       
+## Follow Qs
+***how improtant do you think customer care is?***
+  
+    provide with professional training and support
+
+    
+***what negative reaction might you get from some staff about this sort of training?***
+
+    recorded as being controlled and monitored
+
+***Do you think it's important to feed back to staff?why?***
+
+    if yes,the feedback can contain can-do tips for staff.
+   
 # 8.team building
 ***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
 
-***what kinds of work projects and leisure activities would be suitable to 
-encourage team work?***
+***Q1:what kinds of work projects and leisure activities would be suitable to encourage team work?***
 
-***what benefits effective teamwork could bring to the company?***
+***Q2what benefits effective teamwork could bring to the company?***
         
-## Follow questions:
+## Follow Qs:
 ***what benefits do you think individual employees get from working in a strong team?***
 
 ***what do you think it's the ideal number of people to work in a team?**
