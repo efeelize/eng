@@ -1,6 +1,5 @@
-# LISTENING NOTES
-> 1）做题方法：看背景+看选项+速记+检查
-> 2）考试结构：30mins做题时间+10mins涂卡/30题
+# Listen_notes/40mins(30mins做题时间+10mins涂卡/30题)
+> core：看背景+看选项+速记+检查
 
 # PART I.4min/12题 
     开始前45sec的审题时间 

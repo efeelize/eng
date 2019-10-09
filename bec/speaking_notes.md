@@ -1,15 +1,88 @@
-# Speaking_notes_16min 
+# Speaking_notes/16min 
 # 1.考试内容
-## part I.自我介绍
+# part I.自我介绍
     1）主动打招呼，增加印象分
     2）提前准备好（个人情况、学习工作、兴趣爱好、家乡）
     3）商务相关问题
     4）没听清楚，可以让考官重复，不会扣分
-          
-## part II.mini-presentation
+  
+## 1.names 
+***Q:What’s your name?***
+
+    A:my last name is...and my given name is...but my friends always call me...my English name is ...
+
+***Q:How do you spell your family name/surnme/last name?***
+
+    A:It’s...
+
+## 2.where you come from?
+***Q:where are you from?***
+
+    A:I’m from...
+
+***Q:Would you say it’s a good place to live in?Why?***
+
+    A:Yes,definitely,1)the wearther is....;2)the transportation is...;3)the environment is...
+
+***Q:Do you like living in...?/Do you think it would be better to live in...Why?***
+
+    A:Yes/No.Because...(the weather ; the transportation ; the environment; the housing; etc. )
+
+## 3.family
+***Do you come from a large family or a small family?***
+
+    A:I come from a nuclear family/an extended family.
+
+## 4.what you do
+***Q:Do you work or are you a student in...?***
+
+    A:I’m a student/I’m a office worker.
+
+***Q:What do you study?What’s your major?***
+
+    A:My major is.../I’m major in...
+
+***Q:What do you do?***
+
+    A:I work as.../I am...
+
+***Q:What do you like about your study?***
+     
+    A:I have always been interested in...,and I want to become a/an...in the future.
+
+***Q:What do you like about your job?***
+
+    A:It brings me...( job satisfaction/good financial reward/good career development opportunity.)
+
+## 5.free time
+***Q:Do you have much free time?***
+
+    A:Yes/No
+
+***Q:How do you spend your free time?***
+
+    A:I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
+
+***Q:Do you like working in a time or on your own? ( why? )***
+
+    A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.
+
+***Q:How important is the central leadership of a team?***
+
+    A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.
+
+***Q:Do you prefer to work in small teams or big teams? (why?)***
+
+    A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.
+
+***Q:Is it necessary for a team to have regular meeting?***
+
+    A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.
+
+# part II.mini-presentation
 ### 1）1min准备
 > ie.考官会分别给每位考生一张问题卡，上面有三个不同的话题,从三个话题中选择一个进行演讲.   
-       
+
      1）10s:chose 1 topic
      2）50s：prepare /在纸上做笔记/有些考场问题卡会收回，答题纸不会收回
          1)topic sentence
@@ -32,7 +105,7 @@
 ### 3）向 partner 提问 （1sentence）
 ### 4）回答 partner 的问题（2-4sentence）
 
-## 4.3)part III.
+# 3.part III.
 ### 1.要求/ollaborative task/team work
 - 合作与互动 /A说完了，B要对其有个回应
 - 观点与陈述 / 不能只跟对方捧哏
@@ -85,22 +158,21 @@
     supermarkets assessment 
     timetable of group activities 
     Small amount of
-### 1.2)失去爆破
-#### 1.2.1)爆破音+爆破音 
+## 2)失去爆破
+### 2.1)爆破音+爆破音 
     t /d/k/g/b/p
     good to work 
     job description 
     great colleagues 
     fantastic pay 
-    outgoing
-            
-#### 1.2.2)爆破音+摩擦音 
+    outgoing     
+### 2.2)爆破音+摩擦音 
     s/th/v/f/w/m/n/r/h/l
     Outside shortlist outline lead the group 
     Upgrade their ability managed stress
     Corporate market
-            
- ### 3)弱读 
+  
+## 3)弱读 
     辅音+en/on 
     bitten
     britian 
@@ -114,10 +186,11 @@
 
 ***Q:whether you think there are some profession in Chinawhich should be better paid？***
     
-    1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.
-    2)they risk their lives everyday whether at a fire or at a medicial call.they keep people safe and even save lives if needed.they also save pets,valuables,and other property.
-    3)they work under high risk and pressure,so I think they should get paid better for what 
-they do.
+***1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.***
+
+***2)they risk their lives everyday whether at a fire or at a medicial call.they keep people safe and even save lives if needed.they also save pets,valuables,and other property.***
+
+***3)they work under high risk and pressure,so I think they should get paid better for what they do.***
 
 # 2.题型
 ## 2.1）What...
@@ -176,6 +249,7 @@ china in the future?
 # PART II 
 # I.mini-presentations (说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
+ 
 # 1.总分总
 ## 1）结构
 ### 1.1)topic sentence 1...
@@ -437,8 +511,74 @@ china in the future?
 - HR
 - conference
 
+## 8.参考框架
+
+## 1.opening sentence
+
+***1) When...there are three important factors we should take into account.***
+
+***2) When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant /***
+
+***3) I have the the following reasons:...is an indispensable part in the business field.***
+
+***4) To make it a great success/ to do it***
+
+***5) Well,we need to attach great importance to the following aspects.***
+
+***6)In order to ... and ... should be first considered.***
+
+***7) the first two things/ideas/points/words that cross my mind are ... and ...***
+
+***8) In my humble/personal opinion,... and... play a very improtant...***
+
+## 2.main points and supporting ideas
+> Q:what’s important when aiming to improve a product:customer feedback?
+
+***1 [如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...***
+
+***2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
+
+> Q:what’s important when deciding whether to change a product image:market research?
+
+***1 [如果...就会...;如果不.] As far as I know, many companies conducted market  research before they decided to change their product images,such as Coca Cola company,and Oil of Olay.They...***
+
+> Q:what’s important when choosing people to work in teams:specialty?
+
+***A:when choosing people to work in teams,speciality is the first thing to consider.If his or her specialty is exactly what the team or project needs,the possibility of success will be much bigger.Otherwise,he or she cannot contribute a lot to the team work.***
+
+
+## 3.进一步解释说明，阐释为什么
+> Q:what is important when selecting staff for sales positions:appearance.
+
+***A: appearance is not the most important,but it does play an essential part in the sales achievement.That is because...***
+
+## 4.concluding sentence
+***1) All in all,...and...are of great importance when...***
+
+***2) Any way,...and...are essential when...Only after we...can we...***
+
+***3) To sum up,...should be put at the first place when....***
+
+***4) These are the three factors that I find very essential when...***
+
+***5) In a word,you must consider all these factors if you want to...***
+
+***6) Finally,let’ me restate my opinion that when...,we need to pay special attention to ... and ...***
+
 # PART III
 > 没有准备的时间、打草稿的时间/给出的点是一定要讨论到的/两个人的互动是很重要的
+
+    （寒暄）
+     A复述题目，陈述情况，讲明讨论的任务
+     B:提出论题1 + 表明自己的idea+reason
+       ***what kind of people...patient,eloquent,informative***
+     A:确认、点评B的观点，补充他遗漏的方面（说出自己的idea+reason）
+     B:点评A的观点，承上启下提出论题2，给出自己的idea+reason
+       ***what kind of training...product knowledge,company policy,etiquette.***
+     A:确认、点评B的观点，补充他遗漏的方面（说出自己的idea+reason）
+     B:简单总结讨论结果
+       ***concluding sentence....***
+    （告别）
 
 # 1.打开话题
 > 说自己的观点 + 邀请搭档回答
@@ -478,6 +618,24 @@ next point.
 - do you have any idea on this point?
 - i think we need/should make sure that...
 - another thing we can do is to...
+
+# 5.救场
+> 1)对方喋喋不休
+
+***Sorry to interrupt/But I think...***
+
+> 2)对方沉默寡言
+
+***what’s your opinion?/why do you think so?/and?/then?***
+
+> 3)对方跑题
+
+***I’m afraid that’s not what we should discuss.***
+***I’m sorry,but you are off the topic.***
+
+> 4)要求对方重复
+
+***I didn’t catch it.***
 
 # 5 总结(要带入自己之前的讨论)
 - from we talked before...

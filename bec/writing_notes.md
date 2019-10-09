@@ -1,34 +1,18 @@
-# writing_notes
-
-      写作：1h10mins/2 个题目
-      2.1）part I:report based on graphic input - 10分
-           描述图表信息   -  先看范文再动手
-                         -  多归类总结短语或句型
-      2.2）part II.report/proposal/letter 三选一  - 20分
-                         -  总结好句型，高大上的商务词汇
-                         -  report/proposal 都比较好拿分
-      2.3）答题要求
-           1）包括所有的内容点；
-           2）语言规范、自然；
-           3）错误少；
-           4）多样化的语言结构和丰富的词汇；
-           5）组织效果好，注意前后呼应；
-           6）语域和格式完全适当；
-           7）给读者影响极佳
-
+# writing_notes/70mins
 # 1.原则
 ## 1) 客观
       不能有任何主观想象的成分
 ## 2）精确
       力求准确，不能看错
       可以用 around,just,under+数字
-## 3) 语言风格：正式用语
-      ***不要出现***
+## 3) 不要出现
       3.1）缩写，第一次出现的时候全拼
       3.2）0-10的数字要拼写，10以上的可以用阿拉伯数字；
-      3.3）不要有口语化的表达；
+      3.3）口语化的表达；
       3.4）被滥用的词语：last but not least
-      3.5）主被动语态
+## 4) 格式
+      齐头写，不同段落间空行
+      写在答题卡的横线上  
 
 ***Here is the BWM project,let us know what you think at Monday's meeting.***
 
@@ -54,14 +38,13 @@
        Example: 论证和举例一定要逻辑吻合。
 ## 2.2)Requirement
        一定要具体明确。
-## 2.3）Article
+## 2.3）details
        初次出现用a或零冠词;再次出现用the。
-## 2.4)段首缩进 5space，段间不空行
-## 2.5）注意单位、年份不要写错
-## 2.6）单词拼写：-ed/-s；
-## 2.7）字数太多可以删除
+       单词拼写：-ed/-s；
+       单位、年份不要写错
 
-# PART I.（120-140words）
+
+# PART I.（120-140words）(20mins)
 > 结构：总分总
 # 1.opening para
     介绍图表主体/改写题干
@@ -113,6 +96,7 @@
 ## 1)title
 
 ## 2)introduction：1-2 句，转述原题/说明目的
+***The purpose of this report is to.../The report aims to...***
 
 ## 3)正文：突出变化趋势（动图）、对比（静图）
 ### para 1:1+X
@@ -126,15 +110,44 @@
 ***there was a slight increase in sales in October.***
 ***the sales increased slightly in October.***
 ***more exactly/precisely/specifically...***
-
-***Sales also [fluctuated] a lot more than in 2000.Sales [rose slowly]in the first quarter,from $550,000 to $750,000.Which [was slightly down on]the previous year.However,in May 2001 [there was a sharp increase]with sales peaking at $920,000,[compared to] less than $800,000 in 2000...[There was a collaspe]from August to October with sales [falling below]$500,000.However,sales [recovered]in November and [finished the year]well,performing better than the previous year.December 2001 sales finished at $750,000,about $50,000[up]on 2000.***
+***As regards to.../The key findings are summerised bellow***
+***According to the recent market research/investigation/survey/the chart above***
+***The recent visit/investigation/survey shows that...***
+***From the chart shown,we find/learn/notice that...***
+***The table/chart above is showing that...***
+***It can be seen from the chart that significantly XX_er(比较级).....than***
+***According to the graph,we see a different trend emerging.***
 
 ### para 2:1+X
     1：概括本段
     X:具体介绍数字
+
+***Sales also [fluctuated] a lot more than in 2000.Sales [rose slowly]in the first quarter,from $550,000 to $750,000.Which [was slightly down on]the previous year.However,in May 2001 [there was a sharp increase]with sales peaking at $920,000,[compared to] less than $800,000 in 2000...[There was a collaspe]from August to October with sales [falling below]$500,000.However,sales [recovered]in November and [finished the year]well,performing better than the previous year.December 2001 sales finished at $750,000,about $50,000[up]on 2000.***
+
 ### para 3:1+X
     1：概括本段
     X:具体介绍数字
+
+#### 表达数字
+***The number of ...increased/dropped by XX %***
+***The graph shows the percentage of...***
+
+#### 意思相对的词组
+- to go up/to go down/to increase/to decrease
+- to rise/to fall / to grow/ to shrink
+- to improve/ to get worse to be up / to be done
+- to treat a peak/ to hit a low to fluctuate / to stable
+
+#### 常见的和v搭配的adv
+- to increase slowly/sharply/slightly/steadily/significantly/gradually
+
+#### 常见的和v搭配的prep
+- sales increased [by] 3%
+- there was an increased [of] 3%
+- there was a 3% increase [in] sales.
+- sales increased from 15000 to 17500-so they increased [by] 2500.
+- sales have been increasing in January [for] six month.
+
 
 ## 4）conclusion:1-2句
     4.1）图表、数据间客观联系；
@@ -144,21 +157,29 @@
 ***all in all***
 ***in conclusion***
 ***to conclude***
+***I recommend to.../It was concluded that...***
+***The following are the recommendations...***
+***With the reference to the advantage stated above,the following recommendations can be made...***
 
 # 5.essential phrase
 ## 5.1 变化程度修饰
 ### 1)上升
 > grow/grew/grown
 
+***A had a much higher growth rate than B as a whole during that period.***
 ***Demand for our product has[grown]by 20%.***
 
 > jump/jumped
 
 ***The number of graduate students [jumped from]455 to 736 over the same period.***
+***...had jumped four fold to...***
 
 > increase
 
+***The point to note is the huge increase/in the number of...***
+***The general trend appears to be increases.***
 ***With the result of automation productivity has [increased]6 times in that factory.***
+
 
 > go up/went up
 
@@ -179,6 +200,8 @@
 > rise/rose
 
 ***Inflation is [rising at/by] 2.1 percent a month.通货膨胀一个月增长2.1%。***
+***...rose sharply from A to B***
+***Rise gradually to about 10%***
 
 > ascend
 
@@ -235,6 +258,7 @@
 > peaked at
 
 ***The adverting campaign helped push sales up from 25% to 35% in the first two quarters before they [peaked at] 42% in the fourth quarter.***
+***We can see that...swell during the ...hours,peaking at...***
 
 > bottomed out
 
@@ -314,10 +338,11 @@
        slight:small in amount or degree
        slow:moving, happening, or doing something without much speed
 
-# PART II.（200-250words）
+# PART II.（200-250words）(40mins)
+> 三选一，要在答题卡上填涂题号
 # REPORT
 ## 1.SHORT REPORT
-    title:           Report on the XXX
+    title:           Report on the XXX(要写标题)
     Introduction：要做什么/aim
     Findings 1：描述现状
     Conclusion/comment 1：评估现状、优缺点
@@ -614,6 +639,7 @@
 ***Maurizio***
 
 ## 4.商务信函
+## 内容
       开头
       提及背景
       能或不能
@@ -622,11 +648,23 @@
       请求行动
       结尾
 
+## 格式
+1）齐头
+2）收件人姓名、地址->信纸左上方
+3）地址后面没有标点符号
+4）段落之间行距1行
+
 ### 4.1 开头
 #### 1)表明目的
 ***I am writing to...***
 ***We are interested in...***
 ***We would like to know...***
+***I’m writing in connection with/let you know that...***
+***Just a short note about...***
+***I am writing with regard to/about...***
+***In reply to your email,here are...***
+***Here’s the ... you wanted.***
+***Just a note to say...***
 
 > ex1:You want to know the prices of some air conditioners.
 
@@ -635,6 +673,10 @@
 #### 2）表示收到
 ***We have received ...***
 ***Thank you for ...***
+***further to your last email,...***
+***Re your email,...***
+***I apologize for not getting in contact with you before now.***
+***Sorry I haven’t written for ages,but I’ve been really busy.***
 
 #### 3)提及对方内容
 ***asking me...***
@@ -682,6 +724,10 @@
 #### 6) 告知好、坏消息
 ***I am pleased / delighted to tell / inform / advice you that...***
 ***I regret[相当于系动词] / am sorry to tell / inform / advice you that...***
+***We are able to confirm that...***
+***We can confirm that...***
+***I am delighted to tell you that...***
+***We regret to inform you that...***
 
 #### 7) 说明原因
 ***due to...***
@@ -709,7 +755,26 @@
 
 ***I would appreciate it if you could send me an application form.***
 
-### 4.2结尾
+### 4.2 action
+#### 1) ask for information
+***Could you give me some information about...
+***Can you tell me a little more about...
+***I would /I’d  like to know... 
+***I’m interested in receiving/finding out...
+
+#### 2) requests
+***I’d be grateful if you could ...***
+***I wonder if you could...***
+***Thank you in advance for your help in this matter.***
+***I’d appreciate your help on this.***
+
+#### 3) promising action
+***I’ll investigate the matter.***
+***I’ll look into it.***
+***I will contact you again shortly.***
+***I will get back to you soon.***
+
+### 4.3结尾
 #### 1）期待
 ***I look forward to receiving your reply / order / products etc.***
 ***Looking forward to hearing from you.***
