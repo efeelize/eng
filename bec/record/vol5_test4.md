@@ -195,10 +195,13 @@
 ***inadequate training of workforce***
 ***But where I went awry /ə'raɪ/ [出差错] was not giving them proper tuition and guidance in precisely what I wanted.***
 
-> unexpected competition->rival/competitors/peer;products
+> unexpected competition->rival/competitors/peer/opposition;products
 
 ***unexpected competition***
 ***someone sles had come up with something which was virtually /'vɜːtjʊəlɪ/ [几乎] identical[一样的]->生产一模一样的产品->竞争者...***
+
+***Increase the company's market share.***
+***It's all about making and selling things better and more cheaply than the opposition.***
 
 > bad recruitment decisions->over qualified staff/turnover
 
@@ -215,9 +218,61 @@
 
 # PART III.
 ## 1.words
+> outlets
 
+***...then whether we decide to sell directly or through outlets...***
+
+> inroad
+
+***it will allow us to make substantial inroads into our competitors' customer base.***
+
+> stake
+
+***...and we're building for our stake in the future.***
+
+> conscious
+
+***It used to be all about cost and being very price conscious,putting that across to the customer in a straightforward way.***
+
+> churn out /tʃɜːn/ :manufacture
+
+***...and react instantly to demand,rather than just churning out a huge range of goods and having them sitting on the shelves /ʃelvz/ [shelf 的 pl].***
+
+> free up
+
+***I've worked out,once we've streamlined operations,we'll free up some space in the factory.***
+
+> staff morale /mə'rɑːl/ 士气
+
+***And the other thing is,the changes should really benefit staff morale.***
+
+> 1)tangent
+> 2)sort of
+> 3)sort it out
+
+***they're doubling up on things or going off at tangents.-some sort of group training should sort it out.***
+
+> under out hat:保护自己的版权
+
+***I suppose the principal[主要的/key thing] thing now is trying to keep all this under our hat.**
 
 ## 2.同义转化
+> diversity->versatile
+
+***the diversity of its product range.***
+***now though,we've got to look at ways of making manufacturing more versatile /'vɜːsətaɪl/...***
+
+> market leader->winners in the market place
+
+***sam wants to attract market leaders as customers because they...***
+***we need to make ourselves the preferred supplier for companies that are the winners in the market place,companies that are leader in their own field.***
+
+> staff training
+
+***they will have access to better staff training.***
+***...because most of the staff are so well-trained in what we're doing.***
+
+## 3.
 
 
 

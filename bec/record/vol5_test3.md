@@ -147,13 +147,19 @@
 
 > recommend
 
-***I think I'd recommend that...**
+***I think I'd recommend that...***
+
+> It's all about...
+
+
+> my brief/main is to[我的主旨是]...
 
 ### 4.表示到下一个题目
 > then/however/but/at mean time/And at the same time
 
 ***But it's the ongoing problems[一直以来的问题]that...***
 
+***...and the other thing is...***
 
 ## PART II.
 ### 1.words
@@ -215,9 +221,11 @@
 ***we didn't foresee that...***
 ***So we didn't spot the facts that the necessary link road wasn't included in the developer's original outline.*** 
 
-> outsourcing:外包服务
+> outsourcing:外包服务->subcontractor
 
 ***use an external company to research the site.***
+***the testing unit can be moved down the road to the XX avenue site.***
+***outsourcing our components[零部件] is costing us too much and ...***
 
 > 1)service agreements->after-sales contract;
 > 2)good deal->competitive
@@ -229,6 +237,7 @@
 
 ***invite firms to tender for parts of the project.***
 ***It worth getting a range of companies to put in a bid.***
+***If you are only supplying companies that put out to tender every year,the future becomes uncertain and so you've no time to build a relationship that will move your company forward.***
 
 > alternative->many options/optional
 
