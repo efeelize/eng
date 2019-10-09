@@ -757,10 +757,10 @@
 
 ### 4.2 action
 #### 1) ask for information
-***Could you give me some information about...
-***Can you tell me a little more about...
-***I would /I’d  like to know... 
-***I’m interested in receiving/finding out...
+***Could you give me some information about...***
+***Can you tell me a little more about...***
+***I would /I’d  like to know...***
+***I’m interested in receiving/finding out...***
 
 #### 2) requests
 ***I’d be grateful if you could ...***
@@ -777,13 +777,18 @@
 ### 4.3结尾
 #### 1）期待
 ***I look forward to receiving your reply / order / products etc.***
+
 ***Looking forward to hearing from you.***
+
 ***Looking forward to your reply in due course***
 
 #### 2）希望对您有帮助
 ***I hope that this information will help you.***
+
 ***Please [contact me] if you need any further information.***
+
 ***Please [feel free / do not hesitate] to contact me if you have any further questions.***
+
 ***Please let me know if you need any further information.***
 
 ## 5.MEMO

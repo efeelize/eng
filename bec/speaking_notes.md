@@ -134,21 +134,9 @@
     1)two-way discussion - between candidates
     2)further prompting from interlocutor
                  
-# 2.听力词汇  
-    discount:贴现、贴现率
-    turnover:员工离职率
-    close:股票收盘
-    credit note:贷项通知单
-    unsocial hours 非正常工作时间
-    proof: 样本
-    books：公司账目
-    range:产品组合
-    living out of a suitcase:经常出差在外
-    I’m often charged 18% interest per month on my outstanding balance：我每月要为未结清的余额支付 18%的利息
 
 # 3.变音规则
-## 1)连读
-### 1.1）辅音+元音
+## 1)连读 ：辅音+元音
     ten of you
     main activities 
     individual interview 
@@ -208,8 +196,7 @@
 
 ## 2.3)what
 > differ which:观点、评价、内容
-### 1.Q:what kinds of businesses you think will be important for the economy in 
-china in the future?
+### 1.Q:what kinds of businesses you think will be important for the economy in china in the future?
 
 ***Argument 1:[Financial Services] Financial Services is a huge industry and includes services such as banking, investment banking, mutual funds, foreign exchange and much more. A successful modern economy is mostly dependant on a steady and efficient financial system making financial services an essential ingredient of a thriving economy. So as long astrong economies are required Financial Services are required.***
 
