@@ -1,4 +1,4 @@
-# vol4_test1.md
+# vol4_test1
 # READING
 # PART I.
 ## 1.words
@@ -116,34 +116,83 @@
 ## 1.words.
 > fragmentation
 
-
-
-
 > explosion
-
-
-
 
 > cunning
 
-
-
-
 > cliche
  
-
-
-
 > forge
-
-
-
-
 
 ## 2.sentence.
 
+# PART III.
+# PART IV.
+# PART V.
+# PART VI.
+
+# LISTENING
+
+# PART I.
+## 1.words
+> headquarter
+
+***...with factories in Nevada and Texas and its headquarters in California,is one of the world's largest manufacturers of telescopes /'telɪskəʊp/ [n. 望远镜].***
+
+> be the case
+
+***But this hasn't always been the case. 但此景未必长在***
+
+> hanging over[悬着]
+
+***...the threat of bankruptcy /'bæŋkrʌptsɪ/ was hanging over [威胁着整个公司] the company.***
+
+> huge portion of 
+
+***...Almost overnight,we took a huge portion of the market,amateur astronomers /ə'strɒnəmə/ being keen to buy our telescopes...***
+
+> fell in
+
+***Then the sky fell in.[天塌了]***
+
+> call in [要求归还]
+
+***The bank called in the company's loans...***
+
+> minus
+
+***In fact,the company's balance sheet gave a net worth of minus two point five million dollars for nineteen ninety-one...[1991年净值减少到 250 万]***
+
+> luxury of 
+
+***so we had the luxury of engineering[大量的]...***
+
+> proof-of-concept [想法]
+
+***...and proof-of-concept waiting for us.***
+
+> get sth into the black [走出赤字]
+
+***Just tweleve months after our purchase,we managed to get the company into the black.***
+
+> the first two years [前两年]
+
+***For the first two years,we all took very modest /'mɒdɪst/ salaries[微薄的工资].***
+
+> brand strength [品牌优势]
+
+***And while the advanced telescope are clearly the company's brand strength...***
+
+> broaden into
+
+***But the company is also looking for ways to broaden into new markets.***
+
+> core competencies[核心竞争力]
+
+***We believe that our core competencies are in demand and will achieve that breakthrough for us.***
 
 
+# PART II.
 
 
 # PART III.
@@ -151,14 +200,7 @@
 
 
 
-# PART IV.
 
-
-# PART V.
-
-
-
-# PART VI.
 
 
 
