@@ -82,7 +82,6 @@
     drag down
     drag out of
 
-
 > fall short
 
 ***results fall short.缺乏、不足、打不到***
@@ -196,6 +195,98 @@
 
 
 # PART III.
+## 1.words
+> fill sb in on [将有关……的详情告诉某人 ]
+
+***becasue I wanna fill you in on the discussions that took place in the planning of this new product range.***
+
+> across-the-board [全面的]/across the board
+
+***But across the board[经过董事会],the people at the top favoured launching each product separately[不同的产品] at different times [不同的时间] to get the maximum impact [最大的效益] for each product.***
+***But that is an astonishing increase to expect across the board.但是各个方面的成本都有了惊人的增长。***
+
+> plumped /plʌmp/ for [选中]
+
+***Riskily,they plumped for the latter.***
+
+> trawl for /trɔːl/ [搜寻]
+
+***...they trawled the market for recent graduates,thinking their enthusiasm would make up for [弥补] their lack of experience.***
+
+> geared up [准备好]
+
+***And the retailers,who had been geared up for getting the products in shops,took a pretty poor view of the decision.***
+
+> main rivals [主要的竞争对手]
+
+***...that their main rivals intened to attack the launch with an agressive promotion[强势性的促销]...***
+
+> chord
+
+***...he did some research into why the products had struck such a chord.[震动心弦]***
+***This book touch the right chord.这本书触动了我的心弦。***
+
+
+
+ 
+## 2.同义词替换
+> copy
+
+***Did they just replicate  /'replɪkeɪt/ other drinks on the market and try to eat into those market?***
+
+## 3.tech
+### 3.1 段落意思理解
+***1）they wanted to build on the success of their core product--->when the new chairman arrived he decided to exploit that popularity[在本句中指的是人气产品] to expand the product range.***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
