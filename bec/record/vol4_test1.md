@@ -226,18 +226,27 @@
 ***...he did some research into why the products had struck such a chord.[震动心弦]***
 ***This book touch the right chord.这本书触动了我的心弦。***
 
+> copious  [abundant]
+
+***...and the marketing division has rethought its mission and now focuses on getting copious /'kəʊpɪəs/ feedback from supermarkets,clubs and cafes to find out what customers are looking for.***
+
+> go out on a limb [担风险；爬高枝]
+
+***...that successful companies must be prepared to go out on a limb...***
+
+> replicate [copy]
+
+***Did they just replicate /'replɪkeɪt/ other drinks on the market and try to eat into those market?***
+
+## 2.tech
+### 2.1 段落意思理解
+***1)they wanted to build on the success of their core product--->when the new chairman arrived he decided to exploit that popularity[在本句中指的是人气产品] to expand the product range.***
 
 
- 
-## 2.同义词替换
-> copy
+***2)that ongoing market research is essential to effecting selling--->the consumer have a lot to tell us,but they won't if they're not ask[员工去问，实际上就是做市场调研]...***
 
-***Did they just replicate  /'replɪkeɪt/ other drinks on the market and try to eat into those market?***
-
-## 3.tech
-### 3.1 段落意思理解
-***1）they wanted to build on the success of their core product--->when the new chairman arrived he decided to exploit that popularity[在本句中指的是人气产品] to expand the product range.***
-
+### 2.2 答案句提示
+***but what it uniquely demonstrates is that...***
 
 
 
