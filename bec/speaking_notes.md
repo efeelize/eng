@@ -1,177 +1,22 @@
 # Speaking_notes/16min 
-# 1.考试内容
-# part I.自我介绍
+# part I.personal question/3-4sectence/30s
+## 1.考试内容
     1）主动打招呼，增加印象分
     2）提前准备好（个人情况、学习工作、兴趣爱好、家乡）
     3）商务相关问题
     4）没听清楚，可以让考官重复，不会扣分
-  
-## 1.names 
-***Q:What’s your name?***
+       Pardon?
+       Sorry?
+       You mean…?
+       You are talking a little fast. I can’t follow you.
+    5)问题不会，回避问题
+      5.1)It is a very good question, but I am still a layman in this field./
+           But I still want to explore it in the future.
+      5.2)If I have chance in the future, I will read more about this topic 
+          and broaden my view on my major.
 
-    A:my last name is...and my given name is...but my friends always call me...my English name is ...
-
-***Q:How do you spell your family name/surnme/last name?***
-
-    A:It’s...
-
-## 2.where you come from?
-***Q:where are you from?***
-
-    A:I’m from...
-
-***Q:Would you say it’s a good place to live in?Why?***
-
-    A:Yes,definitely,1)the wearther is....;2)the transportation is...;3)the environment is...
-
-***Q:Do you like living in...?/Do you think it would be better to live in...Why?***
-
-    A:Yes/No.Because...(the weather ; the transportation ; the environment; the housing; etc. )
-
-## 3.family
-***Do you come from a large family or a small family?***
-
-    A:I come from a nuclear family/an extended family.
-
-## 4.what you do
-***Q:Do you work or are you a student in...?***
-
-    A:I’m a student/I’m a office worker.
-
-***Q:What do you study?What’s your major?***
-
-    A:My major is.../I’m major in...
-
-***Q:What do you do?***
-
-    A:I work as.../I am...
-
-***Q:What do you like about your study?***
-     
-    A:I have always been interested in...,and I want to become a/an...in the future.
-
-***Q:What do you like about your job?***
-
-    A:It brings me...( job satisfaction/good financial reward/good career development opportunity.)
-
-## 5.free time
-***Q:Do you have much free time?***
-
-    A:Yes/No
-
-***Q:How do you spend your free time?***
-
-    A:I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
-
-***Q:Do you like working in a time or on your own? ( why? )***
-
-    A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.
-
-***Q:How important is the central leadership of a team?***
-
-    A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.
-
-***Q:Do you prefer to work in small teams or big teams? (why?)***
-
-    A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.
-
-***Q:Is it necessary for a team to have regular meeting?***
-
-    A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.
-
-# part II.mini-presentation
-### 1）1min准备
-> ie.考官会分别给每位考生一张问题卡，上面有三个不同的话题,从三个话题中选择一个进行演讲.   
-
-     1）10s:chose 1 topic
-     2）50s：prepare /在纸上做笔记/有些考场问题卡会收回，答题纸不会收回
-         1)topic sentence
-         2)key words
-         3)确定supporting details扩展内容
-         4）2个点就可以了，多的话展开理由不充分
-
-### 2)演讲/10sentence
-> 总分总
-
-      1st：读题目
-      2nd: 说观点
-      3rd: 第一个arguement
-      4th & 5th: 分析第一个arguement
-      6th: 第二个arguement
-      7th & 8th: 分析第二个arguement
-      9th：简单罗列几个arguement/继续分析第二个arguement
-      10th:总结，重复2个观点，重申自己的立场
-
-### 3）向 partner 提问 （1sentence）
-### 4）回答 partner 的问题（2-4sentence）
-
-# 3.part III.
-### 1.要求/ollaborative task/team work
-- 合作与互动 /A说完了，B要对其有个回应
-- 观点与陈述 / 不能只跟对方捧哏
-- 不光表达自己的观点，还有有所提议/2个点都要讨论到
-- 对别人的创新的建议有所反应
-- 有条理
-- 给理由
-
-### 2.tips
-- 快速了解任务要求 
-- well-organized & logically ordered 
-- 快速进入角色/情景 (人称要根据题目里面的角色来确定第一人称还是第三人称)
-  1)our company 
-  2)our service 
-  3)our staff 
-- 学会问问题 学会礼貌而不失尴尬的不同意 
-- 合理分配时间，解决提示卡上的问题 
-- 如果3MIN内讨论完了，可以适当总结一下重点
-
-### 3.流程
-#### 3.1）30sec读题
-> 两个考生共同看一张纸,读题中不可以讨论，
-
-#### 3.2）3min讨论
-#### 3.3）考官收回卡片后，跟踪继续提问
-    1)two-way discussion - between candidates
-    2)further prompting from interlocutor
-                 
-
-# 3.变音规则
-## 1)连读 ：辅音+元音
-    ten of you
-    main activities 
-    individual interview 
-    detailed information 
-    a couple of hours 
-    travel expense 
-    supermarkets assessment 
-    timetable of group activities 
-    Small amount of
-## 2)失去爆破
-### 2.1)爆破音+爆破音 
-    t /d/k/g/b/p
-    good to work 
-    job description 
-    great colleagues 
-    fantastic pay 
-    outgoing     
-### 2.2)爆破音+摩擦音 
-    s/th/v/f/w/m/n/r/h/l
-    Outside shortlist outline lead the group 
-    Upgrade their ability managed stress
-    Corporate market
-  
-## 3)弱读 
-    辅音+en/on 
-    bitten
-    britian 
-    certain 
-    pattern 
-    garden
-    written
-  
-# PART I. personal question/3-4sectence/30s
+#  2.回答结构
 # 1.总分总 + quick answer
-
 ***Q:whether you think there are some profession in Chinawhich should be better paid？***
     
 ***1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.***
@@ -233,24 +78,173 @@
 - 未来什么行业会变得重要
 - 工作时间会有所变化么
 
-# PART II 
-# I.mini-presentations (说话少、信息量大/1mins)
+# 4.示例 
+***Q:What’s your name?***
+
+    A:my last name is...and my given name is...but my friends always call me...my English name is ...
+
+***Q:How do you spell your family name/surnme/last name?***
+
+    A:It’s...
+
+***Q:where are you from?***
+
+     A:1)My hometown is Shannxi, but at present I am studying in Shanghai.
+       2)I come from Baoji, a city located in the middle of Shannxi 
+       province. It is a beautiful city with a long history and brilliant culture. The weather is warm, the air is fresh, which makes the city very suitable for living. Welcome to visit my hometown.
+
+***Q:What do you study? How do you like your major?***
+A:My major is law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
+
+***Q:What would you like to do after you finish your studies? Why?***
+I want to be an human resource manager in a foreign company. 
+First, I believe human resources is one of the core capital of a company. The enterprises competition is ultimately talent competition. So it is a very challenging job. 
+Second, my good interpersonal and communication skills suit the job well. 
+Third, the atmosphere in a foreign company is more free and democratic, though it requires a high level of English, and that’s also why I take this exam. 
+
+***Q:How do you like your school?***
+Jinan University is known as the first university for overseas Chinese. 35 percent of our students are international students who come from 100 different countries and regions. Thus the atmosphere is free and open, which provides great space for the development of students. I love my school.
+
+***Q:How did you come here today?***
+A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
+
+***Q:Why do you learn English?***
+I want to work in a foreign company in the future. And good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.
+
+***Q:What kind of training courses have you even taken?***
+
+    A:English training online classes for Business English higher preparation produced by New Oriental.
+
+***Q:What do you think is most important when you choose a training course?***
+
+    A:The trainer’s qualification and status.When choosing a training program, it's important to consider the training content.
+
+***Q:If you could travel by any form of transport you want, what would you choose?***
+
+    A:I’d choose to travel by high-speed train because it takes less time and is more punctual compared with other means of transport.
+
+***Q:What kind of accommodation do you usually stay in when you go on holiday?***
+
+    A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people. 
+
+***Q:Do you think companies should pay for their staff to stay in expensive hotels on business trips?***
+
+    A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.
+
+***Q:Do you enjoy business travel?***
+
+    A:Yes. By travelling on business, I have a chance to go to different places and experience different customs. It is really a good way to broaden my view.
+
+***Q:what makes a good team?***
+
+    A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.
+
+***What’s your hobby? What do you usually do in spare time?***
+    
+    A:Of all sport games, I like running most. First, it is a sport that 
+    anyone can do it at any time and you don’t need a special place to do it. 
+    Second, it is a good way to keep fit and relax the tension from high 
+    pressure. More importantly, I have acquainted lots of new friends when 
+    taking part in the marathons. 
+
+***Do you come from a large family or a small family?***
+   
+    A: I came from a smaill family.There are 3 people in my family.All the members in my family live in great harmony, and we love each other devotedly.***
+
+***Q:Would you say it’s a good place to live in?Why?***
+
+    A:Yes,definitely,1)the wearther is....;2)the transportation is...;3)the environment is...
+
+***Q:Do you like living in...?/Do you think it would be better to live in...Why?***
+
+    A:Yes/No.Because...(the weather ; the transportation ; the environment; the housing; etc. )
+
+## 3.family
+***Do you come from a large family or a small family?***
+
+    A:I come from a nuclear family/an extended family.
+
+## 4.what you do
+***Q:Do you work or are you a student in...?***
+
+    A:I’m a student/I’m a office worker.
+
+***Q:What do you study?What’s your major?***
+
+    A:My major is.../I’m major in...
+
+***Q:What do you do?***
+
+    A:I work as.../I am...
+
+***Q:What do you like about your study?***
+     
+    A:I have always been interested in...,and I want to become a/an...in the future.
+
+***Q:What do you like about your job?***
+
+    A:It brings me...( job satisfaction/good financial reward/good career development opportunity.)
+
+***Q:Do you have much free time?***
+
+    A:Yes/No
+
+***Q:How do you spend your free time?***
+
+    A:I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
+
+***Q:Do you like working in a time or on your own? ( why? )***
+
+    A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.
+
+***Q:How important is the central leadership of a team?***
+
+    A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.
+
+***Q:Do you prefer to work in small teams or big teams? (why?)***
+
+    A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.
+
+***Q:Is it necessary for a team to have regular meeting?***
+
+    A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.
+
+# part II.mini-presentation(说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
- 
-# 1.总分总
-## 1）结构
-### 1.1)topic sentence 1...
-    supporting detail-1...
-    supporting detail-2...
 
-### 1.2)topic sentence 2...
-    supporting detail-1.. 
-    supporting detail-2...     
+# 1.考试流程
+## 1min准备
+> ie.考官会分别给每位考生一张问题卡，上面有三个不同的话题,从三个话题中选择一个进行演讲.   
 
-### 1.3)conclusion
+     1）10s:chose 1 topic
+     2）50s：prepare /在纸上做笔记/有些考场问题卡会收回，答题纸不会收回
+         1)topic sentence
+         2)key words
+         3)确定supporting details扩展内容
+         4）2个点就可以了，多的话展开理由不充分
 
-## 2）模板
-### 2.1)总/开头/总结
+## 演讲/10sentence
+> 总分总
+### 1st：读题目
+***I choose topic X.（+简单读题）***
+
+### 2nd:opening sentence
+***When...there are three important factors we should take into account.***
+
+***When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant /***
+
+***I have the the following reasons:...is an indispensable part in the business field.***
+
+***To make it a great success/ to do it***
+
+***Well,we need to attach great importance to the following aspects.***
+
+***In order to ... and ... should be first considered.***
+
+***the first two things/ideas/points/words that cross my mind are ... and ...***
+
+***In my humble/personal opinion,... and... play a very improtant...***
+
 ***Well, when it comes to...., several/two important factors must be***
 
 ***taken into account/consideration.***
@@ -261,38 +255,115 @@
 
 ***There are several ways to... First, Second, Third...***
 
-### 2.2）分
-***Notes/Outline + details***
-      
-### 2.3）总
-***In conclusion***
+***as to this topic, I have the following points.***
 
-***In general***
+***when talking about …,there are three points I want to say.***
 
-***To sum up***
+### 3rd: main points and supporting ideas 论点① 
+    topic sentence 1...
+    supporting detail-1...
+    supporting detail-2...
 
-***So***
+> Q:what’s important when aiming to improve a product:customer feedback?
 
-# 2.解题步骤
+***1 [如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...***
+
+***2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
+
+> Q:what’s important when deciding whether to change a product image:market research?
+
+***1 [如果...就会...;如果不.] As far as I know, many companies conducted market  research before they decided to change their product images,such as Coca Cola company,and Oil of Olay.They...***
+
+> Q:what’s important when choosing people to work in teams:specialty?
+
+***A:when choosing people to work in teams,speciality is the first thing to consider.If his or her specialty is exactly what the team or project needs,the possibility of success will be much bigger.Otherwise,he or she cannot contribute a lot to the team work.***
+
+### 4th & 5th: 进一步解释说明，阐释为什么
+> Q:what is important when selecting staff for sales positions:appearance.
+
+***A: appearance is not the most important,but it does play an essential part in the sales achievement.That is because...***
+
+### 6th: 第二个arguement
+***In addition to this, we should also pay attention to 论点②...***
+
+    topic sentence 2...
+    supporting detail-1.. 
+    supporting detail-2...  
+
+### 7th & 8th: 分析第二个arguement
+
+### 9th：简单罗列几个arguement/继续分析第二个arguement
+***Further,  论点③ should also be taken into account.***
+
+### 10th:总结，重复2个观点，重申自己的立场
+
+***All in all,...and...are of great importance when...***
+
+***Any way,...and...are essential when...Only after we...can we...***
+
+***To sum up,...should be put at the first place when....***
+
+***These are the three factors that I find very essential when...***
+
+***In a word,you must consider all these factors if you want to...***
+
+***Finally,let’ me restate my opinion that when...,we need to pay special attention to ... and ...***
+
+***That’s all, thank you.***
+
+## 3.向 partner 提问 （1sentence）
+### 3.1.万用句型
+***1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?***
+
+***2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?***
+
+***3) Do you think A is the most important one?[只听到一个重点]***
+
+***4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?***
+
+***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
+
+### 3.2advanced
+#### 1)正反分析
+***What's the advantage/disadvantage of...?***
+     
+#### 2)昨天今天明天
+***What are the differences between A now and that of future?***
+     
+#### 3)问题解决
+***What might be the biggest trouble for ...***
+***What's your possible solution?***
+***What are the causes of ...?***
+     
+#### 2.4)因果关系
+
+## 4.回答 partner 的问题（2-4sentence）/simple and concise 
+> relevant (听不懂的话ask for repetition)
+
+***exp:I'm not sure I understand your question quite clearly...*** 
+
+> Interactive
+
+***I think yes, and it is also a very good point. I think....***
+
+# 2.典型题型
 ## 2.1）the importance of ...
-### 2.1.1）思路
+### 1）思路
 - 找理由：cause and effect
 - 2个点，最多3个
 - 有把握的原因先讲
 - 连接词选简单的，否则考官会觉得信息很少
 
-### 2.1.2）连接词
+### 2)连接词
 ***first/second/Third==in the first/second/third place***
 ***also/another important thing is.../what's more/in addition***
    
-# 3.题型
-## 3.1)importance
-***important for career development?***
-
-### 1)outline:
+### 3)important for career development?
+### 1)outline
 #### 1.1) close deals
 - 1)face-to-face meeting
 - 2)chances trust
+
 #### 1.2)build the network
 - 1)understanding
 - 2)cultural and communication barriers
@@ -304,14 +375,14 @@
 
 ***[Arguement2] Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
 
-## 3.2）how to...
+## 2.2）how to...
 > 列清单 :步骤手段达到目的
 
 - In order to... first, we should... 
 - We also need to... 
 - Last, what we need to...    
 
-## 3.3)the factors of ...to... 影响因素
+## 2.3)the factors of ...to... 影响因素
 ### 1）套路
 - 时间;
 - 金钱；
@@ -339,8 +410,8 @@
 
 ***[总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.***
 
-# 4.习惯表达
-## 4.1）解释说明
+# 3.习惯表达
+## 3.1）解释说明
 - which means/what I mean is...
 - I mean...
 - that is to say
@@ -349,12 +420,12 @@
 - namely...
 - for instance/for example(时间很短，不要举例子)
 
-## 4.2）进一步强调
+## 3.2）进一步强调
 - in particular
 - especially
 - chiefly
 
-## 4.3）转折对比
+## 3.3）转折对比
 - but
 - while
 - yet
@@ -365,7 +436,7 @@
 - even though
 - in spite of 
 
-## 4.4）因果关系
+## 3.4）因果关系
 - cause
 - because
 - so
@@ -383,7 +454,7 @@
 - consequently
 - according to
 
-## 4.5）重要
+## 3.5）重要
 - important/importance
 - significant
 - essential
@@ -394,50 +465,8 @@
 - necessary
 - urgent
 - top priority
- 
-# II.与parnter互动
-## 1.万用句型
-***1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?***
-
-***2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?***
-
-***3) Do you think A is the most important one?[只听到一个重点]***
-
-***4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?***
-
-***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
-
-## 2.模板
-### 1)基础版
-- what
-- how
-- why
-- when
-- where
-
-### 2)advanced
-#### 2.1)正反分析
-***What's the advantage/disadvantage of...?***
-     
-#### 2.2)昨天今天明天
-***What are the differences between A now and that of future?***
-     
-#### 2.3)问题解决
-***What might be the biggest trouble for ...***
-***What's your possible solution?***
-***What are the causes of ...?***
-     
-#### 2.4)因果关系
-  
-## 3.回答partner的问题
-- simple and concise (2-4 sentences)
-- relevant (听不懂的话ask for repetition)
-***exp:I'm not sure I understand your question quite clearly...*** 
-
-- Interactive
-***I think yes, and it is also a very good point. I think....***
-   
-## 4.考过的真题
+    
+# 4.考过的真题
 - Q:the importance of being willing to make long business trips
 - Q:the importance to staff of regularly evaluating their professional skills
 - Q:the importance of being prepared to attend company social events
@@ -448,7 +477,7 @@
 - Q:Public Relations: the importance to a company of avoiding bad publicity
 - Q:Prices: the importance to a company of having a flexible pricing policy
           
-## 5.重要话题
+# 5.重要话题
 - 公司运作与管理
 - 人力资源管理
 - 市场营销
@@ -462,7 +491,7 @@
 - 客户关系
 - 企业文化
 
-## 6.机经
+# 6.机经
 - 出差
 - 价格讨论
 - 健康安全
@@ -488,7 +517,7 @@
 - 人力资源
 - 采购
 
-## 7.常考话题
+# 7.常考话题
 - market research
 - team work
 - project
@@ -498,64 +527,20 @@
 - HR
 - conference
 
-## 8.参考框架
-
-## 1.opening sentence
-
-***1) When...there are three important factors we should take into account.***
-
-***2) When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant /***
-
-***3) I have the the following reasons:...is an indispensable part in the business field.***
-
-***4) To make it a great success/ to do it***
-
-***5) Well,we need to attach great importance to the following aspects.***
-
-***6)In order to ... and ... should be first considered.***
-
-***7) the first two things/ideas/points/words that cross my mind are ... and ...***
-
-***8) In my humble/personal opinion,... and... play a very improtant...***
-
-## 2.main points and supporting ideas
-> Q:what’s important when aiming to improve a product:customer feedback?
-
-***1 [如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...***
-
-***2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
-
-> Q:what’s important when deciding whether to change a product image:market research?
-
-***1 [如果...就会...;如果不.] As far as I know, many companies conducted market  research before they decided to change their product images,such as Coca Cola company,and Oil of Olay.They...***
-
-> Q:what’s important when choosing people to work in teams:specialty?
-
-***A:when choosing people to work in teams,speciality is the first thing to consider.If his or her specialty is exactly what the team or project needs,the possibility of success will be much bigger.Otherwise,he or she cannot contribute a lot to the team work.***
-
-
-## 3.进一步解释说明，阐释为什么
-> Q:what is important when selecting staff for sales positions:appearance.
-
-***A: appearance is not the most important,but it does play an essential part in the sales achievement.That is because...***
-
-## 4.concluding sentence
-***1) All in all,...and...are of great importance when...***
-
-***2) Any way,...and...are essential when...Only after we...can we...***
-
-***3) To sum up,...should be put at the first place when....***
-
-***4) These are the three factors that I find very essential when...***
-
-***5) In a word,you must consider all these factors if you want to...***
-
-***6) Finally,let’ me restate my opinion that when...,we need to pay special attention to ... and ...***
-
 # PART III
 > 没有准备的时间、打草稿的时间/给出的点是一定要讨论到的/两个人的互动是很重要的
 
     （寒暄）
+     Good afternoon, sir.
+     Nice to meet you.
+     Nice to meet you too.
+     Have a seat.
+     Thank you.
+    
+     30 sec读题
+       两个考生共同看一张纸,读题中不可以讨论
+     3 mins 讨论
+       two-way discussion - between candidates
      A复述题目，陈述情况，讲明讨论的任务
      B:提出论题1 + 表明自己的idea+reason
        ***what kind of people...patient,eloquent,informative***
@@ -565,15 +550,19 @@
      A:确认、点评B的观点，补充他遗漏的方面（说出自己的idea+reason）
      B:简单总结讨论结果
        ***concluding sentence....***
-    （告别）
-
-# 1.打开话题
+       - from we talked before...
+       - so we've got a lot to do[对前面进行总结],first...sencond...
+       - so to sum up,our company should...
+     考官跟踪继续提问
+       further prompting from interlocutor 
+   
+## 1.打开话题
 > 说自己的观点 + 邀请搭档回答
 - To begin with,how would you like...?
 - first,what do you think would be...?
 - first,let's have a look at...
 
-# 2 表示同意
+### 2 表示同意
 - right! that's exactly what i want to say
 - that's just how i see it.
 - I'm of exactly the same idea
@@ -587,7 +576,7 @@
 - you're absolutely correct.
 - that's for sure.
 
-# 3 不同意/先肯定他的观点，然后表达自己有别的想法
+## 3 不同意/先肯定他的观点，然后表达自己有别的想法
 - your point is fair enough,but...
 - my suggestion is...
 - but i am still worried about...
@@ -595,7 +584,7 @@
 - that's very good point,but...
 - that's not exactly what I had in mind/what i was getting at/ what i was thinking about.
 
-# 4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上
+## 4 改变焦点/在第一个问题上讨论的太久了，要切换到另外一个上
 - we may have some disagree with each other on this point,now let's move to
 next point.
 - I think we can discuss...further/a bit more.
@@ -606,7 +595,7 @@ next point.
 - i think we need/should make sure that...
 - another thing we can do is to...
 
-# 5.救场
+## 5.救场
 > 1)对方喋喋不休
 
 ***Sorry to interrupt/But I think...***
@@ -624,13 +613,7 @@ next point.
 
 ***I didn’t catch it.***
 
-# 5 总结(要带入自己之前的讨论)
-- from we talked before...
-- so we've got a lot to do[对前面进行总结],
-first...sencond...
-- so to sum up,our company should...
-
-# 6 摆事实、讲道理
+## 6 摆事实、讲道理
 - many researches show that...
 - we're aware of the fact that...
 - as we all know that...
@@ -658,9 +641,13 @@ first...sencond...
 ## Q2:how you will monitor their dealing with customers?
 ###  1)outline
 - 1)record conversations between customers and staff;
+
 - 2)invite customers to rate customer service quality;
+
 - 3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
+
 - 4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
+
        exp:the amount of complains received;
            the rating outcome
            the positive feedback received from the customers.
@@ -670,7 +657,6 @@ first...sencond...
   
     provide with professional training and support
 
-    
 ***what negative reaction might you get from some staff about this sort of training?***
 
     recorded as being controlled and monitored
@@ -693,7 +679,7 @@ first...sencond...
 
 ***Do you think companies need individuals as well as team workers?***
      
-# 6.机经
+# 9.机经
 - 项目新经理
 - 销售目录 
 - 员工运动俱乐部 
@@ -702,22 +688,48 @@ first...sencond...
 - 在家工作 
 - 连锁餐厅吸引客人 
 - 了解员工想法
-     
-     
+## 1.要求/ollaborative task/team work
+- 合作与互动 /A说完了，B要对其有个回应
+- 观点与陈述 / 不能只跟对方捧哏
+- 不光表达自己的观点，还有有所提议/2个点都要讨论到
+- 对别人的创新的建议有所反应
+- 有条理
+- 给理由
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# PART IV.变音规则
+## 1)连读 ：辅音+元音
+    ten of you
+    main activities 
+    individual interview 
+    detailed information 
+    a couple of hours 
+    travel expense 
+    supermarkets assessment 
+    timetable of group activities 
+    Small amount of
+## 2)失去爆破
+### 2.1)爆破音+爆破音 
+    t /d/k/g/b/p
+    good to work 
+    job description 
+    great colleagues 
+    fantastic pay 
+    outgoing     
+### 2.2)爆破音+摩擦音 
+    s/th/v/f/w/m/n/r/h/l
+    Outside shortlist outline lead the group 
+    Upgrade their ability managed stress
+    Corporate market
+  
+## 3)弱读 
+    辅音+en/on 
+    bitten
+    britian 
+    certain 
+    pattern 
+    garden
+    written
+  
 
 
 
