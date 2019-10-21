@@ -106,7 +106,9 @@
     charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
     charm
 
-> vicious cycle
+> vicious cycle [恶性循环]
+
+***The packaging industry has typically suffered from the vacious cycle,with rising prices leding to excess capacity,which in turn leads to a collapse in price...***
 
 
 ## 2.sentence
@@ -115,6 +117,9 @@
 ***2) The author presents two case studies of his ideas in action.***
 
 ## 3.对应句
+### sentence 3:this company's response to fluctuations in sales[对应demand] has not had the desired effect
+***B:...but admitted yesterday that it has been forced to make significant cuts to capacity[下降] because of a suprisingly sharp downturn in demand[下降].***
+
 ### sentence5：there are fears about the impact of internal competition within the company
 ***A:there was surprise that the new store,likely to open next year,is so close to the existing one,where profits have so far beaten Parkin's sales targets,in case it draws customers away form the existing outlet.[新店就在旧店的旁边，防止生意被抢]***
 
