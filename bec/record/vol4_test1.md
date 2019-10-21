@@ -106,10 +106,20 @@
     charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
     charm
 
+> vicious cycle
+
+
 ## 2.sentence
 ***1) Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
 
 ***2) The author presents two case studies of his ideas in action.***
+
+## 3.对应句
+### sentence5：there are fears about the impact of internal competition within the company
+***A:there was surprise that the new store,likely to open next year,is so close to the existing one,where profits have so far beaten Parkin's sales targets,in case it draws customers away form the existing outlet.[新店就在旧店的旁边，防止生意被抢]***
+
+
+
 
 # PART II.
 ## 1.words.
