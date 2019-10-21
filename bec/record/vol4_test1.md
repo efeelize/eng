@@ -106,51 +106,31 @@
     charisma               /kə'rɪzmə/           n.魅力；神授的能力；非凡的领导力
     charm
 
-> vicious cycle [恶性循环]
-
-***The packaging industry has typically suffered from the vacious cycle,with rising prices leding to excess capacity,which in turn leads to a collapse in price...***
-
-> by disposal of [的处理]
-
-***Profits were also held back by the disposal of its packing division,which accounted for over half of turnover the previous year.[在去年打包这个部门占营业额的一半以上，但是今年把他卖掉了]***
-
-> reorganisation and redundancy[重组和裁员]
-
-***...and from reorganisation and redundancy in its plastics business.***
-
-> like for like[同比增长]
-
-***...which reported a rise in like for like sales of 5% in the preceding month.***
-
 
 ## 2.sentence
 ***1) Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
 
 ***2) The author presents two case studies of his ideas in action.***
 
-## 3.对应句
-### sentence 3:this company's response to fluctuations in sales[对应demand] has not had the desired effect
-***B:...but admitted yesterday that it has been forced to make significant cuts to capacity[下降] because of a suprisingly sharp downturn in demand[下降].***
-
-### sentence5：there are fears about the impact of internal competition within the company
-***A:there was surprise that the new store,likely to open next year,is so close to the existing one,where profits have so far beaten Parkin's sales targets,in case it draws customers away form the existing outlet.[新店就在旧店的旁边，防止生意被抢]***
-
-
-
-
 # PART II.
 ## 1.words.
-> fragmentation
+> cliche /'kli:ʃei/ [陈词滥调]
 
-> explosion
+***The monologue /'mɒn(ə)lɒg/ where the adverts tells[广告里的独白告诉...] housewives that this is the washing powder they should buy is just a cliche now.[粗暴说教的广告已经过时了]***
 
-> cunning
+## 2.对应句
+### 2.1 blank 9
+***People have become (more individual) in their consumption of advertising.[E:this fragmentation(与more individual相对应) has already shown the need for a more sophisticated understanding of where and how to reach people(与new forms of advertising相对应) in the most effectvie way.]New technology has made experimenting with (new forms of advertising) a possibility.***
 
-> cliche
- 
-> forge
+### 2.2 blank  10
+***[G:It has made possible a situation in which customers can tell advertisers what they think,and the advertises can supply information.]A much closer relationship with the consumer is gradually being forged.***
 
-## 2.sentence.
+### 2.3 blank 12:逻辑上的紧密联系
+***In spite of these and other changes,it is (highly unlikely) that TV,print and raido will (disappear) altogether as advertising media.[A:(on the contrary),there is almost certain to be an (increase) in every form of advertising in future years.]--->不可能消失，相反会增长***
+
+### 2.4 blank 13 
+***(Advertising agencies) will have to reinvent themselves.They will （no longer be able simply） to produce advertisements and then support these through PR,direct marketing or the internet.[F:Instead（对应no longer be able simply）,they(对应Advertising agencies) will have to change the whole way they look at communication and start thinking about ideas whcih are （not specific to one discipline：不再专注于一个领域）.]***
+
 
 # PART III.
 # PART IV.
