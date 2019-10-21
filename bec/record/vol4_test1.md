@@ -110,6 +110,18 @@
 
 ***The packaging industry has typically suffered from the vacious cycle,with rising prices leding to excess capacity,which in turn leads to a collapse in price...***
 
+> by disposal of [的处理]
+
+***Profits were also held back by the disposal of its packing division,which accounted for over half of turnover the previous year.[在去年打包这个部门占营业额的一半以上，但是今年把他卖掉了]***
+
+> reorganisation and redundancy[重组和裁员]
+
+***...and from reorganisation and redundancy in its plastics business.***
+
+> like for like[同比增长]
+
+***...which reported a rise in like for like sales of 5% in the preceding month.***
+
 
 ## 2.sentence
 ***1) Those serving in industry today have two options:they can surrender the future to revolutionary companies or they can revolutionise the way their companies create strategy.***
