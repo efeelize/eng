@@ -131,8 +131,16 @@
 ### 2.4 blank 13 
 ***(Advertising agencies) will have to reinvent themselves.They will （no longer be able simply） to produce advertisements and then support these through PR,direct marketing or the internet.[F:Instead（对应no longer be able simply）,they(对应Advertising agencies) will have to change the whole way they look at communication and start thinking about ideas whcih are （not specific to one discipline：不再专注于一个领域）.]***
 
-
 # PART III.
+## 1.words
+> tailored[v.裁剪使合适]
+
+***G makes a range of small metal items that are tailored to fit into much larger products,and its customers include big electronics and electrical goods manufaturers.***
+
+
+
+
+
 # PART IV.
 # PART V.
 # PART VI.
