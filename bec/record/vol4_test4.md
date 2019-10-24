@@ -57,7 +57,36 @@
 
 ***2)senior managers feel their job responsiblity are unclear[否定].--->also found that the high levels of management would like[想要] a more clearly[肯定]defined role in the organisation.***
 
+# PART IV.
 
+# PART V.
+## 1.固定搭配
+> on the basis of [在...的基础上]
+
+***Highly qualified,middle-aged people with excellent CVs apply for jobs,but do not get them because younger applicants are preferred [ on ] the basis of age alone.***
+
+> when it comes to [ 当涉及到, 当谈到 ]
+
+***When it comes [ to ] promotion,younger employees are often more successful than their older colleagues***
+
+> handle by
+
+***The challenge of working in today’s flatter organizations is best handled [ by ] experienced older managers,provided [只要] they have positive personalities.***
+
+> benefit from
+
+***Similarly,the effectiveness of strategic decision making and the implementation of company policy benefit [ from ] the presence of older senior managers in the top team.***
+
+## 2.tech
+### 2.1 逻辑
+***1)...now widely criticized [as/for] causing loss of valuable knowledge and experience,are hardest on more mature staff. --->因为引起了....所以被批评***
+
+***2)...who take the more balanced view [ when/if ] required to take decisions...***
+### 2.2 特指
+***...because [ the ] former are seen as more dynamic and ambitious.***
+
+### 2.3 强调句
+***Our research demonstrates that it [ is ] older senior managers,not younger executives,who take...***
 
 
 

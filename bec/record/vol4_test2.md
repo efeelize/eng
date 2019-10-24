@@ -51,9 +51,22 @@
 
 # PART V.
 
-
-
 # PART VI.
+## 1.逻辑
+***...it is my view that some of this downturn can [then:没有接下来的逻辑关系]be attributed to layoffs at IMP plc,which,as you know,[it：which is 的从句，it 是重复的主语]is the area's largest employer.***
+
+***I[主语] recommend[谓语] [that：多余] a thorough /'θʌrə/ [彻底的；十分的；周密的] assessments[宾语] of how[how引导该句后面要有影响...] the impact of such competition upon our sales.***
+
+## 2.固定搭配
+***...in the region of 5 per cent [part:固定搭配]of its workforce.***
+
+***...two powerful competitors opened a total [a sum of 宽泛且难以计数的总计:/a total of 较为具体的总计] of eight stores within our main catchment /'kætʃm(ə)nt/ [集水处] area.***
+
+## 3.语意
+***Equipped with this detailed knowledge,we would scarcely[多余单词] be in a position [有资格，有能力]to review our current strategy.***
+
+
+
 
 # LISTENING
 # PART I.
@@ -63,3 +76,9 @@
 
 
 # PART III.
+
+
+
+
+
+

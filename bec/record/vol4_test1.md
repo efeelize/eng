@@ -151,6 +151,51 @@
 
 
 # PART IV.
+## 1.近义词
+### 1.1
+- 1) asset [侧重于公司的财富、价值，范围较为宽泛];
+- 2)property[侧重于公司的有形资产、无形资产、知识产权]
+- 3) value [珍贵的、珍惜的]
+ 
+***For companies large and small,the most important [real asset] with measurable,long-term value is loyal,one-to-one relationships.***
+
+### 1.2
+- 1)turn out [结果]
+- 2)make up [组成]
+- 3)write up [写出来]
+- 4)show up [出现]
+
+***However,despite their importance,they do not [show up] on any company’s balance sheet.***
+
+## 2.words
+> detected [检测到；发现]
+
+***If a company lost 10% of its inventory to theft,it would react swiftly,but if the company loses 10% of its customers,this may not be detected.***
+
+> link to
+
+***Delivering quality service and achieving high customer satisfaction have been closely [link to ]profits.***
+
+> overhauling [n. 大修;拆修;卸修;翻修]
+
+***Certain companies are responding to this new customer focus by completely [overhauling ] their traditional financial only measurements of corporate performance,and seeking new ways of measuring customers’ perceptions and expectations.***
+
+## 3.tech
+### 3.1 逻辑
+#### 1）
+***In this age of product [similarity],[in which:解释说明，后面说到fail to difference,前面应选similarity] the market [fails to] perceive any profound [difference] between products or companies...***
+
+#### 2）
+***...through the use of expensive information technology,may [fall on deaf ears:不会被采用] [unless] it can be demonstrated that such [ investment will be recouped /rɪ'kuːp/ 收回投资，固定搭配] [in terms of revenue,market share and profits.举例子说明除非投资可以被以利润、股份等形式得到回报]***
+
+### 3.2 倒装句
+***...and consequently the [ shift ] all companies are trying to make is to provide more internal and external customer relationship focus.---->all companies are trying to[ make shift:权宜之计]  is to provide more internal and external customer relationship focus.***
+
+### 3.3  理解句意
+***By [ exploiting ]available information [ technology:利用科技],leading companies have already shortened process and response times,increasing customer satisfaction.***
+
+
+
 # PART V.
 # PART VI.
 
