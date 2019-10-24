@@ -137,8 +137,17 @@
 
 ***G makes a range of small metal items that are tailored to fit into much larger products,and its customers include big electronics and electrical goods manufaturers.***
 
+> stamp out [使成型]
 
+***G's main tools are press machines that stamp out metal items in it B premises.***
 
+> grovelling /'ɡrɔvəliŋ/ [adj. 卑下的,奴颜婢膝的]
+
+***If you allow yourself to be dictated to,that's not a partnership-it's grovelling.[如果你方态度卑躬屈膝，那并不是一个合作关系。]***
+
+> yoke oneself to [结合]
+
+***...if a company such as his is keen to yoke /jəʊk/ itself to successful companies that think strategically,inevitably this will mean more overseas sales to relatively farflung divisions of these businesses...***
 
 
 # PART IV.
