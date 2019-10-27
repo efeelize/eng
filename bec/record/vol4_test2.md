@@ -77,6 +77,26 @@
 
 # PART III.
 
+# SPEAKING
+## PART II.
+### 1.time management:the improtance of planning work time effectively
+
+
+### 2.project development:how to ensure inter-departmental co-operate on new projects
+
+
+### 3.purchasing:how to evaluate and select new projects
+
+
+
+
+
+## PART III.
+
+
+
+
+
 
 
 

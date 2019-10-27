@@ -3,12 +3,15 @@
 # PART I.
 ## 1.words
 > 1)monopolise         /mə'nɔpəlaiz/
+
 > 2)sterile[frultless]  /'steraɪl/  adj.无效果的
+
 > 3)uninspiring      /ɪn'spaɪərɪŋ/  adj. 鼓舞人的;使人感兴趣的
 
 ***...the strategy-planning process is monopolised by senior managers,and what passes sfor strategy is sterile and uninspiring.***
 
 > 1)fad[fashion;crazy]   /fæd/  adj.时尚、短暂狂热
+
 > 2)guru[ a leading authority] /'gʊruː/  n.专家、权威、大师
 
 ***XXX takes on management fads,management education and the wornship of management gurus...***
@@ -18,6 +21,7 @@
 ***...that any approach that does not challenge the status quo is not a strategy at all.***
 
 > subordinates  /sə'bɔːdɪnət/
+
 > be subordinate to   次于…；从属于…
 
 ***...and they expect enthusiam and commitment from their subordinates.***
@@ -153,9 +157,9 @@
 # PART IV.
 ## 1.近义词
 ### 1.1
-- 1) asset [侧重于公司的财富、价值，范围较为宽泛];
+- 1)asset [侧重于公司的财富、价值，范围较为宽泛];
 - 2)property[侧重于公司的有形资产、无形资产、知识产权]
-- 3) value [珍贵的、珍惜的]
+- 3)value [珍贵的、珍惜的]
  
 ***For companies large and small,the most important [real asset] with measurable,long-term value is loyal,one-to-one relationships.***
 
