@@ -80,18 +80,47 @@
 # SPEAKING
 ## PART II.
 ### 1.time management:the improtance of planning work time effectively
-
+***[总]Time management is  an essential ability which helps people to make full use of time and maximize what you desire to do.Time is limited in one’s life,equally to everyone.It is of great importance to your personal and career success for the reasons as follow.***
+***[论]1)Manage your time well--more work done,more valued created and more sense of contribution made(sense of fulfillment),overall,your life will be fuller and meaningful.***
+***[论]2)Time management will cultivate your sense of time awareness( avoid procrastination,be on time etc,) help to recognize the priority of one thing.Cut back on time waster.***
+***[总]***
 
 ### 2.project development:how to ensure inter-departmental co-operate on new projects
-
+***[总]One key/essential element to success is cooperation，especially for new products or companies.***
+***[论]1) So,turn to the communication,that was ongoing /'ɒngəʊɪŋ/ [adj. 不间断的] ,wide-range,strong ability of communication,mutual understanding/trust(conflicts always occurs)***
+***[论]2) common goals,commitment,creative innovation,cultural change.***
+***[总]***
 
 ### 3.purchasing:how to evaluate and select new projects
+***[总]It is of great importance to make a comprehensive evaluation and investigation about the project via expert and to make 100% sure for the project section before starting on a new project.The main purpose of the evaluation and investigation is to explore its ads and disadvantage---for making a better decision.***
+***[论]1)For a reference：Use reputable constructor,what has achieved in this area before ;(related theme,fields.)***
+***[论]2) effective:value of money should be top priority,cost/benefits/resources--effective
+***[总]***
+
+## PART III.customer base
+- common goal:clear expectation,do team member understand what the team was established.
+- commitment:do team members perceive their service as valuable to the organization and to their own careers.
+- competence:does the team feel that its members have the knowledge,skill,capability to address the issue for which the team was formed.
+- creative innovation: does team values creative thinking,unique solutions and new ideas
+- cultural change:does organization recognize the more it can change its climate to support team.the more it will receive in pay back from the work of the teams.
 
 
 
 
 
-## PART III.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
