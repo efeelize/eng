@@ -78,38 +78,52 @@
 - 未来什么行业会变得重要
 - 工作时间会有所变化么
 
-# 4.示例 
+# 4.常考题目
+## 4.1个人情况
 ***Q:What’s your name?***
-
     A:my last name is...and my given name is...but my friends always call me...my English name is ...
 
 ***Q:How do you spell your family name/surnme/last name?***
-
     A:It’s...
 
 ***Q:where are you from?***
-
      A:1)My hometown is Shannxi, but at present I am studying in Shanghai.
        2)I come from Baoji, a city located in the middle of Shannxi 
        province. It is a beautiful city with a long history and brilliant culture. The weather is warm, the air is fresh, which makes the city very suitable for living. Welcome to visit my hometown.
 
+## 4.2学习/工作情况
 ***Q:What do you study? How do you like your major?***
-A:My major is law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
+A:My major in law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
 
-***Q:What would you like to do after you finish your studies? Why?***
-I want to be an human resource manager in a foreign company. 
-First, I believe human resources is one of the core capital of a company. The enterprises competition is ultimately talent competition. So it is a very challenging job. 
-Second, my good interpersonal and communication skills suit the job well. 
-Third, the atmosphere in a foreign company is more free and democratic, though it requires a high level of English, and that’s also why I take this exam. 
+***Q:Can you tell me a little about your work?***
+A:I'm an       at a small law firm and I mainly deal with the document.
 
-***Q:How do you like your school?***
-Jinan University is known as the first university for overseas Chinese. 35 percent of our students are international students who come from 100 different countries and regions. Thus the atmosphere is free and open, which provides great space for the development of students. I love my school.
+***Q:what do you like the best/most/least about your work?***
+- What most interests me is that….
+- What attracts me most is that...
+- What I like the least about my current work /study is that...
+
+***1)Positive : enrich my mind /broaden my horizon / gain working experience/it gives me lots of
+opportunities to /build up my confidence/be helpful for my future work/ meet with various
+kinds of people/learn different professional knowledge from people of all walks of life/stable
+working hours and the light workload***
+
+***2)Negative : lacks hands-on practice/ out-of-date and cannot keep pace with the times/ tons to
+learn -found it difficult to catch up with others/ achieve a low efficiency***
+
+***Q:can your tell me about your future career plans?***
+- I have been dreaming to be … since I was young.
+- I have laid out/layout my future plan of…
+- well,my career plan for the moment/my abbitions for the future is that...I tried to land a job[找工作] both hold my interest and offer me a relatively handsome salary...
+- because in this job I can get some handsome salary / decent job and honour-bound job[lawyer] / related to my major -a relevant industry...
 
 ***Q:How did you come here today?***
 A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
 
 ***Q:Why do you learn English?***
-I want to work in a foreign company in the future. And good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.
+well.I learn english not only because it is a compulsory /kəm'pʌls(ə)rɪ/ subject[必修课],
+
+***A:I want to work in a foreign company in the future. And good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.***
 
 ***Q:What kind of training courses have you even taken?***
 
