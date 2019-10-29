@@ -117,13 +117,24 @@ learn -found it difficult to catch up with others/ achieve a low efficiency***
 - well,my career plan for the moment/my abbitions for the future is that...I tried to land a job[找工作] both hold my interest and offer me a relatively handsome salary...
 - because in this job I can get some handsome salary / decent job and honour-bound job[lawyer] / related to my major -a relevant industry...
 
-***Q:How did you come here today?***
-A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
-
 ***Q:Why do you learn English?***
-well.I learn english not only because it is a compulsory /kəm'pʌls(ə)rɪ/ subject[必修课],
+well.I learn english not only because it is a compulsory /kəm'pʌls(ə)rɪ/ subject[必修课]/optional subject[选修课],
 
 ***A:I want to work in a foreign company in the future. And good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.***
+
+***Q:what personal qualities you think team leaders should have?***
+- offer security and sense of belongings to employees
+- realize staff's needs
+- satisfy their rational requirements.
+- have a good communications skill
+- democratic
+- decisive
+- open-minded
+- good interpersonal skill
+- motivate/stimulate
+
+***Q:How did you come here today?***
+A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
 
 ***Q:What kind of training courses have you even taken?***
 
