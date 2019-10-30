@@ -434,6 +434,20 @@ A:I came here on  because I’m a student of this university and it’s only ten
 - attract new/potential clients and Keep promoting Adhensiveness of Users
 - change the stable concept of clients
 
+***Q:how to main tain a good relationship with superior?***
+- keep regualr contact:weekly talk/report dailywork
+- festival greeting:it is a good way to show our care and good wishes
+- recreational activities
+
+***Q:how to ensure effective communication between different departments on the same project.***
+- hold regular team meetings
+- set a special group
+- share up-to-date infomation
+- it is necessary to hold regular meetings and align with same target.
+- report the current progress
+- keep every teammate posted about the current progress
+- organize team building activities
+- appoint an experienced leader
 
 ## 2.3)the factors of ...to... 影响因素
 ### 1）套路
@@ -462,6 +476,15 @@ A:I came here on  because I’m a student of this university and it’s only ten
 ***[Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]***
 
 ***[总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.***
+
+***Q:the factors involved in building a brand***
+- high qualified products
+- achieves a higher market share in long-term
+- accurate positioning in trageted market that should be considered
+- brand image and brand publicity
+- accurate positioning is a good factor that should be considered
+- competitive price
+- right time period,right targeted comsumer and right advertising endorser...
 
 # 3.习惯表达
 ## 3.1）解释说明
@@ -655,6 +678,8 @@ next point.
 > 1)对方喋喋不休
 
 ***Sorry to interrupt/But I think...***
+***Excuse me,may I interrupt?***
+***May I interrupt for a sencond?I think in this point/situation,we should consider...***
 
 > 2)对方沉默寡言
 
@@ -662,6 +687,7 @@ next point.
 
 > 3)对方跑题
 
+***Let's go back to the main point.***
 ***I’m afraid that’s not what we should discuss.***
 ***I’m sorry,but you are off the topic.***
 
@@ -674,68 +700,7 @@ next point.
 - we're aware of the fact that...
 - as we all know that...
 
-# 7. improve the way they listen and respond to customers
-***your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].***
-
-## Q1:what aspects of customer care your staff need to be aware of?
-### 1)outline:
-#### 1.1）verbal quality 
-- voice volume
-- voice speed
-- articulation
-- tenderness
-
-#### 1.2)root problem detection
-- clarify problems
-- classify problems
-- problem solving skills
-- guide the customers the way for effective solution
-
-#### 1.3)empathy
-- make customers feel you are standing in their shoes to shoot problems.
-
-## Q2:how you will monitor their dealing with customers?
-###  1)outline
-- 1)record conversations between customers and staff;
-
-- 2)invite customers to rate customer service quality;
-
-- 3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
-
-- 4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
-
-       exp:the amount of complains received;
-           the rating outcome
-           the positive feedback received from the customers.
-                 
-## Follow Qs
-***how improtant do you think customer care is?***
-  
-    provide with professional training and support
-
-***what negative reaction might you get from some staff about this sort of training?***
-
-    recorded as being controlled and monitored
-
-***Do you think it's important to feed back to staff?why?***
-
-    if yes,the feedback can contain can-do tips for staff.
-   
-# 8.team building
-***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
-
-***Q1:what kinds of work projects and leisure activities would be suitable to encourage team work?***
-
-***Q2what benefits effective teamwork could bring to the company?***
-        
-## Follow Qs:
-***what benefits do you think individual employees get from working in a strong team?***
-
-***what do you think it's the ideal number of people to work in a team?**
-
-***Do you think companies need individuals as well as team workers?***
-     
-# 9.机经
+# 7.机经
 - 项目新经理
 - 销售目录 
 - 员工运动俱乐部 
@@ -752,7 +717,7 @@ next point.
 - 有条理
 - 给理由
 
-# 10.常用表达
+# 8.常用表达
 ## 1）开篇：
 ***Hello.***
 ***You see / As we all know / As everybody knows, our company is ...***
@@ -851,6 +816,91 @@ next point.
 ***It is beneficial for the company’s development in the long run.***
 ***As a result, our company will be bloom in the business.***
 ***Take a long-term view of future developments.***
+
+# Q. improve the way they listen and respond to customers
+***your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].***
+
+## Q1:what aspects of customer care your staff need to be aware of?
+### 1)outline:
+#### 1.1）verbal quality 
+- voice volume
+- voice speed
+- articulation
+- tenderness
+
+#### 1.2)root problem detection
+- clarify problems
+- classify problems
+- problem solving skills
+- guide the customers the way for effective solution
+
+#### 1.3)empathy
+- make customers feel you are standing in their shoes to shoot problems.
+
+## Q2:how you will monitor their dealing with customers?
+###  1)outline
+- 1)record conversations between customers and staff;
+
+- 2)invite customers to rate customer service quality;
+
+- 3)enact supervisor support scheme:supervisors give timely professional guidance to the staff;
+
+- 4)establish'rewards and penlties'system staff's monthly/yearly bonus /'bəʊnəs/depends on his/her performance;
+
+       exp:the amount of complains received;
+           the rating outcome
+           the positive feedback received from the customers.
+                 
+## Follow Qs
+***how improtant do you think customer care is?***
+  
+    provide with professional training and support
+
+***what negative reaction might you get from some staff about this sort of training?***
+
+    recorded as being controlled and monitored
+
+***Do you think it's important to feed back to staff?why?***
+
+    if yes,the feedback can contain can-do tips for staff.
+   
+# Q.team building
+***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
+
+***Q1:what kinds of work projects and leisure activities would be suitable to encourage team work?***
+
+***Q2what benefits effective teamwork could bring to the company?***
+        
+## Follow Qs:
+***what benefits do you think individual employees get from working in a strong team?***
+
+***what do you think it's the ideal number of people to work in a team?**
+
+***Do you think companies need individuals as well as team workers?***
+
+# Q:improve competitiveness
+***your company is falling behind new arrivals in the market,and the managing director is concerned to increase competitiveness.You have asked to suggest ways of improving the company's competitiveness.***
+
+## Q1:how to evaluate the threats posed by competitors?
+- product quality
+- publicity
+- establish a model
+- price
+- market share
+- do market research
+- after sales service
+- staff training
+- customer satisfaction
+
+## Q2:what steps might be taken to improve competitiveness?
+
+## follow Qs
+### 1)How important are new products for maintaining competitiveness?
+- New products are designed and developed on the basis of existing products with better quality,better performance and technical superiority.
+
+### 2)Is globalization likely to affect competitiveness in the future?
+- Yes,with the globalization,technology,service,new idea(concept),sustainable product;
+- full of changes and full of challenges for products staying competitive
 
 # PART IV.专题语料库
 【市场-Marketing】
