@@ -563,7 +563,6 @@ A:I came here on  because I’m a student of this university and it’s only ten
 - 电子商务与新型工作方式
 - 商务会议
 - 项目管理
-- 团队合作
 - 客户关系
 - 企业文化
 
@@ -595,7 +594,6 @@ A:I came here on  because I’m a student of this university and it’s only ten
 
 # 7.常考话题
 - market research
-- team work
 - project
 - competition
 - hosipitality
@@ -903,88 +901,156 @@ next point.
 - full of changes and full of challenges for products staying competitive
 
 # PART IV.专题语料库
-【市场-Marketing】
-（一）市场开发与价格制定
-Blind investment will inevitably result in company losses.
-1 product development
-Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.
-Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.
-Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.
-2 price setting
-First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins. 
-Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa. 
-Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision. 
-（二）产品推广
-1 method
-Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions. 
-Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level. 折扣
-Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.广告
-Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.
-2 advertising
-cost.
-targeted audience.
-content. The advertisement should be attractive and eye-catching to give the right connotation of our company’s image.
-（三）产品包装
-1 factors
-it should at least meet the basic requirement, that is, to protect the product against spoilage.
- Choose the color, texture and design that provide the best image of a product.
- Offer customers convenience. Make it easier for consumers to open and transfer.
-（四）品牌
-1 advantages
-A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.
-brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.
-brand awareness, brand acceptance, brand preference, brand loyalty.
-（五）顾客服务
-1 Importance
-“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.
- Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.
-customers’ satisfaction will add up to customer’s loyalty.
-2 how to maintain customers
- Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.
- Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.
-send more newsletters …
+## 1.company operation and management
+### 1)team work
+- mutual trust->communicate timely->harmonious /hɑː'məʊnɪəs/  work environment
+- strong sense of cooperation->collective efforts->high level quality and workmanship
 
-【人力资源管理-human resource management】
+#### 1.1)importance
+***As the saying goes, two heads are better than one. If you work in a team, you can easily come up with creative ideas and share your opinions.***
+
+***The exposure to outstanding people from all walks of life does not only enrich but also helps forge long-lasting friendships.***
+
+***as we know, everyone is differently qualified. Only through teamwork can everyone exert their strengths and offset the weakness to accomplish the objectives.***
+
+#### 1.2)method
+***hold regular gatherings …***
+
+***set common goals. … make collective effort to work toward the objectives.***
+
+***establish mutual trust. When members share a trusting relationship, they will feel more ease to express their views, understand each other’s capabilities and limitations and communicate with each other timely.***
+
+***a good leader. He or she need to have the ability to unite the team members invigorated with fighting power.***
+
+#### 1.3)leader’s quality
+***A capacity for leadership.  which is the heart of the managerial process. He or she need to issue the orders that are clear, comprehensive, and within the capabilities of subordinates to accomplish.***
+
+***Interpersonal skills. Be open-minded and easy-going. If workers are afraid to approach their team leader, it can result in communication failure.***
+
+***Decisiveness. The manager must have the ability to make decisions quickly based on the information at hand and stick to these decisions.***
+
+### 2)internal communication
+- communicating with targets->enhance work effciency and excellence
+- feedback->encourage employees/amendment->improve work efficiency&excellence
+
+***Database development. With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.***
+
+***High-communication facilities. Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.***
+
+### 3)reducing overheads
+- cut down->cost of raw materials->product prices->cost conscious
+- companies like to work with good suppliers/good quality with reasonable prices
+- efficient production line->well-trained workers/low physical stress and strain/otherwise high turnover rate
+- staff into reduction project,to see their contributions into overheads control
+
+***Introduce Just-in-time systems, which is created by Toyota Corporation of Japan. It is a way of making manufacturing more versatile, and react instantly to demand, rather than just churning out a huge range of goods and having them sitting on the shelves.***
+
+***Implement the comprehensive budget management system. Once you have set a clear budget plan, you’ll be able to manage the overheads by limiting spend and keep track of expenditure.***
+
+***Reduce labor cost. Set up a system in which staff members could work effectively. In other words, give full play to people. Let everyone in the company take full advantage of their talents and skills, and thus will reduce the labor cost.***
+
+***Improve management efficiency is also an approach to reduce the overheads of a company, that is to say, by simplifying some procedures of doing business.***
+
+***consider the long-term effect. We need to put our reduction plan in a greater perspective rather than focus on instant success.***
+
+***get employees involved. Since overheads are closely related to the welfare of all staff members. So concerted efforts are necessary from both managers and all the staff to carry on the plan smoothly.***
+
+### 4)work environment
+- health and safety(facilities safety,reasonable work time),improve the health and safety awareness;
+- leisure/sport facilities & coffee room,bonus and welfare system/annual leave
+
+### 5）quality management
+#### 5.1）importance
+***It is the products and services of high quality that have the final say in the market.***
+
+#### 5.2）method
+***Lifetime of a product. As everybody knows, “quality is the lifetime of a product.” We should keep track of the performance of a product over time.***
+
+***Total quality management. Finished products in inspection could not make the bad work good. We should oversee the quality in supplies, spare parts, working-in-progress and finished pro ducts in warehouse as well.***
+
+***Businesses benefit from treating complaints as welcome source and opportunities to gain innovative ideas for improvement.***
+
+## 2.human resource management
+### 1)staff motivation
+- offer stock options->linking staff efforts to stock performance and motivating them to develop/contributing their energies to the fullest possible extent.
+- perquisites,company car,insurance,training/develop program.
+
+### 2)employee training
+- content/subject covered->for high quality performance->achieve common goal of company/otherwise time->waste
+- trainers'quality and professionalism->course effective,length and location of training events.
+
+### 3)recruiting & selecting
+- interview's personality quality,think objectively can prevent extreme opinions and biases to avoid employment discrimination/gender stigma
+- interview skills,ask question in appropriate and legal way,interpersonal skills also important[针对面试官]
+
+#### 3.1）process
+***make a job description. It’s a profile of what an ideal employee is supposed to be. It includes a list of skills, qualifications and experience.***
+
+***Decide on the best recruitment method to capture a candidate with this profile. This might be an internal promotion or external advertisement in a newspaper, or on the internet or even an agency or perhaps a headhunter. It depends on the actual situation of the company.***
+
+***screen resumes and bring candidates to the office for an interview. It can be face-to-face interviews, psychometric tests or even hand-writing analysis.***
+
+#### 3.2）method
+##### 3.2.1）External recruitment：
+###### Advantages:
+***It is essential for revitalize the companies. Applicants from the outside can be a source of new ideas and may bring along with them the latest knowledge acquired from their previous employment.***
+
+***A wider range of candidate pool to choose from.***
+
+###### Disadvantages: 
+***Excessive reliance upon external sources will deprive present jobholders of career anticipation, thus discouraging them from working harder for their companies.***
+
+***Entail more costs for orientation and training. And the risk are higher.***
+
+##### 3.2.2）Internal recruitment：
+###### Advantages: 
+***Promotion-from-within has some motivational value. It is a kind of reward for employees for their past performance and will encourage them to continue their efforts. This can improve morale within the organization.***
+
+***Transfer can provide employees from layoff, or broaden their job experiences. Furthermore, the employees’ familiarity with the organization’s culture and its operation can reduce the orientation and training costs.***
+
+###### Disadvantages:
+***The range of choices is very narrow.***
+
+***It may have a negative influence on the innovation of the company, which impedes the long-term and all-round development of the company.***
+
+##### 3.2.3 internet recruitment
+###### Advantages
+***it’s cost-effective and wide coverage.***
+
+###### Disadvantages
+***online recruiting will keep some qualified workers of low income outdoors and is not appropriate for jobs of low position, for example, the technical workers in a plant.***
+
+#### 3.3）recruiting advertisement
+##### 3.3.1）Job description
+***Basic information such as time, place and contact address and the specifications of the opening should be included. Because it can cut down the number of applicants and attract the desirable ones.***
+
+***Salary and welfare. People work primarily to earn bread and milk to contribute to a decent and comfortable life.***
+
+##### 3.3.2）factors
+***Cost：It is necessary to figure out how much it will cost. The fee should be reasonable and affordable, somewhere around the company’s budget.***
+
+***Consider the targeted audience. We need to choose a mass media which can reach a large amount of possible candidates.***
+
+***Content.The advertisement should contain all the necessary information, for example, the job description, brief introduction of our company, time and place for interview and the most important,salary.***
+
+#### 3.4）quality
+***staff quality：He or she is supposed to have the capability for the post. For example, necessary qualifications, adequate experience and so on.***
+
+***Shared values and highly-identified enterprise. In this way, employees will gradually align their own career with the company’s development.***
+
+***The ideal candidate need to have a good spirit of teamwork, as well as interpersonal skills, in order to keep good relationship with colleges.***
+
+***recruiter quality：Be familiar with the vacant position so that he or she can effectively evaluate the applicants.***
+
+***Good personal qualities. He or she need to be modest and fair to avoid discrimination, that is with no regard for sex, age, race and so on.***
+
+### 4)staff turnover
+- to keep an effective recruitment and selecting method-(according to their previous experience,optimize recruitment and selecting system)[针对招人面试环节]
+- offer welfare,superior leadership,regular talk,all-hands meeting regualarly[留人]
+
+
 （一）员工招聘
-1 process
-make a job description. It’s a profile of what an ideal employee is supposed to be. It includes a list of skills, qualifications and experience. 
-Decide on the best recruitment method to capture a candidate with this profile. This might be an internal promotion or external advertisement in a newspaper, or on the internet or even an agency or perhaps a headhunter. It depends on the actual situation of the company.
-screen resumes and bring candidates to the office for an interview. It can be face-to-face interviews, psychometric tests or even hand-writing analysis.
-2 method
-External recruitment：
-Advantages:
-It is essential for revitalize the companies. Applicants from the outside can be a source of new ideas and may bring along with them the latest knowledge acquired from their previous employment.
-A wider range of candidate pool to choose from.
-Disadvantages: 
-Excessive reliance upon external sources will deprive present jobholders of career anticipation, thus discouraging them from working harder for their companies.
-Entail more costs for orientation and training. And the risk are higher.
-Internal recruitment：
-Advantages: 
-Promotion-from-within has some motivational value. It is a kind of reward for employees for their past performance and will encourage them to continue their efforts. This can improve morale within the organization.
-Transfer can provide employees from layoff, or broaden their job experiences. Furthermore, the employees’ familiarity with the organization’s culture and its operation can reduce the orientation and training costs.
-Disadvantages:
-The range of choices is very narrow.
-It may have a negative influence on the innovation of the company, which impedes the long-term and all-round development of the company.
-internet recruitment
-Advantages: it’s cost-effective and wide coverage.
-Disadvantages: online recruiting will keep some qualified workers of low income outdoors and is not appropriate for jobs of low position, for example, the technical workers in a plant.
-3 recruiting advertisement
-content
-Job description
-Basic information such as time, place and contact address and the specifications of the opening should be included. Because it can cut down the number of applicants and attract the desirable ones.
-Salary and welfare. People work primarily to earn bread and milk to contribute to a decent and comfortable life.
-factors
-Cost. It is necessary to figure out how much it will cost. The fee should be reasonable and affordable, somewhere around the company’s budget.
-Consider the targeted audience. We need to choose a mass media which can reach a large amount of possible candidates.
-Content. The advertisement should contain all the necessary information, for example, the job description, brief introduction of our company, time and place for interview and the most important, salary.
-4 quality
-staff quality
-He or she is supposed to have the capability for the post. For example, necessary qualifications, adequate experience and so on.
-Shared values and highly-identified enterprise. In this way, employees will gradually align their own career with the company’s development.
-The ideal candidate need to have a good spirit of teamwork, as well as interpersonal skills, in order to keep good relationship with colleges.
-recruiter quality
-Be familiar with the vacant position so that he or she can effectively evaluate the applicants.
-Good personal qualities. He or she need to be modest and fair to avoid discrimination, that is with no regard for sex, age, race and so on.
+
 （二）员工培训
 1 advantages
 just as the old saying goes, “if you take care of your people, the business will take care of itself.” Employees are the core and soul of the enterprises as well as the driving engine for the company’s development.
@@ -1056,41 +1122,68 @@ improve work efficiency and have a better life.
 eat a healthy and regular diet, do some exercise to keep fit.
 take up a hobby to relax from tension.
 look after yourself and seek others for help if necessary.
-【公司运作与管理】
-（一）团队合作
-1 importance
-As the saying goes, two heads are better than one. If you work in a team, you can easily come up with creative ideas and share your opinions.
-The exposure to outstanding people from all walks of life does not only enrich but also helps forge long-lasting friendships.
-as we know, everyone is differently qualified. Only through teamwork can everyone exert their strengths and offset the weakness to accomplish the objectives.
-2 method
-hold regular gatherings …
-set common goals. … make collective effort to work toward the objectives.
-establish mutual trust. When members share a trusting relationship, they will feel more ease to express their views, understand each other’s capabilities and limitations and communicate with each other timely. 
-a good leader. He or she need to have the ability to unite the team members invigorated with fighting power.
-3 leader’s quality
-A capacity for leadership.  which is the heart of the managerial process. He or she need to issue the orders that are clear, comprehensive, and within the capabilities of subordinates to accomplish.
-Interpersonal skills. Be open-minded and easy-going. If workers are afraid to approach their team leader, it can result in communication failure.
-Decisiveness. The manager must have the ability to make decisions quickly based on the information at hand and stick to these decisions.
-（二）内部沟通
+
+# 3.Marketing
+## 3.1 product development & pricing strategy
+- market reserach->know customer taste and needs-sell well in markets(market segmentation);
+- screening,gain good product idea and delete bad ones,pricing also improtant;
+- pricing strategy(cost & demand & quality),appropriate pricing strategy,estimate demand quality from market research.
+
+## 3.2 advertising & branding
+- advertising-traditional and digital communication method->publicity of product more effective;
+- sales promition->sample gifts(gifts should be durable materials which can represent parts of company image);
+- advertising should consider the location and targeted customers and suitable adverting endorser;brand awareness;
+
+## 3.3 customer satisfaction,dealing with customer complaint
+- remaining calm,listen to the complaints and apologizie for problem,let customer feel that they are taken good care of;
+- suggest a effective solution;
+- employee should not make any promises that they cannot keep
+- monitor the quality of service & product,questionnaire to gain feedback and advice from customers,maeket research before launch a product(colour,size,type)
+
+
+（一）市场开发与价格制定
+Blind investment will inevitably result in company losses.
+1 product development
+Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.
+Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.
+Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.
+2 price setting
+First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins. 
+Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa. 
+Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision. 
+（二）产品推广
 1 method
-Database development. With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.
-Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.
-High-communication facilities. Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.
-（三）降低成本
- Introduce Just-in-time systems, which is created by Toyota Corporation of Japan. It is a way of making manufacturing more versatile, and react instantly to demand, rather than just churning out a huge range of goods and having them sitting on the shelves.
- Implement the comprehensive budget management system. Once you have set a clear budget plan, you’ll be able to manage the overheads by limiting spend and keep track of expenditure.
- Reduce labor cost. Set up a system in which staff members could work effectively. In other words, give full play to people. Let everyone in the company take full advantage of their talents and skills, and thus will reduce the labor cost.
- Improve management efficiency is also an approach to reduce the overheads of a company, that is to say, by simplifying some procedures of doing business.
-2 factors
-consider the long-term effect. We need to put our reduction plan in a greater perspective rather than focus on instant success.
-get employees involved. Since overheads are closely related to the welfare of all staff members. So concerted efforts are necessary from both managers and all the staff to carry on the plan smoothly.
-（四）质量管理
-1 importance
-It is the products and services of high quality that have the final say in the market.
-2 method
-Lifetime of a product. As everybody knows, “quality is the lifetime of a product.” We should keep track of the performance of a product over time.
-Total quality management. Finished products in inspection could not make the bad work good. We should oversee the quality in supplies, spare parts, working-in-progress and finished pro ducts in warehouse as well.
-Businesses benefit from treating complaints as welcome source and opportunities to gain innovative ideas for improvement.
+Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions. 
+Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level. 折扣
+Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.广告
+Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.
+2 advertising
+cost.
+targeted audience.
+content. The advertisement should be attractive and eye-catching to give the right connotation of our company’s image.
+（三）产品包装
+1 factors
+it should at least meet the basic requirement, that is, to protect the product against spoilage.
+ Choose the color, texture and design that provide the best image of a product.
+ Offer customers convenience. Make it easier for consumers to open and transfer.
+（四）品牌
+1 advantages
+A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.
+brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.
+brand awareness, brand acceptance, brand preference, brand loyalty.
+（五）顾客服务
+1 Importance
+“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.
+ Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.
+customers’ satisfaction will add up to customer’s loyalty.
+2 how to maintain customers
+ Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.
+ Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.
+send more newsletters …
+
+
+
+
 【公司发展】
 （一）公司选址
 1 factors
