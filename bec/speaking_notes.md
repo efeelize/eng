@@ -86,17 +86,21 @@
 ***Q:How do you spell your family name/surnme/last name?***
     A:It’s...
 
-***Q:where are you from?***
-     A:1)My hometown is Shannxi, but at present I am studying in Shanghai.
-       2)I come from Baoji, a city located in the middle of Shannxi 
-       province. It is a beautiful city with a long history and brilliant culture. The weather is warm, the air is fresh, which makes the city very suitable for living. Welcome to visit my hometown.
+***Q:where are you from?what do you like most about your hometown?
 
+- It is located in...
+- middle part of shannxi provice.
+***1)positive:casual and laidback life[闲散而舒适的生活] / cuisine / snacks and goodies***
+***2)negative:fast-peaced life / people are constantly on the edge.***
+
+***My hometown is Shannxi province, but at present I am working in Shanghai. It is a beautiful city with a long history and brilliant culture. The weather is warm, the air is fresh, which makes the city very suitable for living. Welcome to visit my hometown.***
+       
 ## 4.2学习/工作情况
 ***Q:What do you study? How do you like your major?***
 A:My major in law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
 
 ***Q:Can you tell me a little about your work?***
-A:I'm an       at a small law firm and I mainly deal with the document.
+A:I'm an at a small law firm and I mainly deal with the document.
 
 ***Q:what do you like the best/most/least about your work?***
 - What most interests me is that….
@@ -118,9 +122,16 @@ learn -found it difficult to catch up with others/ achieve a low efficiency***
 - because in this job I can get some handsome salary / decent job and honour-bound job[lawyer] / related to my major -a relevant industry...
 
 ***Q:Why do you learn English?***
-well.I learn english not only because it is a compulsory /kəm'pʌls(ə)rɪ/ subject[必修课]/optional subject[选修课],
-
-***A:I want to work in a foreign company in the future. And good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.***
+- it enable me to communicate with a wilder world
+- the culture it carries-quite fascinating-western culture
+- useful skill for me to apply for a job-a must have when working in company 
+- handsome salary
+- corporate culture in FDI is and colourful
+- certainly sharpen my competitive advantage
+- I found it quite intriguing
+- well.I learn english not only because it is a compulsory /kəm'pʌls(ə)rɪ/ subject[必修课]/optional subject[选修课]
+- good command of English is quite essential in the communications with my colleagues. And that’s also why I take this business English exam.
+- the international law firm culture is more dynamic /daɪ'næmɪk/
 
 ***Q:what personal qualities you think team leaders should have?***
 - offer security and sense of belongings to employees
@@ -348,6 +359,8 @@ A:I came here on  because I’m a student of this university and it’s only ten
 
 ***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
 
+***6)I am very interested in...Could you further explain XXX please?
+
 ### 3.2advanced
 #### 1)正反分析
 ***What's the advantage/disadvantage of...?***
@@ -400,12 +413,27 @@ A:I came here on  because I’m a student of this university and it’s only ten
 
 ***[Arguement2] Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
 
+***Q:the improtant of listening skills in work communication?***
+***1)it will gain/win the trust of colleagues/leaders.it increases the possibility of getting promoted;***
+***2)good listening skills in working environment is a good way to strngthen work efficiency and promote communication efficiency/we can be more efficient and productive;***
+***3)if you were salesmen,it is easier to be welcomed by consumer and attract more potential clients to buy products,it is helpful for a good KPI(key performance indicate./what customer really needs)***
+
 ## 2.2）how to...
 > 列清单 :步骤手段达到目的
 
 - In order to... first, we should... 
 - We also need to... 
 - Last, what we need to...    
+
+***Q：How to choose a suitable advertising endorser /in'dɔ:sə/ [广告代言人] ?***
+- social influence
+- target marketing/clients
+- good social reputation
+- suitable for products
+- improve and enhance customer loyalty/customer stickiness[客户粘性]
+- attract new/potential clients and Keep promoting Adhensiveness of Users
+- change the stable concept of clients
+
 
 ## 2.3)the factors of ...to... 影响因素
 ### 1）套路
