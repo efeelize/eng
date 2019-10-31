@@ -903,7 +903,7 @@ next point.
 # PART IV.专题语料库
 ## 1.company operation and management
 ### 1)team work
-- mutual trust->communicate timely->harmonious /hɑː'məʊnɪəs/  work environment
+- mutual trust->communicate timely->harmonious /hɑː'məʊnɪəs/  work environment-> be more efficient and productive.
 - strong sense of cooperation->collective efforts->high level quality and workmanship
 
 #### 1.1)importance
@@ -939,7 +939,7 @@ next point.
 
 ### 3)reducing overheads
 - cut down->cost of raw materials->product prices->cost conscious
-- companies like to work with good suppliers/good quality with reasonable prices
+- companies like to work with good suppliers/good quality with reasonable prices/alternative suppliers/price list
 - efficient production line->well-trained workers/low physical stress and strain/otherwise high turnover rate
 - staff into reduction project,to see their contributions into overheads control
 
@@ -978,6 +978,29 @@ next point.
 ### 2)employee training
 - content/subject covered->for high quality performance->achieve common goal of company/otherwise time->waste
 - trainers'quality and professionalism->course effective,length and location of training events.
+
+#### 2.1)advantages
+***just as the old saying goes, “if you take care of your people, the business will take care of itself.” Employees are the core and soul of the enterprises as well as the driving engine for the company’s development.***
+
+***the more time you spend in staff, the more likely they are to have a sense of belonging and identification to the company, which will reduce the turnover rate.***
+
+***through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.***
+
+***Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.
+ With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.***
+
+***a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.***
+
+***make a self-evaluation. Be well aware of your strengths and weaknesses. Besides, external factors such as market information, family conditions should be considered as well.***
+
+***take career counselling to ask for advice from some experienced people, which helps you have a clear and comprehensive impression on the real work situation.***
+
+***set clear and realistic goals. Only by setting goals can you exactly know what you plan to achieve and what you have to concentrate on. Goals give you a long-term vision and a short-term motivation, so as for you to work toward it step by step.***
+
+#### 2.2）factors
+***cost：analyze the need. Carry out a survey to find out what is exactly required. It can help you identify the priority and choose the right type of training.***
+
+***the venue. The conference room should be big enough to meet the business need. Besides, it should be fully equipped with the necessary facilities, for instance, the overhead projector, microphone, and access to internet.***
 
 ### 3)recruiting & selecting
 - interview's personality quality,think objectively can prevent extreme opinions and biases to avoid employment discrimination/gender stigma
@@ -1048,80 +1071,84 @@ next point.
 - to keep an effective recruitment and selecting method-(according to their previous experience,optimize recruitment and selecting system)[针对招人面试环节]
 - offer welfare,superior leadership,regular talk,all-hands meeting regualarly[留人]
 
+#### 4.1）reasons
+***they are under too much pressure. They feel too stressed to meet the organization’s expectation.
+give too serious thought to the cost. If the salary they got is far from adequate in view of the workload. it’s more likely that they would leave the job.***
 
-（一）员工招聘
+***poor career development. If they can’t see any chance to improve themselves, staff might decide to leave for other plans.***
 
-（二）员工培训
-1 advantages
-just as the old saying goes, “if you take care of your people, the business will take care of itself.” Employees are the core and soul of the enterprises as well as the driving engine for the company’s development.
-the more time you spend in staff, the more likely they are to have a sense of belonging and identification to the company, which will reduce the turnover rate.
-through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.
- Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.
- With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.
-a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.
-2 factors
-cost.
-analyze the need. Carry out a survey to find out what is exactly required. It can help you identify the priority and choose the right type of training.
-the venue. The conference room should be big enough to meet the business need. Besides, it should be fully equipped with the necessary facilities, for instance, the overhead projector, microphone, and access to internet.
-（三）职业发展
-1 advantages 同员工培训
-2 content
-make a self-evaluation. Be well aware of your strengths and weaknesses. Besides, external factors such as market information, family conditions should be considered as well.
-take career counselling to ask for advice from some experienced people, which helps you have a clear and comprehensive impression on the real work situation.
-set clear and realistic goals. Only by setting goals can you exactly know what you plan to achieve and what you have to concentrate on. Goals give you a long-term vision and a short-term motivation, so as for you to work toward it step by step.
-（四）员工激励
-1 advantages
-2 methods 
-What they really need is to be appreciated for what they have done, to feel what the management takes an interest.
-Financial incentives. People work primarily to earn bread and milk to contribute to a decent and comfortable life. For instance, some companies give out one year-end bonus according to his or her performance over the whole year.
-Give employees the chance to travel with the family on the company’s expense.
-Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance. 
-flexible work schedules can also serve as an important motivator, especially for those women workers who have children. In this way, they can keep good balance between the individual life and work.
-Career development. employees will remain with their current employer if career opportunities are presented. Career plans for those who want to move upward in the company undoubted improve morale and boost encouragement.
-（五）员工流失
-1 reasons
-they are under too much pressure. They feel too stressed to meet the organization’s expectation.
-give too serious thought to the cost. If the salary they got is far from adequate in view of the workload. it’s more likely that they would leave the job.
-poor career development. If they can’t see any chance to improve themselves, staff might decide to leave for other plans.
-2 advantages
-Reasonable amount of staff turnover can be a good thing because of “the survival of the fittest”. Some turnover is healthy and essential to organizational well-being. With new hires, they infuse the company with fresh blood.
-（六）绩效考核和改进绩效
-1 advantages
-Basis for employment decisions. It provides an input that can be used as a basis for human resource management activities, such as compensation decisions, transfer, layoff decisions and so on.
-Performance improvement. Appraisal offers feedback essential for the strengths and weaknesses of staff, which can be helpful to establish personal objectives for training.
-Guide for employees. Performance appraisal can aid in the formulation of job criteria, which allows employees to know how they are doing and organizational expectations. It is a good way to guide and monitor career development.
-2 method
-360-degree assessment, that is getting feedback from the full circles of resources, which include supervisors, peers, subordinates, customers and one’s self.
-As for the evaluation of performance, of course it is the superior that will have the final say. The human resource department is supposed to draw up specific standards for the sake of evaluating, quantitative and financial standards, for instance.
-3 performance improvement
-have a clear lines of reporting to make sure that every employ clearly knows his or her role.
-check the work progress at regular intervals.
-give employees a sense of empowerment and ensure active participations of decisions to avoid conflicts and misunderstanding.
-hold regular meetings to enhance relationship between supervisors and subordinates.
-（七）工作安全与职业保障
-1 working environment
-protect personnel from unhealthy conditions, physical hazards and so on.
-the decoration, color and style of building need to indicate the culture of the company.
-take full advantage of the space. All the things are in a neat and organized state.
-（八）时间管理
-1 importance
- An old saying goes like this, time is money. Time is not something that can be stored for next use. To some extent, wasting time is wasting life.
-time management is one of the most important part of self-management. It can improve work efficiency and enable you become the master of your own life.
- Bad time management will throw you into chaos and mess, which result in stress and even failure.
-2 method
-Keep a list of necessary tasks that need to carry out. In this way people will never feel out of control.
-Prioritize all tasks in order of importance and urgency. This allows you to tackle the most important jobs first and not to waste time on trivial tasks. 
-set aside your best time for the priorities.
-Block in flexible time for unpredictable interruptions.
-（九）压力管理
-1 importance
-just as the old saying goes, “all work and no play make Jack a dull boy.” We need to combine work with relax.
-too much workload may result in bad mood and even diseases, such as cancer, depression and so on.
-improve work efficiency and have a better life.
-2 method
-eat a healthy and regular diet, do some exercise to keep fit.
-take up a hobby to relax from tension.
-look after yourself and seek others for help if necessary.
+#### 4.2）advantages
+***Reasonable amount of staff turnover can be a good thing because of “the survival of the fittest”. Some turnover is healthy and essential to organizational well-being. With new hires, they infuse the company with fresh blood.***
+
+### 5）员工激励
+#### 5.1）advantages
+***What they really need is to be appreciated for what they have done, to feel what the management takes an interest.***
+
+***Financial incentives. People work primarily to earn bread and milk to contribute to a decent and comfortable life. For instance, some companies give out one year-end bonus according to his or her performance over the whole year.***
+
+***Give employees the chance to travel with the family on the company’s expense.***
+
+***Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance. ***
+
+***flexible work schedules can also serve as an important motivator, especially for those women workers who have children. In this way, they can keep good balance between the individual life and work.***
+
+***Career development. employees will remain with their current employer if career opportunities are presented. Career plans for those who want to move upward in the company undoubted improve morale and boost encouragement.***
+
+
+### 6)绩效考核和改进绩效
+#### 6.1)advantages
+***Basis for employment decisions. It provides an input that can be used as a basis for human resource management activities, such as compensation decisions, transfer, layoff decisions and so on.***
+
+***Performance improvement. Appraisal offers feedback essential for the strengths and weaknesses of staff, which can be helpful to establish personal objectives for training.***
+
+***Guide for employees. Performance appraisal can aid in the formulation of job criteria, which allows employees to know how they are doing and organizational expectations. It is a good way to guide and monitor career development.***
+
+#### 6.2)method
+***360-degree assessment, that is getting feedback from the full circles of resources, which include supervisors, peers, subordinates, customers and one’s self.***
+
+***As for the evaluation of performance, of course it is the superior that will have the final say. The human resource department is supposed to draw up specific standards for the sake of evaluating, quantitative and financial standards, for instance.***
+
+#### 6.3)performance improvement
+***have a clear lines of reporting to make sure that every employ clearly knows his or her role.
+check the work progress at regular intervals.***
+
+***give employees a sense of empowerment and ensure active participations of decisions to avoid conflicts and misunderstanding.***
+
+***hold regular meetings to enhance relationship between supervisors and subordinates.***
+
+### 7.working environment
+***protect personnel from unhealthy conditions, physical hazards and so on.***
+
+***the decoration, color and style of building need to indicate the culture of the company.
+take full advantage of the space. All the things are in a neat and organized state.***
+
+### 8.时间管理
+#### 8.1)importance
+***An old saying goes like this, time is money. Time is not something that can be stored for next use. To some extent, wasting time is wasting life.***
+
+***time management is one of the most important part of self-management. It can improve work efficiency and enable you become the master of your own life.***
+
+***Bad time management will throw you into chaos and mess, which result in stress and even failure.***
+
+#### 8.2)method
+***Keep a list of necessary tasks that need to carry out. In this way people will never feel out of control.***
+
+***Prioritize all tasks in order of importance and urgency. This allows you to tackle the most important jobs first and not to waste time on trivial tasks. ***
+
+***set aside your best time for the priorities.***
+***Block in flexible time for unpredictable interruptions.***
+
+### 9.压力管理
+#### 9.1)importance
+***just as the old saying goes, “all work and no play make Jack a dull boy.” We need to combine work with relax.***
+
+***too much workload may result in bad mood and even diseases, such as cancer, depression and so on.
+improve work efficiency and have a better life.***
+
+#### 9.2）method
+***eat a healthy and regular diet, do some exercise to keep fit.***
+***take up a hobby to relax from tension.***
+***look after yourself and seek others for help if necessary.***
 
 # 3.Marketing
 ## 3.1 product development & pricing strategy
