@@ -81,15 +81,16 @@
 # 4.常考题目
 ## 4.1个人情况
 ***Q:What’s your name?***
+   
     A:my last name is...and my given name is...but my friends always call me...my English name is ...
 
 ***Q:How do you spell your family name/surnme/last name?***
-    A:It’s...
+     A:It’s...
 
-***Q:where are you from?what do you like most about your hometown?
-
+***Q:where are you from?what do you like most about your hometown?***
 - It is located in...
 - middle part of shannxi provice.
+
 ***1)positive:casual and laidback life[闲散而舒适的生活] / cuisine / snacks and goodies***
 ***2)negative:fast-peaced life / people are constantly on the edge.***
 
@@ -107,13 +108,9 @@ A:I'm an at a small law firm and I mainly deal with the document.
 - What attracts me most is that...
 - What I like the least about my current work /study is that...
 
-***1)Positive : enrich my mind /broaden my horizon / gain working experience/it gives me lots of
-opportunities to /build up my confidence/be helpful for my future work/ meet with various
-kinds of people/learn different professional knowledge from people of all walks of life/stable
-working hours and the light workload***
+***1)Positive : enrich my mind /broaden my horizon / gain working experience/it gives me lots of opportunities to /build up my confidence/be helpful for my future work/ meet with various kinds of people/learn different professional knowledge from people of all walks of life/stable working hours and the light workload***
 
-***2)Negative : lacks hands-on practice/ out-of-date and cannot keep pace with the times/ tons to
-learn -found it difficult to catch up with others/ achieve a low efficiency***
+***2)Negative : lacks hands-on practice/ out-of-date and cannot keep pace with the times/ tons to learn -found it difficult to catch up with others/ achieve a low efficiency***
 
 ***Q:can your tell me about your future career plans?***
 - I have been dreaming to be … since I was young.
@@ -148,16 +145,13 @@ learn -found it difficult to catch up with others/ achieve a low efficiency***
 A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
 
 ***Q:What kind of training courses have you even taken?***
-
-    A:English training online classes for Business English higher preparation produced by New Oriental.
+- A:English training online classes for Business English higher preparation produced by New Oriental.
 
 ***Q:What do you think is most important when you choose a training course?***
-
-    A:The trainer’s qualification and status.When choosing a training program, it's important to consider the training content.
+- A:The trainer’s qualification and status.When choosing a training program, it's important to consider the training content.
 
 ***Q:If you could travel by any form of transport you want, what would you choose?***
-
-    A:I’d choose to travel by high-speed train because it takes less time and is more punctual compared with other means of transport.
+- A:I’d choose to travel by high-speed train because it takes less time and is more punctual compared with other means of transport.
 
 ***Q:What kind of accommodation do you usually stay in when you go on holiday?***
 
@@ -986,7 +980,7 @@ next point.
 
 ***through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.***
 
-***Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.
+***Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.***
  With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.***
 
 ***a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.***
@@ -1094,7 +1088,6 @@ give too serious thought to the cost. If the salary they got is far from adequat
 
 ***Career development. employees will remain with their current employer if career opportunities are presented. Career plans for those who want to move upward in the company undoubted improve morale and boost encouragement.***
 
-
 ### 6)绩效考核和改进绩效
 #### 6.1)advantages
 ***Basis for employment decisions. It provides an input that can be used as a basis for human resource management activities, such as compensation decisions, transfer, layoff decisions and so on.***
@@ -1156,10 +1149,46 @@ improve work efficiency and have a better life.***
 - screening,gain good product idea and delete bad ones,pricing also improtant;
 - pricing strategy(cost & demand & quality),appropriate pricing strategy,estimate demand quality from market research.
 
+***product development：Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.***
+
+***Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.***
+
+***Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.***
+
+***price setting：1）First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins；2）Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa；3）Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision.***
+
 ## 3.2 advertising & branding
 - advertising-traditional and digital communication method->publicity of product more effective;
 - sales promition->sample gifts(gifts should be durable materials which can represent parts of company image);
 - advertising should consider the location and targeted customers and suitable adverting endorser;brand awareness;
+
+### 3.2.1 method
+***Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions.***
+
+***Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level.***
+
+***Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.***
+
+***Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.***
+
+### 3.2.2 advertising
+- cost.
+- targeted audience.
+- content. The advertisement should be attractive and eye-catching to give the right connotation of our company’s image.
+
+#### 1）包装
+***it should at least meet the basic requirement, that is, to protect the product against spoilage.***
+
+***Choose the color, texture and design that provide the best image of a product.***
+
+***Offer customers convenience. Make it easier for consumers to open and transfer.***
+
+#### 2）品牌
+***A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.***
+
+***brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.***
+
+***brand awareness, brand acceptance, brand preference, brand loyalty.***
 
 ## 3.3 customer satisfaction,dealing with customer complaint
 - remaining calm,listen to the complaints and apologizie for problem,let customer feel that they are taken good care of;
@@ -1167,93 +1196,118 @@ improve work efficiency and have a better life.***
 - employee should not make any promises that they cannot keep
 - monitor the quality of service & product,questionnaire to gain feedback and advice from customers,maeket research before launch a product(colour,size,type)
 
+### 3.3.1）Importance
+***“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.***
 
-（一）市场开发与价格制定
-Blind investment will inevitably result in company losses.
-1 product development
-Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.
-Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.
-Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.
-2 price setting
-First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins. 
-Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa. 
-Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision. 
-（二）产品推广
-1 method
-Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions. 
-Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level. 折扣
-Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.广告
-Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.
-2 advertising
-cost.
-targeted audience.
-content. The advertisement should be attractive and eye-catching to give the right connotation of our company’s image.
-（三）产品包装
-1 factors
-it should at least meet the basic requirement, that is, to protect the product against spoilage.
- Choose the color, texture and design that provide the best image of a product.
- Offer customers convenience. Make it easier for consumers to open and transfer.
-（四）品牌
-1 advantages
-A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.
-brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.
-brand awareness, brand acceptance, brand preference, brand loyalty.
-（五）顾客服务
-1 Importance
-“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.
- Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.
-customers’ satisfaction will add up to customer’s loyalty.
-2 how to maintain customers
- Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.
- Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.
-send more newsletters …
+***Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.***
 
+***customers’ satisfaction will add up to customer’s loyalty.***
 
+### 3.3.2）how to maintain customers
+***Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.***
+
+***Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.***
+
+# 4.PR & corporate hospitality
+## 4.1 corporate culture & company image
+- 1)decisions are guided by corporate values;2)create a healthy work environment and attract more talented people;
+- company culture includes core value and beliefs,corporate ethics and rule of behaviour,company architercture style;
+- company cultures have impacts on employees'(interact with each other,training and skill,career advancement,work environment,welfare and facilities)
+- brand/company image is an intergrated part of marketing strategy,the identity of the company reflects the quality of products and services;
+
+## 4.2 corporate gifting-send gift to foreigner
+- consider cultural difference-understand culture of receiver-purpose of gifts should be please and honor the recipient;
+- company logo:can reflect company image and personality->striking impression on clients->keep logo small rather than like and ads;
+- high quality and best taste->warm felling of respect and appreciation
+
+## 4.5 entertaining business clients
+- appropriate venue for entertainment->know their taste and hobby->first contact with clients->more opportunities for business;
+- clear objective for the meeting->list of objectvie to achieve->quietly and smoothly meet our goal with high efficiency.
+
+# 5.company development
+## 5.1 site locations and relocation
+- good location enables to provide convenient->prefer to locate in areas where(sufficient skilled and trained workers)
+- select company location->estimate demand of products and services/transportation->maunfacture/labour costs
+- demand, the need of market is the basic driving force of the development of company.
+
+## 5.2 going global
+- benefits:develop new markets->reduce costs(trend,put manufacture into developing countries)
+- global business trips:cultural difference & local firm cooperation & professional advice->to aviod marketing disasters and reduce loss
+- dealing with competition:pricing policies->equal or lower than competitors->attract customers and gain large market share & advertising strategics->brand awareness & quality of products and service
+
+## 5.3 meeting compeition
 
 
-【公司发展】
-（一）公司选址
-1 factors
-Blind investment will inevitably result in company losses.
-venue
-cost
-demand, the need of market is the basic driving force of the development of company.
-（二）商务会议
-1 advantages
-Introduce you a wide range of useful contacts and lucrative new markets.
-Offer a platform for the participants to share experience, exchange views and solve problems.
-Get the first hand of the present markets conditions.
-2 factors considered.
-cost
-venues. “location, location, and location.”
-attendees
-Plan. nothing is more vital than taking time to plan properly. An old saying in China goes like this, preparedness ensures success and unpreparedness spells failure. Make sure that everything is arranged before setting out, for example, the hotels, tickets, itinerary and so on.
-3 select the attendee
-have the competence to accomplish the delivered tasks.
-A good command of English as well as the language of the host country. It will greatly facilitate their communication with people at the conference.
-Select people who have previous experience of working and living abroad. Since a good understanding of the culture and the ways of doing business in the target country is vital to avoid culture pitfalls. And they do not need to adjust themselves to the so-called cultural shock.
-（三）绿色出行计划
-1 advantages 
-be environmentally-friendly, reduce air pollution.
-reduce demand for parking places.
-enhance the company’s reputation to the public.
-keep healthy.
-2 method
-introduce car pool scheme.
-promote using public transport instead of private cars, and offer some travel subsidize.
-consider flexible work schedule to allow some employees to work from home for some days in a week.
-（四）企业文化
-1 importance
-it is essential because it can make or break your company. Company culture is actually shared values and norms of organization. It guides the day-to-day operation of the company.
-it can have an obvious effect on employees, such as the way employees interact with each other, the training and skills development, the working environment.
-if the employee’s values are not in line with the company, it may cause cultural conflicts
-（五）电子商务
-Select from a wide range of products simply by clicking your mouse and browsing different things.
-A great variety of things to choose from.
-You can not feel or touch what you are buying.
-There are stories and news about ID being stolen and money disappearing from the account every day.
+# 6.business meeting & digital pattern work
+## 6.1 digital pattern work
+- improve work efficiency and better performance & convenience to staff & high-tech good products & more security system
 
+## 6.2 plan meeting 
+- agenda,events with targets;
+- size
+- venue
 
+### 6.2.1 advantages
+***Introduce you a wide range of useful contacts and lucrative new markets.***
+
+***Offer a platform for the participants to share experience, exchange views and solve problems.***
+
+***Get the first hand of the present markets conditions.***
+
+### 6.2.2 factors considered.
+- cost
+- venues. “location, location, and location.”
+
+***Plan:nothing is more vital than taking time to plan properly. An old saying in China goes like this, preparedness ensures success and unpreparedness spells failure. Make sure that everything is arranged before setting out, for example, the hotels, tickets, itinerary and so on.***
+
+***select the attendee:have the competence to accomplish the delivered tasks.***
+
+***A good command of English as well as the language of the host country. It will greatly facilitate their communication with people at the conference.***
+
+***Select people who have previous experience of working and living abroad. Since a good understanding of the culture and the ways of doing business in the target country is vital to avoid culture pitfalls. And they do not need to adjust themselves to the so-called cultural shock.***
+
+## 6.3 product launch 
+- people involved:various teams should be involved to support the events(sales;IT etc)
+- cost
+- launch plan
+
+## 6.4 prepare a presentation
+- info or targets included
+- facilities needed(more clearly expressed)
+- environment of ppt(feeling of welcome)
+
+## 6.5 digital pattern of work/paperless pattern o work
+- improve work efficiency
+- reduce company overhead
+- eco-friendly
+
+## 6.6 绿色出行计划
+### 6.6.1 advantages 
+- be environmentally-friendly, reduce air pollution.
+- reduce demand for parking places.
+- enhance the company’s reputation to the public.
+- keep healthy.
+
+### 6.6.2 method
+- introduce car pool scheme.
+- promote using public transport instead of private cars, and offer some travel subsidize.
+- consider flexible work schedule to allow some employees to work from home for some days in a week.
+
+## 6.7 企业文化
+***it is essential because it can make or break your company. Company culture is actually shared values and norms of organization. It guides the day-to-day operation of the company.***
+
+***it can have an obvious effect on employees, such as the way employees interact with each other, the training and skills development, the working environment.***
+
+***if the employee’s values are not in line with the company, it may cause cultural conflicts.***
+
+## 6.8 电子商务
+***Select from a wide range of products simply by clicking your mouse and browsing different things.***
+
+***A great variety of things to choose from.***
+
+***You can not feel or touch what you are buying.***
+
+***There are stories and news about ID being stolen and money disappearing from the account every day.***
 
 # PART V.变音规则
 ## 1)连读 ：辅音+元音
