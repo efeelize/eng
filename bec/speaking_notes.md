@@ -96,12 +96,17 @@
 
 ***My hometown is Shannxi province, but at present I am working in Shanghai. It is a beautiful city with a long history and brilliant culture. The weather is warm, the air is fresh, which makes the city very suitable for living. Welcome to visit my hometown.***
        
-## 4.2学习/工作情况
+## 4.2 学习/工作情况
 ***Q:What do you study? How do you like your major?***
 A:My major in law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
 
 ***Q:Can you tell me a little about your work?***
-A:I'm an at a small law firm and I mainly deal with the document.
+- I graduated from shanghai maritime school with a master degree in law.
+- Now I'm an at a small law firm and I mainly deal with the document.
+- ability to prioritize and work within tight timeframe
+- excellent research ability
+- very familiar with law and related policies in China
+- fluent in both English and Chinese;
 
 ***Q:what do you like the best/most/least about your work?***
 - What most interests me is that….
@@ -142,10 +147,10 @@ A:I'm an at a small law firm and I mainly deal with the document.
 - motivate/stimulate
 
 ***Q:How did you come here today?***
-A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
+***A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.***
 
 ***Q:What kind of training courses have you even taken?***
-- A:English training online classes for Business English higher preparation produced by New Oriental.
+***A:English training online classes for Business English higher preparation produced by New Oriental.***
 
 ***Q:What do you think is most important when you choose a training course?***
 - A:The trainer’s qualification and status.When choosing a training program, it's important to consider the training content.
@@ -154,90 +159,48 @@ A:I came here on  because I’m a student of this university and it’s only ten
 - A:I’d choose to travel by high-speed train because it takes less time and is more punctual compared with other means of transport.
 
 ***Q:What kind of accommodation do you usually stay in when you go on holiday?***
-
-    A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people. 
+***A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people.***
 
 ***Q:Do you think companies should pay for their staff to stay in expensive hotels on business trips?***
-
-    A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.
+***A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.***
 
 ***Q:Do you enjoy business travel?***
-
-    A:Yes. By travelling on business, I have a chance to go to different places and experience different customs. It is really a good way to broaden my view.
+***A:Yes. By travelling on business, I have a chance to go to different places and experience different customs. It is really a good way to broaden my view.***
 
 ***Q:what makes a good team?***
-
-    A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.
+***A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.***
 
 ***What’s your hobby? What do you usually do in spare time?***
-    
-    A:Of all sport games, I like running most. First, it is a sport that 
-    anyone can do it at any time and you don’t need a special place to do it. 
-    Second, it is a good way to keep fit and relax the tension from high 
-    pressure. More importantly, I have acquainted lots of new friends when 
-    taking part in the marathons. 
+***A:Of all sport games, I like running most. 1）First, it is a sport that anyone can do it at any time and you don’t need a special place to do it；2）Second, it is a good way to keep fit and relax the tension from high pressure；3）More importantly, I have acquainted lots of new friends when taking part in the marathons.***
 
 ***Do you come from a large family or a small family?***
-   
-    A: I came from a smaill family.There are 3 people in my family.All the members in my family live in great harmony, and we love each other devotedly.***
+***A: I came from a smaill family.There are 3 people in my family.All the members in my family live in great harmony, and we love each other devotedly.***
 
 ***Q:Would you say it’s a good place to live in?Why?***
-
-    A:Yes,definitely,1)the wearther is....;2)the transportation is...;3)the environment is...
+- Yes,definitely,
+- 1)the wearther is....;
+- 2)the transportation is...;
+- 3)the environment is...
 
 ***Q:Do you like living in...?/Do you think it would be better to live in...Why?***
+- Yes/No.
+- Because...(the weather ; the transportation ; the environment; the housing; etc. )
 
-    A:Yes/No.Because...(the weather ; the transportation ; the environment; the housing; etc. )
-
-## 3.family
-***Do you come from a large family or a small family?***
-
-    A:I come from a nuclear family/an extended family.
-
-## 4.what you do
-***Q:Do you work or are you a student in...?***
-
-    A:I’m a student/I’m a office worker.
-
-***Q:What do you study?What’s your major?***
-
-    A:My major is.../I’m major in...
-
-***Q:What do you do?***
-
-    A:I work as.../I am...
-
-***Q:What do you like about your study?***
-     
-    A:I have always been interested in...,and I want to become a/an...in the future.
-
-***Q:What do you like about your job?***
-
-    A:It brings me...( job satisfaction/good financial reward/good career development opportunity.)
-
-***Q:Do you have much free time?***
-
-    A:Yes/No
-
-***Q:How do you spend your free time?***
-
-    A:I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
+## 3.what you do
+***Q:Do you have much free time?How do you spend your free time?***
+***A:Yes/No.I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
 
 ***Q:Do you like working in a time or on your own? ( why? )***
-
-    A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.
+***A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.***
 
 ***Q:How important is the central leadership of a team?***
-
-    A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.
+***A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.***
 
 ***Q:Do you prefer to work in small teams or big teams? (why?)***
-
-    A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.
+***A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.***
 
 ***Q:Is it necessary for a team to have regular meeting?***
-
-    A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.
+***A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.***
 
 # part II.mini-presentation(说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
@@ -547,20 +510,7 @@ A:I came here on  because I’m a student of this university and it’s only ten
 - Q:Public Relations: the importance to a company of avoiding bad publicity
 - Q:Prices: the importance to a company of having a flexible pricing policy
           
-# 5.重要话题
-- 公司运作与管理
-- 人力资源管理
-- 市场营销
-- 商务旅行
-- 企业公关
-- 公司发展
-- 电子商务与新型工作方式
-- 商务会议
-- 项目管理
-- 客户关系
-- 企业文化
-
-# 6.机经
+# 5.机经
 - 出差
 - 价格讨论
 - 健康安全
@@ -586,7 +536,7 @@ A:I came here on  because I’m a student of this university and it’s only ten
 - 人力资源
 - 采购
 
-# 7.常考话题
+# 6.常考话题
 - market research
 - project
 - competition
@@ -626,6 +576,12 @@ A:I came here on  because I’m a student of this university and it’s only ten
        -I think so.
      考官跟踪继续提问
        further prompting from interlocutor 
+       
+       - 合作与互动 /A说完了，B要对其有个回应
+       - 观点与陈述 / 不能只跟对方捧哏
+       - 不光表达自己的观点，还有有所提议/2个点都要讨论到
+       - 对别人的创新的建议有所反应
+       - 有条理、给理由
    
 ## 1.打开话题
 > 说自己的观点 + 邀请搭档回答
@@ -701,13 +657,6 @@ next point.
 - 在家工作 
 - 连锁餐厅吸引客人 
 - 了解员工想法
-## 1.要求/ollaborative task/team work
-- 合作与互动 /A说完了，B要对其有个回应
-- 观点与陈述 / 不能只跟对方捧哏
-- 不光表达自己的观点，还有有所提议/2个点都要讨论到
-- 对别人的创新的建议有所反应
-- 有条理
-- 给理由
 
 # 8.常用表达
 ## 1）开篇：
