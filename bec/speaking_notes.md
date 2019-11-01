@@ -1159,7 +1159,7 @@ improve work efficiency and have a better life.***
 
 ## 3.2 advertising & branding
 - advertising-traditional and digital communication method->publicity of product more effective;
-- sales promition->sample gifts(gifts should be durable materials which can represent parts of company image);
+- sales promition->sample gifts(gifts should be durable /'djʊərəb(ə)l/ materials which can represent parts of company image);
 - advertising should consider the location and targeted customers and suitable adverting endorser;brand awareness;
 
 ### 3.2.1 method
@@ -1192,9 +1192,9 @@ improve work efficiency and have a better life.***
 
 ## 3.3 customer satisfaction,dealing with customer complaint
 - remaining calm,listen to the complaints and apologizie for problem,let customer feel that they are taken good care of;
-- suggest a effective solution;
-- employee should not make any promises that they cannot keep
-- monitor the quality of service & product,questionnaire to gain feedback and advice from customers,maeket research before launch a product(colour,size,type)
+- suggest an effective solution;
+- employee should not make any promises that they cannot keep;
+- monitor[指导] the quality of service & product,questionnaire to gain feedback and advice from customers,maeket research before launch a product(colour,size,type)
 
 ### 3.3.1）Importance
 ***“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.***
@@ -1208,7 +1208,7 @@ improve work efficiency and have a better life.***
 
 ***Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.***
 
-# 4.PR & corporate hospitality
+# 4.PR[public relation] & corporate hospitality
 ## 4.1 corporate culture & company image
 - 1)decisions are guided by corporate values;2)create a healthy work environment and attract more talented people;
 - company culture includes core value and beliefs,corporate ethics and rule of behaviour,company architercture style;
@@ -1238,9 +1238,13 @@ improve work efficiency and have a better life.***
 ## 5.3 meeting compeition
 
 
-# 6.business meeting & digital pattern work
+# 6.business meeting & digital pattern work[常考的重点]
 ## 6.1 digital pattern work
-- improve work efficiency and better performance & convenience to staff & high-tech good products & more security system
+- improve work efficiency and better performance 
+- convenience to staff 
+- high-tech good products 
+- more security system
+- eco-friendly
 
 ## 6.2 plan meeting 
 - agenda,events with targets;
