@@ -897,7 +897,7 @@ next point.
 # PART IV.专题语料库
 ## 1.company operation and management
 ### 1)team work
-- mutual trust->communicate timely->harmonious /hɑː'məʊnɪəs/  work environment-> be more efficient and productive.
+- mutual trust->communicate timely->harmonious /hɑː'məʊnɪəs/  work environment-> be more efficient and productive.->report regual basis;
 - strong sense of cooperation->collective efforts->high level quality and workmanship
 
 #### 1.1)importance
@@ -931,7 +931,7 @@ next point.
 
 ***High-communication facilities. Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.***
 
-### 3)reducing overheads
+### 3)reducing overheads/ˈəuvəhedz/
 - cut down->cost of raw materials->product prices->cost conscious
 - companies like to work with good suppliers/good quality with reasonable prices/alternative suppliers/price list
 - efficient production line->well-trained workers/low physical stress and strain/otherwise high turnover rate
@@ -967,7 +967,7 @@ next point.
 ## 2.human resource management
 ### 1)staff motivation
 - offer stock options->linking staff efforts to stock performance and motivating them to develop/contributing their energies to the fullest possible extent.
-- perquisites,company car,insurance,training/develop program.
+- perquisites /'pɜːkwɪzɪt/ [津贴] ,company car,insurance,training/develop program.
 
 ### 2)employee training
 - content/subject covered->for high quality performance->achieve common goal of company/otherwise time->waste
@@ -997,7 +997,7 @@ next point.
 ***the venue. The conference room should be big enough to meet the business need. Besides, it should be fully equipped with the necessary facilities, for instance, the overhead projector, microphone, and access to internet.***
 
 ### 3)recruiting & selecting
-- interview's personality quality,think objectively can prevent extreme opinions and biases to avoid employment discrimination/gender stigma
+- interview's personality quality,think objectively can prevent extreme opinions and biases to avoid employment discrimination/gender stigma /'stɪgmə/[性别歧视]；
 - interview skills,ask question in appropriate and legal way,interpersonal skills also important[针对面试官]
 
 #### 3.1）process
