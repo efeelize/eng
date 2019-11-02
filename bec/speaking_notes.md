@@ -98,7 +98,11 @@
        
 ## 4.2 学习/工作情况
 ***Q:What do you study? How do you like your major?***
-A:My major in law.As we all know, law is not only a science but also an art. What my major puts more emphasis on is the part of science. We try to use mathematical methods to help managers make wiser decisions. I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.
+- My major in law.
+- As we all know, law is not only a science but also an art.
+- What my major puts more emphasis on is the part of XXX. 
+- We need to buid a solid foundation of professional knowledge,as well as a rich experience of social activities.
+- I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.***
 
 ***Q:Can you tell me a little about your work?***
 - I graduated from shanghai maritime school with a master degree in law.
@@ -147,10 +151,10 @@ A:My major in law.As we all know, law is not only a science but also an art. Wha
 - motivate/stimulate
 
 ***Q:How did you come here today?***
-***A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.***
+- A:I came here on  because I’m a student of this university and it’s only ten minutes’ walk from my dormitory to this building.
 
 ***Q:What kind of training courses have you even taken?***
-***A:English training online classes for Business English higher preparation produced by New Oriental.***
+- A:English training online classes for Business English higher preparation produced by New Oriental.
 
 ***Q:What do you think is most important when you choose a training course?***
 - A:The trainer’s qualification and status.When choosing a training program, it's important to consider the training content.
@@ -159,7 +163,7 @@ A:My major in law.As we all know, law is not only a science but also an art. Wha
 - A:I’d choose to travel by high-speed train because it takes less time and is more punctual compared with other means of transport.
 
 ***Q:What kind of accommodation do you usually stay in when you go on holiday?***
-***A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people.***
+- A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people.***
 
 ***Q:Do you think companies should pay for their staff to stay in expensive hotels on business trips?***
 ***A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.***
@@ -171,10 +175,12 @@ A:My major in law.As we all know, law is not only a science but also an art. Wha
 ***A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.***
 
 ***What’s your hobby? What do you usually do in spare time?***
-***A:Of all sport games, I like running most. 1）First, it is a sport that anyone can do it at any time and you don’t need a special place to do it；2）Second, it is a good way to keep fit and relax the tension from high pressure；3）More importantly, I have acquainted lots of new friends when taking part in the marathons.***
+- In my spare time,I like to read books regarding how to be myself and how to deal with problems;
+- music and movies are my favorite entertainments.
+- play the games brings me a lot of glory,happiness and passion.
 
 ***Do you come from a large family or a small family?***
-***A: I came from a smaill family.There are 3 people in my family.All the members in my family live in great harmony, and we love each other devotedly.***
+- A: I came from a smaill family.There are 3 people in my family.All the members in my family live in great harmony, and we love each other devotedly.
 
 ***Q:Would you say it’s a good place to live in?Why?***
 - Yes,definitely,
@@ -188,10 +194,10 @@ A:My major in law.As we all know, law is not only a science but also an art. Wha
 
 ## 3.what you do
 ***Q:Do you have much free time?How do you spend your free time?***
-***A:Yes/No.I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
+- A:Yes/No.I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
 
 ***Q:Do you like working in a time or on your own? ( why? )***
-***A:I like working in a team,as the proverb goes:’two heads are better than one.’In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.***
+***A:I like working in a team,as the proverb goes:'two heads are better than one.'In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.***
 
 ***Q:How important is the central leadership of a team?***
 ***A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.***
