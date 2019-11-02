@@ -93,7 +93,6 @@
 - As we all know, law is not only a science but also an art.
 - What my major puts more emphasis on is the part of XXX. 
 - We need to buid a solid foundation of professional knowledge,as well as a rich experience of social activities.
-- I love my major very much. The primary direction of my research is system engineering, I’m quite keen on the systems theory, which helps me to have a better understanding of the world in a systematic perspective.***
 
 ***Q:Can you tell me a little about your work?***
 - I graduated from shanghai maritime school with a master degree in law.
@@ -101,7 +100,7 @@
 - ability to prioritize and work within tight timeframe
 - excellent research ability
 - very familiar with law and related policies in China
-- fluent in both English and Chinese;
+- fluent in both English and Chinese
 
 ***Q:what do you like the best/most/least about your work?***
 - What most interests me is that….
@@ -216,38 +215,24 @@
 ## 演讲/10sentence
 > 总分总
 ### 1st：读题目
-***I choose topic X.（+简单读题）***
+- I choose topic X.（+简单读题）
 
 ### 2nd:opening sentence
-***When...there are three important factors we should take into account.***
-
-***When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant*** 
-
-***I have the the following reasons:...is an indispensable part in the business field.***
-
-***To make it a great success/ to do it***
-
-***Well,we need to attach great importance to the following aspects.***
-
-***In order to ... and ... should be first considered.***
-
-***the first two things/ideas/points/words that cross my mind are ... and ...***
-
-***In my humble/personal opinion,... and... play a very improtant...***
-
-***Well, when it comes to...., several/two important factors must be***
-
-***taken into account/consideration.***
-
-***Well, .... is important because ....***
-
-***... is important for several reasons.***
-
-***There are several ways to... First, Second, Third...***
-
-***as to this topic, I have the following points.***
-
-***when talking about …,there are three points I want to say.***
+- When...there are three important factors we should take into account.
+- When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant
+- I have the the following reasons:...is an indispensable part in the business field.
+- To make it a great success/ to do it
+- Well,we need to attach great importance to the following aspects.
+- In order to ... and ... should be first considered.
+- the first two things/ideas/points/words that cross my mind are ... and ...
+- In my humble/personal opinion,... and... play a very improtant...
+- Well, when it comes to...., several/two important factors must be
+- taken into account/consideration.
+- Well, .... is important because ....
+- ... is important for several reasons.
+- There are several ways to... First, Second, Third...
+- as to this topic, I have the following points.
+- when talking about …,there are three points I want to say.
 
 ### 3rd: main points and supporting ideas 论点① 
     topic sentence 1...
@@ -277,49 +262,37 @@
 ### 7th & 8th: 分析第二个arguement
 
 ### 9th：简单罗列几个arguement/继续分析第二个arguement
-***Further,  论点③ should also be taken into account.***
+- Further,  论点③ should also be taken into account.
 
 ### 10th:总结，重复2个观点，重申自己的立场
-
-***All in all,...and...are of great importance when...***
-
-***Any way,...and...are essential when...Only after we...can we...***
-
-***To sum up,...should be put at the first place when....***
-
-***These are the three factors that I find very essential when...***
-
-***In a word,you must consider all these factors if you want to...***
-
-***Finally,let’ me restate my opinion that when...,we need to pay special attention to ... and ...***
-
-***That’s all, thank you.***
+- All in all,...and...are of great importance when...
+- Any way,...and...are essential when...Only after we...can we...
+- To sum up,...should be put at the first place when....
+- These are the three factors that I find very essential when...
+- In a word,you must consider all these factors if you want to...
+- Finally,let’ me restate my opinion that when...,we need to pay special attention to ... and ...
+- That’s all, thank you.
 
 ## 3.向 partner 提问 （1sentence）
 ### 3.1.万用句型
-***1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?***
-
-***2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?***
-
-***3) Do you think A is the most important one?[只听到一个重点]***
-
-***4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?***
-
-***5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?***
-
-***6)I am very interested in...Could you further explain XXX please?
+- 1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?
+- 2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?
+- 3) Do you think A is the most important one?[只听到一个重点]
+- 4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?
+- 5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?
+- 6)I am very interested in...Could you further explain XXX please?
 
 ### 3.2advanced
 #### 1)正反分析
-***What's the advantage/disadvantage of...?***
+- What's the advantage/disadvantage of...?
      
 #### 2)昨天今天明天
-***What are the differences between A now and that of future?***
+- What are the differences between A now and that of future?
      
 #### 3)问题解决
-***What might be the biggest trouble for...***
-***What's your possible solution?***
-***What are the causes of...?***
+- What might be the biggest trouble for...
+- What's your possible solution?
+- What are the causes of...?
      
 #### 2.4)因果关系
 
@@ -415,7 +388,7 @@
 - [总] relocating the business is always a critical issue for a retail business and serious considerations must be done before making the final decision.
 - [Arguement1] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.
 - [Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]
-- [总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.*
+- [总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.
 
 ***Q:the factors involved in building a brand***
 - high qualified products
@@ -643,106 +616,106 @@ next point.
 
 # 8.常用表达
 ## 1）开篇：
-***Hello.***
-***You see / As we all know / As everybody knows, our company is ...***
-***Now people in our company are talking about...***
-***Do you have any idea as to …?***
-***It has been said that…***
+- Hello.
+- You see / As we all know / As everybody knows, our company is ...
+- Now people in our company are talking about...
+- Do you have any idea as to …?
+- It has been said that…
 
 ## 2）表达观点
-***I have heard about that. （第一次问答）***
-***I think it is quite important for the future development of our company. (视情况)***
-***As for ways of…, the first thing comes to my mind is …***
-***As far as I know, ...***
-***From my perspective, ...***
-***In my opinion, ...***
-***One thing I’m thinking of is that…***
-***There is one more point, ...（补充）***
-***So, in your case, ...***
+- I have heard about that. （第一次问答）...
+- I think it is quite important for the future development of our company. (视情况)...
+- As for ways of…, the first thing comes to my mind is …
+- As far as I know, ...
+- From my perspective, ...
+- In my opinion, ...
+- One thing I’m thinking of is that…
+- There is one more point, ...（补充）
+- So, in your case, ...
 
 ## 3）要求对方做进一步解释
-***Really? / Why? / How come?***
-***What do you mean by…?***
-***What exactly are you trying to say?***
+- Really? / Why? / How come?
+- What do you mean by…?
+- What exactly are you trying to say?
 
 ## 4）话题转移
-***Now let’s talk about…***
-***Now let’s move to the second topic, …***
-***We are also given the task of …***
-***Let’s move to another issue.***
-***Then let’s propose that. Now shifts.***
-***Then we will look into that in depth next time, but there is still something we should pay attention to.***
+- Now let’s talk about…
+- Now let’s move to the second topic, …
+- We are also given the task of …
+- Let’s move to another issue.
+- Then let’s propose that. Now shifts.
+- Then we will look into that in depth next time, but there is still something we should pay attention to.
 
 ## 5）询问意见？
-***What do you have in mind?***
-***What do you think of it?***
-***Do you have any ideas?***
-***What’s your opinion?***
-***What would you say?***
-***What about you?***
-***And you?***
+- What do you have in mind?
+- What do you think of it?
+- Do you have any ideas?
+- What’s your opinion?
+- What would you say?
+- What about you?
+- And you?
 
 ## 6）补充插话
-***By the way, …***
-***Before I forget, …***
-***Excuse me, but …***
-***Sorry, but …***
-***Just a minute, I think...***
-***I’d like to put in a word here...***
+- By the way, …
+- Before I forget, …
+- Excuse me, but …
+- Sorry, but …
+- Just a minute, I think...
+- I’d like to put in a word here...
 
 ## 7）中间连词
-***For example, ...***
-***I mean, ...***
-***Which means,..***
+- For example, ...
+- I mean, ...
+- Which means,..
 
 ## 8）同意
-***That’s it. / You got it. / You said that, very good.***
-***I am quite with you here.***
-***I think so.***
-***Exactly. / Definitely.***
-***I can’t agree more.***
-***I agree. / I agree with you.***
-***You are quite right.***
-***Well, I partly agree with you. （部分同意）***
-***That’s true. / That’s right***
-***That’s a good idea.***
-***That’s just what I want to say.***
-***I’m with you here. / I am with you on that.***
-***It’s undoubtedly an ideal choice.***
-***Yeah, that’s very crucial.***
-***Good suggestion.***
-***You’re to the point.***
-***It sounds reasonable.***
-***I see what you mean.***
+- That’s it. / You got it. / You said that, very good.
+- I am quite with you here.
+- I think so.
+- Exactly. / Definitely.
+- I can’t agree more.
+- I agree. / I agree with you.
+- You are quite right.
+- Well, I partly agree with you. （部分同意）
+- That’s true. / That’s right
+- That’s a good idea.
+- That’s just what I want to say.
+- I’m with you here. / I am with you on that.
+- It’s undoubtedly an ideal choice.
+- Yeah, that’s very crucial.
+- Good suggestion.
+- You’re to the point.
+- It sounds reasonable.
+- I see what you mean.
  
 ## 9）表示...的好处：
-***It will enable us to do...***
-***It is a very good way of ...***
-***By/through..., we can ...***
-***In this way, it helps us...***
+- It will enable us to do...
+- It is a very good way of ...
+- By/through..., we can ...
+- In this way, it helps us...
 
 ## 10）表示…的重要性：
-***It is essential/crucial/important because it can make or break a business.***
+- It is essential/crucial/important because it can make or break a business.
 
 ## 11）提建议：
-***It is a good idea to …***
-***It’s best if we…***
-***Why don’t we …***
-***If I were you, I would …***
-***We should also give serious thought to…***
-***Don’t forget to…***
-***We’d better …***
-***It’s suggested that…***
+- It is a good idea to …
+- It’s best if we…
+- Why don’t we …
+- If I were you, I would …
+- We should also give serious thought to…
+- Don’t forget to…
+- We’d better …
+- It’s suggested that…
 
 ## 12）对公司有益
-***It is good to a company as a whole.***
-***It will benefit the company a great deal.***
-***It is beneficial for the company’s development in the long run.***
-***As a result, our company will be bloom in the business.***
-***Take a long-term view of future developments.***
+- It is good to a company as a whole.
+- It will benefit the company a great deal.
+- It is beneficial for the company’s development in the long run.
+- As a result, our company will be bloom in the business.
+- Take a long-term view of future developments.
 
 # Q. improve the way they listen and respond to customers
-***your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].***
+- your company has received several complaints from customers about how their concerns have been handled.you have been asked to talk to your staff about how to [improve the way they listen and respond to customers].
 
 ## Q1:what aspects of customer care your staff need to be aware of?
 ### 1)outline:
@@ -785,20 +758,6 @@ next point.
 ***Do you think it's important to feed back to staff?why?***
 - if yes,the feedback can contain can-do tips for staff.
    
-# Q.team building
-***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
-
-***Q1:what kinds of work projects and leisure activities would be suitable to encourage team work?***
-
-***Q2what benefits effective teamwork could bring to the company?***
-        
-## Follow Qs:
-***what benefits do you think individual employees get from working in a strong team?***
-
-***what do you think it's the ideal number of people to work in a team?**
-
-***Do you think companies need individuals as well as team workers?***
-
 # Q:improve competitiveness
 ***your company is falling behind new arrivals in the market,and the managing director is concerned to increase competitiveness.You have asked to suggest ways of improving the company's competitiveness.***
 
@@ -830,35 +789,28 @@ next point.
 - strong sense of cooperation->collective efforts->high level quality and workmanship
 
 #### 1.1)importance
-***As the saying goes, two heads are better than one. If you work in a team, you can easily come up with creative ideas and share your opinions.***
-
-***The exposure to outstanding people from all walks of life does not only enrich but also helps forge long-lasting friendships.***
-
-***as we know, everyone is differently qualified. Only through teamwork can everyone exert their strengths and offset the weakness to accomplish the objectives.***
+- As the saying goes, two heads are better than one. If you work in a team, you can easily come up with creative ideas and share your opinions.
+- The exposure to outstanding people from all walks of life does not only enrich but also helps forge long-lasting friendships.
+- as we know, everyone is differently qualified. Only through teamwork can everyone exert their strengths and offset the weakness to accomplish the objectives.
 
 #### 1.2)method
-***hold regular gatherings …***
-
-***set common goals. … make collective effort to work toward the objectives.***
-
-***establish mutual trust. When members share a trusting relationship, they will feel more ease to express their views, understand each other’s capabilities and limitations and communicate with each other timely.***
-
-***a good leader. He or she need to have the ability to unite the team members invigorated with fighting power.***
+- hold regular gatherings …
+- set common goals. … make collective effort to work toward the objectives.
+- establish mutual trust. When members share a trusting relationship, they will feel more ease to express their views, understand each other’s capabilities and limitations and communicate with each other timely.
+- a good leader. He or she need to have the ability to unite the team members invigorated with fighting power.
 
 #### 1.3)leader’s quality
-***A capacity for leadership.  which is the heart of the managerial process. He or she need to issue the orders that are clear, comprehensive, and within the capabilities of subordinates to accomplish.***
-
-***Interpersonal skills. Be open-minded and easy-going. If workers are afraid to approach their team leader, it can result in communication failure.***
-
-***Decisiveness. The manager must have the ability to make decisions quickly based on the information at hand and stick to these decisions.***
+- A capacity for leadership.  which is the heart of the managerial process. He or she need to issue the orders that are clear, comprehensive, and within the capabilities of subordinates to accomplish.
+- Interpersonal skills. Be open-minded and easy-going. If workers are afraid to approach their team leader, it can result in communication failure.
+- Decisiveness：The manager must have the ability to make decisions quickly based on the information at hand and stick to these decisions.
 
 ### 2)internal communication
 - communicating with targets->enhance work effciency and excellence
 - feedback->encourage employees/amendment->improve work efficiency&excellence
 
-***Database development. With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.***
+***Database development：With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.***
 
-***High-communication facilities. Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.***
+***High-communication facilities：Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.***
 
 ### 3)reducing overheads/ˈəuvəhedz/
 - cut down->cost of raw materials->product prices->cost conscious
@@ -879,19 +831,17 @@ next point.
 ***get employees involved. Since overheads are closely related to the welfare of all staff members. So concerted efforts are necessary from both managers and all the staff to carry on the plan smoothly.***
 
 ### 4)work environment
-- health and safety(facilities safety,reasonable work time),improve the health and safety awareness;
+- health and safety(facilities safety,reasonable work time),improve the health and safety awareness
 - leisure/sport facilities & coffee room,bonus and welfare system/annual leave
 
 ### 5）quality management
 #### 5.1）importance
-***It is the products and services of high quality that have the final say in the market.***
+- It is the products and services of high quality that have the final say in the market.
 
 #### 5.2）method
-***Lifetime of a product. As everybody knows, “quality is the lifetime of a product.” We should keep track of the performance of a product over time.***
-
-***Total quality management. Finished products in inspection could not make the bad work good. We should oversee the quality in supplies, spare parts, working-in-progress and finished pro ducts in warehouse as well.***
-
-***Businesses benefit from treating complaints as welcome source and opportunities to gain innovative ideas for improvement.***
+- Lifetime of a product. As everybody knows, “quality is the lifetime of a product.” We should keep track of the performance of a product over time.
+- Total quality management. Finished products in inspection could not make the bad work good. We should oversee the quality in supplies, spare parts, working-in-progress and finished pro ducts in warehouse as well.
+- Businesses benefit from treating complaints as welcome source and opportunities to gain innovative ideas for improvement.
 
 ## 2.human resource management
 ### 1)staff motivation
@@ -903,175 +853,136 @@ next point.
 - trainers'quality and professionalism->course effective,length and location of training events.
 
 #### 2.1)advantages
-***just as the old saying goes, “if you take care of your people, the business will take care of itself.” Employees are the core and soul of the enterprises as well as the driving engine for the company’s development.***
-
-***the more time you spend in staff, the more likely they are to have a sense of belonging and identification to the company, which will reduce the turnover rate.***
-
-***through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.***
-
-***Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.***
-
-***With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.***
-
-***a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.***
-
-***make a self-evaluation. Be well aware of your strengths and weaknesses. Besides, external factors such as market information, family conditions should be considered as well.***
-
-***take career counselling to ask for advice from some experienced people, which helps you have a clear and comprehensive impression on the real work situation.***
-
-***set clear and realistic goals. Only by setting goals can you exactly know what you plan to achieve and what you have to concentrate on. Goals give you a long-term vision and a short-term motivation, so as for you to work toward it step by step.***
+- just as the old saying goes, “if you take care of your people, the business will take care of itself.” Employees are the core and soul of the enterprises as well as the driving engine for the company’s development.
+- the more time you spend in staff, the more likely they are to have a sense of belonging and identification to the company, which will reduce the turnover rate.
+- through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.
+- Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.
+- With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.
+- a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.
+- make a self-evaluation. Be well aware of your strengths and weaknesses. Besides, external factors such as market information, family conditions should be considered as well.
+- take career counselling to ask for advice from some experienced people, which helps you have a clear and comprehensive impression on the real work situation.
+- set clear and realistic goals. Only by setting goals can you exactly know what you plan to achieve and what you have to concentrate on. Goals give you a long-term vision and a short-term motivation, so as for you to work toward it step by step.
 
 #### 2.2）factors
-***cost：analyze the need. Carry out a survey to find out what is exactly required. It can help you identify the priority and choose the right type of training.***
-
-***the venue. The conference room should be big enough to meet the business need. Besides, it should be fully equipped with the necessary facilities, for instance, the overhead projector, microphone, and access to internet.***
+- cost：analyze the need. Carry out a survey to find out what is exactly required. It can help you identify the priority and choose the right type of training.
+- the venue：The conference room should be big enough to meet the business need. Besides, it should be fully equipped with the necessary facilities, for instance, the overhead projector, microphone, and access to internet.
 
 ### 3)recruiting & selecting
 - interview's personality quality,think objectively can prevent extreme opinions and biases to avoid employment discrimination/gender stigma /'stɪgmə/[性别歧视]；
 - interview skills,ask question in appropriate and legal way,interpersonal skills also important[针对面试官]
 
 #### 3.1）process
-***make a job description. It’s a profile of what an ideal employee is supposed to be. It includes a list of skills, qualifications and experience.***
-
-***Decide on the best recruitment method to capture a candidate with this profile. This might be an internal promotion or external advertisement in a newspaper, or on the internet or even an agency or perhaps a headhunter. It depends on the actual situation of the company.***
-
-***screen resumes and bring candidates to the office for an interview. It can be face-to-face interviews, psychometric tests or even hand-writing analysis.***
+- make a job description. It’s a profile of what an ideal employee is supposed to be. It includes a list of skills, qualifications and experience.
+- Decide on the best recruitment method to capture a candidate with this profile. This might be an internal promotion or external advertisement in a newspaper, or on the internet or even an agency or perhaps a headhunter. It depends on the actual situation of the company.
+- screen resumes and bring candidates to the office for an interview. It can be face-to-face interviews, psychometric tests or even hand-writing analysis.
 
 #### 3.2）method
 ##### 3.2.1）External recruitment：
 ###### Advantages:
-***It is essential for revitalize the companies. Applicants from the outside can be a source of new ideas and may bring along with them the latest knowledge acquired from their previous employment.***
-
-***A wider range of candidate pool to choose from.***
+- It is essential for revitalize the companies. Applicants from the outside can be a source of new ideas and may bring along with them the latest knowledge acquired from their previous employment.
+- A wider range of candidate pool to choose from.
 
 ###### Disadvantages: 
-***Excessive reliance upon external sources will deprive present jobholders of career anticipation, thus discouraging them from working harder for their companies.***
-
-***Entail more costs for orientation and training. And the risk are higher.***
+- Excessive reliance upon external sources will deprive present jobholders of career anticipation, thus discouraging them from working harder for their companies.
+- Entail more costs for orientation and training. And the risk are higher.
 
 ##### 3.2.2）Internal recruitment：
 ###### Advantages: 
-***Promotion-from-within has some motivational value. It is a kind of reward for employees for their past performance and will encourage them to continue their efforts. This can improve morale within the organization.***
-
-***Transfer can provide employees from layoff, or broaden their job experiences. Furthermore, the employees’ familiarity with the organization’s culture and its operation can reduce the orientation and training costs.***
+- Promotion-from-within has some motivational value. It is a kind of reward for employees for their past performance and will encourage them to continue their efforts. This can improve morale within the organization.
+- Transfer can provide employees from layoff, or broaden their job experiences. Furthermore, the employees’ familiarity with the organization’s culture and its operation can reduce the orientation and training costs.
 
 ###### Disadvantages:
-***The range of choices is very narrow.***
-
-***It may have a negative influence on the innovation of the company, which impedes the long-term and all-round development of the company.***
+- The range of choices is very narrow.
+- It may have a negative influence on the innovation of the company, which impedes the long-term and all-round development of the company.
 
 ##### 3.2.3 internet recruitment
 ###### Advantages
-***it’s cost-effective and wide coverage.***
+- it’s cost-effective and wide coverage.
 
 ###### Disadvantages
-***online recruiting will keep some qualified workers of low income outdoors and is not appropriate for jobs of low position, for example, the technical workers in a plant.***
+- online recruiting will keep some qualified workers of low income outdoors and is not appropriate for jobs of low position, for example, the technical workers in a plant.
 
 #### 3.3）recruiting advertisement
 ##### 3.3.1）Job description
-***Basic information such as time, place and contact address and the specifications of the opening should be included. Because it can cut down the number of applicants and attract the desirable ones.***
-
-***Salary and welfare. People work primarily to earn bread and milk to contribute to a decent and comfortable life.***
+- Basic information such as time, place and contact address and the specifications of the opening should be included. Because it can cut down the number of applicants and attract the desirable ones.
+- Salary and welfare. People work primarily to earn bread and milk to contribute to a decent and comfortable life.
 
 ##### 3.3.2）factors
-***Cost：It is necessary to figure out how much it will cost. The fee should be reasonable and affordable, somewhere around the company’s budget.***
-
-***Consider the targeted audience. We need to choose a mass media which can reach a large amount of possible candidates.***
-
-***Content.The advertisement should contain all the necessary information, for example, the job description, brief introduction of our company, time and place for interview and the most important,salary.***
+- Cost：It is necessary to figure out how much it will cost. The fee should be reasonable and affordable, somewhere around the company’s budget.
+- Consider the targeted audience. We need to choose a mass media which can reach a large amount of possible candidates.
+- Content.The advertisement should contain all the necessary information, for example, the job description, brief introduction of our company, time and place for interview and the most important,salary.
 
 #### 3.4）quality
-***staff quality：He or she is supposed to have the capability for the post. For example, necessary qualifications, adequate experience and so on.***
-
-***Shared values and highly-identified enterprise. In this way, employees will gradually align their own career with the company’s development.***
-
-***The ideal candidate need to have a good spirit of teamwork, as well as interpersonal skills, in order to keep good relationship with colleges.***
-
-***recruiter quality：Be familiar with the vacant position so that he or she can effectively evaluate the applicants.***
-
-***Good personal qualities. He or she need to be modest and fair to avoid discrimination, that is with no regard for sex, age, race and so on.***
+- staff quality：He or she is supposed to have the capability for the post. For example, necessary qualifications, adequate experience and so on.
+- Shared values and highly-identified enterprise. In this way, employees will gradually align their own career with the company’s development.
+- The ideal candidate need to have a good spirit of teamwork, as well as interpersonal skills, in order to keep good relationship with colleges.
+- recruiter quality：Be familiar with the vacant position so that he or she can effectively evaluate the applicants.
+- Good personal qualities. He or she need to be modest and fair to avoid discrimination, that is with no regard for sex, age, race and so on.
 
 ### 4)staff turnover
 - to keep an effective recruitment and selecting method-(according to their previous experience,optimize recruitment and selecting system)[针对招人面试环节]
 - offer welfare,superior leadership,regular talk,all-hands meeting regualarly[留人]
 
 #### 4.1）reasons
-***they are under too much pressure. They feel too stressed to meet the organization’s expectation.
-give too serious thought to the cost. If the salary they got is far from adequate in view of the workload. it’s more likely that they would leave the job.***
-
-***poor career development. If they can’t see any chance to improve themselves, staff might decide to leave for other plans.***
+- they are under too much pressure. They feel too stressed to meet the organization’s expectation.
+- give too serious thought to the cost. If the salary they got is far from adequate in view of the workload. it’s more likely that they would leave the job.
+- poor career development. If they can’t see any chance to improve themselves, staff might decide to leave for other plans.
 
 #### 4.2）advantages
-***Reasonable amount of staff turnover can be a good thing because of “the survival of the fittest”. Some turnover is healthy and essential to organizational well-being. With new hires, they infuse the company with fresh blood.***
+- Reasonable amount of staff turnover can be a good thing because of “the survival of the fittest”. Some turnover is healthy and essential to organizational well-being. With new hires, they infuse the company with fresh blood.
 
 ### 5）员工激励
 #### 5.1）advantages
-***What they really need is to be appreciated for what they have done, to feel what the management takes an interest.***
-
-***Financial incentives. People work primarily to earn bread and milk to contribute to a decent and comfortable life. For instance, some companies give out one year-end bonus according to his or her performance over the whole year.***
-
-***Give employees the chance to travel with the family on the company’s expense.***
-
-***Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance.***
-
-***flexible work schedules can also serve as an important motivator, especially for those women workers who have children. In this way, they can keep good balance between the individual life and work.***
-
-***Career development. employees will remain with their current employer if career opportunities are presented. Career plans for those who want to move upward in the company undoubted improve morale and boost encouragement.***
+- What they really need is to be appreciated for what they have done, to feel what the management takes an interest.
+- Financial incentives. People work primarily to earn bread and milk to contribute to a decent and comfortable life. For instance, some companies give out one year-end bonus according to his or her performance over the whole year.
+- Give employees the chance to travel with the family on the company’s expense.
+- Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance.
+- flexible work schedules can also serve as an important motivator, especially for those women workers who have children. In this way, they can keep good balance between the individual life and work.
+- Career development. employees will remain with their current employer if career opportunities are presented. Career plans for those who want to move upward in the company undoubted improve morale and boost encouragement.
 
 ### 6)绩效考核和改进绩效
 #### 6.1)advantages
-***Basis for employment decisions. It provides an input that can be used as a basis for human resource management activities, such as compensation decisions, transfer, layoff decisions and so on.***
-
-***Performance improvement. Appraisal offers feedback essential for the strengths and weaknesses of staff, which can be helpful to establish personal objectives for training.***
-
-***Guide for employees. Performance appraisal can aid in the formulation of job criteria, which allows employees to know how they are doing and organizational expectations. It is a good way to guide and monitor career development.***
+- Basis for employment decisions. It provides an input that can be used as a basis for human resource management activities, such as compensation decisions, transfer, layoff decisions and so on.
+- Performance improvement. Appraisal offers feedback essential for the strengths and weaknesses of staff, which can be helpful to establish personal objectives for training.
+- Guide for employees. Performance appraisal can aid in the formulation of job criteria, which allows employees to know how they are doing and organizational expectations. It is a good way to guide and monitor career development.
 
 #### 6.2)method
-***360-degree assessment, that is getting feedback from the full circles of resources, which include supervisors, peers, subordinates, customers and one’s self.***
-
-***As for the evaluation of performance, of course it is the superior that will have the final say. The human resource department is supposed to draw up specific standards for the sake of evaluating, quantitative and financial standards, for instance.***
+- 360-degree assessment, that is getting feedback from the full circles of resources, which include supervisors, peers, subordinates, customers and one’s self.
+- As for the evaluation of performance, of course it is the superior that will have the final say. The human resource department is supposed to draw up specific standards for the sake of evaluating, quantitative and financial standards, for instance.
 
 #### 6.3)performance improvement
-***have a clear lines of reporting to make sure that every employ clearly knows his or her role.
-check the work progress at regular intervals.***
-
-***give employees a sense of empowerment and ensure active participations of decisions to avoid conflicts and misunderstanding.***
-
-***hold regular meetings to enhance relationship between supervisors and subordinates.***
+- have a clear lines of reporting to make sure that every employ clearly knows his or her role.
+- check the work progress at regular intervals.
+- give employees a sense of empowerment and ensure active participations of decisions to avoid conflicts and misunderstanding.
+- hold regular meetings to enhance relationship between supervisors and subordinates.
 
 ### 7.working environment
-***protect personnel from unhealthy conditions, physical hazards and so on.***
-
-***the decoration, color and style of building need to indicate the culture of the company.
-take full advantage of the space. All the things are in a neat and organized state.***
+- protect personnel from unhealthy conditions, physical hazards and so on.
+- the decoration, color and style of building need to indicate the culture of the company.
+- take full advantage of the space. All the things are in a neat and organized state.
 
 ### 8.时间管理
 #### 8.1)importance
-***An old saying goes like this, time is money. Time is not something that can be stored for next use. To some extent, wasting time is wasting life.***
-
-***time management is one of the most important part of self-management. It can improve work efficiency and enable you become the master of your own life.***
-
-***Bad time management will throw you into chaos and mess, which result in stress and even failure.***
+- An old saying goes like this, time is money. Time is not something that can be stored for next use. To some extent, wasting time is wasting life.
+- time management is one of the most important part of self-management. It can improve work efficiency and enable you become the master of your own life.
+- Bad time management will throw you into chaos and mess, which result in stress and even failure.
 
 #### 8.2)method
-***Keep a list of necessary tasks that need to carry out. In this way people will never feel out of control.***
-
-***Prioritize all tasks in order of importance and urgency. This allows you to tackle the most important jobs first and not to waste time on trivial tasks. ***
-
-***set aside your best time for the priorities.***
-***Block in flexible time for unpredictable interruptions.***
+- Keep a list of necessary tasks that need to carry out. In this way people will never feel out of control.
+- Prioritize all tasks in order of importance and urgency. This allows you to tackle the most important jobs first and not to waste time on trivial tasks. 
+- set aside your best time for the priorities.
+- Block in flexible time for unpredictable interruptions.
 
 ### 9.压力管理
 #### 9.1)importance
-***just as the old saying goes, “all work and no play make Jack a dull boy.” We need to combine work with relax.***
-
-***too much workload may result in bad mood and even diseases, such as cancer, depression and so on.
-improve work efficiency and have a better life.***
+- just as the old saying goes, “all work and no play make Jack a dull boy.” We need to combine work with relax.
+- too much workload may result in bad mood and even diseases, such as cancer, depression and so on.
+- improve work efficiency and have a better life.
 
 #### 9.2）method
-***eat a healthy and regular diet, do some exercise to keep fit.***
-***take up a hobby to relax from tension.***
-***look after yourself and seek others for help if necessary.***
+- eat a healthy and regular diet, do some exercise to keep fit.
+- take up a hobby to relax from tension.
+- look after yourself and seek others for help if necessary.
 
 # 3.Marketing
 ## 3.1 product development & pricing strategy
@@ -1093,13 +1004,10 @@ improve work efficiency and have a better life.***
 - advertising should consider the location and targeted customers and suitable adverting endorser;brand awareness;
 
 ### 3.2.1 method
-***Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions.***
-
-***Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level.***
-
-***Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.***
-
-***Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.***
+- Send out free newsletter to keep the customers informed of the upcoming events of our company as well as the latest products. In this way, they can be attracted back to our venue for more transactions.
+- Give some incentives to the customers, for example, we can offer some quantity discounts, which means the more they buy, the lower the unit price. It’s a good way to increase our sales of products and reduce the inventory level.
+- Launch an advertisement campaign. We can place attractive ads on newspapers, magazines and internet. And we also can hire some part-time employees to give out leaflets to let potential consumers get more information about our products and company and enhance brand awareness. People tend to buy products which they have heard of. Hand our free samples to test the new products.
+- Personal selling. The sellers can observe the potential buyer’s reaction to the message and adjust the promotion strategy to suit the customers’ need.
 
 ### 3.2.2 advertising
 - cost.
@@ -1107,18 +1015,14 @@ improve work efficiency and have a better life.***
 - content. The advertisement should be attractive and eye-catching to give the right connotation of our company’s image.
 
 #### 1）包装
-***it should at least meet the basic requirement, that is, to protect the product against spoilage.***
-
-***Choose the color, texture and design that provide the best image of a product.***
-
-***Offer customers convenience. Make it easier for consumers to open and transfer.***
+- it should at least meet the basic requirement, that is, to protect the product against spoilage.
+- Choose the color, texture and design that provide the best image of a product.
+- Offer customers convenience. Make it easier for consumers to open and transfer.
 
 #### 2）品牌
-***A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.***
-
-***brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.***
-
-***brand awareness, brand acceptance, brand preference, brand loyalty.***
+- A well-known brand means the business organization could offer reliable and excellent after sales service. If your service is no more than lip service, it would get your brand downgraded.
+- brand can be one of the most important marketing tool when it is deeply imbedded in the mind of customers.
+- brand awareness, brand acceptance, brand preference, brand loyalty.
 
 ## 3.3 customer satisfaction,dealing with customer complaint
 - remaining calm,listen to the complaints and apologizie for problem,let customer feel that they are taken good care of;
@@ -1127,16 +1031,14 @@ improve work efficiency and have a better life.***
 - monitor[指导] the quality of service & product,questionnaire to gain feedback and advice from customers,maeket research before launch a product(colour,size,type)
 
 ### 3.3.1）Importance
-***“It is customers who pay our salaries.” Customers and buyers are the lifeblood of any business.***
-
-***Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.***
-
-***customers’ satisfaction will add up to customer’s loyalty.***
+- It is customers who pay our salaries.
+- Customers and buyers are the lifeblood of any business.
+- Customers can serve as the company’s walking advertisement. If you give excellent service, they will freely advertise your company to colleagues and friends, giving you a competitive edge over your rivals.
+- customers’ satisfaction will add up to customer’s loyalty.
 
 ### 3.3.2）how to maintain customers
-***Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.***
-
-***Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.***
+- Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.
+- Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.
 
 # 4.PR[public relation] & corporate hospitality
 ## 4.1 corporate culture & company image
@@ -1182,23 +1084,17 @@ improve work efficiency and have a better life.***
 - venue
 
 ### 6.2.1 advantages
-***Introduce you a wide range of useful contacts and lucrative new markets.***
-
-***Offer a platform for the participants to share experience, exchange views and solve problems.***
-
-***Get the first hand of the present markets conditions.***
+- Introduce you a wide range of useful contacts and lucrative new markets.
+- Offer a platform for the participants to share experience, exchange views and solve problems.
+- Get the first hand of the present markets conditions.
 
 ### 6.2.2 factors considered.
 - cost
 - venues. “location, location, and location.”
-
-***Plan:nothing is more vital than taking time to plan properly. An old saying in China goes like this, preparedness ensures success and unpreparedness spells failure. Make sure that everything is arranged before setting out, for example, the hotels, tickets, itinerary and so on.***
-
-***select the attendee:have the competence to accomplish the delivered tasks.***
-
-***A good command of English as well as the language of the host country. It will greatly facilitate their communication with people at the conference.***
-
-***Select people who have previous experience of working and living abroad. Since a good understanding of the culture and the ways of doing business in the target country is vital to avoid culture pitfalls. And they do not need to adjust themselves to the so-called cultural shock.***
+- Plan:nothing is more vital than taking time to plan properly. An old saying in China goes like this, preparedness ensures success and unpreparedness spells failure. Make sure that everything is arranged before setting out, for example, the hotels, tickets, itinerary and so on.
+- select the attendee:have the competence to accomplish the delivered tasks.
+- A good command of English as well as the language of the host country. It will greatly facilitate their communication with people at the conference.
+- Select people who have previous experience of working and living abroad. Since a good understanding of the culture and the ways of doing business in the target country is vital to avoid culture pitfalls. And they do not need to adjust themselves to the so-called cultural shock.
 
 ## 6.3 product launch 
 - people involved:various teams should be involved to support the events(sales;IT etc)
@@ -1228,20 +1124,15 @@ improve work efficiency and have a better life.***
 - consider flexible work schedule to allow some employees to work from home for some days in a week.
 
 ## 6.7 企业文化
-***it is essential because it can make or break your company. Company culture is actually shared values and norms of organization. It guides the day-to-day operation of the company.***
-
-***it can have an obvious effect on employees, such as the way employees interact with each other, the training and skills development, the working environment.***
-
-***if the employee’s values are not in line with the company, it may cause cultural conflicts.***
+- it is essential because it can make or break your company. Company culture is actually shared values and norms of organization. It guides the day-to-day operation of the company.
+- it can have an obvious effect on employees, such as the way employees interact with each other, the training and skills development, the working environment.
+- if the employee’s values are not in line with the company, it may cause cultural conflicts.
 
 ## 6.8 电子商务
-***Select from a wide range of products simply by clicking your mouse and browsing different things.***
-
-***A great variety of things to choose from.***
-
-***You can not feel or touch what you are buying.***
-
-***There are stories and news about ID being stolen and money disappearing from the account every day.***
+- Select from a wide range of products simply by clicking your mouse and browsing different things.
+- A great variety of things to choose from.
+- You can not feel or touch what you are buying.
+- There are stories and news about ID being stolen and money disappearing from the account every day.
 
 # PART V.变音规则
 ## 1)连读 ：辅音+元音
