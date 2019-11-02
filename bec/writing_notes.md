@@ -55,14 +55,15 @@
     介绍主要数据（不用写每一个 percentage）+对比
 ## 2.1.动态图
        一个数据在不同时间的变化
-***The graph illustrates changes in the amount of beef,lamb,chicken and fish consumed in a particular European country betweeen 1979 and 2004.***
+- The graph illustrates changes in the amount of beef,lamb,chicken and fish consumed in a particular European country betweeen 1979 and 2004.
 
 ### 1）对初始值进行排名
-***In 1979 beef was by far the most popular of these foods,with about 225 grams cousumed per person per week.Lamb and chicken were eaten in similar quantities(around 150 grams),while much less fish was consumed(just over 50 grams).***
+- In 1979 beef was by far the most popular of these foods,with about 225 grams cousumed per person per week.Lamb and chicken were eaten in similar quantities(around 150 grams),while much less fish was consumed(just over 50 grams).
 
 ### 2）逐个介绍数据变化
        变化趋势和幅度相似的，合并描述
-***However,during this 25-year period the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams respectively.The consumption of fish also declined,but much less significantly to just below 50 grams,so although it remained the least popular food,consumption levels were the most stable.***
+
+- However,during this 25-year period the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams respectively.The consumption of fish also declined,but much less significantly to just below 50 grams,so although it remained the least popular food,consumption levels were the most stable.
 
 ### 3）总趋势概括
        3.1）X 个升；
@@ -70,9 +71,8 @@
        3.3）X 个平
        3.4）变化最强烈的是...
 
-***The consumption of chicken,on the other hand,showed an upward trend,overtaking that of lamb in 1980 and that of beef in 1989.By 2004 it had soared to almost 250 grams per person per week.***
-
-***Overall,the graph shows how the consumption of chicken increased dramatically while the popularity of these other foods decreased over the period.***
+- The consumption of chicken,on the other hand,showed an upward trend,overtaking that of lamb in 1980 and that of beef in 1989.By 2004 it had soared to almost 250 grams per person per week.
+- Overall,the graph shows how the consumption of chicken increased dramatically while the popularity of these other foods decreased over the period.
 
 ## 2.2 静态
        数据之间的对比和差异
@@ -97,27 +97,27 @@
 ## 1)title
 
 ## 2)introduction：1-2 句，转述原题/说明目的
-***The purpose of this report is to.../The report aims to...***
+- The purpose of this report is to.../The report aims to...
 
 ## 3)正文：突出变化趋势（动图）、对比（静图）
 ### para 1:1+X
     1：概括本段
     X:具体介绍数字
 
-***according to the bar chart...***
-***as is shown in the table...***
-***as can be seen from the chart that...***
-***it is manifest from the chart...***
-***there was a slight increase in sales in October.***
-***the sales increased slightly in October.***
-***more exactly/precisely/specifically...***
-***As regards to.../The key findings are summerised bellow***
-***According to the recent market research/investigation/survey/the chart above***
-***The recent visit/investigation/survey shows that...***
-***From the chart shown,we find/learn/notice that...***
-***The table/chart above is showing that...***
-***It can be seen from the chart that significantly XX_er(比较级).....than***
-***According to the graph,we see a different trend emerging.***
+- according to the bar chart...
+- as is shown in the table...
+- as can be seen from the chart that...
+- it is manifest from the chart...
+- there was a slight increase in sales in October.
+- the sales increased slightly in October.
+- more exactly/precisely/specifically...
+- As regards to.../The key findings are summerised bellow...
+- According to the recent market research/investigation/survey/the chart above...
+- The recent visit/investigation/survey shows that...
+- From the chart shown,we find/learn/notice that...
+- The table/chart above is showing that...
+- It can be seen from the chart that significantly XX_er(比较级).....than...
+- According to the graph,we see a different trend emerging...
 
 ### para 2:1+X
     1：概括本段
@@ -130,8 +130,8 @@
     X:具体介绍数字
 
 #### 表达数字
-***The number of ...increased/dropped by XX %***
-***The graph shows the percentage of...***
+- The number of ...increased/dropped by XX %...
+- The graph shows the percentage of...
 
 #### 意思相对的词组
 - to go up/to go down/to increase/to decrease
@@ -149,18 +149,17 @@
 - sales increased from 15000 to 17500-so they increased [by] 2500.
 - sales have been increasing in January [for] six month.
 
-
 ## 4）conclusion:1-2句
     4.1）图表、数据间客观联系；
     4.2）介绍总数；
     4.3）没有涉及总数的直接做结论；
 
-***all in all***
-***in conclusion***
-***to conclude***
-***I recommend to.../It was concluded that...***
-***The following are the recommendations...***
-***With the reference to the advantage stated above,the following recommendations can be made...***
+- all in all
+- in conclusion
+- to conclude
+- I recommend to.../It was concluded that...
+- The following are the recommendations...
+- With the reference to the advantage stated above,the following recommendations can be made...
 
 # 5.essential phrase
 ## 5.1 变化程度修饰
@@ -657,31 +656,31 @@
 
 ### 4.1 开头
 #### 1)表明目的
-***I am writing to...***
-***We are interested in...***
-***We would like to know...***
-***I’m writing in connection with/let you know that...***
-***Just a short note about...***
-***I am writing with regard to/about...***
-***In reply to your email,here are...***
-***Here’s the ... you wanted.***
-***Just a note to say...***
+- I am writing to...
+- We are interested in...
+- We would like to know...
+- I’m writing in connection with/let you know that...
+- Just a short note about...
+- I am writing with regard to/about...
+- In reply to your email,here are...
+- Here’s the ... you wanted.
+- Just a note to say...
 
 > ex1:You want to know the prices of some air conditioners.
 
-***We are interested in your air conditioner and we would like to know the prices of some air conditioners.***
+- We are interested in your air conditioner and we would like to know the prices of some air conditioners.***
 
 #### 2）表示收到
-***We have received ...***
-***Thank you for ...***
-***further to your last email,...***
-***Re your email,...***
-***I apologize for not getting in contact with you before now.***
-***Sorry I haven’t written for ages,but I’ve been really busy.***
+- We have received ...
+- Thank you for ...
+- further to your last email,...
+- Re your email,...
+- I apologize for not getting in contact with you before now.
+- Sorry I haven’t written for ages,but I’ve been really busy.
 
 #### 3)提及对方内容
-***asking me...***
-***saying that...***
+- asking me...
+- saying that...
 
 >  A company wrote to you on 23 July. They wanted to know if you sell photocopiers.
 
@@ -692,10 +691,10 @@
 ***We have received your letter of 18 December, enclosing/attaching your curriculum /kʌ'rɪkjʊləm/ vitae /'vi:tai/ [n. 个人简历].***
 
 #### 4) 提及背景
-***with reference to...***
-***with regard to...***
-***in connection with...***
-***further to...[表示递进性的结果]***
+- with reference to...
+- with regard to...
+- in connection with...
+- further to...[表示递进性的结果]
 
 > an invoice (No. 679) for a photocopier
 
@@ -706,9 +705,9 @@
 ***Further to the meeting on 16 January, I am delighted to tell you that we are now able to give you a special offer for our Peach Series computer.***
 
 #### 5) 能或不能
-***We are unable to ...***
-***We are able to ...***
-***We have been forced to ...***
+- We are unable to ...
+- We are able to ...
+- We have been forced to ...
 
 > You cannot lower your prices.
 
@@ -722,35 +721,35 @@
 
 ***We [are able to] give you a discount of 5% if your order is more than $8,000.***
 
-#### 6) 告知好、坏消息
-***I am pleased / delighted to tell / inform / advice you that...***
-***I regret[相当于系动词] / am sorry to tell / inform / advice you that...***
-***We are able to confirm that...***
-***We can confirm that...***
-***I am delighted to tell you that...***
-***We regret to inform you that...***
+#### 6) 告知消息
+- I am pleased / delighted to tell / inform / advice you that...
+- I regret[相当于系动词] / am sorry to tell / inform / advice you that...
+- We are able to confirm that...
+- We can confirm that...
+- I am delighted to tell you that...
+- We regret to inform you that...
 
 #### 7) 说明原因
-***due to...***
-***owing to...***
-***a result of...*** 
-***because of...***
-***the fact that...***
+- due to...
+- owing to...
+- a result of...
+- because of...
+- the fact that...
 
 > increase prices --- fall of the dollar
 
 ***We have been force to increase our prices. This is owing to the fall of the dollar.***
 
 #### 8)要有请求的语气
-***Please could you...***
-***We would appreciate it if you could...***
-***We would be grateful if you ...***
+- Please could you...
+- We would appreciate it if you could...
+- We would be grateful if you ...
 
 #### 9）要有时间限制
-***as soon as possible***
-***immediately***
-***without delay / with no delay***
-***in due course:及时地***
+- as soon as possible
+- immediately
+- without delay / with no delay
+- in due course:及时地
 
 > You have seen an advertisement in the newspaper for a post as office manger. You want an application form.
 
@@ -758,39 +757,34 @@
 
 ### 4.2 action
 #### 1) ask for information
-***Could you give me some information about...***
-***Can you tell me a little more about...***
-***I would /I’d  like to know...***
-***I’m interested in receiving/finding out...***
+- Could you give me some information about...
+- Can you tell me a little more about...
+- I would /I’d  like to know...
+- I’m interested in receiving/finding out...
 
 #### 2) requests
-***I’d be grateful if you could ...***
-***I wonder if you could...***
-***Thank you in advance for your help in this matter.***
-***I’d appreciate your help on this.***
+- I’d be grateful if you could ...
+- I wonder if you could...
+- Thank you in advance for your help in this matter.
+- I’d appreciate your help on this.
 
 #### 3) promising action
-***I’ll investigate the matter.***
-***I’ll look into it.***
-***I will contact you again shortly.***
-***I will get back to you soon.***
+- I’ll investigate the matter.
+- I’ll look into it.
+- I will contact you again shortly.
+- I will get back to you soon.
 
 ### 4.3结尾
 #### 1）期待
-***I look forward to receiving your reply / order / products etc.***
-
-***Looking forward to hearing from you.***
-
-***Looking forward to your reply in due course***
+- I look forward to receiving your reply / order / products etc.
+- Looking forward to hearing from you.
+- Looking forward to your reply in due course
 
 #### 2）希望对您有帮助
-***I hope that this information will help you.***
-
-***Please [contact me] if you need any further information.***
-
-***Please [feel free / do not hesitate] to contact me if you have any further questions.***
-
-***Please let me know if you need any further information.***
+- I hope that this information will help you.
+- Please [contact me] if you need any further information.
+- Please [feel free / do not hesitate] to contact me if you have any further questions.
+- Please let me know if you need any further information.
 
 ## 5.MEMO
      To: Mr. Brown, Director of Human Resources Department
