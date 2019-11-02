@@ -275,12 +275,12 @@
 
 ## 3.向 partner 提问 （1sentence）
 ### 3.1.万用句型
-- 1)You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?
-- 2)You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?
-- 3) Do you think A is the most important one?[只听到一个重点]
-- 4）You mentioned A, B, and C. Do you think(sth related to A,B and C)?
-- 5）You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?
-- 6)I am very interested in...Could you further explain XXX please?
+- You have mentioned 2/3 points in the presentation.Which one is more important?/ Which one youvalue most?
+- You have mentioned A, B and C in the presentation. Which one is more important?/ Which one you value most?
+- Do you think A is the most important one?[只听到一个重点]
+- You mentioned A, B, and C. Do you think(sth related to A,B and C)?
+- You mentioned business trip and maintaining customer relationship.Do you think you should be trained about the other cultures where you're going to do business trips?
+- I am very interested in...Could you further explain XXX please?
 
 ### 3.2advanced
 #### 1)正反分析
@@ -807,28 +807,20 @@ next point.
 ### 2)internal communication
 - communicating with targets->enhance work effciency and excellence
 - feedback->encourage employees/amendment->improve work efficiency&excellence
-
-***Database development：With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.***
-
-***High-communication facilities：Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.***
+- Database development：With it, our company could collect and keep track of valuable information regularly. Database is like a tank, where we can share data effectively within the company, especially about the information of R&D.Local area net. Effective networks include the internet and local net. The latter is inside and not open to public. It would be cost and time effective. That’s why most of business count on it nowadays.
+- High-communication facilities：Many of fortune 500 companies are using video-conferencing, tele-conferencing to keep in touch, instead of face-to-face meeting. High-tech would help develop a habit of documenting. More importantly, be well-documented.
 
 ### 3)reducing overheads/ˈəuvəhedz/
 - cut down->cost of raw materials->product prices->cost conscious
 - companies like to work with good suppliers/good quality with reasonable prices/alternative suppliers/price list
 - efficient production line->well-trained workers/low physical stress and strain/otherwise high turnover rate
 - staff into reduction project,to see their contributions into overheads control
-
-***Introduce Just-in-time systems, which is created by Toyota Corporation of Japan. It is a way of making manufacturing more versatile, and react instantly to demand, rather than just churning out a huge range of goods and having them sitting on the shelves.***
-
-***Implement the comprehensive budget management system. Once you have set a clear budget plan, you’ll be able to manage the overheads by limiting spend and keep track of expenditure.***
-
-***Reduce labor cost. Set up a system in which staff members could work effectively. In other words, give full play to people. Let everyone in the company take full advantage of their talents and skills, and thus will reduce the labor cost.***
-
-***Improve management efficiency is also an approach to reduce the overheads of a company, that is to say, by simplifying some procedures of doing business.***
-
-***consider the long-term effect. We need to put our reduction plan in a greater perspective rather than focus on instant success.***
-
-***get employees involved. Since overheads are closely related to the welfare of all staff members. So concerted efforts are necessary from both managers and all the staff to carry on the plan smoothly.***
+- Introduce Just-in-time systems, which is created by Toyota Corporation of Japan. It is a way of making manufacturing more versatile, and react instantly to demand, rather than just churning out a huge range of goods and having them sitting on the shelves.
+- Implement the comprehensive budget management system. Once you have set a clear budget plan, you’ll be able to manage the overheads by limiting spend and keep track of expenditure.
+- Reduce labor cost. Set up a system in which staff members could work effectively. In other words, give full play to people. Let everyone in the company take full advantage of their talents and skills, and thus will reduce the labor cost.
+- Improve management efficiency is also an approach to reduce the overheads of a company, that is to say, by simplifying some procedures of doing business.
+- consider the long-term effect. We need to put our reduction plan in a greater perspective rather than focus on instant success.
+- get employees involved. Since overheads are closely related to the welfare of all staff members. So concerted efforts are necessary from both managers and all the staff to carry on the plan smoothly.
 
 ### 4)work environment
 - health and safety(facilities safety,reasonable work time),improve the health and safety awareness
@@ -985,18 +977,13 @@ next point.
 - look after yourself and seek others for help if necessary.
 
 # 3.Marketing
-## 3.1 product development & pricing strategy
+## 3.1 product development 
 - market reserach->know customer taste and needs-sell well in markets(market segmentation);
 - screening,gain good product idea and delete bad ones,pricing also improtant;
 - pricing strategy(cost & demand & quality),appropriate pricing strategy,estimate demand quality from market research.
-
-***product development：Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.***
-
-***Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.***
-
-***Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.***
-
-***price setting：1）First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins；2）Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa；3）Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision.***
+- product development：Work out a SWOT analysis - a systematic review of your strengths, weakness, opportunities and threats - to clarify your business thinking and set realistic sales target.
+- Carry out market research to find out about customers’ purchasing habits and attitudes as well as to valuate market size to determine the scale of production.
+- Choose the appropriate strategy. Some enterprises adopt the cost-leadership strategy. It means charging our products lower than the competitors to win the market share quickly. Others prefer differentiate strategy to avoid fierce competition.
 
 ## 3.2 advertising & branding
 - advertising-traditional and digital communication method->publicity of product more effective;
@@ -1039,6 +1026,11 @@ next point.
 ### 3.3.2）how to maintain customers
 - Only with goods and services of high quality can a company maintain its enduring and loyal customers and attract more customer.
 - Information survey. When a customer complains, we would take actions first and deal with problems. And then that won’t be enough. It would be a golden opportunity to look into the causes and effects that happen. For example, one S in 4S is called survey in order to know more customers.
+
+## 3.4 price settin
+- 1）First, we should consider the cost of our new products before we put them into the market. The price level we should set at least include all the cost and investment so that we can gain some margins；
+- 2）Second, it’s necessary to estimate the quantities of a product that consumers will demand. The price of a product is easily influenced by the economic forces of supply and demand. If the demand is strong, we can set high price and vice versa；
+- 3）Third, we will also have to study the consumers’ perception of price to see what price level can be accepted. As the old saying goes, “price is not a major concern, if your purse is full.” For some customers, it is quality rather than price that serves as the top consideration in the buying decision.
 
 # 4.PR[public relation] & corporate hospitality
 ## 4.1 corporate culture & company image
