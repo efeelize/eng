@@ -18,12 +18,9 @@
 #  2.回答结构
 # 1.总分总 + quick answer
 ***Q:whether you think there are some profession in Chinawhich should be better paid？***
-    
-***1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.***
-
-***2)they risk their lives everyday whether at a fire or at a medicial call.they keep people safe and even save lives if needed.they also save pets,valuables,and other property.***
-
-***3)they work under high risk and pressure,so I think they should get paid better for what they do.***
+- 1)Yes,in china people working in different fields are paid quite differently.People in some dangerous occupations,like firefighters,should be better paid.***
+- 2)they risk their lives everyday whether at a fire or at a medicial call.they keep people safe and even save lives if needed.they also save pets,valuables,and other property.***
+- 3)they work under high risk and pressure,so I think they should get paid better for what they do.***
 
 # 2.题型
 ## 2.1）What...
@@ -31,10 +28,9 @@
 > YES/definitely/of course/indeed/sure
 
 ***Q:Is it a good idea to rent office equipment instead of buying them in china?***
-
-    1)Yes,it saves costs a lot and employees can enjoy the benefit of the new technology all the time.
-    2)No,I think the company should buy basic equipment for a long term running.
-    3)Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
+- 1)Yes,it saves costs a lot and employees can enjoy the benefit of the new technology all the time.
+- 2)No,I think the company should buy basic equipment for a long term running.
+- 3)Yes,it depends...（part I 回答时间30sec，不需要分情况讨论）
 
 ## 2.2)Which...
 > 二选一/折中
@@ -42,34 +38,30 @@
 ## 2.3)what
 > differ which:观点、评价、内容
 ### 1.Q:what kinds of businesses you think will be important for the economy in china in the future?
+- Argument 1:[Financial Services] Financial Services is a huge industry and includes services such as banking, investment banking, mutual funds, foreign exchange and much more. A successful modern economy is mostly dependant on a steady and efficient financial system making financial services an essential ingredient of a thriving economy. So as long astrong economies are required Financial Services are required.***
 
-***Argument 1:[Financial Services] Financial Services is a huge industry and includes services such as banking, investment banking, mutual funds, foreign exchange and much more. A successful modern economy is mostly dependant on a steady and efficient financial system making financial services an essential ingredient of a thriving economy. So as long astrong economies are required Financial Services are required.***
-
-***Argument 2:[Sharing Economy] There are 100s of things that we have, but don't use it all the time (home, car, office, bike). Sharing economy refers to someone else using it while you are not using. This is already a billion dollar industry (led by AirBnb). However, we have not seen the biggest yet and could easily be 10s of billions. I have booked 50+ days with Flightcar(renting someone else's car while they are on travel), and I can see potential. There are 100s of segments of this industry that are emerging(such as AirEnvy and Homejoy). Things like research labs will be a part of this economy.***
+- Argument 2:[Sharing Economy] There are 100s of things that we have, but don't use it all the time (home, car, office, bike). Sharing economy refers to someone else using it while you are not using. This is already a billion dollar industry (led by AirBnb). However, we have not seen the biggest yet and could easily be 10s of billions. I have booked 50+ days with Flightcar(renting someone else's car while they are on travel), and I can see potential. There are 100s of segments of this industry that are emerging(such as AirEnvy and Homejoy). Things like research labs will be a part of this economy.***
            
-***Argument3:[Electric cars] Tesla has finally started to produce a more sustainable electric car model. However,we have a long way to go in revolutionzing battery technology, distribution stations,and creating automobiles. Most likely, this will be a repacement industry.***
+- Argument3:[Electric cars] Tesla has finally started to produce a more sustainable electric car model. However,we have a long way to go in revolutionzing battery technology, distribution stations,and creating automobiles. Most likely, this will be a repacement industry.***
            
-***Argument4:[Online education and training] Online education and training: The MOOCs have started scratching the surface ofeducation. However, moving just videos online doesn't make a school. Education is a trillion dollar industry and it will take 2 decades to enable the industry to reach to major inflection point.***
+- Argument4:[Online education and training] Online education and training: The MOOCs have started scratching the surface ofeducation. However, moving just videos online doesn't make a school. Education is a trillion dollar industry and it will take 2 decades to enable the industry to reach to major inflection point.***
        
 ## 2.4）How.../列举东西
 ### 1)How to...
 ***Q:How to make a trainning course successful?***
-
-    A:Good preparation ensures more effective trainning
+- A:Good preparation ensures more effective trainning
 
 ### 2)How + adj.
 ***Q:How important...?== Do you think it's important...?***
-
-    Yes...
-    No...
+- Yes...
+- No...
 
 ## 2.5)Why...
-    回答：cause +effect
-    because/since/for/so/therefore/when
+- 回答：cause +effect
+- because/since/for/so/therefore/when
  
 ***Q:why should companies create a pleasant working environment?***
-
-    A:when companies seek to create appealing working environment,employees will have a good mood in offices.
+- A:when companies seek to create appealing working environment,employees will have a good mood in offices.
 
 # 3.机经
 - 怎样可以找到一份好工作
@@ -81,11 +73,10 @@
 # 4.常考题目
 ## 4.1个人情况
 ***Q:What’s your name?***
-   
-    A:my last name is...and my given name is...but my friends always call me...my English name is ...
+- A:my last name is...and my given name is...but my friends always call me...my English name is ...
 
 ***Q:How do you spell your family name/surnme/last name?***
-     A:It’s...
+- A:It’s...
 
 ***Q:where are you from?what do you like most about your hometown?***
 - It is located in...
@@ -166,13 +157,13 @@
 - A:I usually book a youth hostel, which is much cheaper than the hotel. Besides, I can get acquaintance with many interesting people.***
 
 ***Q:Do you think companies should pay for their staff to stay in expensive hotels on business trips?***
-***A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.***
+- A:It depends. If the staff is going to take business with clients, it is necessary to book an expensive hotel to show the company’s strength and leave a good impression on the potential clients. However, if you do not have to meet visitors, it’s better to choose a clean and reasonably priced hotel to reduce travel costs.
 
 ***Q:Do you enjoy business travel?***
-***A:Yes. By travelling on business, I have a chance to go to different places and experience different customs. It is really a good way to broaden my view.***
+- A:Yes. By travelling on business, I have a chance to go to different places and experience different customs. It is really a good way to broaden my view.
 
 ***Q:what makes a good team?***
-***A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.***
+- A:Well, first, a good team should have a common objective. And then, members should help and trust each other. More importantly, a good leader will lead a good team. Everyone likes working in such kind of a team.
 
 ***What’s your hobby? What do you usually do in spare time?***
 - In my spare time,I like to read books regarding how to be myself and how to deal with problems;
@@ -197,16 +188,16 @@
 - A:Yes/No.I spend my free time doing outdoor activities/working out/chatting online/hanging out with friends.
 
 ***Q:Do you like working in a time or on your own? ( why? )***
-***A:I like working in a team,as the proverb goes:'two heads are better than one.'In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.***
+- A:I like working in a team,as the proverb goes:'two heads are better than one.'In a team,I can learn from my fellow workers,get help from them when I’m underpressure.And the most important thing is:I can learn to communicate with all sorts of people.
 
 ***Q:How important is the central leadership of a team?***
-***A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.***
+- A:It’s very improtant.You need someone with managerial skills to lead within the team:he is able to see the big picture of the work going on,to engage others,coordinate interpersonal relationship and organize resources effectively.
 
 ***Q:Do you prefer to work in small teams or big teams? (why?)***
-***A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.***
+- A:I prefer to work in a big team.You see,when you work with more people,you get a chance to listen to different points of view,to learn to see things in different perspectives.It’s also more challenging as you have to coordinate with more people.
 
 ***Q:Is it necessary for a team to have regular meeting?***
-***A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.***
+- A:Yes,I think it’s absolutely necessary.Regular meetings can enable team members to keep track of work progress and it’s a means of considering information and making collective decisions.
 
 # part II.mini-presentation(说话少、信息量大/1mins)
 > 不要逐句翻译、语言质量比内容重要、内容有可扩展性、不到1mins要扣分
@@ -230,7 +221,7 @@
 ### 2nd:opening sentence
 ***When...there are three important factors we should take into account.***
 
-***When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant /***
+***When it comes to doing sth...,and...are surely /absolutely/definitely the most important/ critical/ essential / significant*** 
 
 ***I have the the following reasons:...is an indispensable part in the business field.***
 
@@ -264,7 +255,6 @@
     supporting detail-2...
 
 > Q:what’s important when aiming to improve a product:customer feedback?
-
 ***1 [如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...***
 
 ***2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
@@ -800,16 +790,13 @@ next point.
                  
 ## Follow Qs
 ***how improtant do you think customer care is?***
-  
-    provide with professional training and support
+- provide with professional training and support
 
 ***what negative reaction might you get from some staff about this sort of training?***
-
-    recorded as being controlled and monitored
+- recorded as being controlled and monitored
 
 ***Do you think it's important to feed back to staff?why?***
-
-    if yes,the feedback can contain can-do tips for staff.
+- if yes,the feedback can contain can-do tips for staff.
    
 # Q.team building
 ***the company you work for is about to take over another company and is keen to encourge staff from both companies to work together effectively.You have been asked to prepare a proposal for team builing.***
