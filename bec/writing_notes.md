@@ -1,7 +1,9 @@
 # writing_notes/70mins
 # 1.原则
-## 1) 客观
-      不能有任何主观想象的成分
+## 1) 格式
+      来不及写也要写2句结尾
+      齐头写，不同段落间空行
+      写在答题卡的横线上
 ## 2）精确
       力求准确，不能看错
       可以用 around,just,under+数字
@@ -10,28 +12,50 @@
       3.2）0-10的数字要拼写，10以上的可以用阿拉伯数字；
       3.3）口语化的表达；
       3.4）被滥用的词语：last but not least
-## 4) 格式
-      来不及写也要写2句结尾
-      齐头写，不同段落间空行
-      写在答题卡的横线上  
-
-***Here is the BWM project,let us know what you think at Monday's meeting.***
+## 4) 语法
+***Here is the BWM project,let us know what you think at Monday's meeting.[X]***
 
     correct：please see the attached for discription of the BMW project
 
-***please call us at 880400***
+***please call us at 880400[X]***
  
     correct:please call me/Jack at 880400
 
-***I will be avaliable at any time.***
+***I will be avaliable at any time.[X]***
 
     correct：You can contact me at your earliest convenience.
 
-## 4）着重的数据
-    4.1）maxium
-    4.2）minimun
-    4.3）intersection：交叉点
-    4.4）trend:变化趋势
+***it was both a long ceremony and very tedious.[X]***
+
+     correct：The ceremony was both long and tedious[and前后词性要一样]
+     
+***Jack and myself stayed home.[X]***
+
+     correct：Jack and I stayed home.
+     
+***She only found two mistakes[X]***
+
+    correct:She found only[only 修饰two,要放在被修饰的词语旁边] two mistakes.
+
+***to diligently inquire[X]***
+
+    correct：to inquire diligently:to do sth 的表达不要拆开
+
+## 5）中式表达
+| 错误  |  正确  |
+| ----  | ---- |
+| the question as to whether | whether,the question whether |
+| there is no doubt but that  | no doubt,doubtless |
+| used for fuel purposes  | used for fuel |
+| he is a man who  |  he  |
+| this is a subject that  |  this subject |
+| is a hasty manner  | hastily  |
+|  her story is a strange one | her story is strange |
+|   the reason why is that | because |
+|  owing to the fact that |  since,because |
+|  in spite of the fact |  though,although |
+|  call your attention to the fact that  |   remind you,notify you  |
+|   I was unaware of the fact that  |  I was unaware that,I did not know  |
 
 # 2.checklist
 ## 2.1)Logic
@@ -43,7 +67,21 @@
        初次出现用a或零冠词;再次出现用the。
        单词拼写：-ed/-s；
        单位、年份不要写错
+## 2.4)标点符号
+### 1）并列句and 前都有逗号
+- A,B,C,[*] and D,
+- ...red,white,and blue
 
+### 2)插入语 前后都有逗号
+- letter，packages,[*]etc,[*]should go there.
+
+### 3)从句之前 加逗号
+- The situation is perilous[*],but there is still one chance of escape.
+
+### 4) 2个独立的句子之间 用分号 连接，不能用逗号
+- 如果2个句子意思相差很大，用句号。尽量不要用分号
+- 独立的句子指的是主系表完整
+- It's almost half past five;[*]we cannot reach town before dark.
 
 # PART I.（120-140words）(20mins)
 > 结构：总分总
