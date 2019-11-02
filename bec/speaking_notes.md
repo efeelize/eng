@@ -317,9 +317,9 @@
 ***What are the differences between A now and that of future?***
      
 #### 3)问题解决
-***What might be the biggest trouble for ...***
+***What might be the biggest trouble for...***
 ***What's your possible solution?***
-***What are the causes of ...?***
+***What are the causes of...?***
      
 #### 2.4)因果关系
 
@@ -353,16 +353,14 @@
 - 2)cultural and communication barriers
                
 ### 2)完整：
-***[总]I choose topic B:'the importance of being willing to make long business trips'.Being willing to make long business trips is quite important for career development.***
-
-***[Arguement1] long business trips are essential for business people to 'close deals',especially in international transactions.'Face-to-face meetings' can double the chance of closing deals,according to a study done by Oxford University.It is important to 'build the trust'between parties in the deal and the trust would be more difficult to generate via telephone or internet.***
-
-***[Arguement2] Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.***    
+- [总]I choose topic B:'the importance of being willing to make long business trips'.Being willing to make long business trips is quite important for career development.
+- [Arguement1] long business trips are essential for business people to 'close deals',especially in international transactions.'Face-to-face meetings' can double the chance of closing deals,according to a study done by Oxford University.It is important to 'build the trust'between parties in the deal and the trust would be more difficult to generate via telephone or internet.
+- [Arguement2] Long business trip are also critical for 'bullding the network that promotes career development.Visting colleagues and customers in different parts of the world can 'increase understanding'.People in different countries may have different cultural backgrounds and working principles and meetings in person after long trip wil be productive in 'tackling cultural and communication barriers'.So,being in front of customers and colleagues results in benefits for business and the willing to do so is important for care development.
 
 ***Q:the improtant of listening skills in work communication?***
-***1)it will gain/win the trust of colleagues/leaders.it increases the possibility of getting promoted;***
-***2)good listening skills in working environment is a good way to strngthen work efficiency and promote communication efficiency/we can be more efficient and productive;***
-***3)if you were salesmen,it is easier to be welcomed by consumer and attract more potential clients to buy products,it is helpful for a good KPI(key performance indicate./what customer really needs)***
+- 1)it will gain/win the trust of colleagues/leaders.it increases the possibility of getting promoted;
+- 2)good listening skills in working environment is a good way to strngthen work efficiency and promote communication efficiency/we can be more efficient and productive;
+- 3)if you were salesmen,it is easier to be welcomed by consumer and attract more potential clients to buy products,it is helpful for a good KPI(key performance indicate./what customer really needs)
 
 ## 2.2）how to...
 - 列清单 :步骤手段达到目的
@@ -414,13 +412,10 @@
 
 #### 2.2）完整：
 ***I choose topic A:the factors involoved in deciding whether to relocate a retail business.***
-***[总] relocating the business is always a critical issue for a retail business and serious considerations must be done before making the final decision.***
-
-***[Arguement1] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.***
-
-***[Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]***
-
-***[总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.***
+- [总] relocating the business is always a critical issue for a retail business and serious considerations must be done before making the final decision.
+- [Arguement1] one major factor to consider is the workforce,relocating the business often means [hiring a large proportion of employees] in another region.The [possiblity of finding qualified workers] must be assessed.[Different costs] of the workforce, including the possible costs to follow different employment policies should also be carefully considered.
+- [Arguement2] Another important factor is the [customer base].The retail business usually has a quite [stable customer base] and the change of neighbourhood may affect it.People making decisions should consider whether relocating business can [attract a new group of stable clients.]
+- [总] It is not easy to decide to relocate the retail business and it is wise to think twice to consider all factors.*
 
 ***Q:the factors involved in building a brand***
 - high qualified products
@@ -577,7 +572,7 @@
 - first,what do you think would be...?
 - first,let's have a look at...
 
-### 2 表示同意
+## 2 表示同意
 - right! that's exactly what i want to say
 - that's just how i see it.
 - I'm of exactly the same idea
@@ -915,7 +910,8 @@ next point.
 ***through training courses, they will acquire the necessary skills or knowledge to better fulfill their responsibilities.***
 
 ***Stimulate the staff’s working enthusiasm so that the efficiency will be improved a great deal.***
- With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.***
+
+***With admirable career plans/ with an appealing incentive system, the company will become very attractive to talented personnel, so it will be easier for the company to recruit new staff of high quality and that will enhance the company’s competitive strength.***
 
 ***a company which gives serious thought to the development of staff will enjoy a good reputation in the business world.***
 
@@ -1016,7 +1012,7 @@ give too serious thought to the cost. If the salary they got is far from adequat
 
 ***Give employees the chance to travel with the family on the company’s expense.***
 
-***Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance. ***
+***Performance-related pay. Employees tend to be more motivated if they are offered compensation and benefits that are tied to their performance.***
 
 ***flexible work schedules can also serve as an important motivator, especially for those women workers who have children. In this way, they can keep good balance between the individual life and work.***
 
