@@ -254,30 +254,25 @@
     supporting detail-1...
     supporting detail-2...
 
-> Q:what’s important when aiming to improve a product:customer feedback?
-***1 [如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...***
+***Q:what’s important when aiming to improve a product:customer feedback?***
+- 1[如果...就会....]: If we have customer feedback,we can easily find out what they like and dislike about our present product,so that...
+- 2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
 
-***2 [如果不...就会...]: If there is no customer feedback,it will be hard for us to find out the existing problems with our product...
+***Q:what’s important when deciding whether to change a product image:market research?***
+- [如果...就会...;如果不.] As far as I know, many companies conducted market  research before they decided to change their product images,such as Coca Cola company,and Oil of Olay.They...
 
-> Q:what’s important when deciding whether to change a product image:market research?
-
-***1 [如果...就会...;如果不.] As far as I know, many companies conducted market  research before they decided to change their product images,such as Coca Cola company,and Oil of Olay.They...***
-
-> Q:what’s important when choosing people to work in teams:specialty?
-
-***A:when choosing people to work in teams,speciality is the first thing to consider.If his or her specialty is exactly what the team or project needs,the possibility of success will be much bigger.Otherwise,he or she cannot contribute a lot to the team work.***
+***Q:what’s important when choosing people to work in teams:specialty?***
+- A:when choosing people to work in teams,speciality is the first thing to consider.If his or her specialty is exactly what the team or project needs,the possibility of success will be much bigger.Otherwise,he or she cannot contribute a lot to the team work.
 
 ### 4th & 5th: 进一步解释说明，阐释为什么
-> Q:what is important when selecting staff for sales positions:appearance.
-
-***A: appearance is not the most important,but it does play an essential part in the sales achievement.That is because...***
+***Q:what is important when selecting staff for sales positions:appearance.***
+- A: appearance is not the most important,but it does play an essential part in the sales achievement.That is because...***
 
 ### 6th: 第二个arguement
 ***In addition to this, we should also pay attention to 论点②...***
-
-    topic sentence 2...
-    supporting detail-1.. 
-    supporting detail-2...  
+- topic sentence 2...
+- supporting detail-1.. 
+- supporting detail-2...  
 
 ### 7th & 8th: 分析第二个arguement
 
@@ -329,13 +324,11 @@
 #### 2.4)因果关系
 
 ## 4.回答 partner 的问题（2-4sentence）/simple and concise 
-> relevant (听不懂的话ask for repetition)
+***relevant (听不懂的话ask for repetition)***
+- exp:I'm not sure I understand your question quite clearly...
 
-***exp:I'm not sure I understand your question quite clearly...*** 
-
-> Interactive
-
-***I think yes, and it is also a very good point. I think....***
+***Interactive***
+- I think yes, and it is also a very good point. I think....
 
 # 2.典型题型
 ## 2.1）the importance of ...
@@ -372,8 +365,7 @@
 ***3)if you were salesmen,it is easier to be welcomed by consumer and attract more potential clients to buy products,it is helpful for a good KPI(key performance indicate./what customer really needs)***
 
 ## 2.2）how to...
-> 列清单 :步骤手段达到目的
-
+- 列清单 :步骤手段达到目的
 - In order to... first, we should... 
 - We also need to... 
 - Last, what we need to...    
