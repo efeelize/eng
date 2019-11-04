@@ -476,12 +476,12 @@
       标题：介词小写，其他的首字母大写，标题写在中间
 # REPORT
 ## 1.SHORT REPORT
-    title:           Report on the XXX(要写标题)
-    Introduction：要做什么/aim
-    Findings 1：描述现状
-    Conclusion/comment 1：评估现状、优缺点
-    Recommendations 1：根据现状的 不好 来写->具体到请几个员工/要求增加购入XX设备;
-                       现状好的地方就不用写了
+    title:                Report on the XXX(要写标题)
+    Introduction：        要做什么/aim
+    Findings              1：描述现状
+    Conclusion/comment    1：评估现状、优缺点
+    Recommendations       1：根据现状的 不好 来写->具体到请几个员工/要求增加购入XX设备;
+                             现状好的地方就不用写了
     Findings 2
     Conclusion 2
     Recommendations 2 ...
@@ -648,7 +648,7 @@
 - (1) could be...
 - (2) might be...
 
-### 2.3)vol5_test1_Q4
+### 2.2)vol5_test1_Q4
 ***Introduction:(目的)This proposal sets out to examine options for the successful globalization of [our ‘B’ brand]. (调查对象)The initial market under consideration is [Continental /kɒntɪ'nent(ə)l/ Europe]. (考查范围)For the purposes of this proposal, we will be considering [three aspects] of the brand, namely our logo, the ‘B’ concept and finally, the product itself, ‘B’ boots.***
 
      国际品牌，优势在何处?(万能思路)
@@ -676,6 +676,99 @@
       采取什么措施?
      (1)适应不同市场; 
      (2)进一步研究，调查最优市场战略。
+
+### 2.3 常用表达
+#### 1）Introduction
+- This proposal sets out to …
+- This proposal is concerned with …
+- I am submitting this proposal in order to …
+- Discuss how to cope with the problem of …
+- Discuss the limitation of the current … and how to better it.
+- Show why … and suggest ways of improving the current situation.
+- Analyze the current problems with … and then to put forward feasible measures that could be taken.
+- Evaluate the current … of our company and offer recommendations for improvements.
+- Give proper recommendations on … of our company based on the analysis of the situation in HR department.
+- Make suggestions to reverse the situation.
+- Present the benefits and the pitfalls.
+- Access the possible benefits we could exploit from it.
+- Examine how we could do …. The proposal will also include a description of the current situation and the disadvantages of the improvements recommended.
+- Examine the reasons for … and make suggestions/ offer proper recommendations for further improvement.
+- All the findings are based on the analysis of the survey we recently conducted among staff.
+- All the analysis here below is based on the thorough research we conducted recently.
+
+#### 2）findings
+- Recently, we have carried out a detailed investigation into …
+- Recently, we have conducted through interviews among the staff and found that …
+- A survey among the employees has shown that…
+- According to the recent research, …
+- A recent investigation has revealed that …
+- After we have done careful research, we find that …
+- It is found that …
+- The key findings are outlined as follows: …
+- Research shows that …
+- After a thorough analysis of the sales data and market conditions, it is found that there are two main factors contributing to this situation. 
+- Firstly, …. Another often mentioned factor was …
+- According to the results of the survey, …
+
+##### 2.1）过渡：
+- However, there are still some aspects that need urgent improvements. Firstly, …
+- The complaints mainly concentrate on the following two aspects.
+
+##### 2.2）强调影响：
+- Which has a very bad influence/impact on all-round development of the company.
+- Which not only defames our company’s reputation, but also despises ones’ own moral quality.
+- …, leading to … (a massive drain of customers客户的大量流失)
+- Plenty of money have been pumped in, but with slim results.
+- … has manifested itself in many aspects. …. All of these have contributed to a significant financial loss.
+
+##### 2.3）表示原因：
+- … are some of the real reasons for this problem.
+- … contribute to this problem to a large extent.
+- Here are the reasons how the problem come about.
+- It is generally/commonly felt/agreed that …  大家普遍感觉/认为…
+- The main reason that has to be pointed out, is the fact that …
+
+#### 3）Conclusion （可以采用第一人称）
+- … prove that … can help our company get through the difficult time.
+改进：
+- Thus, I recommend we make the following changes to improve the training:
+
+#### 4）Recommendations
+- Considering the current dissatisfaction and difficulty, I recommend several practices should be taken accordingly.
+- We strongly recommend the following activities: …
+- As regards the seriousness of this issue, I would suggest that some useful measures should be adopted.
+- To …, it is recommended to make the following changes/ take the following measures.
+- In order to (reverse the fall), I recommend the following steps be taken.
+After closely assessing the situation, it is recommended to take the following steps in order to improve …
+- It is recommended that we approach the problem by …
+- It is suggested that we do …
+- It is advisable that we do …
+- Based on the findings above, I have to urge caution in … since it would involve a large sum of investment with certain profitability. Thus, I recommend …
+- Needless to say we will see an upbeat statement at the end of year. However, I think we could build on the success to make still further progress by …
+- To implement the above measures, the company has to invest more in …
+- The whole process need full cooperation of … department and … department, so a proper interdepartmental communication mechanism needs to be introduced.
+
+
+#### 5）可能的结果
+##### 5.1）好处
+- By these measures, we can undoubtedly establish … and they will have a positive impact on the performance of the company.
+- These measures would naturally lead to …
+- This will make …, thus doing…
+- In conclusion, the measures above are estimated to increase the number of … and present an up-to-date and dynamic image of our company.
+With the measures above, we are looking to make further progress in the coming year.
+
+##### 5.2）风险：成本
+- However, there is no denying the fact that some possible risks are involved. For instance, …
+- The possible risks, if these measures are adopted, are that ….
+- Although there are great potential profits and possible competitive edges in …, the risks involved cannot be ignored. 
+- However, I am quite concerned about the “quantity over quality” effect it may have.
+- All these improvements will certainly cost a huge amount of money. 
+- Although the cost is relatively higher, the luxury it provides can well reflect the image of our company as a leader in our line of business. 
+
+##### 5.3）长时间见效
+- Nevertheless, this is a complex job so several months may be taken before any tangible benefits to be seen.  
+- This measures will undoubtedly improve the impression of our company but it requires a sum of investment on …
+- They are quite time-consuming and this of course will lead to more costs. But it will pay in the long run.
 
 ## 3.LETTER
 ### 3.1 结构
@@ -708,7 +801,7 @@
         Canglang District
         Suzhou City, Jiangsu Province, 215000 P.R.China 
 
-#### 2） Reference Number(可以编号码)
+#### 2）Reference Number(可以编号码)
         Your Ref. No.:
         Our Ref. No.:
 
@@ -765,6 +858,40 @@
 
 ***Best regards*** 
 ***Maurizio***
+
+### 3.5 常用表达
+#### 1）请求回函
+- We would appreciate an early reply.
+- We look forward to your favorable reply
+- We look forward to hearing from you soon.
+- Your prompt attention to this matter will be appreciated. 
+- Your prompt attention in this matter will be appreciated.
+- Please write us at the above address.
+
+#### 2）请多关照
+- Your kind cooperation in this respect/on this issue is greatly appreciated.
+- Please do not hesitate to contact us.
+- We are always anxious to assist you in...
+
+#### 3)表示谢意
+- Thank you for the opportunity to be of service.
+- We appreciate this opportunity to..
+
+#### 4)表示歉意
+- Please accept our sincere apologies. 
+- I want to extend my personal apologies for
+- We are sorry to inform you that...
+- We are sorry to inform you that...
+
+#### 5)致谢
+- We appreciate your cooperation and... 
+- We thank you for your offer.
+
+#### 6)抱怨
+- We are sorry to inform you that...
+- We would like to call your attention to...
+- May we take this occasion to remind you that...
+- 
 
 ## 4.商务信函
 ## 内容
