@@ -89,8 +89,15 @@
 # 1.opening para
     介绍图表主体/改写题干
   
+- The aim of this report is to show the company’s results in the years 2001-2003.
+
 # 2.body para 
     介绍主要数据（不用写每一个 percentage）+对比
+
+- In 2001, the company’s operating profit peaked at the $500 million and its turnover reached $6200 million as well. The whole year they sold $20 million units, which says it was a dramatic year.
+- In the following year, the company had to handle a huge decrease in operating profits of 20% and a decline of their turnover of almost $1 million. It was perhaps because of the less units sold.
+- In 2003, the company was able to deliver more units again, which was nearly 15 million. Their turnover, therefore, could jump at the same level of 2001. It was disappointing that their operating profits still went down, because they had to meet more marketing expenses.
+
 ## 2.1.动态图
        一个数据在不同时间的变化
 - The graph illustrates changes in the amount of beef,lamb,chicken and fish consumed in a particular European country betweeen 1979 and 2004.
@@ -133,9 +140,13 @@
 
 # 4.model
 ## 1)introduction：1-2 句，转述原题/说明目的
-- The purpose of this report is to.../The report aims to...
+- The purpose of this report is to...
+- The report aims to/at...
 - the aim of this report is to...
-
+- The three graphs provide an overview of …
+- This is a report concerning …
+- The overall result of … shows/ describe/ summarize/ compare/ show/ outline/ analyze/  significant differences between … and ….
+ 
 ## 2)正文：突出变化趋势（动图）、对比（静图）
 ### para 1:1+X
     1：概括本段
@@ -169,6 +180,23 @@
 #### 表达数字
 - The number of ...increased/dropped by XX %...
 - The graph shows the percentage of...
+
+#### 在…时间段：
+- Between xxx and xxx
+- Over a ten-year period from xxx to xxx
+- Over the years xxx to xxx
+- During a 12-week period, which was divided further into three sub-periods.
+- In the two subsequent periods
+- For the rest of periods studied
+- Throughout the five years
+- Through the period considered
+- Within the whole period
+- During/over the period studied
+- Over the given period
+- Over the period in question
+- Over the same period
+- In the following two years
+- All the way through
 
 #### 意思相对的词组
 - to go up/to go down/to increase/to decrease
@@ -206,6 +234,12 @@
 - therefore,it is easy to draw the conclusion that...,
 - recognizing the fact that...should drive us to conclude that...
 - to put all into a nutshell/'nʌtʃel/[概括],I...
+- concerning …
+- in light of … [鉴于]
+- in terms of … [就...而言,在...方面]
+- in view of … [鉴于]
+- depending on … considered
+- Summarizing the results of this survey you can say that there is need for improvement in the fields of …
 
 # 5.essential phrase
 ## 5.1 变化程度修饰
@@ -225,7 +259,6 @@
 ***The point to note is the huge increase/in the number of...***
 ***The general trend appears to be increases.***
 ***With the result of automation productivity has [increased]6 times in that factory.***
-
 
 > go up/went up
 
@@ -250,6 +283,18 @@
 ***Rise gradually to about 10%***
 
 > ascend
+
+    约等于：About/ around/ approximately/ nearly/ almost
+    连续地：Constantly/ consecutive/ 
+    比较好的：satisfactory; 
+    轻微地：slightly/ gradually/ 
+    明显的：remarkably/ markedly/ precipitately
+    回升：rebound/ recovery/ 
+
+- The figure shows a rise of … within the whole period and no fluctuations are to be marked. [持续增长，无波动]
+- … rose from … in xxx to … in xxx, suffering minor fluctuations all the way through. [增长，有小波动]
+- … increased slightly, ending the period around … over their starting level. [小幅增长，结尾比初始增加了…]
+- Suffer a temporary fall between … and …, followed by a steady recovery.  [先下降再上升]
 
 ### 2)下降
 > fall/fell
@@ -280,11 +325,14 @@
 
 ***House prices have [plummeted] in recent months.***
 
-> drop
+    drop
+    sink/sank/sunk
+    descend
 
-> sink/sank/sunk
+- After peaking at around … in xxx, … fell slightly to their final value.  
+- Remaining relatively satisfactory at … in xxx, it witnessed a sharp fall to 
+- From … in xxx, it shot up quickly in xxx, peaking at …. However, it dropped back to … in xxx.
 
-> descend
 
 ### 3)在一个稳定的水平上
 > levelled off at
@@ -299,6 +347,9 @@
      stablize at
      reached a plateau at
      stay the same at
+     remain almost unchanged between … and … 
+     remain relatively stable at…
+     did not vary much and just remained at …
 
 ### 4)峰值
 > peaked at
@@ -309,6 +360,9 @@
 > bottomed out
 
 ***House prices will have [bottomed out：走出谷底] in America,the plave where it all began:national prices will at last[hit a trough:达到最低点],some 35%-40% below their 2006 [peak].***
+
+- The percentage rose constantly in the following two years, peaking at … in xxx.
+- The percentage remained relatively stable at … except a slight fall to … in xxx.
 
 ### 5)将来数字的预测
 > expected/projected/ predicted/forecasted
@@ -336,6 +390,19 @@
 
 ***Foreign capital [occupies] fixed assets to invest to be controlled than hefting 25%***
 
+> 占比均为1/3
+
+***… are almost equally divided between a, b or c.***
+
+> 占比很少：
+
+***A seem less keen on …***
+***as only … percent are …***
+
+> 表现差不多
+***show a similar trend as …***
+***show the same performance***
+
 ### 7)达到多少数量的及物动词
 > amount to
 
@@ -349,7 +416,13 @@
 
 ***In valuation terms, emerging-market shares now [stand at] a 15-20% discount to developed markets.***
 
-> arrive at
+- arrive at
+- Soar to a record high of … in xxx.
+- Reach a low at …
+- Hit the lowest at …
+- Reach its two-year lowest at …
+- which is also the sales record of all the three types.
+- From the chart we can see that there was a steady growth in …
 
 ### 8)幅度
 > gradual:proceeding in small stages
@@ -384,6 +457,20 @@
        slight:small in amount or degree
        slow:moving, happening, or doing something without much speed
 
+### 9)对比
+- The situation in … is different.
+- On the contrary, …
+- In contrast to …, …
+- …, however, …
+- …, on the other hand, …
+- Conversely, …
+
+### 10)问卷调查
+- Asked about …, 700 out of 1260 respondents responded positively, whereas 560 said something negative about it.
+- Looking at …, there are almost three times as many people responding negatively than positively.
+- … was equally evaluated. For this service, the survey counted … positive and … negative responses.
+- Only a fourth of the 1250 respondents complained about … while the remaining 950 people thought positively about …
+
 # PART II.（200-250words）(40mins)
       三选一，要在答题卡上填涂题号
       标题：介词小写，其他的首字母大写，标题写在中间
@@ -402,38 +489,33 @@
 ### 1.Introduction 背景和事由
 > 目的，研究范围，具体部门，具体时间段，数据基础， etc.
 
-***This report aims / sets out to...***
-***The report is based on...***
-***The aim of this report is to...***
+- This report aims / sets out to...
+- The report is based on...
+- The aim of this report is to...
 
 ### 2. Findings 调查结果或比较结果/客观的
 > 现状，问题，后果;论点，原因，etc.
 
-***It was found that...***
-***The following points summarize our key findings.***
-***The key findings are outlined below.***
+- It was found that...
+- The following points summarize our key findings.
+- The key findings are outlined below.
 
 ### 3. Conclusion 结论或推论/主观的
 > 逐层，渐进，从现状推导需求
 
-***It was decided that...***
-***It is clear that...***
+- It was decided that...
+- It is clear that...
 
 ### 4. Recommendations 建议
 > 具体办法，其他方面处理，etc.
 
-***It is suggested / proposed / recommended that...***
-***We (strongly) recommend that...***
-***It is essential to...***
-***It would be advised to...***
+- It is suggested / proposed / recommended that...
+- We (strongly) recommend that...
+- It is essential to...
+- It would be advised to...
 
 ### 5.Additional Budget->additional money
-    Your comapny recently is considering giving additional budget for for a 
-    certain department. Your Head of Department has asked to to produce the 
-    report about the necessity of the budget.
-    Write the report for the Managing Director, explaining:
-    the general description of the department. Why the department need the 
-    budget. how to plan the budget.
+> Your comapny recently is considering giving additional budget for for a certain department. Your Head of Department has asked to to produce the report about the necessity of the budget.Write the report for the Managing Director, explaining:the general description of the department. Why the department need the budget. how to plan the budget.
 
     内容扩充
     1.training
@@ -495,9 +577,9 @@
              (breakdown of communication, confusion/kən'fjuːʒ(ə)n/[混淆], disrupt production cycles)
       commute
 
-***Findings:{总结句}A number of employees clearly suffer from a lack of motivation as a result of dissatisfaction in one or more areas of their work. [The key findings are outlined below]:(待遇少)Staff feel [undervalued] by the company, both on a financial and a personal level. (竞争对手待遇好)It is generally felt that the company’s competitors offer higher levels of [remuneration] /rɪ,mjuːnə'reɪʃ(ə)n/. (感觉不被重视)The perception that managers are unappreciative of staff efforts is particularly noticeable in the [Sales Department].***
+- Findings:{总结句}A number of employees clearly suffer from a lack of motivation as a result of dissatisfaction in one or more areas of their work. [The key findings are outlined below]:(待遇少)Staff feel [undervalued] by the company, both on a financial and a personal level. (竞争对手待遇好)It is generally felt that the company’s competitors offer higher levels of [remuneration] /rɪ,mjuːnə'reɪʃ(ə)n/. (感觉不被重视)The perception that managers are unappreciative of staff efforts is particularly noticeable in the [Sales Department].
 
-***(无挑战性)Certain employees feel [under-challenged]. (潜能无法施展)The company is clearly not exploiting the [potential] of its human resources.(沟通不畅)There appears to be a [breakdown] of communication in the [Production Department]. (困惑)The [confusion] and resultant [ill-feeling] towards managers has the potential to (阻断生产)disrupt production cycles.***
+- (无挑战性)Certain employees feel [under-challenged]. (潜能无法施展)The company is clearly not exploiting the [potential] of its human resources.(沟通不畅)There appears to be a [breakdown] of communication in the [Production Department]. (困惑)The [confusion] and resultant [ill-feeling] towards managers has the potential to (阻断生产)disrupt production cycles.
 
 #### 7.2)recommedation
       Sales: 检查工资结构，对比竞争对手;
@@ -507,7 +589,7 @@
               efficiently)
       Production: 调查、解决沟通问题。 (investigate, take actions)
 
-***We strongly recommend the following measures:A review of the current [salary structure] involving comparison with [similar organizations].An [evaluation of job profiles] throughout the company to assesswhether skills could be [utilized more efficiently.]It is also essential to [investigate] and [take action] regarding [communication] in the Production Department.***
+- We strongly recommend the following measures:A review of the current [salary structure] involving comparison with [similar organizations].An [evaluation of job profiles] throughout the company to assesswhether skills could be [utilized more efficiently.]It is also essential to [investigate] and [take action] regarding [communication] in the Production Department.
 
 ### 8.4courses
      You have recently attended the following one-day courses:
@@ -535,11 +617,11 @@
 
 > 参考答案
 
-***Introduction:In my opinion,the most useful courses were:Managing people and Trends in Electronic Commerce.'Managing People was a one-day course focused on management techniques and their successful implementation.It examined different management styles and their benefits and disadvantages.'Trends in Electronic Commerce'was a practically oriented one-day course.The main issues discussed involved:the latest trends in e-commerce,security of information,business to business(B2B) trading and potential savings enable by e-commerce.***
+- Introduction:In my opinion,the most useful courses were:Managing people and Trends in Electronic Commerce.'Managing People was a one-day course focused on management techniques and their successful implementation.It examined different management styles and their benefits and disadvantages.'Trends in Electronic Commerce'was a practically oriented one-day course.The main issues discussed involved:the latest trends in e-commerce,security of information,business to business(B2B) trading and potential savings enable by e-commerce.
 
-***Benefits:Both of these courses were very interesting for me,as I work as a Purchase Manager.I am going to use some of the management techniques in my department.I would like to improve the current approach to motivation or organization of meetings for example. I think that'motivating people'is a key aspect of my job.'Trends in Electronic Commerce'course was also very useful for me as we are set to start ordering process using the Internet technology.***
+- Benefits:Both of these courses were very interesting for me,as I work as a Purchase Manager.I am going to use some of the management techniques in my department.I would like to improve the current approach to motivation or organization of meetings for example. I think that'motivating people'is a key aspect of my job.'Trends in Electronic Commerce'course was also very useful for me as we are set to start ordering process using the Internet technology.
 
-***Conclusion:Next year,I would like to attend at least one of the following courses:1)Effective Negotiations;2)Time Management;3)Communication——a key factor for success.As all of these topics are closely related to my profession,I am sure that it would be to my and also company's benefit if I could attend these courses.***
+- Conclusion:Next year,I would like to attend at least one of the following courses:1)Effective Negotiations;2)Time Management;3)Communication——a key factor for success.As all of these topics are closely related to my profession,I am sure that it would be to my and also company's benefit if I could attend these courses.
 
 ### 9.topic:公司怎样用钱
      1）新产品可以不买，因为现有产品仍然可用(new, fast, handle, etc.);
@@ -555,23 +637,16 @@
 
 ### 2.1 固定表达
 #### 1)Strong Recommending 强烈建议***
-***(1) must / should + 被动语态***
-         
-          After-sale care must be improved.
-
-***(2) It is strongly recommended that ...***
-          
-          It is strongly recommended that national advertising be stopped.
+- (1) must / should + 被动语态...After-sale care must be improved.
+- (2) It is strongly recommended that ...It is strongly recommended that national advertising be stopped.
 
 #### 2)Neutral Recommending 中性建议 
-***(1) It is recommended that...***
-***(2) It is advised to...***
-          
-          It is advised to investigate competitor’s salesmen’s salaries.
+- (1) It is recommended that...
+- (2) It is advised to...It is advised to investigate competitor’s salesmen’s salaries.
 
 #### 3)Weak Recommending 弱建议 
-***(1) could be...***
-***(2) might be...***
+- (1) could be...
+- (2) might be...
 
 ### 2.3)vol5_test1_Q4
 ***Introduction:(目的)This proposal sets out to examine options for the successful globalization of [our ‘B’ brand]. (调查对象)The initial market under consideration is [Continental /kɒntɪ'nent(ə)l/ Europe]. (考查范围)For the purposes of this proposal, we will be considering [three aspects] of the brand, namely our logo, the ‘B’ concept and finally, the product itself, ‘B’ boots.***

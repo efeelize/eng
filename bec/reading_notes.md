@@ -27,10 +27,8 @@
 ***be/look/smell***
 
 ## 5）独立主格
-***1）Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl***
-***2）Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.***
-
-***human resources [directors:主语]in some sectors are [having to behave] like theatrical /θɪ'ætrɪk(ə)l/ [表演的、舞台的] casting [选演员] agents:they staff [选员工]work[短时间的某段工作],not jobs[长期的岗位].->人力资源主管不得不开始像为戏剧选择演员一样，为工作选择演员，而不是为职位选择员工。***
+- 1）Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl.
+- 2）Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.
 
 ***[predicstions:主语] about how the communication revolution would transform managemnet have [followed：谓语] a [trajectory:宾语] /trə'dʒekt(ə)rɪ/ [轨迹] just as wild and erratic /ɪ'rætɪk/ [疯狂的] as high-technology stock prices.：关于信息革命会如何改变管理的预测遵循了像高科技公司的股票一样波动的轨迹。***
 
@@ -42,47 +40,45 @@
 
      现在可能会影响企业把工作交给外包公司的事情是当代企业不灵活的信息系统的结构；
 
-
 # 2.从句
 ## 2.1 定语从句:等同于形容词修饰名词
 ***that/which/who/whom/whose***
 
-     1)I saw a girl who wore a red dress.
-     2)The girl wears a red dress which is expensive.
-     3)This is the house which I lived in.
-     4)This is the house where I lived.
-     5)We should all attend the meeting whose improtance is so obvious.
-     6)I bought a new phone whose screen is 4.3 inches.
-     7)I have a crash on the girl whose hair is red.
-     8)I talked to the man whom my father worked with.
-     9)I leave the guy my sister hates.
-     10）The couple（主语）【 who live next to us：修饰 couple】 (have:主句真正的谓语) a son.
+- 1)I saw a girl who wore a red dress.
+- 2)The girl wears a red dress which is expensive.
+- 3)This is the house which I lived in.
+- 4)This is the house where I lived.
+- 5)We should all attend the meeting whose improtance is so obvious.
+- 6)I bought a new phone whose screen is 4.3 inches.
+- 7)I have a crash on the girl whose hair is red.
+- 8)I talked to the man whom my father worked with.
+- 9)I leave the guy my sister hates.
+- 10）The couple（主语）【 who live next to us：修饰 couple】 (have:主句真正的谓语) a son.
 
 ## 2.2 名词性从句
-     1）That I love you confuses me.
-     2) It confuses me that I love you.
-     3) It was a mistake that I wrote this letter.
-     4) Whether he will come is a question.
-     5) Who killed the poor man raised an argument.
-     6) I never doubt where you belong.
-     7) I know you don't like him.
-     8) I don't understand how he got involved.
+- 1）That I love you confuses me.
+- 2) It confuses me that I love you.
+- 3) It was a mistake that I wrote this letter.
+- 4) Whether he will come is a question.
+- 5) Who killed the poor man raised an argument.
+- 6) I never doubt where you belong.
+- 7) I know you don't like him.
+- 8) I don't understand how he got involved.
 
 ## 2.3 状语从句
 ***because/so/when/where/if/although***
 
-     1)I have studied French for 10years since I was 6.
-     2)I knew him when we were in primary school.
-     3)If I were you,I would never marry him.
-     4)Althogh it is a great idea,we shouldn't do it.
-     5)He called me,after he realised it was a mistake.
+- 1)I have studied French for 10years since I was 6.
+- 2)I knew him when we were in primary school.
+- 3)If I were you,I would never marry him.
+- 4)Althogh it is a great idea,we shouldn't do it.
+- 5)He called me,after he realised it was a mistake.
 
 ## 2.4 主语从句
-     1）【what we gave them:主语】was some home-made ice-cream
-     2)it was【强调句】Tom【表语】that/who【连词】【Helen bought the car from：主语】.
-     3)it is impossible 【表语】【 to see the house in universe：主语】
-       -> To see the house in universe is impossible.
-     4)【whether he will come：主语】 really bothers me.
+- 1）【what we gave them:主语】was some home-made ice-cream
+- 2)it was【强调句】Tom【表语】that/who【连词】【Helen bought the car from：主语】.
+- 3)it is impossible 【表语】【 to see the house in universe：主语】-> To see the house in universe is impossible.
+- 4)【whether he will come：主语】 really bothers me.
 
 ## 2.5 限定性 & 非限定性 定语从句
 ### 1）非限定性
@@ -97,14 +93,14 @@
 
 # 3.拆句原则
 ## 3.1)连词可能被省略，在不影响理解的情况下
-***I know(that）you love me***
-***He(两个动作一个主语) stopped looking(V1) at me and cried(V2).***
+- I know(that）you love me
+- He(两个动作一个主语) stopped looking(V1) at me and cried(V2).
 
 ## 3.2）1 个连词连接2套主谓，2 个连词连接 3 套主谓。
-***He is cool (and) I love him.***
+- He is cool (and) I love him.
 
 ## 3.3）不是连词是adv的词语 
-***however,thus,therefore.neverless,in addition,for example*** 
+***however,thus,therefore.neverless,in addition,for example***
 
     1）A1,however，A2->A2与（A1,however）整体是一个转折的关系
     2）A,B1,however，B2,C->A & B 是however 的关系->B1,B2是B的成分
@@ -322,7 +318,7 @@
     3）确定性
   
 ## 2.做题方法
-     1)切分句子
+     1) 整句来看
      2）1st检查语法和词法
      3）2nd理解句子，检查句意
      4）将句子中确定没问题的部分划去，或者括号留下问题部分
