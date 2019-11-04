@@ -30,6 +30,19 @@
 ***1）Driving 【主动关系】on the way back home,I【全句的主语】 saw a little girl***
 ***2）Decorated 【被动关系】 with balloons,the house【全句的主语】 looks fascinating.***
 
+***human resources [directors:主语]in some sectors are [having to behave] like theatrical /θɪ'ætrɪk(ə)l/ [表演的、舞台的] casting [选演员] agents:they staff [选员工]work[短时间的某段工作],not jobs[长期的岗位].->人力资源主管不得不开始像为戏剧选择演员一样，为工作选择演员，而不是为职位选择员工。***
+
+***[predicstions:主语] about how the communication revolution would transform managemnet have [followed：谓语] a [trajectory:宾语] /trə'dʒekt(ə)rɪ/ [轨迹] just as wild and erratic /ɪ'rætɪk/ [疯狂的] as high-technology stock prices.：关于信息革命会如何改变管理的预测遵循了像高科技公司的股票一样波动的轨迹。***
+
+***A 2% [drop:主语] in UK [like-for-like:同比的] sales in the last 3 months has forced healthcare retailers ForYou to [issue:发布] a profit [warning:插入语 with...修饰的都是 warning],with a suggestion that earnings for the year are likely to be cut by 10-15%.//[Mangement:主语] has been accused of over-optimism in believing it could deliver[v.实现] 40% new product growth annually.//[The trumoil /'tɜr.mɔɪl/{动荡}:主语] resulting from this strategy will increase [stock-carrying costs:库存成本] by $3,and has resulted in the resignation of the director responsible for product and marketing.The shares[股票价格] closed on Friday at 76p,down 29% in the past year.***
+
+     a drop issue a warning
+
+***one [thing:主语] currently limiting the ability of companies to outsource[外包] tasks offshore[离岸，在国外] is the infelxible[rigid,古板的] architecture[结构] of modern business-information systems.//[It:主语，值得是前句的结构] forces firms to perform[完成] tasks  as a series of discrete /dɪ'skriːt/ [分散的、离散的] steps.//So a business wanting to outsource some of those steps(billing,for instance),but not others,get involved in complicated flows of information[信息流] that are prone /prəʊn/ to [易于…的] error.Newer software and hardware promise a future in which firms will be able to out source smaller[slivers /'slivə/ of :一部分] their business.They will not,as now,have to commit to outsourcing the whole of department or nothing.***
+
+     现在可能会影响企业把工作交给外包公司的事情是当代企业不灵活的信息系统的结构；
+
+
 # 2.从句
 ## 2.1 定语从句:等同于形容词修饰名词
 ***that/which/who/whom/whose***
@@ -70,7 +83,6 @@
      3)it is impossible 【表语】【 to see the house in universe：主语】
        -> To see the house in universe is impossible.
      4)【whether he will come：主语】 really bothers me.
-
 
 ## 2.5 限定性 & 非限定性 定语从句
 ### 1）非限定性

@@ -4,6 +4,7 @@
       来不及写也要写2句结尾
       齐头写，不同段落间空行
       写在答题卡的横线上
+
 ## 2）精确
       力求准确，不能看错
       可以用 around,just,under+数字
@@ -42,14 +43,14 @@
     correct：to inquire diligently:to do sth 的表达不要拆开
 
 ## 5）中式表达
-| 错误  |  正确  |
+| 错误[用很多词表达一样的意思]  |  正确  |
 | ----  | ---- |
 | the question as to whether | whether,the question whether |
 | there is no doubt but that  | no doubt,doubtless |
 | used for fuel purposes  | used for fuel |
 | he is a man who  |  he  |
 | this is a subject that  |  this subject |
-| is a hasty manner  | hastily  |
+| in a hasty /'heɪstɪ/ [草率的] manner  | hastily  |
 |  her story is a strange one | her story is strange |
 |   the reason why is that | because |
 |  owing to the fact that |  since,because |
@@ -84,11 +85,10 @@
 - It's almost half past five;[*]we cannot reach town before dark.
 
 # PART I.（120-140words）(20mins)
-> 结构：总分总
+> 结构：总分总-不需要写小标题
 # 1.opening para
     介绍图表主体/改写题干
-    最好写小标题
-
+  
 # 2.body para 
     介绍主要数据（不用写每一个 percentage）+对比
 ## 2.1.动态图
@@ -132,12 +132,11 @@
     overview
 
 # 4.model
-## 1)title
-
-## 2)introduction：1-2 句，转述原题/说明目的
+## 1)introduction：1-2 句，转述原题/说明目的
 - The purpose of this report is to.../The report aims to...
+- the aim of this report is to...
 
-## 3)正文：突出变化趋势（动图）、对比（静图）
+## 2)正文：突出变化趋势（动图）、对比（静图）
 ### para 1:1+X
     1：概括本段
     X:具体介绍数字
@@ -187,7 +186,7 @@
 - sales increased from 15000 to 17500-so they increased [by] 2500.
 - sales have been increasing in January [for] six month.
 
-## 4）conclusion:1-2句
+## 3）conclusion:1-2句
     4.1）图表、数据间客观联系；
     4.2）介绍总数；
     4.3）没有涉及总数的直接做结论；
@@ -198,6 +197,15 @@
 - I recommend to.../It was concluded that...
 - The following are the recommendations...
 - With the reference to the advantage stated above,the following recommendations can be made...
+- talking into account of all these factors,we may reach the conclusion that...
+- all reliable evidences point to one saying,that is...
+- for the reasons that...,I think that...
+- while it is true that...,I think that...
+- given the factors I have just outlined,I can only say that...
+- this is not to say that...,but in terms of...,it is...
+- therefore,it is easy to draw the conclusion that...,
+- recognizing the fact that...should drive us to conclude that...
+- to put all into a nutshell/'nʌtʃel/[概括],I...
 
 # 5.essential phrase
 ## 5.1 变化程度修饰
@@ -377,7 +385,8 @@
        slow:moving, happening, or doing something without much speed
 
 # PART II.（200-250words）(40mins)
-> 三选一，要在答题卡上填涂题号
+      三选一，要在答题卡上填涂题号
+      标题：介词小写，其他的首字母大写，标题写在中间
 # REPORT
 ## 1.SHORT REPORT
     title:           Report on the XXX(要写标题)
@@ -595,6 +604,12 @@
 
 ## 3.LETTER
 ### 3.1 结构
+    [顶格]Dear...
+         [空两格]...
+         [段落之间不空行]
+                                      yours,sincerely
+                                               Leslie[靠最右]
+
 #### 1）标题
         下划线、居中、相当于信件的标题
         New Product Launching Press Conference Comments, BMW Report
