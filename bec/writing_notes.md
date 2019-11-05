@@ -538,19 +538,19 @@
        how:advertising channels
            improved survey in XX...
 
-***Introduction : (目的)The [aim] of this report is to consider additional budget for (拟出具体部门)the public relations department for (拟出具体 时段)the coming year. (数据来源)It is [based on] the survey by human resources department.***
+- Introduction : (目的)The [aim] of this report is to consider additional budget for (拟出具体部门)the public relations department for (拟出具体 时段)the coming year. (数据来源)It is [based on] the survey by human resources department.
 
-***Findings:The following points summarize our key findings.(现状)The Public Relations Department is now having three interpreters and one receptionist. (问题)They can hardly deal with the increasing number of visitors and clients. (后果)It is impossible for them to cover over the upcoming busy seasons.***
+- Findings:The following points summarize our key findings.(现状)The Public Relations Department is now having three interpreters and one receptionist. (问题)They can hardly deal with the increasing number of visitors and clients. (后果)It is impossible for them to cover over the upcoming busy seasons.
 
-***Findings:Due to rapid business increase, (论点1)the Department needs to recruit five new employees (原因1)to cover over the loss of staff through retirement later in the year, (论点2)as well as two temporary workers (原因2)to provide cover for maternity leave that may well be long-term.***
+- Findings:Due to rapid business increase, (论点1)the Department needs to recruit five new employees (原因1)to cover over the loss of staff through retirement later in the year, (论点2)as well as two temporary workers (原因2)to provide cover for maternity leave that may well be long-term.
 
-***可以附加：...What’s more, the existing office [space and equipment] is inadequate for a busy department of public relations.***
+- 可以附加：...What’s more, the existing office [space and equipment] is inadequate for a busy department of public relations.
 
-***Conclusion : We have assessed the current staffing levels, and come to a conclusion: (第1层)The Public Relations Department is [short staffed]. (第2层)It is clear that the Public Relations Department have to [recruit] new employees to tackle the possible problems occurring in booming business of the company. (第3层)Therefore, it needs badly extra [money] for business expansion.***
+- Conclusion : We have assessed the current staffing levels, and come to a conclusion: (第1层)The Public Relations Department is [short staffed]. (第2层)It is clear that the Public Relations Department have to [recruit] new employees to tackle the possible problems occurring in booming business of the company. (第3层)Therefore, it needs badly extra [money] for business expansion.
 
-***Recommendations（1）:It is recommended that（具体）the Department start to recruit the new employees immediately [by advertising] in national newspapers and trade magazines.***
+- Recommendations（1）:It is recommended that（具体）the Department start to recruit the new employees immediately [by advertising] in national newspapers and trade magazines.
 
-***Recommendations（2）:[Temporary positions] should also be advertised in local newspapers for four production workers and two receptionists. If the successful candidates prove reliable, they can [be offered full-time contracts:得到转正的机会] to replace employees retiring or not returning from maternity /mə'tɜːnɪtɪ/ leave.***
+- Recommendations（2）:[Temporary positions] should also be advertised in local newspapers for four production workers and two receptionists. If the successful candidates prove reliable, they can [be offered full-time contracts:得到转正的机会] to replace employees retiring or not returning from maternity /mə'tɜːnɪtɪ/ leave.
 
 ### 6.re-investing the profits
 ***Introduction:(目的)This report [sets out to] examine how the company shoudl re-invest this year's profits.(研究范围)The [areas under consideration]are the purchase of [new computers],the provision of [language training courses]and the payment of [special bonuses].[在 introduction里面要泛泛的写 3 个方面]***
