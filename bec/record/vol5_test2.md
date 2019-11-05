@@ -135,9 +135,95 @@
 ***2)及物动词、及物短语+宾语：you can't concentrate [后面不可以+on] or be bothered...***
 
 # LISTENING
+## PART I.
 
+## PART II.
+### 1.words
+> wood for the trees:假大空
 
+***It's a danger in business of not seeing the wood for the trees.***
 
+> trudging /trʌdʒ/ forward 前进
+
+***...and I'd been feeling for some time that we were trudging forward with no real sense of why we were doing what we were doing.***
+
+> sign up
+
+***I sign up for the workshop because = the reason why I attend this workshop is that***
+
+> outside consultant:外援/外部咨询
+
+***If we hadn’t gone, i think we’d have ended up calling in outside consultant***
+
+> shift over : 转型
+
+***there's certainly been quite a shift over the last few years towards measurement.***
+
+> quantified /'kwɒntɪfaɪ/ [量化的]
+
+***...it seems everything has to be quantified these days.***
+
+### 2.词汇联想
+> to learn how to achieve innovation: new concept/idea/thinking/sth creative, upgraded/develop sth creative/new/ latest/; how to establish / set up / methods/ways /the outline of workshop /develop genuinely new products and service , which was exactly we needed 
+
+***the workshop outline said it would cover ways to develop genuinely /'dʒenjuinli/ [真正地] new productss and services,which was exactly what we needed.***
+
+> Widen network of contracts : enlarge social circles/get to know more new people / socializing sth someone / corporate with more potential clients
+
+> Deepen understanding of theory: enhance/intensify/compound/heighten + idea
+
+***I wanted to find out more about the reason behind development-the ideas and thinking- of systems.***
+
+> Effectiveness: successfulness, efficacy /'efɪkəsɪ/ [n. 效力,效能] , productiveness, fruitfulness, potency, power; benefit, advantage, value, virtue /'vɜːtjuː/ [优点, 长处], use, usefulness
+
+***so before we considered developing new products or services for customers,I wanted to find out more about the reasoning behind development.***
+
+> Manage information more effectively， Rusty about database – management info 
+
+> to explore issue in managing recruitment:figure out/work out/ problem/ we didn’t foresee that / we didn’t spot the fact that / on-going problem is that /database / hiring / staff turnover 
+
+***and I think that I only went because I was feeling a bit rusty /'rʌstɪ/ [迟钝的] about the database,and wanted to spend time trying out how to co-ordinate all the data we'd had on customers.***
+
+> to consider methods of performance appraisal : measurements/check out/ ways / employee performance / measuring / evaluation 
+
+***...and so there's nothing new for us about measuring what each and every employee achieves in relation to agreed targets and achievement.***
+
+> examine evidence of changing trends : check out/find out/find out/concret fact, shifting
+
+***...because I knew we needed to find out more concrete facts about how career patterns are shifting...*** 
+
+> A report was produced for senior staff: present in writing /leadership
+
+***But arranging for the HR manager to investigate our staff's expectations and intentions and present it all in writing to the leadership team has worked well enough for our purpose.***
+
+> job specification 
+
+***I conclude we’d been wrong to bring in new sales targets without altering anything else , so we sat down and re-worked people’s responsibilities, the definition of their roles and takes.***
+
+> information was made available to all staff
+
+***because I don’t want everyone to feel any new system is imposed from above.***
+
+> a new position was created :appointed/recruit someone as sth;  
+
+***...and that's why we've now appointed someone to look after that side of things for the first time.***
+
+> a project team was establish : we have put together 
+
+***no that I've put together a dedicated cross-functional group to generate [产生]ideas and suggestions.***
+
+### 3.答案句提示
+- I wanted to find out...
+- I wanted to be able to understand...
+- It is improtant that...
+- and that's why...
+- afterwards...[毕竟]
+- I concluded...
+- because:...and I think that I only went because...
+- no that 
+- so
+- but 
+- however
 
 
 
