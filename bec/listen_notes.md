@@ -1,17 +1,24 @@
 # Listen_notes/40mins(30mins做题时间+10mins涂卡/30题)
 > core：看背景+看选项+速记+检查
 
-# 听力词汇  
-    discount:贴现、贴现率
-    turnover:员工离职率
-    close:股票收盘
-    credit note:贷项通知单
-    unsocial hours 非正常工作时间
-    proof: 样本
-    books：公司账目
-    range:产品组合
-    living out of a suitcase:经常出差在外
-    I’m often charged 18% interest per month on my outstanding balance：我每月要为未结清的余额支付 18%的利息
+# words  
+- discount:贴现、贴现率
+- turnover:员工离职率
+- close:股票收盘
+- credit note:贷项通知单
+- unsocial hours 非正常工作时间
+- proof: 样本
+- books：公司账目
+- range:产品组合
+- living out of a suitcase:经常出差在外
+- I’m often charged 18% interest per month on my outstanding balance：我每月要为未结清的余额支付 18%的利息
+- corporate
+- technical expertise
+- data transmission
+- relationship management
+- redundancy
+- field operation：实地考察
+- succession planning ：传承计划
 
 # PART I.4min/12题 
     开始前45sec的审题时间 
