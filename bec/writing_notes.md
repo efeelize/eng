@@ -94,9 +94,11 @@
 # 2.body para 
     介绍主要数据（不用写每一个 percentage）+对比
 
-- In 2001, the company’s operating profit peaked at the $500 million and its turnover reached $6200 million as well. The whole year they sold $20 million units, which says it was a dramatic year.
-- In the following year, the company had to handle a huge decrease in operating profits of 20% and a decline of their turnover of almost $1 million. It was perhaps because of the less units sold.
-- In 2003, the company was able to deliver more units again, which was nearly 15 million. Their turnover, therefore, could jump at the same level of 2001. It was disappointing that their operating profits still went down, because they had to meet more marketing expenses.
+- 1)In 2001, the company’s operating profit peaked at the $500 million and its turnover reached $6200 million as well. The whole year they sold $20 million units, which says it was a dramatic year.
+
+- 2)In the following year, the company had to handle a huge decrease in operating profits of 20% and a decline of their turnover of almost $1 million. It was perhaps because of the less units sold.
+
+- 3)In 2003, the company was able to deliver more units again, which was nearly 15 million. Their turnover, therefore, could jump at the same level of 2001. It was disappointing that their operating profits still went down, because they had to meet more marketing expenses.
 
 ## 2.1.动态图
        一个数据在不同时间的变化
@@ -117,6 +119,7 @@
        3.4）变化最强烈的是...
 
 - The consumption of chicken,on the other hand,showed an upward trend,overtaking that of lamb in 1980 and that of beef in 1989.By 2004 it had soared to almost 250 grams per person per week.
+
 - Overall,the graph shows how the consumption of chicken increased dramatically while the popularity of these other foods decreased over the period.
 
 ## 2.2 静态
@@ -292,8 +295,12 @@
     回升：rebound/ recovery/ 
 
 - The figure shows a rise of … within the whole period and no fluctuations are to be marked. [持续增长，无波动]
+
 - … rose from … in xxx to … in xxx, suffering minor fluctuations all the way through. [增长，有小波动]
-- … increased slightly, ending the period around … over their starting level. [小幅增长，结尾比初始增加了…]
+
+- … increased slightly, ending the period around … over their starting level. [
+小幅增长，结尾比初始增加了…]
+
 - Suffer a temporary fall between … and …, followed by a steady recovery.  [先下降再上升]
 
 ### 2)下降
@@ -400,6 +407,7 @@
 ***as only … percent are …***
 
 > 表现差不多
+
 ***show a similar trend as …***
 ***show the same performance***
 
@@ -467,8 +475,11 @@
 
 ### 10)问卷调查
 - Asked about …, 700 out of 1260 respondents responded positively, whereas 560 said something negative about it.
+
 - Looking at …, there are almost three times as many people responding negatively than positively.
+
 - … was equally evaluated. For this service, the survey counted … positive and … negative responses.
+
 - Only a fourth of the 1250 respondents complained about … while the remaining 950 people thought positively about …
 
 # PART II.（200-250words）(40mins)
