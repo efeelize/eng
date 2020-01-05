@@ -97,10 +97,11 @@
 
 # 7. 常用词汇
 ## 7.1 highlight
-- 1) i have to highlight the issue that the deadline is close whereas up to date we have not come up with a solution.
+
+- 1)I have to highlight the issue that the deadline is close whereas up to date we have not come up with a solution.
 - 2)one of my concerns is that the factory is not highlighting the challenges in production,
 - 3)can you provide some pictires and videos highlighting the ...area of the product?
-- 4)i would like you to put a report together hoghlighting what caused the issue and how you expect to correct the issue.
+- 4)I would like you to put a report together hoghlighting what caused the issue and how you expect to correct the issue.
 
 ## 7.2 issue ->(replaced problem)
 - quality issue 品质问题
