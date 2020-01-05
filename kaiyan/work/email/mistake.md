@@ -27,15 +27,11 @@
 ## (4)accidentally
 > When we make a mistake, we can say, "I accidentally did something."it doesn't really matter. You can say "I did something accidentally" or "I accidentally did something."
 
-## （5）idiot/fool
+## (5)idiot/fool
 > "A fool" basically. it's not a nice word when you're using it for other people, but you can always use it about yourself. You could say, "Oh, I'm such an idiot/I feel like such an idiot. I forgot my keys."
 
 ## (6)it's not the end of the world
 > It is another phrase that can be used by itself in almost any situation where a friend or co-worker is worrying about something.The world's gonna end. It basically means it doesn't really matter.
-
- So if a person is hopeless, they don't have a chance, or they're not going to get far.
-
-The point about convince and persuade is, for 90% of native speakers, they use them interchangeably.
 
 ## (7)hopeless
 ### (7.1) describe a situation
