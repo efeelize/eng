@@ -53,7 +53,7 @@
 
 > Right. OK, so so what he is going to do for her is he is going to believe that she wants to, you know, read his email, and so instead of writing everything again, what he does for her is he outlines a few key areas where his company can help her.so he has outlined,which basically means summarized,we also say highlight,means the same thing.You need to find the key points,and just put them right there for her to see.
 
-***So would you have time for a 20-minute call this week? ***
+***So would you have time for a 20-minute call this week?***
 > So next comes the the actual, you know, this is the whole point of the email here is this call to action here, right?And so during this call he wants to explore potential areas where we could be of help to you. Wow, this is kind of, I don't know.
 
 ***If you have any questions, please don't hesitate to reach out.***
