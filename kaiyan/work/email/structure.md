@@ -14,9 +14,10 @@
 # II 正文内容  
 # 1.称呼
 ## 1.error
-- Dear 
+- Dear (old-fashioned)
 - I assume you understand 
 - I hope that is fine with you 
+- greetings,(too formal)
 
 ## 2.correct
 - Hi:
@@ -57,6 +58,7 @@
 - Under the Shareholders Agreement(attached),at least four directors must be present at the board meeting to constitute quorum.
 
 # IV 感谢用语
+- Best.(higly recommend,the safest possible choices,and almost always appropriate.)
 - Thanks for the quick reply
 - Thanks for getting back to me
 - Thanks for the update information.

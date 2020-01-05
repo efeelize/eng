@@ -194,9 +194,7 @@
 - i am just checking in.
 
 ## 7.20 going to/want to : replaced gonna/wanna
-          
-
-                
+                          
 # II.introduction
 - thank you for your email yesterday
 - as we discussed, i'm attaching my ideas.
