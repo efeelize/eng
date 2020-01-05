@@ -28,7 +28,7 @@
 
 > Limited access, so this sounds really formal and it is. It's very professional. Basically, it just means I can't get or receive email very much.Access means that you can check or you can get to your email.
 
-***I can be reached on my mobile phone.***
+***Howeve,I can be reached on my mobile phone.***
 
 >  This is just a more polite and professional way to say contact.
 
