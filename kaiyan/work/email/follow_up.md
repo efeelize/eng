@@ -45,7 +45,7 @@
 > Reaching out also is literally, if you, you know, you take your hand and you extend it to grab something, you're you're reaching out, but here it means to, you know, call somebody or send an email ,or, you know, send a text to contact. 
 
 ## III.pattern
-***I was wondering if you've had the time to review my previous email***
+***I was wondering if you've had the time to review my previous email?***
 
 > review means to like look at again.It kind of means have you seen my email?Or did you seen it once?
 
@@ -58,7 +58,24 @@
 
 ***If you have any questions, please don't hesitate to reach out.***
 
+## IV.
+***Hi Anne,***
 
+***Hope all is well,I'm XX,account manager at HTY Digital Marketing,the leading agency in digital advertising.I was wondering if you've had the time to review my previous email***
+
+***I have outlined a few key areas where HTY could help your firm with digital marketing:(1)Leading expertise in data analytics in the industry sercing over 200 global brands.(2)Paymennt flexibility.Start and end a campaign any time you want to.(3)Real-time tracking to help you optimize your campaign along the way.***
+
+***I'm confident that our expertise and proven success will greatly help your firm improve your digital efforts.***
+
+***Would you have time for a 20-minute call this week so that I could get a better understanding of your business and explore potential areas where we could be of help to you?***
+
+***If you have any questions, please don't hesitate to reach out.***
+
+***Looking forward to hearing from you!***
+
+***Best regard!***
+
+***XX***
 
 
 
