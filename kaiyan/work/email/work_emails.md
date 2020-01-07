@@ -1,5 +1,5 @@
 # ch_4 work_emails
-# I.The optimal length of emails
+# I.The optimal /'ɑptəml/ [adj.最佳的] length of emails
 > A survey by Sendmail in 2013 found that emails caused tension, confusion or other negative consequences for 64% of working professionals(工作人士). The average office worker(职场人士) receives about 121 emails per day, and has about 500 unread messages(未读邮件). With that amount of emails, many get overlooked(忽略). According to experts, one of the biggest problems is that emails are too long. If an email ends up being long, it’s probably best to give a phone or video call, or have a short in-person meeting(简短会面). Dan Schawbel, a workplace expert, says to use a maximum of two paragraphs per email, and add lists(列表) or bullet points(黑点) where appropriate. Shorter emails also show that you respect the recipient’s precious time.
 
 # II.CNBC : More tips for work emails
