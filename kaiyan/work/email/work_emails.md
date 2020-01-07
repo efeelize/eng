@@ -70,7 +70,34 @@
 # 18.compress
 > So, basically you want to ask beforehand or in advance, when you're sending big files, and use a program to compress or zip. So, zip, this is, you know, with some files, if you have a PC, not a Mac, you want to compress, or make your files smaller, we call that zip.Yeah, zipping a file, it's like a zipper, and compressing it to flatten /ˈflætn../ [vt. 使……平坦], or squeeze something, to make it smaller. If you've ever had a panini  /'pɑ:nini/, this is food. So, it's different, but a panini press, it presses the sandwich really small, it makes it smaller.
 
+# 19.in advance
+> It always do this. Again, in advance, ask in advance, ask before. So, send an email first. Can I send you a big attachment? And then, they say, "Okay, sure," and then you can send the attachment.
 
+# 20.format
+> So, basically you want to ask beforehand or in advance, when you're sending big files, and use a program to compress or zip. So, zip, this is, you know, with some files, if you have a PC, not a Mac, you want to compress, or make your files smaller, we call that zip.And before you send it, you need to do one more thing, you need to make sure the file is in a format, or kind of the program that you use.So, you often can see like there's a dot, and then DOC, like doc, or dot PPT, or dot TXT, or for windows, it's dot EXE.Yes, so, those make sure, you know, if you have a Mac, like I do, sometimes I have a program, that when I share it, the other person can open it. So, it's not compatible.Yes, so make sure your attachments are the same format. It just makes examples of attachments, one of the examples here, please see the attached docs.
+
+# 21.attachment
+> Right. So, a lot of you did ask this in a previous lesson about how do you say there's attachments. So, you can say please see attached files, please see the attached files, please see attachments, attachments below, all those types of things.Yeah, there are many ways to actually say this in the email, just please see the attachments is very simple. So, one of the most important things...
+
+# 22.double/triple/quadruple /kwɑ'drupl/ check
+> So, for example, before I leave the house, I always double and triple check to make sure I have my phone charger.Yeah, and today, I rode a bike here. So, I locked my bike outside, and I double check that it was safe.
+
+# 23.habit
+> So, it becomes a habit, you do it without even thinking.And this is kind of... and this expression, we always say make a habit of an object.And you know, checking your email once a day, phoning your mother every Sunday, it's always a gerund /'dʒɛrənd/[n. 动名词] .
+
+# 24.partway /ˈpɑrtˌwe/ /halfway
+> And this tip just like you said, "Save the email address for last, or you might accidentally hit the Send button partway through."Right, yeah, so, yeah, this is what I do. I finished writing the email, and make sure it's perfect and beautiful, and then I write the address at the end, because I have accidentally send an email, I pressed the send button, and it went to the person, but it wasn't finished.Right. So, partway through. So, partway means in the middle, or sometimes not exactly, just it means it's not finished. So, partway through. So, partway means in the middle, or sometimes not exactly, just it means it's not finished.
+
+> Yeah, we also said... you might know halfway. Halfway down or halfway through, this could be like 25%, yeah, we don't know how much, but it's not finished.Right,so, I'm partway done my homework, I'm partway… my vacation is partway over. You know, it means it's not beginning, it's not ending, it's kind of in the middle somewhere.
+
+# 25.sign off / signature /'sɪgnətʃɚ/ 
+> Right, you want the person getting your email, especially if it's a job application, to remember who you are, so when you want to sign off, or you want to close the email, we often call it a closing.Yeah, yeah, it's a close, it's the final part, maybe you've seen sincerely, and that's the sign off.So, this is like your email signature, like signing your name.
+
+# 26.font /fɑnt/ 
+> Yeah, for sure, and again, we said make it simple, and so, use one basic or standard font.Right, there're tons of fonts. And the font is how things are written, so my favorite is Ariel /ˈɛriəl/.There's Times New Roman is the most common one probably.As long as you don't use symbols or Wingdings, you know, where there's no words.Yeah, so this is the style of the letters, and make sure those are simple and easy to read, but that the person can remember them.
+
+# 27.come off [v.给人的感觉、呈现出]
+> Right, and the reason is, if things are simple, easy to read, professional looking, your emails will come off as being professional.Yeah, so this is kind of like an impression, like giving a first impression.Right. So, we also used the words seem, S E E M, or appear, it just means the person we'll have that impression.Yeah, like you can say this if you meet somebody, I met a new friend at the coffee shop, but he came off a little bit...a little cold, he came off a little rude. Ok, so that means... that was my first impression, he came up, he appeared, or he seemed rude.
 
 # IV.pattern
 # 1.subject 
@@ -113,8 +140,33 @@
 # 9. Double check email address
 > Making a habit of checking the address will ensure that you don't make the mistake of sending to the wrong person. Save the email address for last, or you might accidentally hit the Send button partway through.
 
-# 10. Sign off with style
+# 10. Sign off with style 
 > Your email signature is like your business card. Using one standard font will make your emails come off as more professional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
