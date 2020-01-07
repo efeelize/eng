@@ -26,6 +26,8 @@
 # 4.full-on [adj.完全的]
 > It's very casual and it just means like completely, right?Yeah, completely, to, to the greatest degree, like you could have a, a hotel that has full-on luxury.Yeah, so you probably have the pool, you know, you maybe have a little bar in the room. Full-on luxury..VIP section maybe.
 
+> The economic recession has hit us full on.[给我们带来了巨大的打击]
+
 # 5.denim /'dɛnɪm/  [n.牛仔衣裤]
 > Denim and shorts. So denim is the, the material that jeans are made out of, that's, it's been popular for like two hundred years, I think.Yeah, I think so, and, yeah, you've got like denim jeans, denim shorts, denim dresses, pretty much anything can be denim.
 
