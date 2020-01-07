@@ -1,4 +1,4 @@
-# ch_1 Email mistakes at work
+# Email mistakes at work
 > When you're working as quickly as you do, it only makes sense that you're going to slip up every now and again. So what should you do if your email lands in the wrong inboxes? Here's your action plan:
 
 # 1.CBS News, “Email Mistakes at Work: How to Survive Them”
