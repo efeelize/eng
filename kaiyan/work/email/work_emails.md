@@ -47,39 +47,74 @@
 # 11. distract
 > Yeah so if you have too many mistakes or errors as we say, if you have too many mistakes, the reader can't focus on the meaning.Right.And the noun for this is a distraction.So grammar and typo mistakes are distractions for the readers or they distract the readers.
 
+# 12.acknowledge /ək'nɑlɪdʒ/ 
+> Yeah, I mean, again, I think, accent might be a little different. Because I would pronounce it more of an "a" sound, acknowledge. But, the K, you're right, is... is minimized there.
+
+> And this just means to show that you noticed something. So, for example, "Oh, I went to the party to see John, but John didn't even acknowledge me. He didn't even show that he noticed me."Right. So, if you are... when you get an email, you maybe don't have the answer, or you don't have time to answer, you can say, "Thanks for your email. I'll get back to you as soon as I can."Yeah, and even if you don't need to answer a question, you can just say, "Oh, thank you for your email," or got it, "I got it. I got your email."
+
+# 13.timely/prompt
+> Timely is like as soon as you can. We also say prompt.Timely is like as soon as you can. We also say prompt.Prompt, yeah. Right away is basically. So, an expression we often use is timely fashion.So, you know, you should do your homework in a timely fashion, just means kind of efficiently and right away.
+
+# 14.professionalism[n.专业素养]/professional[adj.专业的]
+> Yeah, and again, this doesn't mean your skill. It means your behavior or your attitude.Yeah, those kinds of things. So, yeah, if... if the... if the person doesn't know if you got the email, then that person might be waiting, so it's good to say, "Hey, I got your email," like I got it.
+
+# 15.company-wide[adj.全公司的]
+> For company-wide emails, it's generally not necessary to reply unless requested.And this word, company-wide. We use this wide a lot, we can say worldwide, nationwide, citywide.Right,it just means across the whole area. So, in this case, across the whole company means it includes everyone in the company.
+
+# 16.all caps [phr.所有都大写]
+> So, some languages don't have this capital letters and small letters, but in English we do. So, when... when you write a sentence in capital letters, in big letters, it's like I'm yelling at you, so...Exactly. Now, often when I write, if I want to emphasize something or stress something, I will put one word in caps.
+
+# 17.leave alone
+> leave it alone, don't touch it, leave me alone. You know, if you want quiet time, you can say to people, "Leave me alone. Don't bother me," or you know, if there's children, you can say, you know, "Leave that. Leave my phone alone. Don't touch my phone."
+
+# 18.compress
+> So, basically you want to ask beforehand or in advance, when you're sending big files, and use a program to compress or zip. So, zip, this is, you know, with some files, if you have a PC, not a Mac, you want to compress, or make your files smaller, we call that zip.Yeah, zipping a file, it's like a zipper, and compressing it to flatten /ˈflætn../ [vt. 使……平坦], or squeeze something, to make it smaller. If you've ever had a panini  /'pɑ:nini/, this is food. So, it's different, but a panini press, it presses the sandwich really small, it makes it smaller.
+
+
+
 # IV.pattern
 # 1.subject 
-> specific.Get to the point, right away, so the recipient knows the main content immediately. 
+> specific.Get to the point, right away, so the recipient knows the main content immediately.
 
 ***Info about budget meeting***
 ***Meeting in the conference room at 2 pm today.***
 
-# 2. Use a professional email address. 
+# 2. Use a professional email address
 > Using your personal email can be seen as unprofessional, especially if you're discussing important matters. Also, avoid nicknames for your email address.
 
 > I have given this advice to people many times, you know, when they were in high school, they had a joking email address with cartoons /kɑr'tun/ in it or something really inappropriate /'ɪnə'proprɪət/ . And I've told them to change it, because it's your professional reputation.Yeah don't use your personal email, because people use like nicknames or something. It's just unprofessional.
 
-# 3. Use professional email greetings. 
+# 3. Use professional email greetings
 > You might want to use informal greetings for colleagues, but it's best to stick with "hello" rather than "hey" for the first email. After that, "hi" is formal enough.
 
 > Even when you're talking with colleagues or emailing at colleagues, it's best to stick with "hello" rather than "hey" for the first email for sure.
 
 > Hey. I mean I'll put that in my text messages to my friend. "Hello" or "hi" is what I use. Again "hi" comes after these been many emails arrive I've worked with the person before. Also if I put this is for me, if I started an email with "hi", it's almost meaning with the stuff in the email,it's not as important maybe. It's not as formal, it's just kind of a quick note about something. "Hello" is more maybe there's more content in the email.
 
-# 4. Use "reply all" carefully. 
+# 4. Use "reply all" carefully
 > It's annoying to be included in a group email if the content has nothing to do with you. Send it only to people who may be interested; otherwise, it might be considered spam.
 
-# 5. Proofread. 
+# 5. Proofread 
 > Don't just skim over it. Spelling and grammar make a difference. Read it through out loud before sending to make sure errors don't distract the reader.
 
+# 6.Acknowledge emails
+> Sending a timely response to all business emails will increase professionalism. For company-wide emails, it's not generally necessary to reply unless requested.
 
+# 7.Avoid all caps 
+> No one likes to be yelled at, so leave the caps lock button alone. Instead, organize your words to express your message. For example, write, "Report due: Tuesday, Oct. 15 end of day," in a separate paragraph.
 
+> That was a good example. So, if you want to emphasize something, or you want somebody to see something, organize your words to express your message, like, for example, here, "Report due: Tuesday, October 15 end of day." That's not a sentence, but it's easy to see the information.
 
+> You... you could underline something, but don't underline too much. If you start cap, you know, caps lock on everything, and underlining and make something different colors, then it's getting really too busy, yeah.
 
+# 8.Attach carefully
+> Ask in advance when sending large files, and use a program to compress or zip large attachments. Make sure the file is in a format that the receiver can open, like Microsoft Word or Excel.
 
+# 9. Double check email address
+> Making a habit of checking the address will ensure that you don't make the mistake of sending to the wrong person. Save the email address for last, or you might accidentally hit the Send button partway through.
 
-
-
+# 10. Sign off with style
+> Your email signature is like your business card. Using one standard font will make your emails come off as more professional.
 
 
 
