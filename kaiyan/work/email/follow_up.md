@@ -1,4 +1,4 @@
-# ch_3 follow_up_email
+# Follow_up_email
 
 # I.Cold Email Writing Strategies
 > Why are cold emails (and their older cousin cold calls) so cold? Because you don't know the person. You don't have the kind of warmth that comes with having already established a relationship with them. And although not everybody wants to read what a stranger has to say, cold emailing can still be remarkably effective. At the end of the day, it is a cheap way to grow your network, as long as you do it right!Here are a few tips for getting responses to your cold emails:
