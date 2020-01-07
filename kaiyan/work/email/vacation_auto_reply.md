@@ -1,4 +1,4 @@
-# ch_2 vacation_auto_reply
+# Vacation_auto_reply
 > Before you go on vacation, it's really important to let your clients and customers know that you are not gonna be around. So today we're gonna be talking about how to write an auto-reply email.this is very useful for any time that you are out of office. So if you're sick, if you're on vacation or even if you're on a business trip. 
 
 # 1.grammer
@@ -37,21 +37,6 @@
 >  Immediate means right now or right away.Assistance just means to help someone, but it's a lot more formal and professional. This could be a number of someone who is in the office and not on leave.
 
 ***I will do my best to respond to your email as soon as I return.***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
