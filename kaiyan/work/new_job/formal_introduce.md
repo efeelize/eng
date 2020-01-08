@@ -23,7 +23,7 @@
 # 1.settled in/settle down
 > “settle down" is more like kind of just calm down, maybe get married or is, yeah, 
 
-> "settle in" is you've gone into a new environment and you need to get used to it.
+> "settle in" is you've gone into a new environment and you need to get used to it.For example,"Hey Julie, I remember you got this new job. How are you settling in?"
 
 # 2.springboard /'sprɪŋbɔrd/ /stepping stone
 > So Julie talks about her old place of work and she said it was more of a springboard to something like this to this company. Yeah yeah so springboard is like I imagine the Olympic diver.Yeah, you're using that bored, so that you can jump higher.
@@ -65,14 +65,28 @@
 
 > 2)Yeah. So so "welcome aboard" is something that people always say or come aboard, go aboard.
 
-# 10.
+# 10.horror stories [phr.恐怖的故事和遭遇]
+> So horror movie is a type of movie, horror story of course is a type of story. Now in this case, what we are doing is when we're saying "Oh I've heard some horror stories." It just means horrible.Yeah, exactly. It's kind of a chunk. It's always used like this like we don't say a terror story to. And in this case, she heard some horror stories about the work environment.
+
+# 11.company/firm
+> 1)Now another word we see quite a bit when we are talking about business is firm.I would say "all firms are companies, not all companies are firms".Right yeah. But the kind that we usually call a firm is usually to do with the law.The law, the law firm, real estate firm, accounting firm.
+
+> So this is an interesting one. It's basically the same as company.
+
+# 12.hitting up [phr.去看一下]
+> And great words just means visit, go.Yeah, you kind of like check out a new place.Yeah yeah yeah I mean you're usually trying to get something, like hit up a bar, hit up a store to get some batteries.
+
+# 13.food truck
+> And a lot of these newer restaurants or people that want to start restaurants are saying "forget the restaurant". I just put it on a truck.Put it on a truck. It's a moving restaurant.Yeah, with no chairs and tables. And in the past, this was kind of known to be like not good quality food.French fries, yeah. But it totally changed, now you can get really good quality food.
+
+# 14.tag along [phr.跟大家一起，跟随]
+> For example, Connor said "hey Adam I'm gonna go hit up these food trucks. Do you want to tag along?" I would know that his meaning is want to come with.Exactly, yeah "tag along" is a real nice casual phrase "join".
+
+# 15.up for [phr.准备好了、乐意加入]
+> She thinks it's a great plan and she expresses that by saying "I'm up for that."Yes, so "I'm up for something" means that I am willing to do that.Yeah yeah, like so it's a real casual, soft, you know, kind of lightweight to say I would you like or do you want to do that.
 
 
 
-
-
-# III.pattern
-- Hey Julie, I remember you got this new job. How are you settling in?
 
 
 
