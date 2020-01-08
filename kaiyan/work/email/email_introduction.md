@@ -17,7 +17,8 @@
 
 
 # II.pattern
-***Robert and Jeremy,***
+***Robert and Jeremy.***
+
 ***I am writing this email as an introduction.***
 
 
