@@ -33,10 +33,12 @@
 # 7.looking forward
 > And then the last line of the email says, "Looking forward to your reply." So, "looking forward to your reply" is usually a set phrase that you say when you're, when you're sending out an email and you're really excited about the person responding to your email, so "looking forward" just means I'm very excited. Reply is a response. So I'm looking forward, I'm very excited for your response.
 
+# 8.getting further in doing sth [在某方面进一步...]
+
 # III.pattern
 ***Robert and Jeremy.***
 
-***I received your contact information from Judy.***
+***I received your contact information from Judy.[July给了我你的联系方式]***
 
 ***I am writing this email as an introduction.***
 
