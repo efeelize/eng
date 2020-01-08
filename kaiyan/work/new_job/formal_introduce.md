@@ -79,14 +79,16 @@
 # 13.food truck
 > And a lot of these newer restaurants or people that want to start restaurants are saying "forget the restaurant". I just put it on a truck.Put it on a truck. It's a moving restaurant.Yeah, with no chairs and tables. And in the past, this was kind of known to be like not good quality food.French fries, yeah. But it totally changed, now you can get really good quality food.
 
+- let's hit up the mall and buy some stuff.
+
 # 14.tag along [phr.跟大家一起，跟随]
 > For example, Connor said "hey Adam I'm gonna go hit up these food trucks. Do you want to tag along?" I would know that his meaning is want to come with.Exactly, yeah "tag along" is a real nice casual phrase "join".
 
 # 15.up for [phr.准备好了、乐意加入]
 > She thinks it's a great plan and she expresses that by saying "I'm up for that."Yes, so "I'm up for something" means that I am willing to do that.Yeah yeah, like so it's a real casual, soft, you know, kind of lightweight to say I would you like or do you want to do that.
 
-
-
+- 1)The whole question of shcool curriculum is up for discussion.[某事需要去做...]
+- 2)One or two people like to get to school early, but most of us would be up for going in later[准备做某事]
 
 
 
