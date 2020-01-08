@@ -1,5 +1,31 @@
 # Email_introduction
-# I.reply email
+
+# I.Introduction
+# i.grammer
+# 1.introduction
+> An introduction is when you say, hi person, this is another person. "Hi Steven, this is John."Something like that. And so usually when you write an email introduction, it's very common, it's very normal to have your first sentence be a sentence like this. Or you just say, I am writing this email to something. So in this case, we have "I am writing this email" as an introduction to let the people that you're writing the email to know what you're talking about.
+
+# 2.
+
+
+
+
+
+
+
+
+
+
+## ii.pattern
+***Robert and Jeremy.***
+
+***I'm writing this email as an introduction...***
+
+***I will let you two continue the conversation.I hope you will be able to work together!***
+
+***Sincerely,Judy***
+
+# II.reply introduction email
 > So, as we mentioned before you receive an email introduction from someone saying here, here's someone that you should get to know, that you should work with them or be friends with them, something like that. And this lesson we saw a good way of doing that, you send an email to this other person, you replied to the email.
 
 # 1.short email
@@ -11,7 +37,7 @@
 # 3.Reply right away
 > And another final and good tip is to reply right away. So, try responding to the email as soon as you see it, as soon as you get it, but usually try to respond the email within two days after you've received it.
 
-# II.grammar
+# i.grammar
 # 1.would like
 >  So, "would like" is a more polite way of saying, want. So, in her email Juanita Hill said, you want to help your staff improve their English.
 
@@ -35,10 +61,10 @@
 
 # 8.getting further in doing sth [在某方面进一步...]
 
-# III.pattern
+# ii.pattern
 ***Robert and Jeremy.***
 
-***I received your contact information from Judy.[July给了我你的联系方式]***
+***I received your contact information from Judy.[Judy给了我你的联系方式]***
 
 ***I am writing this email as an introduction.***
 
