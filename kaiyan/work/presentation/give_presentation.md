@@ -42,8 +42,15 @@
 # 10.what's more
 > It really just means furthermore.Yeah. Furthermore. Now the problem is in daily speech we don't really say furthermore very much, do we?It's too fancy, right? So we could say what's more, it's just like saying, "Oh, in addition to that, not only that".
 
-# 11.
+# 11.require/need
+> which means a need.And are there really any other differences between require and need?
 
+> require.Not really. It's also a little more formal things, like what you required to get into university.
+
+# 12.broaden your mind/horizon.
+> I think so too. Exactly, yes. So broaden your mind, it's kind of like making it bigger.Right. If something is broad, it means that it is wide.
+
+> It's wide. Exactly. So we use this phrase, broaden your mind. We also say broaden your horizon.Yeah. Don't be that frog in the well, you want to be the frog, look at the wide wide sky, the horizon.
 
 # III.pattern
 ***Hi,everyone.My name is Tim and I'm here to give a presentation on ...***
