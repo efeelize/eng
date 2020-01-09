@@ -1,20 +1,23 @@
 # Email_introduction
 
 # I.Introduction
+> Yeah, it doesn't matter. All you need to do is give them the most important information and then they can talk afterwards and figure out what they need to figure out.You don't even say I know Jeremy from here, Jeremy is my best friend, Jeremy and I had ice cream together last weekend...
+
 # i.grammer
 # 1.introduction
 > An introduction is when you say, hi person, this is another person. "Hi Steven, this is John."Something like that. And so usually when you write an email introduction, it's very common, it's very normal to have your first sentence be a sentence like this. Or you just say, I am writing this email to something. So in this case, we have "I am writing this email" as an introduction to let the people that you're writing the email to know what you're talking about.
 
-# 2.
+# 2.business english
+> It's just English that you use in the business world or at work. So if you are giving a meeting then you need to use business English, or if you're talking to a client then you'll be using business English.This is not everyday English, this is not the English that you use to talk to friends or watch a movie, something like that.No. It is English for doing business. So let's say, for example, you're at dinner at a friend's house, and you meet this person named Jeremy and he says, "I need to help my hotel staff improve their business English." And then you think, ah!
 
+# 3.hospitality /ˌhɑspɪ'tæləti/ industry
+> Juanita then says he has also worked with the hospitality industry before. So here we have the phrase, "hospitality industry". An industry is a type of work or a type of company and there's lots and lots of different types of industries. For example, we have the film industry, that's all the movies, everyone who is involved in making movies. Have the music industry, the car industry, the fashion industry, the education industry. We work in the education industry, right? So, lots of different types of industries, but we're talking about the hospitality industry.Okay. So, hospitality, this means that these are people who work for guests, they want to make sure that the guests are fine, and usually they work with guests who are traveling. So Jeremy works in the hospitality industry, he works at a hotel. That's one thing that's in the hospitality industry, another thing is an amusement park.
 
+# 4.work with
+> The basic idea is that it's sort of anyone who works with people that are on vacation, right? So you work at a hotel, you work at a special boat trip or something like that, that's also working in the hospitality industry. So they say that Robert has worked in the hospitality industry before. So probably he knows what type of business English jeremy's staff needs to learn, they need to learn a very special type, they need to learn hospitality business English.
 
-
-
-
-
-
-
+# 5.sincerely
+> Sincerely has his own meaning, but usually when we write "sincerely", we don't mean the meaning of "sincerely", it's just what we write at the end of letters in English. So it writes, "Sincerely," and then your name, "Juanita".
 
 ## ii.pattern
 ***Robert and Jeremy.***
@@ -29,7 +32,9 @@
 > So, as we mentioned before you receive an email introduction from someone saying here, here's someone that you should get to know, that you should work with them or be friends with them, something like that. And this lesson we saw a good way of doing that, you send an email to this other person, you replied to the email.
 
 # 1.short email
-> hat are some tips or some good ways of replying to an email introduction. OK so, maybe one could be that it's a short email. It's not long. He doesn't say, "Dear Jeremy, how are you? How are things going today?" He gets straight to the point. He talks about why he's replying to this email.Exactly, you only say the things that you need to say, you don't need to talk about the weather or what your friend is doing or what you had for dinner that day. It doesn't matter. Just say you want this, I have this. Let's talk, straight straight straight forward.
+> That are some tips or some good ways of replying to an email introduction. OK so, maybe one could be that it's a short email. It's not long. He doesn't say, "Dear Jeremy, how are you? How are things going today?" He gets straight to the point. He talks about why he's replying to this email.Exactly, you only say the things that you need to say, you don't need to talk about the weather or what your friend is doing or what you had for dinner that day. It doesn't matter. Just say you want this, I have this. Let's talk, straight straight straight forward.
+
+> People don't really read emails carefully, they sort of just look through to find the important parts of an email. So it's very important to keep it short, just say, "Hey, this is Robert, I'm introducing you to Jeremy." Tell them why you're introducing them and just tell them why you're introducing them and that's it. Keep it very, very short.
 
 # 2.very polite
 > Related to this. It should be very polite. You don't know this person yet you're not friends with this person and so there're many ways that you can be polite in emails like this. One good way is to change the words, so for example, instead of saying "want", you could say "would like".Yeah, or instead of saying "can", you can say "could". It just sounds more polite.And after you meet this person in person and you guys know each other, then you can be more casual, but because you haven't met this person yet, it's probably better to be more polite.
