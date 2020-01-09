@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # ch_4 work_emails
+
 # I.The optimal /'ɑptəml/ [adj.最佳的] length of emails
-=======
-# work_emails
-# I.The optimal length of emails
->>>>>>> refs/remotes/origin/master
 > A survey by Sendmail in 2013 found that emails caused tension, confusion or other negative consequences for 64% of working professionals(工作人士). The average office worker(职场人士) receives about 121 emails per day, and has about 500 unread messages(未读邮件). With that amount of emails, many get overlooked(忽略). According to experts, one of the biggest problems is that emails are too long. If an email ends up being long, it’s probably best to give a phone or video call, or have a short in-person meeting(简短会面). Dan Schawbel, a workplace expert, says to use a maximum of two paragraphs per email, and add lists(列表) or bullet points(黑点) where appropriate. Shorter emails also show that you respect the recipient’s precious time.
 
 # II.CNBC : More tips for work emails
@@ -103,6 +99,26 @@
 
 # 27.come off [v.给人的感觉、呈现出]
 > Right, and the reason is, if things are simple, easy to read, professional looking, your emails will come off as being professional.Yeah, so this is kind of like an impression, like giving a first impression.Right. So, we also used the words seem, S E E M, or appear, it just means the person we'll have that impression.Yeah, like you can say this if you meet somebody, I met a new friend at the coffee shop, but he came off a little bit...a little cold, he came off a little rude. Ok, so that means... that was my first impression, he came up, he appeared, or he seemed rude.
+
+# 28.take a look 
+> So take a look is a way to say, "Can you look at this email for me?" But it's a little different because it means "Can you look quickly?" You don't have to look at my email for six hours, you can look at my email for five minutes and that's okay.
+
+# 28.I‘d love to
+> Yeah, then she says, "Sure, I'd love to." So when she says, "I'd love to." She's saying "I would love to help you out."Yeah, she probably wouldn't love to read an email, but she would love to help her friend out, so she says, "Yes, sure."
+
+# 29.formal/informal/casual
+> Exactly, and so if you're talking to a friend, you would not use their last name you would use their first name because they are your friend. So that's why in the beginning of the sentence we have an "If...then..." statement, so we have "If you know Mr.Peterson, then you can use his first name, but if you don't know Mr.Peterson, then you can't use his first name." That's what they're trying to say.
+
+# 30.highlight/bullet point
+> So it's a good idea to highlight the most important information, and "highlight" means to make it easy to see. So if you're looking through the email, then the most important information should be easy for you to see.You need to make sure that you highlight the important information or use bullet points.
+
+> So bullet points are used when you make a list. So often times, usually when you make a list you can write: one, two, three, four. For example, one: go to the store. Two: buy chicken. Three: feed the dog. But you can also use bullet points which are little dots instead of the number. 
+
+# 31.sign off[v.落款]
+> So when we sign off, that is the last thing we say at the end of the email before your name. So before my name I will write, "Best regards, Kawa Cynthia."
+
+# 32.best regards
+> And so "Best regards" means something like "I hope you're doing well. I am sending you my best thoughts."It's a polite way of signing off.Yeah. So maybe you don't know this person, maybe you are writing a very formal email and you use their last name, but even if you don't know them, you still need to say "Best regards", something like that at the end of the email.You need to have a polite way of signing off.
 
 # IV.pattern
 # 1.subject 
