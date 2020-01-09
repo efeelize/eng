@@ -44,6 +44,18 @@
 # 8.reach out 
 > Reaching out also is literally, if you, you know, you take your hand and you extend it to grab something, you're you're reaching out, but here it means to, you know, call somebody or send an email ,or, you know, send a text to contact. 
 
+# 9.
+
+
+
+
+
+
+
+
+
+
+
 ## III.pattern
 ***I was wondering if you've had the time to review my previous email?***
 
@@ -77,8 +89,12 @@
 
 ***XX***
 
+# V.
+***Did you get my email this morning?I don't think so.And I checked my email like 5 minutes ago.***
 
+***Maybe it went into my spam folder.***
 
+***I have it.It was marked as spam.let me unmark it.***
 
-
+***Can you please forward that to the rest of the team,and I CCed the supervisors already.***
 
