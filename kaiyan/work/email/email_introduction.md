@@ -3,6 +3,8 @@
 # I.Introduction
 > Yeah, it doesn't matter. All you need to do is give them the most important information and then they can talk afterwards and figure out what they need to figure out.You don't even say I know Jeremy from here, Jeremy is my best friend, Jeremy and I had ice cream together last weekend...
 
+> I think an important thing is writing with the correct tone. So this means writing an email that's written correctly for who you're talking to. If you're writing to two good friends and of course you can write, "Hey guys, what's up? How are you doing?" Really casual. But if you're writing a business email, you're not gonna say, "What's up?"No. You'll have to be a little more formal. Use words like "dear" to address people and finish the email off by saying "sincerely".
+
 # i.grammer
 # 1.introduction
 > An introduction is when you say, hi person, this is another person. "Hi Steven, this is John."Something like that. And so usually when you write an email introduction, it's very common, it's very normal to have your first sentence be a sentence like this. Or you just say, I am writing this email to something. So in this case, we have "I am writing this email" as an introduction to let the people that you're writing the email to know what you're talking about.
@@ -20,6 +22,8 @@
 > Sincerely has his own meaning, but usually when we write "sincerely", we don't mean the meaning of "sincerely", it's just what we write at the end of letters in English. So it writes, "Sincerely," and then your name, "Juanita".
 
 ## ii.pattern
+> So this email was a really good example of a more formal email. If you're writing a formal business introduction through email, this is a really good way to do it. But of course if you're writing to two friends, writing like this might be a little bit too formal.
+
 ***Robert and Jeremy.***
 
 ***I'm writing this email as an introduction...***
