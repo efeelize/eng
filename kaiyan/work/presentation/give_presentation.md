@@ -16,11 +16,33 @@
 # 1.transitional words
 > The words that kind of help us to move from one thought or one idea to the next.
 
-# 2.
+# 2.presentation/speech
+> 1)Alright. So we're back. And Tim is giving his opening sentence, he says, "My name is Tim and I'm here to give a presentation on why English is important".OK. So presentation, we all kind of know what a presentation is. Presentation, when I see this word, I think about PowerPoint, introducing something.Like in meeting, someone is always, you know, they're using their computer to show us maybe some pictures or just other things up on a big screen.
 
+> 2)So a speech is just when you're talking.
 
+# 3.comes to mind
+> It just means what do you think of?
 
+# 4.as you may know [phr.或许你们知道]
+>  So as you may know, we often put this before some kind of information or statistic that we're giving our audience.Because maybe they know that already.A lot of people probably do know that but someone.Yes. So you'll hear this often in the presentation. Pretty formal, isn't it?
 
+# 5.graph
+> Right. There are many different kinds of graphs. But they always show like numbers or things, right? If they are going up or going down. The common one is the pie chart.That's good that you said chart, because basically when we're giving presentations, you could say graph, you could say chart, they're pretty much the same thing.Basically yes, and, and when we give these presentations they're usually on a slide.
+
+# 6.significantly
+> Right. This is a really great word to use in your presentation. Significantly. It means a lot.A lot, yeah. But there are a few really important, there are useful phrases that we use it in, like for example, numbers significantly reduced.Yeah. It's usually about numbers going up or down.Right. Here we have increased. You could say decreased or reduced like Connor just said. But really just any kind of change.
+
+# 7.in other words
+> So in other words, great phrase. You kind of want to repeat yourself, but of course you can't say the same thing twice, so you just decide to use other words.Yeah. In other words, saying it a different way, usually a little more simply, right?
+
+# 8.opens up [phr.打开]
+>  In other words, saying it a different way, usually a little more simply, right?Yeah. And that's simple way to say that is that it opens up many professional opportunities.OK. So let's use our brains for a second here, opportunities can be thought of as doors.
+
+# 10.what's more
+> It really just means furthermore.Yeah. Furthermore. Now the problem is in daily speech we don't really say furthermore very much, do we?It's too fancy, right? So we could say what's more, it's just like saying, "Oh, in addition to that, not only that".
+
+# 11.
 
 
 # III.pattern
