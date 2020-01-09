@@ -1,6 +1,10 @@
 # Email_footer
-# I.grammer
+# I.email footer
+> For example, if I'm sending an email to someone that maybe is not my best friend, and I don't want them to have my phone number or my home address. I don't want them to know where I live. Yeah, so if I don't want them to know where I live, maybe I don't… shouldn't have a footer.
 
+> But at the same time, it looks more professional when you have a footer. If for example, if I'm sending an email to someone that I don't know, but I want to look very professional, I want to look like I know what I'm doing. Then having a footer makes your email look more professional. It makes it look more adult.
+
+# II.grammer
 # 1.content
 > 1)So content is just what something is about, what... what's in it.So we can talk about a content of an email, the things that you said in the email. But we can also talk about the content of a class. If you went to class today, I can say, "Cynthia, what was the content of your class today?"
 
