@@ -44,19 +44,30 @@
 # 8.reach out 
 > Reaching out also is literally, if you, you know, you take your hand and you extend it to grab something, you're you're reaching out, but here it means to, you know, call somebody or send an email ,or, you know, send a text to contact. 
 
-# 9.
+# 9.like
+> So like 5 minutes ago means about 5 minutes ago. 4 or 5 minutes ago. And you can also ask, "Did you check your email?"
 
+# 10.attach a document
+>  And also "I attached a document." So if you attach something to an email, you add a file or document. So you can attach a picture.Or a word document.
 
+- She attached the file we need for the meeting.
+- Did you attach the document to the email?
+- I will attach the picture and email to you.
 
+# 11.unmark[v.取消标记]
+> Yeah, your email was trying to help you and it marked the mail as spam. So you can unmark it.Which is just telling your email that it's not spam. It's a good email and you do want it.Right, it's not spam so you unmark it and now you can read it.
 
+# 12.forward an email
+> Right, "to forward an email" means to send an email to someone else. You just sent a copy to another person forward.
 
+# 13.CCed/CC
+> But she tells him that she "already CCed the supervisors". This is one of those words what I say it's just email has its own language, "CC".Yes. "CC" is email word. It means to send a copy of the email to other people at the same time. So for example, I send Lisa an email. So you know, to Lisa but I also want my boss to see this email so I can CC my boss.So he will receive the email as well.Right, but it's not really for him so probably he will not reply. But he can see it because I CCed him.That CC box is underneath the "to-box."Right, so "to" and then CC I had part of the email. And so I said I can CC my boss. She said "I CCed the supervisors. "
 
+- Will you CC me on the emial to John?[发给John的时候抄送我一下]
+- He CCed me on all of his emails to our bosses.[他所有发给老板的邮件都抄送我了]
+- I will CC you when I respond to her.[我回复她的时候会抄送你的]
 
-
-
-
-
-## III.pattern
+# III.pattern
 ***I was wondering if you've had the time to review my previous email?***
 
 > review means to like look at again.It kind of means have you seen my email?Or did you seen it once?
@@ -97,4 +108,16 @@
 ***I have it.It was marked as spam.let me unmark it.***
 
 ***Can you please forward that to the rest of the team,and I CCed the supervisors already.***
+
+
+
+
+
+
+
+
+
+
+
+
 
