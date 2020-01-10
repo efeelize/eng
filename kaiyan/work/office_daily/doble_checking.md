@@ -50,7 +50,7 @@
 > Right, this I usually think of as a horizontal piece of paper but it can also be a vertical /'vɝtɪkl/ .Paper, yeah, or maybe a fabric kind of material.Either way there's a lot of stuff printed on it.I mean think about a poster or a brochure or a flyer they're usually that you know the size of… or the shape of a piece of paper whereas a banner is going to be much much much longer.Yeah. So either lengthwise or vertically /ˈvə..tɪk l..ɪ/ height wise but it's always a long piece of something.Because usually words right, you know welcome everybody to the second annual conference on bala bala.
 
 # 8.swag /swæɡ/
-> That word is very very very colloquial and usually implies free promotional stuff.
+> That word is very colloquial /kə'lokwɪəl/ [adj. 口语的] and usually implies free promotional /prə'moʃənl/ [adj. 促销的] stuff.
 
 # 9.lanyards /'lænjɚd/ [n.吊牌绳]
 > OK, so lanyard I learned on the first day of university, it's a thing that goes around your neck.You can you can hold your keys, you can hold maybe a picture,or your badge /bædʒ/ .
@@ -59,13 +59,17 @@
 > And tote bags. Tote bags this is also a pretty general thing, right, I mean, tote just means carry but of course you carry things in bags.Yeah, these tote bags usually imply a reusable fabric.Cloth bag that has handles and you can know you can carry your groceries /'ɡrosəri/ into it.Yeah, anything really and in Chinese I think a lot of people call them you know eco-friendly bags.Right, there, in essence they're not made of plastic.
 
 # 11.laying /'leiiŋ/  &  lying /'laɪɪŋ/
-> 1)lying around: so when you say something is lying around it's it could be anything.Whereas /'wɛr'æz/ [conj.但是] you can lie down on a bed or sofa but you would lay you know something on your couch or yourself or your bed.Right. Something or in some cases could also be a person, right? Like my my son is lying on the sofa or I lay my son down on the sofa or lay him down on sofa I guess.
+> 1)lying around: so when you say something is lying around it's it could be anything.Whereas /'wɛr'æz/ [conj.但是] you can lie down on a bed or sofa but you would lay you know something on your couch or yourself or your bed.Right. Something or in some cases could also be a person, right? Like my my son is lying on the sofa or I lay my son down on the sofa or lay him down on sofa I guess.[自己作为受力物体在保持水平的姿势]
 
 ***lie-lay-lain-lying***
 
-> 2)laying around:Right, so this kind of just implies "Hey,do we have any extras"?Yes, any available? Do we have to buy them? Do we have to make them? Another thing is this word lying around. I think a lot of people might want to say laying around.but if you are laying something down you are physically laying a thing, so you have an object that you lay down.
+- today I just want to lie in bed all day watching movies.
+
+> 2)laying around:Right, so this kind of just implies "Hey,do we have any extras"?Yes, any available? Do we have to buy them? Do we have to make them? Another thing is this word lying around. I think a lot of people might want to say laying around.but if you are laying something down you are physically laying a thing, so you have an object that you lay down.When you lay something down, you are acting on an object and setting it down. For example, you lay a blanket on the bed. [把某个物体放下]
 
 ***lay-laid-laid-laying***
+
+- could you help me lay the bowls and plates on the table for dinner?
 
 # 12.on track/schedule [phr.按计划进行] & off track
 > 1)on track:this means everything is on schedule?Nothing is gonna be delayed.Everything is going according to plan.
