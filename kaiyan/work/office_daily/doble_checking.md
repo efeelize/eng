@@ -1,4 +1,4 @@
-# Doble_checking
+# Double_checking
 # I.Most Popular Conference Cities in America 
 > In the US, there are a number of cities that are particularly attractive to those who are holding and attending conferences. We've round up the top 5 conference destinations: 
 
