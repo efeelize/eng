@@ -58,8 +58,14 @@
 # 12.sounds good
 > This is a great little phrase. It just means that sounds like a good idea.
 
-# III.pattern
+# III.on the + noun + verb 强调时间地点
+> To emphasise a particular place or time, you can move a prepositional [介词短语] phrase (such as “on the second floor”) from the back to the front of a sentence [从句尾移到句首]. By saying the prepositional phrase first, the listener will focus on it more.[把介词短语放在句首，听者可以把注意力更多地放在这个介词短语上]
+
 > So here she could have said, "The reception is on the first floor," but she really wants to emphasize the place, so she puts it first, "On the first floor is the reception."so you can use it for a place, like on the first floor, or for a time, like on the first Monday of this month.
+
+- on the first floor is the reception desk.
+- on the table are some document that you'll need to look at.
+- on the first Monday of this month is our team meeting.
 
 
 
