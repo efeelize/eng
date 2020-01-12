@@ -12,7 +12,37 @@
 # 3. Get people's opinion
 > One evergreen rule of presenting is to know your audience. One way to do that is to ask them what they actually think. You can go so far as to point to a specific person and ask for their opinion (works best in a small group) or to query a portion of the room.
 
-# II.grammer
+# II.give a confident and compelling presentation.
+> Please note that, in our language of English, attention is paid because attention is a valuable currency. When listeners pay attention, they are rewarding you with arguably /'ɑrɡjuəbli/ [adv. 可论证地] the most valuable currency in the world.Here are some techniques that are guaranteed to earn you more attention without losing any of your professional credibility.
+
+# 1. Start with the unexpected.  
+> Start with a bang, not a whimper /'wɪmpɚ/ [n.平庸] . Smokers like matches that light with the first strike, and listeners like presentations that ignite interest with the first sentence.For instance: "We stand today at a place of battle, one that 40 years ago saw and felt the worst of war."--President Ronald Reagan
+
+# 2. Make it about them. 
+> Now that you've gotten listeners' attention withyour magnetic /mæg'nɛtɪk/ [adj.有吸引力的] opening, make the story about them. Talk about their goals, their aspirations, their anxieties.
+
+# 3. Get to the point. [直击重点]
+> One of the great pleasures the audience has is quickly grasping what you're getting at. They resent [v.讨厌] you when you rob them of this pleasure.
+
+# 4. Arouse emotion. [引发情绪]
+> Humor is inherently /in'hiərəntli/ persuasive [自带说服力]. It gives the speaker an unfair advantage because it literally /'lɪtərəli/ [adv.确实地,真正地] changes the chemistry in the room, and in the brain of everyone present.
+
+# 5. Write clear headlines. [列出清晰的关键句]
+> Write headlines for your slides that express apoint of view[为每一页配一个关键句]. The audience will get the big idea and look at the body of the slide for evidence that supports your point.
+
+# III.When Your Mind Goes Blank
+> Imagine this scenario /sə'nærɪo/ : You’ve worked hard to prepare for an important presentation, panel /'pænl/ [小组讨论], or media interview. A lot is riding on your performance: – your company, and your own reputation. Then the big day comes, you walk into the room, and suddenly your mind goes blank … totally blank.Do you panic? Do you convey your fear? There are better ways to recover and get back on track.
+
+# 1.Remember this swimming lesson rule: don’t panic
+> Even when you are literally disoriented /dis'ɔ:rientid/ [adj.迷惑] and forget what you are supposed to say, the worst thing you can do is panic. Recall the swim lessons from your childhood. A panicking swimmer will find it more difficult to stay afloat /ə'flot/ [adj. & adv. 浮在水面(的)]. When you stay calm, you will recover much more quickly and easily.
+
+# 2.Pretend you are in Las Vegas: keep a poker face
+> Truth be told[说实话], mere seconds of silence can feel like an eternity when you are the focus of everyone’s attention[当你成为每个人关注的焦点时，仅仅几秒钟的沉默会感觉像是永恒]. Your own silence can feel deafening /'dɛfnɪŋ/ [adj.震耳欲聋的]. To your audience, however, those seconds are merely a pause. Unless you somehow indicate to your audience that you’ve lost your place or that your mind has gone blank, they won’t know!
+
+# 3.Repeat, fast forward through, or glance at yournotes
+> Jog /dʒɑɡ/ [vt.&vi.(使)慢走、慢跑] your memory by repeating the last thing you said (aloud or silently in your own mind) or by jumping forward to something else that you remember. If the point you forgot is important, you can later incorporate /ɪnˈkɔrpəˌret/ [v.把…合并] it in your presentation once that message comes back to you. Or, you can always bring up that message point during the Q&A.
+
+# IV.grammer
 # 1.transitional words
 > The words that kind of help us to move from one thought or one idea to the next.
 
@@ -52,7 +82,23 @@
 
 > It's wide. Exactly. So we use this phrase, broaden your mind. We also say broaden your horizon.Yeah. Don't be that frog in the well, you want to be the frog, look at the wide wide sky, the horizon.
 
-# III.pattern
+# 13.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# V.pattern
 ***Hi,everyone.My name is Tim and I'm here to give a presentation on ...***
 
 ***What comes to mind when you think of ...***
