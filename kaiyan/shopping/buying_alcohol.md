@@ -11,10 +11,10 @@
 > In Maryland, for example, the last dry town, Damascus /də'mæskəs/ [大马士革], became wet in 2012, and Kansas /ˈkænzəz/[n.堪萨斯州] has seen more than a dozen counties go wet in the past decade. Advocates in Arkansas /ˈɑ:kənsɔ:/ /ˈɑrkənˌsɔ/ [阿肯色州] hope their state will join that list.
 
 # II.grammer
-# 1.booze [n & v. ] / boozy [adj.喝醉的] 
-> 1)booze:it just means alcohol.Yeah, and actually it can be a verb too. If you're going to go get drunk, if you're going to go drink a lot, you could say:" Oh, you know, we're going to go boozing. Yeah so booze, either way just means alcohol, very colloquial /kə'lokwɪəl/ [adj.口语] , very spoken term here for the word alcohol. Cause actually Connor, if you think about it, if you're going to go to the store with your friends, you're probably not going to say:"Hey, let's go buy some alcohol." It's the most kind of formal, right?Yeah alcohol is actually too formal, so we just say booze or we just say wine or beer or liquor.
+# 1.booze [n & v. ] / boozy [adj.喝醉的] / tanked [adj. 喝醉的]
+> 1)booze:it just means alcohol.we don't really say alcohol,cause alcohol is like the chemical name.Yeah, and actually it can be a verb too. If you're going to go get drunk, if you're going to go drink a lot, you could say:" Oh, you know, we're going to go boozing. Yeah so booze, either way just means alcohol, very colloquial /kə'lokwɪəl/ [adj.口语] , very spoken term here for the word alcohol. Cause actually Connor, if you think about it, if you're going to go to the store with your friends, you're probably not going to say:"Hey, let's go buy some alcohol." It's the most kind of formal, right?Yeah alcohol is actually too formal, so we just say booze or we just say wine or beer or liquor.
 
-> 2)boozy:we even can change it to an adjective when we say boozy, b-o-o-z-y, that means I was kind of drunk, I was a bit boozy last night.
+> 2)boozy、:we even can change it to an adjective when we say boozy, b-o-o-z-y, that means I was kind of drunk, I was a bit boozy last night.
 
 # 2.stock up on sth [phr.囤货] / in stock
 > 1）stock up:Yeah, this is used all the time. When you buy things for the future, like especially food or drinks.Right, you buy a lot because you need to be prepared.
@@ -40,10 +40,39 @@
 # 7.IPA
 > So IPA, this isn't an abbreviation /ə'brivɪ'eʃən/.
 
-# 8.pack a punch[]
+# 8.pack a punch[phr.后劲大]
+> Yeah they do. Aka punch here, kind of means they're really strong.Right, they are quite strong and I actually find them kind of bitter, do you think they're bitter?
+
+# 9.fellas/ fellow
+> 1)what is a fella. It just basically like a friendly way to say a guy or a man.
+
+> 2)Yeah and it comes from the word fellow.Yeah, fellow is just like... kind of like a friend?Right, but a male friend, you wouldn't call a girl who's your friend, you wouldn't call her a fellow right?That is a very good point, yeah, fellows or fellas are guys.
+
+# 10.light beer [n.低度啤酒]
+> Yeah, I mean some ladies like IPA's or beers really pack a punch, but I mean generally maybe it's safe to say that a lot of ladies like light beer, which just means it's easy to drink.
+
+# 11.higher proof [n.稍高度数] / lower proof [n.稍低度数]
+> 1)proof: it's a word that we use to talk about how much alcohol is in, you know, the beer or the wine or the liquor that you're drinking right?Yeah, exactly, like if were drinking something strong, something that really packs a punch like vodka, the proof is I think 80?
+
+> 2）higher proof：Well, depending on the flavor. It might not be true, it might not taste too good, but it doesn't have a lot of alcohol, so it's lower in proof and it has less calories, oh yeah but IPA's are higher in proof, they have a higher proof and usually more calories.
+
+> 3)lower proof：Right, so it's just kind of a system for measuring the alcohol and it doesn't use percent, so we just say higher proof, lower proof and like this other phrase, less calories.
+
+# 12.calories
+> So calories are in pretty much everything that you eat.It's like a measure of like energy right?Yeah, how much energy is in the food that you're eating, a simple example, chocolate has more calories than a carrot.Yeah, butter is a lot of calories.
+
+# 13.hard stuff / soft drinks
+> 1)hard stuff:Ok, but hard stuff though, so that's just another term for liquor. Okay, so we talked a bit about liquor, so our friend here Grant, he says as for the hard stuff, he says I think some whiskey, tequila, vodka, wow that's a lot, will do the trick.Yeah so as for it's just like an expression, it means kind of like a regarding?Yeah, it's kind of like while talking about this, yeah with regards to that, but it's much more casual, you wouldn't say with regards to the alcohol, I think we should blah blah blah blah, no, you would say as for the booze or as for the hard stuff.
+
+> 2)soft drinks:Yeah, I can't say that people ever really say, you know, oh I'm drinking this soft stuff.Right, the only soft we uses, soft drink and that's just for like coca cola.Yeah, some type of soda. 
+
+# 14.tequila /tə'kilə/ [n.龙舌兰] & vodka  /'vɑdkə/ &  whiskey /'hwɪski/ 
+> 1）tequila, that's really from one place, isn't it?Yeah pretty much, just comes from good old Mexico. 
+
+> 2) vodka: I think most people know that that is like the drink in Russia and places like Poland and probably the Ukraine? I guess it probably originated or first came from Russia, but now I mean you have popular vodkas that come from France and even America actually, there's vodka from all over, either way these three types of hard liquors will do the trick.
 
 
-
+# 15.do the trick [phr.奏效]
 
 
 # III.pattern
