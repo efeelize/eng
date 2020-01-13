@@ -30,7 +30,26 @@
 # 5. Write clear headlines. [列出清晰的关键句]
 > Write headlines for your slides that express apoint of view[为每一页配一个关键句]. The audience will get the big idea and look at the body of the slide for evidence that supports your point.
 
-# III.When Your Mind Goes Blank
+# III.What's the key to giving confident and compelling presentations?
+
+> Instead of seeing speaking as a performance, think of it as being in service of your audience's needs. Make the question " What does my audience need to hear from me? " your mantra.
+
+# 1.being in service of your audience's needs
+> Instead of seeing speaking as a performance, think of it as being in service of your audience's needs. Make the question " What does my audience need to hear from me? " your mantra.Probably without thinking about it, ok. So that is a very very very important thing to keep in mind your audience's needs, but of course as a presenter, as someone who is sharing information, it's very difficult to balance seeing your audience as a bunch of people that maybe don't know as much as you, or also seeing your audience as, you know, an intelligent group of people that are able to understand what you are saying.
+
+# 2. walk a fine
+> You need to walk a fine line between making it easy for them to understand your message, without " dumbing down " your content. Above all else, make sure that your content is relevant and easily accessible to them.
+
+# 3.Emotion sticks
+> People remember emotionally-charged messages much more readily than fact-based ones.
+
+# 4.Using a memorized script
+> Using a memorized script can actually increase performance anxiety. An outline, on the other hand, is a very practical tool to help speakers prepare and deliver.
+
+# 5.Structure will set you free!
+>  A great structure to use is "What? - So what? - Now what?", which can also be useful in spontaneous speaking situations, such as job interviews.When using this structure, you start with your central claim ("I am qualified for this position because of my experience") and then explain its importance or value ("This experience will allow me to start contributing to your firm immediately") before concluding with a call to action or next steps ("So when can I start?").
+
+# IV.When Your Mind Goes Blank
 > Imagine this scenario /sə'nærɪo/ : You’ve worked hard to prepare for an important presentation, panel /'pænl/ [小组讨论], or media interview. A lot is riding on your performance: – your company, and your own reputation. Then the big day comes, you walk into the room, and suddenly your mind goes blank … totally blank.Do you panic? Do you convey your fear? There are better ways to recover and get back on track.
 
 # 1.Remember this swimming lesson rule: don’t panic
@@ -42,7 +61,7 @@
 # 3.Repeat, fast forward through, or glance at yournotes
 > Jog /dʒɑɡ/ [vt.&vi.(使)慢走、慢跑] your memory by repeating the last thing you said (aloud or silently in your own mind) or by jumping forward to something else that you remember. If the point you forgot is important, you can later incorporate /ɪnˈkɔrpəˌret/ [v.把…合并] it in your presentation once that message comes back to you. Or, you can always bring up that message point during the Q&A.
 
-# IV.grammer
+# V.grammer
 # 1.transitional words
 > The words that kind of help us to move from one thought or one idea to the next.
 
@@ -82,7 +101,28 @@
 
 > It's wide. Exactly. So we use this phrase, broaden your mind. We also say broaden your horizon.Yeah. Don't be that frog in the well, you want to be the frog, look at the wide wide sky, the horizon.
 
-# 13.
+# 13.compelling [adj.使人信服的] / compelled 
+> 1)compelling:it just means that something it's hard not to believe.It's to force someone to do something, but if something is compelling…It almost like it forces you to pay attention.
+
+> 2)You know exciting and excited, it's the same idea with compelling, you feel very compelled.
+
+# 14.in service of/to  [phr.为他人服务] & sth in service
+> 1)So I'm not there to perform, I'm there to serve.But it doesn't matter if you are giving a speech, if you're giving a presentation or if you're singing a song, the audience is so important.Yeah, you're there in service of their excitement and enjoyment.Right, exactly. Now, in service as a phrase, it's not something that we run across every day.
+
+> 2)Like meaning available.It's available, it's being used like an old battleship /'bætlʃɪp/ [n.战列舰] or something that was in service but now it's out of service.or the service or out of service.
+
+> 3)In service of and in service to both mean for the sake of or in order to serve or benefit. They are often interchangeable, although in service to is usually more limited to physical entities (people, government, country), while in service of can be used to talk about abstract things as well (e.g., in service of a higher purpose). However, there is no strict rule, so usage should be examined case by case.[两者是可以互换的，但in service to一般是指向实际主体（如：为了人、政府、国家），而in service of也可以指向抽象主体（如：为了更高的追求。]
+
+- The soldiers died in service to their country.
+- The researchers are doing the study in service of the public interest.
+- Being in the service of others is a rewarding experience[获益颇多] that can lead to the betterment /'bɛtɚmənt/ [n.改进] of oneself and the community.
+- She gave everything in service to her people.
+
+# 15.mantra /'mæntrə/ [n.牢记的准则] &  catchphrase /'kætʃfreiz/ [n.标语]
+> Your mantra, yeah. So it's like a sound in that case a sound, but it could be a word or a phrase that you say again and again.Right, that's the key you want to repeat it, it's this idea of kind of like meditating /'mɛdɪtet/ [vi. 冥想] on the phrase, you know.Yeah, yeah. It's kind of like we were talking about like catchphrase.
+
+# 16.walk a fine line [phr.努力达到平衡]
+> 
 
 
 
@@ -92,13 +132,7 @@
 
 
 
-
-
-
-
-
-
-# V.pattern
+# VI.pattern
 ***Hi,everyone.My name is Tim and I'm here to give a presentation on ...***
 
 ***What comes to mind when you think of ...***
