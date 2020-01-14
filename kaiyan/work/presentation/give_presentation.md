@@ -207,12 +207,23 @@
 # 37.credibility [n.可信度] & trustworthy /'trʌstwɝði/ [adj. 值得信赖的, 可靠的]
 > Yeah, so credibility is just can I trust you.Can I trust you and in the presentation context, it's should I listen to you.
 
-# 38.overtly [adv.公然的，明显的]
-> 
+# 38.overtly /oˈvə..tlɪ/ [adv.公然的，明显的] & overly /'ovɚli/ [adv.过度的]
+> 1）So the spelling here is O V E R T L Y.Right. And we don't really stress that T very much.They could be. Overtly means it's stated. It's now in the open. It's not a secret. It's obvious.
 
+> 2) The problem is even a lot of native speakers confused this word with another very similar one overly.It's obvious. Yeah, exactly. Overly just means a lot, too much.
 
+# 39.portrays /pɔr'tre/ [v.描绘] & portrait /'pɔrtrət/ [n. 肖像, 画像]
+> 1)you gonna do it in a way that shows portrays this mistake as just a natural byproduct of a positive thing. 
 
+> 2)Now, portray this word is actually very similar to the word portrait which is a type of painting.it shows somebody's face. Interesting enough in the history of painting in the west, there were always very strict rules about how Jesus could be portrayed. That's how he could be painted and even his death.
 
+# 40.byproduct[n.副产品] & side effect
+> 1) a good byproduct of sth.
+
+> 2) So when you take medication there could be some results, right?You don't want to see, usually negative.So if you take the medicine, so that your hair will grow back or maybe it will also grow back in places you don't want it to grow.
+
+# 41.go ahead of myself [phr.思绪太快]
+> It is good. So, yeah, I just messed up. I just screwed up my mind is drawing a blank and instead of saying sorry. You have to excuse me. I'm so passionate about my topic. I love this topic so much that I sometimes get ahead of myself.Right, it's like you're getting too excited you jumping ahead.A lot of times I think when my friends don't think something through. That's why I think they are getting ahead of themselves.They more like too fast, right?
 
 
 
