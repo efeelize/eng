@@ -225,13 +225,13 @@
 # 41.go ahead of myself [phr.思绪太快]
 > It is good. So, yeah, I just messed up. I just screwed up my mind is drawing a blank and instead of saying sorry. You have to excuse me. I'm so passionate about my topic. I love this topic so much that I sometimes get ahead of myself.Right, it's like you're getting too excited you jumping ahead.A lot of times I think when my friends don't think something through. That's why I think they are getting ahead of themselves.They more like too fast, right?
 
+# 42.get back on track [phr.回到正轨] & get off track & derailed /di'reild/ [v.脱轨]
+> 1)It means You're on the right way.Yes, if you're doing some work and you get side track. Yeah, you could say, well I got off track. And now I'm back on track.
 
+> 2)Derailed. Right, exactly, and now, of course, if you are off track or if you somehow got ahead of yourself, if you somehow got off track, the way to reorient yourself is to go back to what you said previously, which I think is really smart. Because a lot of people are going to try to save the next thing. But really if you just go back and say, and what was on.
 
-
-
-
-
-
+# 43.reorient /ri:'ɔ:rient/ [v.重新调整]
+> Takes me a second to reorient. So reorient, this is just about direction, right? So reorient means to find the right direction again.Yes, exactly. I'm going to thinking like with all the GPS stuff we have now. Sometimes when you lose your connection, but it it just takes a moment to send the signal back to the satellite /'sætəlaɪt/ [n.卫星], and ok ok, we know where you are.
 
 # VI.pattern
 ***Hi,everyone.My name is Tim and I'm here to give a presentation on ...***
