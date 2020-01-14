@@ -51,6 +51,14 @@
 # 5.Structure will set you free!
 >  A great structure to use is "What? - So what? - Now what?", which can also be useful in spontaneous speaking situations, such as job interviews.When using this structure, you start with your central claim ("I am qualified for this position because of my experience") and then explain its importance or value ("This experience will allow me to start contributing to your firm immediately") before concluding with a call to action or next steps ("So when can I start?").
 
+# 6.parctice properly.
+> Practice makes perfect,but many presenters don't practice properly.They use passive approaches like flipping through a slide deck, which doesn't really simulate the conditions of a presentation.To practice effectively, you also need to stand up, open your mouth and use appropriate /ə'proprɪət/ [adj.适当的] hand gestures.This improves memory consolidation, or the process by which a thought becomes cemented into your long-term memory.Yeah, this is a really good tip, and I didn't actually think about this until we started prepping /prep/ this lesson[备课], is when you are giving a presentation, your hands are always moving. So when you practice, you need to be moving your hands as such，in a natural way.
+
+> Exactly. So one of the things here I do really find interesting is this idea of actually moving your hands standing up, simulating this presentation process just as a way that you can kind of remember all of your little cues. You know you move your hand like this, I means, ok, it's time to move on to the next topic. You you know, move your hand like that. It's time to make the joke that's going to make everyone laugh.
+
+# 7. forgetfulness
+> Drawing a blank when you're standing before an audience can have traumatic implications that can damage your credibility.If you must overtly acknowledge your forgetfulness, do it in a clever way that portrays this negative occurrence as a byproduct of a positive trait: "You'll have to excuse me, but I am so passionate about my topic that I sometimes get ahead of myself."Too often, people who blank out try to figure out what they need to say next. But you are more likely to get back on track if you reorient yourself by looking to what you said previously.
+
 # IV.When Your Mind Goes Blank
 > Imagine this scenario /sə'nærɪo/ : You’ve worked hard to prepare for an important presentation, panel /'pænl/ [小组讨论], or media interview. A lot is riding on your performance: – your company, and your own reputation. Then the big day comes, you walk into the room, and suddenly your mind goes blank … totally blank.Do you panic? Do you convey your fear? There are better ways to recover and get back on track.
 
@@ -168,6 +176,49 @@
 
 # 29.call to action [n.行动号召]
 > This is a good buzzword /ˈbʌzˌwə..d/ [流行术语] for advertisers.Um it just means, you know, ask the listener to do something.For more information or to, you know, to sign up blah blah blah, because I mean again this what, so what, now what, you will also see this in advertisements, which are also really forms of presentations, right?Exactly, it's really easy to miss that because you think oh, the listener will know, that it's obvious, but actually it's not obvious, we need some kind of a cue, right?
+
+# 30.flip through
+> practice is boring, exactly, and again, we don't kind of practice the right stuff like, for example, if we're doing a presentation, we just might flip through the slides /slaɪd/ [n.幻灯片].Right, you're not really looking, or I think the word that we hear in the clip, passive/'pæsɪv/ [adj.消极的]. We do it passively. You're just kind of like, oh yeah, uh-huh, okay, okay. This page, that page, flip flip flip.
+
+# 31.simulate
+> Right, exactly, so simulate means make it seem real.Yeah, exactly, you're kind of imitating or copying some kind of real condition.Yeah, and I, I mean, in fact, like astronauts /'æstrə'nɔt/ [n. 宇航员, 太空人], when they practice, you know, like they have to go through all kinds of simulations to just experience what it would be like in space.Right, even pilots have to use flight simulators.
+
+# 32.consolidation /kən,sɑlə'deʃən/ [n] & consolidated [v.]
+> 1)consolidation means to make something stronger, usually by combining it.Right, well you see the word solid, right in the middle, so right away you should think ok, and 'con-' usually means together.So there's something here that is being joined, and and, and somehow getting stronger in that process.For sure. 
+
+> 2)Things that get consolidated, like finances, you can consolidate a company.Right, exactly. Now, in this case we're basically talking about making your memories stronger and there's another word that comes up in the same line that means kind of the same thing.
+
+# 33.cemented /sɪ'mɛnt/ [v.融合、粘合]
+>  so cement is very strong. It doesn't change and that's kind of the meaning here. It's stuck.
+
+# 34.long-term memory & short-term memory
+> Exactly, well, like learning is not just about listening. It's a, can be like a total physical thing.Sure, and it can even sort of relate this to English. When you're practicing English, really open your mouth, really speak in an almost unnatural way. Just so you can get that muscle memory. Submit that into your brain.
+
+# 35.drawing a blank [phr.忘词] & blank out [phr.头脑空白] & blanked 
+> 1） so draw a blank just means it's when you're talking and suddenly your brain just kind of goes white.
+
+> 2)And this is something you could actually use to if you are in a conversation with someone and maybe they ask you a question, maybe you don't quite understand what they asked you, maybe you if you forget somebody's name.That is a really good time. Yeah, you just you can just look at someone, just kind of smile and say you know I remember talking to you. We had a really interesting conversation.
+
+# 36.traumatic  /traʊ'mætɪk/ [adj.创伤性] & trauma /'traʊmə/ [n. 外伤；创伤]
+> 1)But when you're doing presentations, this is such a scary thing to think about, oh, what if I draw a blank, and if it happens, it can have traumatic implications. So it almost feels like that when you're in front of people because traumatic is like really shockingly bad.
+
+> 2)It's the kind of things that soldiers feel. When they come back from war, they always talk about war is trauma.Yeah, and doctors talk about, oh, he had a trauma.Oh, yeah. If he got shocked or stabbed or something, that is trauma in a medical sense. It's really serious.Yeah, very emotional and long-lasting.That's it. Yeah, trauma does not go away.
+
+# 37.credibility [n.可信度] & trustworthy /'trʌstwɝði/ [adj. 值得信赖的, 可靠的]
+> Yeah, so credibility is just can I trust you.Can I trust you and in the presentation context, it's should I listen to you.
+
+# 38.overtly [adv.公然的，明显的]
+> 
+
+
+
+
+
+
+
+
+
+
 
 
 
