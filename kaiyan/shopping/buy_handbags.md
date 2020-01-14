@@ -52,12 +52,46 @@
 > Oh, I like this word, so elegant means that it is more sophisticated, graceful, high class.So when I think of elegant I think of, yeah like some I don't know, like a wedding dress, it's a very elegant thing, right?Not very practical, not very functional even.
 
 # 10.it bag [n.时髦的包]
+> Yeah, so the It bag is the bestselling or most popular bag.Okay, but this, this isn't any one type of particular bag like, it's not necessarily a satchel or a clutch or a, anyone of these other kinds of bags.Yeah, yeah, it could be anything really right, the the key thing here is that it's the most popular.Ok, cool so what is the It bag of the season, could you like, describe the It bag of the season for me?Sure, so it looks like it has straps that you can adjust and you can also wear it crossbody.
 
+# 11.strap [n.背带]
+> Ok, so straps, these are the things that you usually like put on your shoulder, right? And it comes with the bag and adjust it means to, well, it's adjustable now.
 
+# 12.adjust [v.] / adjustable [adj.]
+> Yeah, exactly right, so you can change it, you can make those straps longer or shorter to fit you.Ok, so maybe tighter or looser as well, right?
 
+# 13.crossbody [adj.斜跨的]
+> this means like to go across your body?Exactly, so satchels and messenger bags, often these things are crossbody but you could also wear some of these purses on one shoulder.Yeah, when I think about a crossbody bag I think about the It bad called Chanel Gabrielle  /ˌɡɑ:bri:'e/ and basically you can wear it on one shoulder but you can also adjust the straps and wear it crossbody.Ok, so that particular It bag comes with an adjustable strap, so however you wanna wear it, you can wear it I guess.
 
+# 14.I don't know how I feel about the .... / I'm not sure or like I don't really think I like this.
+> Exactly, but sometimes you don't want to be that direct, right? You don't to say I don't like it, right? So you say oh I don't really know how I feel about the size.
 
+# 15.monogram /'mɑnəɡræm/ [n.字母图标] / logo
+> The monogram is basically two letters that have been overlapped to make a symbol.It's kind of like a logo, so you guys have probably seen LV for Louis Vuitton and MK for Michael Kors.
 
+# 16.tote bag / tote to 
+> 1)tote bag [n.]here's another type of bag, with a top handle.Yeah, the black tote is just your basic bag, it is a square shape and yeah it just has a handle and the handle is what you hold.
+
+> 2)tote to [v.] to tote is also a verb, right, so a tote bag would be like a noun, but you can tote a tote.Yeah, so tote just means carry, right? But carry is much more common than tote.
+
+# 17.classic[adj.经典的] collection & classical & classy [adj.上档次的]
+> 1）just note here that classic means that it was really popular in the past, but it's still popular.Right, so basically it's like an old style that is still in style, right? People still like it so even though it might not be modern /'mɑdɚn/ , it might not be new, 
+
+> 2) just be careful not to confuse it with classical, though? Cuz that's the style of music.
+
+> 3) so classy once again just means kind of fancy, expensive.So something that's classy, we mean it has class, it's nice, well, it's probably elegant, word that we had earlier in the lesson, but something that's classy doesn't always have to be classic, it can be a new type of fashion, but it's also classy right?Yeah for sure, and usually we used classy for people as well.
+
+# 18.low-key
+> Yeah, it's a positive word and it means that it's not too dramatic.It's not too flashy.Yes, yeah, so things that are low key are often classy, so for example we can have like, I guess we can have a low-key party, too, right?Yeah you can have a low-key party. I think of something like this, you could have like a really nice car, that's classy, it's elegant but it's low-key. But If you have like a Lamborghini, that's very a flashy /ˈflæʃi/ car, it's not at all low-key, but either way it is a gorgeous.
+
+# 19.timeless
+> just means it's still nice.you know this is always going to look good.Yeah, so you can use it for like any type of clothing.
+
+# 20.can't go wrong [phr.不会出错的]
+> it's an excellent choice, it's never a bad choice.Well, I mean like if you're looking to travel somewhere for a hot weather, I'd say like you can't go wrong with LA.
+
+# 21.take it [phr.买它]
+> Yeah, and when we say like I'll take it just means I'll buy it, but it's a little more casual, right, a little more friendly, would you say?Oh yeah, and it's also kind of like, sometimes I kind of think it's like, alright, yeah, I want it, she's almost excited to get the bag, I'll take it you know. I think excitement is key. Okay guys, well that is the end of the dialogue here but just to make sure that you guys have a grasp on all these words, because well, there are a lot of words.
 
 # III.pattern
 ***Hi there!How's your day going so far?***
