@@ -44,7 +44,9 @@
 > People remember emotionally-charged messages much more readily than fact-based ones.
 
 # 4.Using a memorized script
-> Using a memorized script can actually increase performance anxiety. An outline, on the other hand, is a very practical tool to help speakers prepare and deliver.
+> Using a memorized script can actually increase performance anxiety. An outline, on the other hand, is a very practical tool to help speakers prepare and deliver.Right, so a lot of our speakers are plagued /pleɡ/ [v.困扰] by performance anxiety, and one way to get around that is to just make an outline.Yeah, that way you're not actually memorizing the words, you can memorize the ideas, the flow, the structure, right? That's something you don't even have to memorize it, because most people expect you to have some kind of paper, like some kind of script to on stage, but the script doesn't have to be like a movie script, now you must say all these lines.Right, that's really going to tie you down at the piece of paper.
+
+> Yeah, this is kind of fun, right? Because obviously, these little questions are ones that we use every single day.You know like what, I didn't hear you, yeah, so what, I don't care or should I care and then you know, now what, what should we do.Implications   /'ɪmplɪ'keʃən/ [n. 暗示], exactly. Up now, just be able to kind of internalized /ɪn'tɝnəlaɪz/ [vt. 使内在化] that structure.
 
 # 5.Structure will set you free!
 >  A great structure to use is "What? - So what? - Now what?", which can also be useful in spontaneous speaking situations, such as job interviews.When using this structure, you start with your central claim ("I am qualified for this position because of my experience") and then explain its importance or value ("This experience will allow me to start contributing to your firm immediately") before concluding with a call to action or next steps ("So when can I start?").
@@ -122,13 +124,50 @@
 > Your mantra, yeah. So it's like a sound in that case a sound, but it could be a word or a phrase that you say again and again.Right, that's the key you want to repeat it, it's this idea of kind of like meditating /'mɛdɪtet/ [vi. 冥想] on the phrase, you know.Yeah, yeah. It's kind of like we were talking about like catchphrase.
 
 # 16.walk a fine line [phr.努力达到平衡]
-> 
+> Right, and this is a wonderful phrase, walk a fine line between two things and that fine line again that you need to walk is between having them not understand at all, or only being able to communicate these dumbed-down ideas that don't even matter.
 
+# 17.dumb down
+> Right, so dumb down, this is a phrase we use a lot kind of in casual English, it just means make some technical term easier to understand.Right, right, like I could say like could you dumb it down for me please?Right, that's good, cuz it almost shows like modesty?It means humble. I'm not as smart as you .
 
+# 18.above all else [phr.首先，高于一切的] / above all 
+> 1)So when we use this phrase above all else, it just basically means most importantly.And we can use it at the beginning of a sentence.
 
+> 2)Right, and you could take out the else too, you could just say above all,it's just a great little phrase there that means this is very important.
 
+# 19.relevant[adj.相关的，有意义的] & related [adj.有关系,有关联的]
+> But relevant is more like, it's useful.It's useful to our present conversations, now.So for example, Adam, if I asked you what do you like, coffee or tea?Yeah, and I answered that I don't like sugar in my drinks, it's related because of course you put sugar in tea, but just not relevant that wasn't the answer that the speaker was looking for.
 
+# 20.accessible [adj.易懂的]
+> Wasn't part of it, exactly. Now, one good thing about my answer there was that even though it wasn't relevant, it was probably pretty accessible. Well, accessible, kind of just means like usable or understandable.Yeah, understandable. Common people can access it kind of. Alright, so that's really important, but there's another thing that's really important and that is emotion.
 
+# 21.sticks [v.保持持久]
+> you know, when you evoke these kinds of emotions, it kind of activates /'æktə'vet/ [v. 触发] your memory, activates your brain in a more sort of engaged way.
+
+# 22.emotionally-charged [adj.情绪强烈的]
+> Right, and it could be for language, for messages, for a speech, for a phrase, politicians often use this kind of language.Yeah, all they do, for sure, cause they know that emotions sticks and and this word in this phrase "charged", it's like electricity, right?Yeah, sure. It's power, right? 
+
+# 23.fact-based [adj.基于事实的]
+> You think about it as power if it's emotionally-charged just giving a fact-based speeches, there not very powerful.They don't stick in the same way that emotionally-charged ones do.Right, cause facts are sometimes boring.
+
+# 24. readily  /'rɛdɪli/ [adv.容易的]
+> Yeah, readily available is a pretty common collocation there.Yeah, readily agreed, they readily agreed to the deal.
+
+# 25.memorized [v.记忆]
+> Yeah. memorizing means just remembering every single word.Right, but you're not really thinking about it, not very useful.Yeah, not very useful, you're just intentionally remembering it to just spit out later.Right, exactly, but this actually makes a lot of people nervous.They just, if you have your entire presentation memorized from start to finish, it actually doesn't help you.
+
+# 26.performance anxiety [n.表演前怯场] & get stage fright /fraɪt/ & get butterflies in your stomach.
+> Yeah, because when you get on stage and you're nervous, we call that performance anxiety.Right, and as you can probably guess, performance anxiety is just as you are giving a performance, you feel very anxious.You're nervous, you're probably speaking too quickly, you're sweating, forget lines that you thought you had memorized.
+
+# 27.spontaneous /spɑn'tenɪəs/  [adj.自然产生的、即兴的]
+> Yeah, meaning it's, it's random.good phrase there. So we use spontaneous in a lot of ways, a spontaneous person.Hmm, right, a spontaneous decision.
+
+# 28.claim
+> 1)I mean it could be negative, it could be positive. Again, it's something that the speaker is asserting is true, but maybe there's no obvious or clear proof.Right, it's not necessarily true, it's just saying.
+
+> 2)Now in job interviews, it's up to you guys to decide if your claims are going to be true or false, you might want to embellish /ɛmˈbɛlɪʃ/ [vt. 美化] a little bit.you could think about that as what being, I am qualified for this position.
+
+# 29.call to action [n.行动号召]
+> This is a good buzzword /ˈbʌzˌwə..d/ [流行术语] for advertisers.Um it just means, you know, ask the listener to do something.For more information or to, you know, to sign up blah blah blah, because I mean again this what, so what, now what, you will also see this in advertisements, which are also really forms of presentations, right?Exactly, it's really easy to miss that because you think oh, the listener will know, that it's obvious, but actually it's not obvious, we need some kind of a cue, right?
 
 
 
