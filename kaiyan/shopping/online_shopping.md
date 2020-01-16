@@ -24,12 +24,26 @@
 > Alright. So the hubby then says I've been waiting all year for these gadgets and the prices are insanely low.OK, so gadgets came up in our Double Eleven class as well, meaning small electronic things, not a phone. A phone is too complicated to be a gadget.
 
 # 7.insanely [adv.疯狂的，极度的]
-> 
+> Very super crazy low. Just insanely low and don't forget prices can also be insanely high.So the wife here says "You've got enough toys. We don't need more tablets, headphones, fitness trackers, or what have you.
 
+# 8.tablets [n.平板电脑] & ipads
+> So these are basically going to be kind of in between a phone and a laptop.right,ipads.
 
+# 9.headphones [n.耳机] & earbuds /ˈɪəˌbʌd/  
+> 1)So headphones are basically gonna be the ones that you wear over your head and then they're usually, a lot of them are over the ear as well. And the big ones that make you look like a pilot. Those are headphones.
 
+> 2)earbuds:OK, so the ones, the small ones that just go into your ears are earbuds.
 
+# 10.fitness trackers [n.运动手环]
+> These ones are kinda new, right? These are the things you use to count your steps or, or your heartbeat or something.Or measure your sleep activity.Exactly. Maybe it's a watch, maybe it's an app, maybe it's a watch with an app.
 
+# 11.what have you[phr.诸如此类]
+> Right, um, they are very hot nowadays. And another little phrase here, "what have you".what have you and son on,etc.
+
+# 12.restrain [v.节制]
+> So restrain means like control, right?whatever you know. Alright, so moving along, he says "I'll restrain myself this year."OK, now when I think about restrain, I think the first thing I always think of is police. Like police will restrain people.They will stop you from moving. They will arrest you. We'll always say, you know, the police restrained or they were restrained by the police.So that is more of like physically restraining. But you can also restrain in terms of, in a more abstract way.Sure, like your emotions, you need to restrain your emotions, especially when you're podcasting.
+
+# 13.
 
 
 
