@@ -41,9 +41,37 @@
 > Right, um, they are very hot nowadays. And another little phrase here, "what have you".what have you and son on,etc.
 
 # 12.restrain [v.节制]
-> So restrain means like control, right?whatever you know. Alright, so moving along, he says "I'll restrain myself this year."OK, now when I think about restrain, I think the first thing I always think of is police. Like police will restrain people.They will stop you from moving. They will arrest you. We'll always say, you know, the police restrained or they were restrained by the police.So that is more of like physically restraining. But you can also restrain in terms of, in a more abstract way.Sure, like your emotions, you need to restrain your emotions, especially when you're podcasting.
+> 1）So restrain means like control, right?whatever you know. Alright, so moving along, he says "I'll restrain myself this year."OK, now when I think about restrain, I think the first thing I always think of is police. Like police will restrain people.They will stop you from moving. They will arrest you. We'll always say, you know, the police restrained or they were restrained by the police.So that is more of like physically restraining. But you can also restrain in terms of, in a more abstract way.Sure, like your emotions, you need to restrain your emotions, especially when you're podcasting.
 
-# 13.
+> 2)restarin yourself from sth:Right, and you can also restrain yourself from doing something, you know, from making quick judgements, from acting impulsively. So lots of things you can restrain yourself from doing.
+
+# 13.down from [phr.从...的原价减价下来]
+> Right, and you can also restrain yourself from doing something, you know, from making quick judgements, from acting impulsively. So lots of things you can restrain yourself from doing.Just kind of like, usually when I think about giving a price, I always say, you know, it was originally this price, now it's this price. But he's kind of switched it around.Right, right. So this is a great way to just say, you know, like Adam said you can switch it down from, you know, this number, it is now that number.
+
+# 14.pass up on [phr.错过、放弃]
+> 1）when we can use this word "pass" that means like, no thanks, or over to you or I'll pass, or even when you're playing a game, you can always be pass, pass, pass. 
+
+> 2)pass up on these deals. The problem with this is sometimes you can say "pass up these deals".And then sometimes you can say "pass up on".And sometimes, you could even just say "pass on these deals". So guys, take a look at the expansion sentence for this one. The meaning is always the same and even if you just want to try to use this phrase more, use "pass up on" for now. It's a good place to start.For example, we could say successful people will never pass up a good opportunity.Right, exactly. We could also say, you know, it's really hard to pass up on this job offer but I can't move to another city right now.
+
+# 15.regret (not)doing sth [v.] & regrets[n.] & regretful [adj.]
+> 1)This is basically feeling sorry that you didn't do something earlier differently.Or you did do something and wish you didn't do it.Right, right, so either way, you're always kind of wishing you had done things differently, whether it's doing something or not doing something.Or even you could say, here's an example. I regret not doing more. So you did something but you just, maybe you didn't do enough. 
+
+> 2)Now you can also use this phrase "regret", you can also use it as a noun, right?Right, right, so you have regrets.Have regrets. You are full of regrets.
+
+> 3)regretful:You can also say that you're very regretful about something.
+
+> 4)时态：Now we're using this, you know, all these examples, we just gave were in the past tense. You can also use this as, kind of like a future warning, right? Thinking again about like parents here. "If you do that, you'll regret it". "You'll regret it."
+
+# 16.we'll see about that [phr.看情况，表示怀疑、不赞同]
+> Yeah, very sassy there.just means, means what, we'll see about that. I don't really believe it.I think basically because they're having a little bit of an argument here and she doesn't want to continue the conversation or the, you know, the argument. So you can just kind of say "we'll see about that" and just leave it at that.Leave it at that. OK, the future knows, only the future knows. 
+
+# 17.cosmetics & makeup & skincare
+> 1)cosmetics: cosmetics. I think a lot of people know but um, just to clarify it, it basically includes both makeup and skincare.
+
+> 2)makeup: makes you look very nice. I guess skincare does as well, but usually, makeup is more like paint.more colorful.
+
+> 3)skincare:So skincare is going to help you clean your face and maintain it, whereas makeup is used to enhance your beauty.
+
 
 
 
