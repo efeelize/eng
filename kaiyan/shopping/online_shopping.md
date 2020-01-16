@@ -4,6 +4,17 @@
 
 # II.grammar
 # 1.cyber monday
+> Right, because cyber means like Internet.Like networks, yeah, we don't really use this word much anymore but Cyber Monday is just it's here to stay.
+
+# 2.deals
+> Right and usually the Cyber Monday deals were online and Black Friday deals were in store but now they're kind of mixed. They're all online. They're all in store.
+
+# 3.beats & trumps
+> 1)Exactly, so here "beats" is not really what physically fighting or beating.Sure, it just means like "it's better than", "it's a lot better than".
+
+> 2)It "trumps". Yeah. OK, so like we do often use this phrase, like we often say like "it beats something". Like for example, maybe Diana can see me, you know, lying on a beach, somewhere. "What are you doing?" "Well that sure beats working."
+
+# 4.brick and mortar /'mɔrtɚ/ [adj.实体店]
 > 
 
 
