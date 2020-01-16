@@ -15,7 +15,18 @@
 > 2)It "trumps". Yeah. OK, so like we do often use this phrase, like we often say like "it beats something". Like for example, maybe Diana can see me, you know, lying on a beach, somewhere. "What are you doing?" "Well that sure beats working."
 
 # 4.brick and mortar /'mɔrtɚ/ [adj.实体店]
+> Um, yes. So this is a great adjective to basically describe the physical store.Exactly. So it is made out of bricks. It does not sell bricks. I guess it could sell bricks.OK and then the wife has a really a great response to what her hubby had to say, right?Right. Exactly. So it is made out of bricks. It does not sell bricks. I guess it could sell bricks.
+
+# 5.tell me about it[phr.你说对了，有同感]
+> Tell me about it, which basically means don't tell me about it, right?Ha ha, basically means I absolutely agree.Absolutely agree. Yeah what you have said is, yeah, I absolutely agree with.
+
+# 6.gadgets /gæ,dʒets/ [n.小型、新颖的电子产品]
+> Alright. So the hubby then says I've been waiting all year for these gadgets and the prices are insanely low.OK, so gadgets came up in our Double Eleven class as well, meaning small electronic things, not a phone. A phone is too complicated to be a gadget.
+
+# 7.insanely [adv.疯狂的，极度的]
 > 
+
+
 
 
 
