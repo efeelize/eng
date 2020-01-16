@@ -72,15 +72,20 @@
 
 > 3)skincare:So skincare is going to help you clean your face and maintain it, whereas makeup is used to enhance your beauty.
 
+# 18.accessories
+> Alright, so accessories are the extras.so your bags,your jewellery /'dʒuːəlrɪ/ ,you hats,scarves /skɑrvz/ [n.围巾]，glasses，belts,golves. Basically, its anything that's not a top, bottoms, or shoes.So I think bags in this instance would also count as an accessory.
 
+# 19.big-ticket items [n.昂贵的物品]
+> So big-ticket items, it's kind of pretty literal /'lɪtərəl/ [adj.字面的]. If you think of ticket as price, so big-ticket items are going to be just really expensive things, such as the TV that he wants.Yes, certain furniture is quite expensive. And as well as a lot of household[adj.家庭的，日常的] appliances /ə'plaɪəns/ [n.电器工具]，washing machine,the refrigerator.
 
+# 20 purchase 
+> entire purchase:OK, so we probably know "purchase" as a verb, right? We purchase something, "buy", just means "buy". In this case, it's a noun that just means like "the total".
 
+# 21.you do you [phr.按你喜欢的干]
+> So this is a great little phrase and basically means just do whatever makes you happy, do whatever floats your boat. It's actually, lately, especially in social media. It's been quite the, I guess, catch phrase. You know, you do you.
 
-
-
-
-
-
+# 22.max out[v.刷爆信用卡]
+> So basically, this is when you are unable to charge your credit card because you used the maximum amount that the credit card company gave you.Right, you have a $10000 credit card. You've used $10000.So you've maxed it out.
 
 # III.pattern
 ***buying thing online sure beats fighting the crowds at the brick and mortar /'mɔrtɚ/ stores.***
