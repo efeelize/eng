@@ -69,15 +69,11 @@
 > 6)loose leaf teas:All these other ones come from like real tea leaves and this is more like a flower tea. Okay cool, and then here, at this restaurant they're all loose leaf teas, not tea bags.That just means both tea leaves which does not in the bag. In England, very very commonly most of the tea that you will drink comes in a tea bag. It's not like China, China likes the loose leaf teas.Yeah yeah, I know in America too, yeah. When you go and buy tea in the store, they usually come in these little different bags, and each bag you know, you put in one cup and you can actually use it a couple times depending on the tea.
 
 # 14.full treatment 
-> The full treatment. So when you get the full treatment, and sometimes we might say special treatment, but it just means like you kind of get everything.Okay, so like basically what she means here is that she's having the starters, she's having all the different food, and the awesome tea. So she's getting the full British afternoon tea experience.
+> The full treatment. So when you get the full treatment, and sometimes we might say special treatment, but it just means like you kind of get everything.Okay, so like basically what she means here is that she's having the starters, she's having all the different food, and the awesome tea. So she's getting the full British afternoon tea experience.It just like, it means you get everything from A to Z. So one example we have, "Those VIP tickets really allowed us to receive the full treatment at the event." Right? Or "On her birthday, I took Judy to a SPA where she got the full treatment." So she didn't just get her feet you know down, she got her back, her hands, everything.
 
-
-
-
-
-
-
-
+- on her birthday,I took Judy to a spa where she got the full treatment.[好好享受一番]
+- Those VIP tickets really allowed us to receive the full treatment at the event.
+- Rob will have to undergo full medical treatment to beat the disease.[全面治疗]
 
 # III.pattern
 ***Likewise, Finley. I've been looking forward to this new experience. I see we have 3 tiers here. So what's for starters?***
