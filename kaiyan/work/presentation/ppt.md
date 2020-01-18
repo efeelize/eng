@@ -70,6 +70,9 @@
 > Yeah trim /trɪm/ [v.削减] yeah, make it shorter or summarize.Yes, so if you get paragraphs when you change them to your PowerPoint, cut them down to sentences.If you've got sentences, cut them down to phrases. And if you got phrases, cut them down to keywords.
 
 # 10.keywords
+> so speaking of keywords, you want to use these to help your audience focus on the message.so you really don't want them to be looking and trying to read your PowerPoint, you just want some big keyboards so they can stay focused.
+
+# 11.readability /ˌri:də'biləti/ [n.可读性]
 > 
 
 
@@ -78,9 +81,8 @@
 
 
 
-
-
 # III.pattern
+
 
 
 
