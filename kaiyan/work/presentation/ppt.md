@@ -72,7 +72,7 @@
 # 10.keywords
 > so speaking of keywords, you want to use these to help your audience focus on the message.so you really don't want them to be looking and trying to read your PowerPoint, you just want some big keyboards so they can stay focused.
 
-# 11.readability /ˌri:də'biləti/ [n.可读性]
+# 11.readability /ˌri:də'biləti/ [n.可读性] & readable  /'ridəbl/ 
 > 
 
 
