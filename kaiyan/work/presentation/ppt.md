@@ -106,11 +106,15 @@
 # 16.convey & express
 > Ok, so convey. That means like express.I always think of in an airport when you, when you go get your bags after you land, you gonna get your luggage there's this called the conveyor belt brings out your, your, your bags.or even if you put your bags through like a security check at a subway station or a train station, it's also a conveyor belt. It sends.It moves things from one to another. Yeah, so convey, you need, you want your meaning your message to be transferred to, move to the audience. So convey. so other ways we could use convey maybe convey meaning.convey an idea.
 
-# 17.
+# 17.over+ [v.don't do it too much.]
+> 1) Overuse[过度使用], now, you can probably see. Right there, we've got to the prefix[前缀] over and the word used.
 
+> 2) overwweight:Like or I got at the airport, maybe your luggage is overweight.
 
+> 3) overeat:Yeah, or if something is really delicious, you might overeat.
 
-
+# 18.specoa effects [n.特效]
+>  So special effects if you ever, ok, if you like movies with some of this CGI, yeah, like lasers /'lezɚ/ [n.激光] and spaceships, they have special effect.Kind of like just things that are not really there, that, that they make it look better like, like animation /ˌænɪ'meʃən/ [n.动画].
 
 
 
