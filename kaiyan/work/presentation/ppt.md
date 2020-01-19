@@ -25,9 +25,21 @@
 > A good rule of thumb is one slide per minute.
 
 # III.don'ts
+# 1. Don't overuse special effects. 
+> Use sound, animation, and other effects to emphasize major points, but don't let them become distracting.
 
+# 2.Don't use too many words or include non-essential information.
 
+# 3.Avoid hard-to-read color combinations 
+> such as red/green, brown/green, blue/purple. Aim for high contrast between the background and text.
 
+# 4.After you've created your slides, don't forget to go back and edit. 
+> Take out sentences and replace them with keywords and phrases.
+
+# 5.Don't include slides you can live without.
+
+# 6.Don't make it too long. 
+> Cut your presentation by as much as half so that your slides are streamlined.
 
 # III.grammer
 # 1.enhance[v] & enhanced [adj.] & enhancement [n.]
@@ -94,6 +106,7 @@
 # 16.convey & express
 > Ok, so convey. That means like express.I always think of in an airport when you, when you go get your bags after you land, you gonna get your luggage there's this called the conveyor belt brings out your, your, your bags.or even if you put your bags through like a security check at a subway station or a train station, it's also a conveyor belt. It sends.It moves things from one to another. Yeah, so convey, you need, you want your meaning your message to be transferred to, move to the audience. So convey. so other ways we could use convey maybe convey meaning.convey an idea.
 
+# 17.
 
 
 
@@ -103,7 +116,7 @@
 
 
 
-# III.pattern
+
 
 
 
