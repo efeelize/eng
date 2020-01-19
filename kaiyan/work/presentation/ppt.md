@@ -72,8 +72,30 @@
 # 10.keywords
 > so speaking of keywords, you want to use these to help your audience focus on the message.so you really don't want them to be looking and trying to read your PowerPoint, you just want some big keyboards so they can stay focused.
 
-# 11.readability /ˌri:də'biləti/ [n.可读性] & readable  /'ridəbl/ 
-> 
+# 11.readability /ˌri:də'biləti/ [n.可读性] & readable  /'ridəbl/  & legible  /'lɛdʒəbl/ [adj. 易读的；清晰的]
+> 1)Yeah, so you can cut, you can break that up into able to read.something is readable.so yeah, readability is more about like the structure of the sentence.
+
+> 2)Well, you see legible is more just like I can see clearly each letter.Yeah, this one just means the more, the flow, it's natural to read, yeah, it's comfortable.Right, cause some people, some people write, you know, like for example we said paragraph before.Some people write very bad sentences, very bad paragraphs.Right, kind of confusing, right?Confusing and you just don't really, there's a lot of we call them run-on sentences.Right, right, or wordy [adj.冗长的] sentences.
+
+# 12.slides [n.幻灯片]
+> Don't make your slides and just by the way your slides that's just the picture, each each single picture on your presentation is called a slide.
+
+# 13.sparingly /ˈsp ɛrɪ ŋlɪ/ [adv. 节俭地;爱惜地]
+> you should be sparing with punctuation,it's really a great phrase when use something sparingly.so use those sparingly which just means don't use too much, in fact use very little.Right, exactly, like I feel doctors, you know, they always prescribed  /prɪˈskraɪbd/ antibiotics /ˌæntɪbaɪˈ ɑtɪks/ [n.抗生素] .When you're sick. But sometimes, and sometimes people need that. But that's something that doctors do not prescribe, which not give out sparingly. And we might, you know, finding out in couple of years, oh, that's a problem.
+
+# 14.punctuation /'pʌŋktʃʊ'eʃən/ [n] & punctuate  /tʃʊŋktjʊet/ [v.]
+> 1)so punctuation, you guys probably know, is ,you know, commas, periods, dashes. 
+
+> 2)But here punctuate is a verb.so it just means you don't write too many commas and periods things like that.Because that really it kind of hurts the readability.
+
+# 15.to make sth count [phr.重要，有意义]
+> To make something count, it's kind of similar to what we saw make the best of.Yeah, just make it really valuable.Yeah, so something that's very, that's limited, like if you only have one chance to do something, you have to make make it really effective, make it count.Yes, exactly, so in this case we're saying that because we're using things sparingly There's not gonna be a lot of them which means they really better be good.Yeah, they better be really good and if you do use them sparingly and make everything count that will help convey your message to, to the viewers, to the people watching.
+
+# 16.convey & express
+> Ok, so convey. That means like express.I always think of in an airport when you, when you go get your bags after you land, you gonna get your luggage there's this called the conveyor belt brings out your, your, your bags.or even if you put your bags through like a security check at a subway station or a train station, it's also a conveyor belt. It sends.It moves things from one to another. Yeah, so convey, you need, you want your meaning your message to be transferred to, move to the audience. So convey. so other ways we could use convey maybe convey meaning.convey an idea.
+
+
+
 
 
 
