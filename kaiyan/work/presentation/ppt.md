@@ -113,15 +113,20 @@
 
 > 3) overeat:Yeah, or if something is really delicious, you might overeat.
 
-# 18.specoa effects [n.特效]
+# 18.special effects [n.特效]
 >  So special effects if you ever, ok, if you like movies with some of this CGI, yeah, like lasers /'lezɚ/ [n.激光] and spaceships, they have special effect.Kind of like just things that are not really there, that, that they make it look better like, like animation /ˌænɪ'meʃən/ [n.动画].
 
+# 19.animation [n.动画] & cartoon
+>  Animation is a really great one. Basically animation just means, you know, using moving pictures, right?Decorations in your PowerPoints, things that look pretty, but they might be distracting.Yeah. Things like you know, cartoons.Not really comic books, but, yeah. Just any kind of, oh, all of these Disney.Disney animation. Yeah, like, there are a lot of Disney movies where they use real people.You can call those live action movies.
 
+# 20.emphasize [v.强调]
+> So basically what they're saying here is you know, you want to use these things, you just don't want to overuse them, was them to emphasize,yeah, major points.Yeah. But if you overuse them, then they become distracting.
 
+# 21.distracting [adj.令人分心的]
+> It means it will take your focus away.Yeah,you like lose your attention.Lose your attention, yeah,exactly. So like obviously, teachers don't like when students play with their phones in class.Yeah. The phones are distracting and the students become distracted.
 
-
-
-
+# 22.non-essential [adj.不重要]
+> Ok. So essential basically means the things that you need.Yeah. You need your absolutely important things and we use this again prefix to make it the negative form, right?Non-essentials. So other words that use 'non' like non-fat milk.I mean there's so many, rights.
 
 
 
