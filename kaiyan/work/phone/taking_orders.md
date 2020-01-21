@@ -1,4 +1,4 @@
-# Takeing_orders
+# Taking_orders
 # I.How to take orders by phone
 > Be polite and gather all the necessary information to place the order. Complete the transaction /træn'zækʃən/ [n.交易] in a professional manner and promote customer satisfaction.
 
