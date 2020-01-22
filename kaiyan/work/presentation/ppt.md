@@ -128,16 +128,49 @@
 # 22.non-essential [adj.不重要]
 > Ok. So essential basically means the things that you need.Yeah. You need your absolutely important things and we use this again prefix to make it the negative form, right?Non-essentials. So other words that use 'non' like non-fat milk.I mean there's so many, rights.
 
+# 23.color combinations
+> So color combination is going to be a pretty common chunk or collocation.Color combination. So if you're doing any kind of visual design or design, you need to think about which colors look good with other colors.So that's the combination, but you're combining two colors together and some colors look really good together.So for example, we see here red green. So if you have a green background.That means like, you know, it's the back part, you know, the background and red writing. It's hard to read.
 
+# 24.aim for 
+> Yeah. So things you can aim for. I think if you are, if you're going on a trip or traveling, you know, you want to, you want to arrive there by three pm, we're aiming to be there by three pm.We often use this word when we're talking about her own goals. The company's aim for big profits.
 
+# 25.contrast [v.对比] & contrasting [adj.] & compare
+> 1)So contrast.Like photo, software on your computer, you can't change the contrast.
 
+> 2)So you can use it as an adjective. It like contrasting colors, so you should, you want to aim for high contrast in colors and you can also use it as a verb, these do not contrast.Yeah. And an adjective you can use with that is like a sharp contrast.
 
+> 3) Even when you, you're comparing two things like, 'let's contrast cats and dogs.'Apples and oranges. 
 
+# 26.edit [v] & edition [n.] & editor 
+> 1)So edit just basically means to change.to change, to make a change, to make it better,to make it better. Improving usually there's a mistake.So this is often used for things like, you know, essays, films, anything that you're making really.Zero grammatical mistakes, but an editor could still look at it.And think like, you know, this could be shorter, yeah, or this could be longer.
 
+> 2)Something you make a new edition of a book.
 
+> 3) I know I mean we have a, we have a great editor.Who helps us with our mistakes.
 
+# 27.can live without [phr.没有...也行] & can't live without 
+> So you know, you can use this expression when you, when you give something up that you don't need.This reminds me of a kind of a funny expression that we say sometimes, oh, we don't really mean it, but It's, you know, we were talking about women, men can't live with them, but can't live without them.
 
+# 28.stream [v.] & streamlined [adj.精简的]
+> 1)So when something is, well, something that does flow.And what we're trying to do is called stream lining something.
 
+> 2)streamlined:Yes. So I mean we can think about, you know, effectiveness.So basically if your presentation is too complicated and it doesn't have a good flow like natural comfortable flow. It's not streamlined and you should make it, make it more simple, make it, make it smoother.Yeah, streamlined, well, I just think of you know, the first thing. I think of is you know, a system,ummm, like a compan yet or the way a company works, Oh, that company is so streamlined. Yeah. Well, it could be...You know, like communication.
+within the company, right, we only communicate by you know, wechat or whatever, but it also could be production.
 
+# 29.over-
+## (1) more than usual; too much 超过平常，过多
+- overdo  做的过分，表演过火
+- overproduction  生产过剩
+- overcrowded  过度拥挤
+- overreact  过度反应
+- overload 超载
+- over-optimistic  过度乐观
+- overconfident  过度自信
+- overanxious  过度焦虑
 
+## (2)completely  完全
+- overjoyed  极度高兴
 
+## (3)upper; outer; extra 上层，外部，多于
+- overcoat 外套
+- overtime 超时
