@@ -52,12 +52,14 @@
 
 # 10.name brands [n.大牌] & famous brand 
 
-# 11.significant [adj.重要的 & n.象征、有意义的事物] &  significantly /sɪɡˈnɪfəkəntlɪ/ [adv.显著的] & meanningful 
+# 11.significant [adj.重要的 & n.象征、有意义的事物] &  significantly /sɪɡˈnɪfəkəntlɪ/ [adv.显著的] & meanningful & substantially [adv.大体上]
 > 1)significant: This is a fantastic adverb you can use, it often, if you look at the adjective significant, it kind of means something larger great.
 
-> 2)But as an adverb yeah it just means a big difference.Even that's a way to kind of give someone like someone who is improving, a good complement like "Oh you know they're improving significantly, significantly better than before."
+> 2)But as an adverb yeah it just means a big difference.Even that's a way to kind of give someone like someone who is improving, a good complement like "Oh you know they're improving significantly, significantly better than before."Ok. So here, significantly just means a lot. yeah, quite a lot. 
 
 > 3)Meaningful also means important.
+
+> 4)Another good word that sounds like significantly and means pretty much the same thing is "substantially".
 
 # III.A double negative sentence: hasn't been without
 > Did your English grammar teacherever tell you that it's incorrect touse /tauz/ [vi.粗暴对待] a double negative sentence[双重否定句]? Well they were wrong! Englishspeakers use these kinds of sentences all the time! We evensee one in today's lesson: 
