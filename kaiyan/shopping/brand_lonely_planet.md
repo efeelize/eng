@@ -8,7 +8,7 @@
 
 > After so many young people inquired about their trip, the Wheelers wrote "South East Asia on a Shoestring /'ʃustrɪŋ/ " which quickly became the backpackers' bible.The book eventually evolved into Lonely Planet, the world's most beloved travel guidebooks informing and inspiring travellers around the globe.
 
-> Ever wondered where Lonely Planet got its name? It actually started as a mistake when Tony Wheeler misheard a song line. The actual lyrics were "lovely planet". But he decided to stick with the name because Lonely Planet stood out more.
+> Ever wondered [你是否好奇过]where Lonely Planet got its name? It actually started as a mistake when Tony Wheeler misheard a song line. The actual lyrics were "lovely planet". But he decided to stick with the name because Lonely Planet stood out more[更别具一格].
 
 > They were more adventurous /əd'vɛntʃərəs/ [adj.爱冒险的], and I mean travel in the sixties and seventies was for the wealthy.And, so the hippies kind of they wanted to do these things but of course being hippies they didn't have a lot of cash, so yeah they kind of made travelling and backpacking more mainstream.
 
@@ -22,7 +22,7 @@
 # 3.exhaustive [adj.详尽无遗的] & exhausting [adj.使人精疲力竭的]
 > exhaustive:It just means complete. Very complete. This is like too complete. 
 
-# 4.seeking [v.寻求] & look for & inquire /ɪn'kwaɪr/ [v.询问]
+# 4.seeking [v.寻求] & look for & inquire /ɪn'kwaɪr/ [v.询问] & inquiry [n.调查]
 > 1)seeking:Really look for. It's like a quest or a crusade /kru'sed/ [n.十字军东征], you're seeking truth. Which you will often hear, yeah you're just really really looking for something.
 
 > 2)But you know in personal sections of, you know newspapers. You know, man seeking woman that kind of thing, or woman seeking man. And so it just means you're really looking for.
