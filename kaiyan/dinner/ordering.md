@@ -8,11 +8,11 @@
 > Can I start you two off with some water? Alright? So it's a lot of easy words but it might be a little bit confusing.this just means "Can I bring you some water first?"Right. Do you want water? If you want water, I'm going to bring that to you first.
 
 # 3.appetizers /'æpə'taɪzɚ/ [n.前菜] & side dish [配菜] & entrees /'ɔntrei/ [n.主菜]
-> 1）So of course, an appetizer is a small dish that you eat first, you know, so that you have an appetite /'æpɪtaɪt/ [n.胃口].Normally, something we start off with, this is what comes before the main meal.
+> 1）So of course, an appetizer is a small dish that you eat first, you know, so that you have an appetite /'æpɪtaɪt/ [n.胃口].Normally, something we start off with, this is what comes before the main meal.so let's say like if you're in a casual restaurant, and appetizer might be, you know like French fries or nachos /ˈnɑˌtʃo/ [n.墨西哥玉米片]. But if you're in a fancier restaurant, you'll probably have something like a cheese platter.
 
 > 2)We have lots of different side dishes you can choose from.So a side dish is not part of any of the main things on the menu. It's something that you can add to other food, right?Exactly, like mashed potatoes.Yeah, that's one kind of side dish or you know, French fries or green beans. Those are not side dishes for a pizzeria. But those are some typical American side dishes and almost every restaurant has side salad, right?It is. It's so easy and so quick. 
 
-> 3)Yes, it's the biggest part of the meal. So notice this word "entree" is spelled "E-N-T-R-E-E". But it's French, so we don't say "en-tree", we say "on-tray"
+> 3)It's actually called main sometimes too,it's the biggest part of the meal. So notice this word "entree" is spelled "E-N-T-R-E-E". But it's French, so we don't say "en-tree", we say "on-tray"
 
 # 4.house wines [n.餐厅特色葡萄酒] & merlot /mεə'ləu/ [n.梅尔洛] & grab your wine 
 > 1）Yeah, well, first of all the word "house" here is an adjective which is definitely not what we're used to.Yeah, refers to the restaurant.Right, so it's the restaurants. Emm, it's not their special wine. It's more like their basic wine.Right. If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
@@ -21,10 +21,14 @@
 
 > 3)Yeah. This is a, a very informal kind of slang way to just say "go get".Right, bring your wine, get your wine, grab your wine.
 
-# 5.pairs [v.搭配] & complements 
+# 5.pairs [v.搭配] & complements & served [v.搭配] & wine pairing [n.搭配的酒]
 > 1)This a very common word used with wine in general. It just means that they go together well. You have two things: the food and the wine, and they go well together.
 
 > 2)another way to say that is "complements". Right, the wine complements this type of food. They go together well.
+
+> 3)so served with, just means that it comes together.Yeah, it's given with. That is served. You can have served over. Like maybe if you get some ribs. Maybe there are served over some mashed potatoes. That sounds pretty good to me.
+
+> 4)so this phrase. This noun phrase is from the verb pair. To pair with something is to find something that goes well. That, that matches it right?So, you can pair a wine with a dish.
 
 # 6.side salad [佐餐的沙拉] &  & salad dressing [n.沙拉酱] & on the side [phr.酱料分开放]
 > 1)side salad. So we know what a salad is. A side salad is more like a smaller salad and it's like a side dish. Side salad actually normally comes out before your meal. They don't have to, but don't be surprised if it does.
