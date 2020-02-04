@@ -39,7 +39,6 @@
 
 > 2)Ok, so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
 
-
 # 4.go with [phr.选择]
 > Well, the customer decides to go with a salad.And often has this feeling or sense that you were waiting or hesitating. Or you couldn't decide and finally you choose. That's when we say go with.and you can use it, you know, anywhere. You don't need to use it just for food. For example, if I am shopping for clothes. The lady at the front can ask me "Oh, what did you choose", right? And then I can say "I went with the T-shirt".
 
