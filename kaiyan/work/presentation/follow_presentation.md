@@ -22,21 +22,26 @@
 
 - 3. We get a week off in the summer for vacation.
 
-# 2.
+# 2.annual leave & holiday requests [n.休假申请] & public holiday [n.公共假期] & holiday pay [n.假期工资] & sick leave [n.病假]
+> 1)so annual means every year.Annual we can use this word in almost any event that happens every year like the Academy Awards is an annual event. Music awards happen every year those are annual events.
 
+> 2)So leave includes vacation time or time that you take off because you're sick.so every year the company gives you a certain number of days that you can go on vacation for.
 
+> 3)request, wouldn't you say it's kind of a, a polite or a formal word?it is, and request can be used as a verb or a noun but ask, we usually just use it as verb.For sure, now so you can put in a request, in this case, it's a holiday request.but you could put in other kinds of requests as well, for example you could put in a request for overtime pay.
 
+> 4)A public holiday is when everybody like the whole country has to take one day off.
 
+> 5)So if if the government says you cannot come to work today we still give you money and that money is called holiday pay. You get paid to stay home.
 
+> 6)We like to plan our holidays and when we're going to take a vacation, but we can never plan when we're going to be sick. And that's what this is all about. In this case, it looks like everyone gets nine sick days per year. I think after that, it's okay to be sick, but you're not gonna get paid.
 
+# 3.that leads me to [phr.这就引导了]
+> We use this, that leads me to, we use this phrase to introduce something, but it has to be connected to the last thing you said, and that's a good point Lisa, we also say that brings me to. So for example, that brings me to or that leads me to the next picture.
 
+# 4.maternity /mə'tɝnəti/ leave [n.产假（妈妈）] &  paternity /pə'tɝnəti/ leave [n.产假（爸爸）] & sick leave [n.病假]
+> 1)maternity leave is when you are pregnant or have just given birth to a child.so if your going to have a baby, well at this company, they can get a year of maternity leave and maternity just means mother.
 
-
-
-
-
-
-
+> 2)paternity leave：That means father and when it's for both parents, it's called parental leave.
 
 # III.pattern
 ***Thanks for coming to today's presentation on leave policies. Before I start, does anyone know how much annual leave you're allowed?***

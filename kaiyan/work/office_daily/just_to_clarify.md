@@ -54,8 +54,10 @@
 
 > 4)a heading is just a title, but often titles can be names for entire books, but headings can be names for sections.
 
-# 5.hand it in [phr.上交、提交]
->  so "to hand it in" means "to submit it", but it's a little bit more casual and friendly.You could also hand in your homework, or you could hand in a lost item to the police.
+# 5.hand it in [phr.上交、提交] & put in [v.提交]
+> 1)so "to hand it in" means "to submit it", but it's a little bit more casual and friendly.You could also hand in your homework, or you could hand in a lost item to the police.
+
+> 2)So anyway this phrase, put in a request is very common and it's kind of a chunk, we often use it in this way.
 
 # 6.will do [phr.我会的]
 > it just means "I will do that".Yeah, so you can use it, you know, in person, or in, I guess, short message?
