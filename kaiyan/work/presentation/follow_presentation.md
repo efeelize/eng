@@ -16,6 +16,8 @@
 # 1.Take ((time,, week,, day)) off
 > When talking about vacation or holidays from work, try using the phrase “time off work.” For example, “I have time off work.” Also, try using the verb “take” before the phrase. For example, “Do you need to take time off work?” If it’s a different period of time, just replace the word “time” with that period of time: an hour, a day, a week, even a month. Finally, you don’t need to say “time off work,” you can just say “time off.” For example, “Do you need to take a day off?”
 
+> And we always put the length of the vacation in the middle so take a day off take the afternoon off.
+
 - 1. I need to take a few days off because I'm getting so stressed.
 
 - 2. She took the morning off work to see the dentist.
@@ -23,7 +25,7 @@
 - 3. We get a week off in the summer for vacation.
 
 # 2.annual leave & holiday requests [n.休假申请] & public holiday [n.公共假期] & holiday pay [n.假期工资] & sick leave [n.病假]
-> 1)so annual means every year.Annual we can use this word in almost any event that happens every year like the Academy Awards is an annual event. Music awards happen every year those are annual events.
+> 1)so annual means every year.Annual we can use this word in almost any event that happens every year like the Academy Awards is an annual event. Music awards happen every year those are annual events.so annual bonus, annual performance review, something like those.
 
 > 2)So leave includes vacation time or time that you take off because you're sick.so every year the company gives you a certain number of days that you can go on vacation for.
 
