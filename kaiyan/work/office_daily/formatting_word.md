@@ -16,13 +16,13 @@
 
 - Sally has a little more patience than Dan.
 
-# 2.
+# 2.formatting [v.排版] & format painter [n.格式刷]
+> 1）And then he talks about the formatting. So when he says formatting, he's talking about the text and he means the font, if it's bold or italic, if it's too big or too small. The color, all of this is formatting.So he tells her that she needs to adjust the formatting. She needs to change it, she needs to fix it.
 
+> 2)So format painter is a is a little tool in Word, right?
 
-
-
-
-
+# 3.omit [v.忽略、删除]
+>  So when we say omit, we mean delete, take it out.
 
 # pattern
 ***Hey Jennifer, I took a look at the document. There are a few things that need to be revised.***

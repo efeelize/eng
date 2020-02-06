@@ -45,7 +45,7 @@
 
 > 3）reporter: there also is a job, a reporter, although a reporter doesn't often write reports.they write the news.So they write articles.
 
-# 4.divide & split & sections [n.部分] & headings [n.标题]
+# 4.divide & split & sections [n.部分] & headings [n.标题] & headers [n.标题]
 > 1)so "divide", this makes me think about math class.Yeah like, "6 divided by 3 is 2".
 
 > 2)We often say, "split something into two" or "split something into three".she just wants him to separate the report into smaller parts. But "split" is a little bit different from "divide", it's a little bit more casual.it's the same thing, it's just we tend to use "divide" in more formal situations, like at work for example.
@@ -53,6 +53,8 @@
 > 3)Another more formal word is also "sections".So if you're looking at a report, the first section is probably going to be called "introduction".it's just the first part. And now if you're reading a book or whatever, and they usually have different lessons, "chapter one", "chapter two", "chapter three", these are all different sections.
 
 > 4)a heading is just a title, but often titles can be names for entire books, but headings can be names for sections.
+
+> 5) The header is the same thing, basically it's at the top of the slide. And we should actually probably talk about slides, and we didn't, we didn't talk about that yet. So in a presentation, you have a page on the screen, we call that a slides[幻灯片].so a presentation is made up of multiple slides.and those headers you can kind of think of them like titles.
 
 # 5.hand it in [phr.上交、提交] & put in [v.提交]
 > 1)so "to hand it in" means "to submit it", but it's a little bit more casual and friendly.You could also hand in your homework, or you could hand in a lost item to the police.
