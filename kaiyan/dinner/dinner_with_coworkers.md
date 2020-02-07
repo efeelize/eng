@@ -26,23 +26,37 @@
 
 - A: I really don't want to wake up at 5 a.m. tomorrow! B: Neither do I!
 
-# 2.
+# 2.I could really go for [phr.真想选择/要]
+> 1)So," I could really go for" this kind of means that 'I really want this,' or 'I'd be up for this.'Yeah, 'I'd like to have something.
 
+> 2)But this "could really go for"— we don't always just use it with beer. You could say, "I could really go for some coffee," or "I could really go for a walk. I'd like to go outside." It's nice out, right?
 
+# 3.a round [n.每人一点]
+> 1)so "a round"—this is a counter, right? It's a counter for a group of things.So, basically, if you are with your friends and you go to a bar or a restaurant and everybody, you know, is going to have some beers. 
 
+> 2)You can say "a round of beers," but we don't just use it for beers. We use it for a lot of things.Yeah, like 'a round of questions.'Or 'a round of cocktails.'Or 'a round of chicken wings.' Ooh! Yum yum!How about 'a round of applause.'We can also use it for that! Or, when we're talking about sports, 'a round of tennis'—that's like a game of tennis, right?Yeah. You could even say, 'a round of bowling'.
 
+# 4.be down for [phr.赞同某事]
+> So basically, it means 'I'd be cool with that/I'd be okay with that.
 
+# 5.load up on [phr.多加、多点] & toppings [n.浇头]
+> 1)"Load up." So this just means 'get a lot of.Okay, so you can load up on other things than just toppings, you can load up on booze.You can load up on necessities.Yeah, or maybe if you like to read, you might load up on the books when shopping.
 
+> Basically, a lot of times we load up on things to prepare for later. If there's going to be a big snowstorm, you know. It's like "ah, go to the store and load up on food" because we won't be able to go out for a long time.
 
+> 2)in this case, if he's loading up on the toppings, maybe he wants to add a lot of cheese and tomatoes to his nachos.I guess he's not worried about his waistline.
 
+# 6.split [v.分开] & share & split the bill [AA制]
+> Well, there are some things you can split which is to share, but there's something you can share, but it's not splitting.
 
+> 1)when you split something, you're cutting it in half. So, for example, I'm not gonna say, "let's split the bathroom," right? I'm not cutting the bathroom in half, right? I'll say let's share the bathroom.
 
+> 2)And parents usually say to their kids, "You need to share your toys with the other kids." But, you can't split your toys because you're just going to break them.
 
+> 3)So splitting the bill at the end of the night—you pay fifty, I pay fifty, and we're all good.
 
-
-
-
-
+# 7.big eater [n.大胃王]
+> sometimes we also say like that you have a big appetite.'Appetite' /'æpɪtaɪt/ just means your ability to eat or not, basically.
 
 # III.pattern
 ***Man, what a long day! I could really go for a cold one.***
@@ -51,7 +65,7 @@
 
 ***I'd be down for that. But why don't we just order a pitcher?***
 
-***Sure. What about the appetizers? Is anyone a vegetarian?***
+***Sure. What about the appetizers? Is anyone a vegetarian /'vɛdʒə'tɛrɪən/?***
 
 ***Ok. How does a salad and some nachos sound?***
 

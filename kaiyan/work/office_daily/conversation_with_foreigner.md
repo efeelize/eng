@@ -63,8 +63,10 @@
 
 > 3)And we don't really say make me at ease, just puts me at ease.for example, like parents or something like this. Knowing that someone is taking care of their child will put them at ease.
 
-# 10.cold one [n.冰镇啤酒]
-> A cold one, this is another way to say beer.Oh yeah. Just a cold beer. I mean you could say, it's something other cold thing, but generally this just means cold beer.
+# 10.cold one [n.冰镇啤酒] & pitcher /'pɪtʃɚ/ [n.装啤酒的壶]
+> 1）A cold one, this is another way to say beer.Oh yeah. Just a cold beer. I mean you could say, it's something other cold thing, but generally this just means cold beer.
+
+> 2)So 'a pitcher' is just a big jug /dʒʌɡ/ [n.大壶]. I like that word, "jug, jug." It's like a container. It's not a bottle because there's no top on it, but it's big. You know, there's handle and you grab it and you pour the beer out of it.
 
 # III.pattern
 ***Hey Sam, thanks for inviting me out for a beer.***
