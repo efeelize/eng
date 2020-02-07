@@ -4,7 +4,7 @@
 > If you're looking for ways to make your presentation more engaging and interactive, try these ideas.
 
 # 1.Ask for interaction[互动]
-> It sounds too obvious – yet it works. Start your presentation by telling the audience you want their questions and that you expect interaction. Tell them when you’d like them to ask, and if you’ll have designated times for it.
+> It sounds too obvious – yet it works. Start your presentation by telling the audience you want their questions and that you expect interaction. Tell them when you’d like them to ask, and if you’ll have designated times   for it.
 
 # 2. Ask a great question at the beginning to get people talking
 > When it comes to presentations, most of us are used to being talked to, rather than being asked to share our own thoughts. Opening with a question turns this idea on its head. You can ask the audience what they'd like to get out of the session or why they came. You can poll the group for their opinion about a topic.
