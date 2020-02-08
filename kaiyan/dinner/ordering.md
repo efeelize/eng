@@ -7,7 +7,7 @@
 # 2.Can I start you two off with some water?
 > Can I start you two off with some water? Alright? So it's a lot of easy words but it might be a little bit confusing.this just means "Can I bring you some water first?"Right. Do you want water? If you want water, I'm going to bring that to you first.
 
-# 3.appetizers /'æpə'taɪzɚ/ [n.前菜] & appies & starters & share plates & side dish [配菜] & entrees /'ɔntrei/ [n.主菜] & the mains 
+# 3.appetizers /'æpə'taɪzɚ/ [n.前菜] & appies & starters & share plates & side dish [配菜] & entrees /'ɔntrei/ [n.主菜] & the mains & for starters [phr.开始]
 > 1）So of course, an appetizer is a small dish that you eat first, you know, so that you have an appetite /'æpɪtaɪt/ [n.胃口].Normally, something we start off with, this is what comes before the main meal.so let's say like if you're in a casual restaurant, and appetizer might be, you know like French fries or nachos /ˈnɑˌtʃo/ [n.墨西哥玉米片]. But if you're in a fancier restaurant, you'll probably have something like a cheese platter.
 
 > 2)and sometimes we might say "appies" because we're too lazy to say appetizers.Or, maybe even more commonly, you will hear 'starters.'Yeah, or, 'share plates.'
@@ -17,6 +17,8 @@
 > 4)It's actually called main sometimes too,it's the biggest part of the meal. So notice this word "entree" is spelled "E-N-T-R-E-E". But it's French, so we don't say "en-tree", we say "on-tray"
 
 > 5)So actually, first of all, let's talk about 'the main.' So 'the mains' just means 'the main meal.'
+
+> 6)So "for starters" is a phrase that we use that means to begin with, first off. So there's a list of things that Jim is going to tell her that she needs to change and the first thing is that she has way too much text in these slides.
 
 # 4.house wines [n.餐厅特色葡萄酒] & merlot /mεə'ləu/ [n.梅尔洛] & grab your wine 
 > 1）Yeah, well, first of all the word "house" here is an adjective which is definitely not what we're used to.Yeah, refers to the restaurant.Right, so it's the restaurants. Emm, it's not their special wine. It's more like their basic wine.Right. If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
