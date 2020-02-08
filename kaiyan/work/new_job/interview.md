@@ -59,17 +59,9 @@ Perhaps you've worked in the industry for a long time.Maybe you have family hist
 
 ***what do you know about the company？***
 
-***well I have taken it upon myself to look at the LinkedIn profiles of everyone that's ever stepped foot inside this buliding.***
-
 ***you should know as much as about the company as possible before you walk through the door.***
 
-***I was really impressed with the new marketing campaign that you guys did.***
-
 ***what are your strengths?***
-
-***people tell me I'm a good listener.I really can hear.***
-
-***you can't come to a job interview not knowing what you're good at.***
 
 ***I think I do a really good job of leaving people when it's hard and someone needs to step up,but also understanding how to communicate with people and work in a collaborative environment.***
 
@@ -85,6 +77,6 @@ Perhaps you've worked in the industry for a long time.Maybe you have family hist
 
 ***after the interview,send a thank-you email and a note in the mail never hurts.and if you don't get the job,don't get down on [对某事表现出消极或批判的态度] yourself or your prospects.***
 
-
+***you can't come to a job interview not knowing what you're good at.***
 
 
