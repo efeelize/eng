@@ -7,8 +7,12 @@
 > Unlike the emphasis on presentation in British tea culture, Chinese tea culture emphasizes the virtues that come from within[内在美德], and a unity between human beings and nature[人与自然的合一感]. Chinese people also cherish the character of tea :fragrant but not aggressive[有芳香却不张扬],low-key but long lasting[低调而含韵悠长].
 
 # II.grammar
-# 1.thrilled  /θrɪld/ [adj. 非常兴奋的]
-> Okay so he says "thrilled", so this is like super excited.Yeah I'm really happy, very excited
+# 1.thrilled  /θrɪld/ [adj. 非常兴奋的] & excited & thriller [n.恐怖小说]
+> 1)"thrilled", so this is like super excited.Yeah I'm really happy, very excited.and it's not like formal, but it's used to really emphasize that you really are excited about it.
+
+> 2) I mean a lot of people use the word "excited". I mean which will be fine. He could absolutely use the phrase I'll be excited here. 
+
+> 3) I mean we even get the word "thriller", like a movie from this word.Thrillers are I guess exciting.so you have engaged in engaging and thrilling /'θrɪlɪŋ/ [adj.毛骨悚然的] and thrilled.
 
 # 2.afternoon tea 
 > So afternoon tea is basically kind of like, it's like a meal in between lunch and dinner.Yes, so you know if you get hungry often between those two meals, this will help you just to you know keep yourself.From being too hungry. Okay cool. So you can have afternoon tea between lunch and dinner and it's one of Finley's favorite British customs. Okay, so a custom is like a pratice, a cultural tradition.Yes something that is done by, well, British people. It has been done that way for a long time.Okay okay, so basically every country or every culture has their own customs.

@@ -16,7 +16,7 @@
 # 1.find it
 > 1）“Find” can be followed by all sorts of pronouns, and the meaning will change slightly with each one. “Find it” is usually used to express your feelings about a situation, and so you could think of the “it” as representing “the situation”.[“Find”后面可以连接各种各样的代词，而含义会因代词的不同而稍有变化。“Find it”通常用来表达你在某一情况下 的情绪，而你可以将“it”理解为指代“这个情况”.]
 
-> 2)This phrase doesn’t need to be used only to talk about negative situations like in our dialogue. You can also use it to express positive things like “He’s very funny and always finds it easy to make friends”.[这个短语不一定只用来描述负面的情况，比如像我们对话里这样。你还可以用它来描述正面的情况]
+> 2)We use this all the time and it kind of means just like what you feel about it,This phrase doesn’t need to be used only to talk about negative situations like in our dialogue. You can also use it to express positive things like “He’s very funny and always finds it easy to make friends”.[这个短语不一定只用来描述负面的情况，比如像我们对话里这样。你还可以用它来描述正面的情况]
 
 > 3)You can also use this phrase in a question to ask how someone is doing in a new situation or environment. Asking “How are you finding it there?” to a friend who has just changed companies or move to a different city is a great way to show that you care about them.[用在疑问句里，来询问某人在一个新情况或者新环境里怎么样。]
 
@@ -26,18 +26,47 @@
 
 - 3. Both my wife and I find it annoying when our neighbors come to visit without telling us first.
 
-# 2.
+# 2.interviewer [n.面试官]  & interviewee [n.面试者] & employer &  employee
+> 1）So, she is doing the interview and, so she's called the interviewer.
 
+> 2)Right and of course. If you guys are thinking about words like employer and employee, the same idea applies here. We have the interviewer and then we have the interviewee.
 
+# 3.warm up & small talk & break the ice
+> Right, and Josh is probably a little scared. So one thing that interviewers often do to make the interviewee a little more comfortable is to do a little small talk.Small talk, yeah. I mean we can call it a warm-up. We can call it a small talk. Lot of time, we use the phrase break the ice.Um, because you know when you first meet somebody, it feels cold.
 
+# 4.fairly [adv.] & very [adj. & adv.] & quite [adv.]
+> 1)So, basically fairly is like kind of at the bottom. It's not just a tiny amount. But you know, it's more than you might expect.Yeah, they're not saying that we are an extremely young company.No, they are not a total baby.
 
+> 2)But then when we look at the word very, like very, it's a big word.It means a lot of things.
 
+> 3)So, when you hear the word quite that usually means a lot degree. That degree is very very high. Fairly is not as much as quite. 
 
+# 5.I'm all ears [phr.洗耳恭听]
+> But in this case. It just means he is listening.Yeah, we say this all the time to show that we are going to listen carefully.
 
+# 6.benefactor /'bɛnɪfæktɚ/ [n.捐助者] & backers [n.赞助商] & supporter & backing 
+> 1)Yes. Benefactor is like someone who gives money to sponsor, usually like artistic projects.Yeah, yeah, yeah, or like a museum or something.
 
+> 2) So, if you can imagine somebody holding your back, so you don't fall down. It's kind of like they are supporting you.financial supporter could be called a backer.I mean we have politicians who have backers.
 
+> 3)Yeah, it's interesting because you could say these people are supporters as well, but supporters don't necessarily give you money. They're not necessarily financial supporters.
 
+> 4)Backing,it's just it's the money.you can get backing from the government.So just like these content creators who need backing. This company. It was a bunch of independent artists, and they were finding it difficult to, you know, raise money.
 
+# 7.platform /'plæt'fɔrm/ [n.平台] & content creators [n.内容创作者] & contents 
+> 1)we use platform in a lot of ways. I mean originally, it chooses a stage where you can, you know, give a speech. But now it's used for basically apps. You know a place where you can spread your voice or something like that.Right or whatever the app is used for.Yeah, like Youtube, Instagram, almost anything.
+
+> 2)And one thing that Youtube, Instagram, Facebook. All of these platforms need, in order to function, in order to work, our content creators.Right, because that's what they offer essentially, they offer content.Alright, so we get content creators. We're often thinking about blogs, little videos but these people were artists.
+
+> 3)we didn't say content in the same way. Er, content was just like what's it about.Was in like we always say a table of contents.In a book. But now, content is video. It's you know, tweets, it's all of these things.
+
+# 8.reading up on sth [phr.查阅、研究]
+> so it just means kind of research, or look into, or read about. But it's often when you're getting ready or preparing for something. In this case, an interview. You're reading up usually for a purpose.if I were going to a meeting or something with somebody really important, maybe I want to read up on this person.You're gonna read up on the person, on the company, on the data, on the topic.Yet. This is not stalking[跟踪]. This is information you are looking into.
+
+# 9.engaged [adj.投入的]
+> 1)engaged mean that they are going to marry with each other.
+
+> 2)this other meaning is that they're all like involved and paying attention and kind of excited.like engaged community.
 
 
 
