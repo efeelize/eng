@@ -1,4 +1,5 @@
 # Receiving_gifts
+
 # I.Western Gift Giving Culture
 > In Western gift giving culture, it is customary /'kʌstə'mɛri/ [adj.习惯上的] to give a gift that reflects[反映] knowledge of the recipient's personal tastes, interests or character. Upon receiving a gift that is concealed /kən'sil/ by wrapping paper or some other sort of packaging[有包装的礼物], more often than not[更多的情况是], the recipient will immediately open it in front of the giver to express their gratitude. 
 
@@ -65,27 +66,11 @@
 
 - I heard Bob is up for a big promotion.[Bob要升职了]
 
-# 10.
+# 10.can wait [phr.不着急]
+> It just means these things are not important now, there's something else that is more important.So remember guys. Um… it's not just people that wait,or people wait but when you say something else can wait. For example, dinner can wait.You can talk about objects too. The Pinot can wait.It means that this wine. It's not important right now.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 11.customary [adj.按照习俗的]
+> Customary, traditional following a custom of that culture.
 
 # III.pattern
 ***Hey! So happy you two made it here in one piece! Please, come in come in! Here, let me take your coats.***
