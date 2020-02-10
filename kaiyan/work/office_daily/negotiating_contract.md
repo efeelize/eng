@@ -2,7 +2,7 @@
 
 # I.grammar
 # 1.only [conj.]
-> Yeah, it seems to be the same agreement we signed last year, only your rates have gone up. (是啊，这看起来 就和我们去年签署的协议一样，只是你们的价格涨了。)[only的意思是“但是”。这样的提出异议的方式更加自然。]
+> So here we have the world "only" and it means something a little different from what it usually means.it means "except that your rates have gone up".Yeah, it seems to be the same agreement we signed last year, only your rates have gone up. (是啊，这看起来 就和我们去年签署的协议一样，只是你们的价格涨了。)[only的意思是“但是”。这样的提出异议的方式更加自然。]
 
 - 1. I would have liked to go out to lunch, only I wasn’t invited. [我很想出去吃饭，可是我没收到邀请。]
 
@@ -10,28 +10,40 @@
 
 - 3. Sherry’s team is going to join the charity run, only Lou won’t be able to go.[Sherry的团队会加入慈善活动，只是Lou没办法出席。]
 
-# 2.
+# 2.service agreement [n.服务协议]
+> the service agreement is basically a kind of contract, a contract for a service. And the client says that the service agreement is basically the same one as last year, only your rates have gone up. 
 
+# 3.justify [vt. 证明…有理]
+> so "justify" here means "to convince me of something, to convince me that I should pay more for this service". so "to justify the cost increase to management" means "to explain to management why the cost has gone up and there's a good reason".
 
+# 4.money well spent 
+> Yeah, "money well spent" is a pretty common expression. For example, insurance, You know, you need insurance, health insurance so it's money well spent.So then the sales rep[代表（representative）] tells him that renewing his contract will be money well spent. So what are some other ways that we can use this phrase "money well spent".Yes, and how about the gym? Gym membership is money well spent.
 
+# 5.around the clock [adj.全天候的]
+> So, this means it's pretty much 24/7, it's available all the time.Yeah, any time of the day, you can contact support so that's around the clock service, 24/7 service and he talks about how the company has an excellent record of providing 24/7 professional service.
 
+# 6.excellent record 
+> so "excellent" record here means excellent history, a spotless history, a spotless record.Yeah, they've been doing a great job. 
 
+# 7.a comprehensive package 
+> the comprehensive package means it's very complete, it has a lot of stuff in it, so it's also expensive.And the client admits that the service is good, it's very reliable but he says that he doesn't think they need such a comprehensive package in light of last year's usage /'jusɪdʒ/ [n.惯例].so they don't need a huge package, a premium /'primɪəm/ [n.保险费、额外的费用] package with lots of features /fitʃɚ/ [n.特色] and services, they don't need something like that.
 
+# 8.in light of [phr.考虑到] & considering
+> And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
 
+# 9.downgrade [v.降低] & upgrade 
+> 1) "downgrade" means "to go from a higher, more expensive level of service to a simpler, cheaper level of service"Yeah, the basic package which is not a comprehensive package, it's a limited package.Yeah, it's limited to only the most important services.Yeah, the basic package which is not a comprehensive package, it's a limited package.Yeah, it's limited to only the most important services.so "downgrading" means "using a basic package instead of a comprehensive package" .
 
+> 2)And they also upgraded their hardware so they went from hardware that's maybe more basic to more improved and better hardware.Yeah, like faster servers. 
 
+# 10.switching [v.转换]
+> "switching service providers" just means "finding a different IT service company".So the sales rep tells him that they are constantly improving their service, an example that he gives is that they brought in more technicians and upgraded their hardware.Yes, so technicians are usually people that fix the hardware. Those kinds of IT issues, they're not programmers, they deal with the hardware.
 
+# 11.renewal /rɪ'nuəl/ [n.重建;更新] price [n.续费价格]
+> A renewal discount is a discount for a customer that is renewing his contract.Yeah you've already been with the company for 1 year, you want to renew [v.续费] but you want a cheaper price, you want a renewal discount.
 
-
-
-
-
-
-
-
-
-
-
+# 12.charged by the hour & billed on an hourly basis.
+> So next he says that he can add some hours of tech consulting. Yeah and another service that is billed on an hourly basis can be legal consultant.
 
 # II.pattern
 ***Colin, thanks for your time today. I would like to thank you for being one of our best customers over the past year. Have you looked over the service agreement I emailed earlier?***
