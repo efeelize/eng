@@ -42,26 +42,36 @@
 
 - 3. How big of a role do you hope to play in your new job?[你希望在新工作中扮演何种角色呢？]
 
-# 2.
+# 2.walk me through [phr.跟我讲讲、带我看看]
+> 1)so walk through, this is originally just like you are walking through something to check it, kind of explain.It means to go slowly, explain slowly.
 
+> 2)Or in a court, sometimes the lawyer will ask the witness, "Walk me through the events on that night."
 
+# 3.major [v.& n.]
+> 1)I got a major or my major is...;I majored in accounting in college.=I took accounting as my major in college.
 
+> 2)So, I did not major in computer science[n.计算机科学]. I majored in political science.
 
+# 4.front end [n.前段] & back end [后端] & mobile /moˈbil/  development [n.移动开发] & product manager [n.产品经理] & Saas [Software as a Service:软件即服务]
+> 1）so front and this is just a word that programmers use. Basically, it's just what you see and interact with on a website or an app.
 
+> 2) the actual program or other people, they usually interact, they usually use the back end. So if you think about like a restaurant, the back end would be like where the chefs make the food, the kitchen, and the front end is the table where the customer eats the food.
 
+> 3)this is essentially just apps.Apps, yeah, they're working on apps. I, computer programmer, 10 years ago, 15 years ago, was probably working on websites, we're at the front end. And, and, now, it's pretty much all apps, all mobile.Yeah. You could say /'məʊbaɪl/ but, it's more of an American thing to say /'məʊbl/.
 
+> 4)product managers. Probably know what a product is, probably know what a manager is.Yeah, put them together, they just deal with the why, the what, everything about the product, like proposing it, or strategy and monitoring /'mɑnətɚ/ it.
 
+> 5) this is basically short for "Software as a Service".So, basically, Google apps, that is a Software as a Service.
 
+# 5.iterations [n.迭代] &  iterate /'ɪtərət/ [v.] & reiterate /rɪ'ɪtəret/ [vt.& n. & adj. 反复地说,重申]
+> 1)It's a new version, it's an upgraded, improved version. the past couple years, especially being involved with this company, kind of learning more about tech companies, and even as tech companies kind of take over more and more of society, this word gets used so much. I just think about the word "version".But, you know, everyone uses this word "iteration" now.
 
+> 2)reiterate:I said something, maybe the person didn't understand, or maybe I want to say it a bit better, I would say let me reiterate.
 
+# 6.growing pains [n.发展初期（esp初期）的困难]
+> 1)so she was there for a few of these major iterations or versions, and because of that, he understands all of the challenges in this iterative process. You know, it, all the growing pains.when you transition from young, or in this case, in a new company to an experienced mature company, there are some difficulties.
 
-
-
-
-
-
-
-
+> 2)So you can always use this phrase to talk about a person about a child, or you know, a company, an organization. Any, anything that has to grow and change in fly, and all of the wonderful metaphors /'mɛtəfɚ/, we can use to talk about companies.
 
 # III.pattern
 ***So, Josh, I’d like to know a little about your background. Could you walk me through your resume a bit?***

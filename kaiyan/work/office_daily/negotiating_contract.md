@@ -25,8 +25,15 @@
 # 6.excellent record 
 > so "excellent" record here means excellent history, a spotless history, a spotless record.Yeah, they've been doing a great job. 
 
-# 7.a comprehensive package 
-> the comprehensive package means it's very complete, it has a lot of stuff in it, so it's also expensive.And the client admits that the service is good, it's very reliable but he says that he doesn't think they need such a comprehensive package in light of last year's usage /'jusɪdʒ/ [n.惯例].so they don't need a huge package, a premium /'primɪəm/ [n.保险费、额外的费用] package with lots of features /fitʃɚ/ [n.特色] and services, they don't need something like that.
+# 7. comprehensive package & comprehensive & comprehensive exam [综合考试] & comprehensive insurance 
+> 1)the comprehensive package means it's very complete, it has a lot of stuff in it, so it's also expensive.And the client admits that the service is good, it's very reliable but he says that he doesn't think they need such a comprehensive package in light of last year's usage /'jusɪdʒ/ [n.惯例].so they don't need a huge package, a premium /'primɪəm/ [n.保险费、额外的费用] package with lots of features /fitʃɚ/ [n.特色] and services, they don't need something like that.
+
+> 2)So comprehensive is kind of like more in depth.Yeah, like in depth, full, complete, right?
+Right. So it's cool to be a programmer. You get to do lots of things. But when you're the product manager, your role is much bigger, much fuller, much more in depth, like we said.
+
+> 3)you have to write about everything. 
+
+> 4)Another way we do here, comprehensive is with medical care or any kind of like insurance.
 
 # 8.in light of [phr.考虑到] & considering
 > And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
@@ -36,8 +43,19 @@
 
 > 2)And they also upgraded their hardware so they went from hardware that's maybe more basic to more improved and better hardware.Yeah, like faster servers. 
 
-# 10.switching [v.转换]
-> "switching service providers" just means "finding a different IT service company".So the sales rep tells him that they are constantly improving their service, an example that he gives is that they brought in more technicians and upgraded their hardware.Yes, so technicians are usually people that fix the hardware. Those kinds of IT issues, they're not programmers, they deal with the hardware.
+# 10.switching [v.转换] & make the switch & transition [n.转型]
+
+> 1) "switching service providers" just means "finding a different IT service company".So the sales rep tells him that they are constantly improving their service, an example that he gives is that they brought in more technicians and upgraded their hardware.Yes, so technicians are usually people that fix the hardware. Those kinds of IT issues, they're not programmers, they deal with the hardware.
+
+> 2) It just means change. so it's kind of a collocation  /'kɑlə'keʃən/ [n.搭配] here, a chunk. And it doesn't have to be a job that could be like a hobby. Like when I was in middle school, I made the switch from skiing to snowboarding /'snobɔrd/ [n.滑雪].
+
+> 3)make "the "switch:the "the" basically is pointing to something very important. Like, for example, Connor and I are both using max, an Apple computers, but my whole life I've always used PCs, so I made the switch. A couple years ago, it's a big important switch.
+
+> 4)But let me think about "switch". We should be thinking about like light switches. It's on, or its off, it's this, or it's that, or as a transition kind of, kind of implies going between.there's some area between, when it's not quite finished changing.
+
+> 4.1)Like a lot of companies, I'm sure when they want to change their systems, they wish they could just switch very easily. But, yeah, sometimes these, these transitions, we'd even say it like, even this transitional period, it's sometimes very difficult.
+
+> 4.2)You know, when I was a kid, software was something that you bought in a box.And you took it home, and it was yours.On your computer. And then, over time, we made this transition into software as a service, cloud computing.
 
 # 11.renewal /rɪ'nuəl/ [n.重建;更新] price [n.续费价格]
 > A renewal discount is a discount for a customer that is renewing his contract.Yeah you've already been with the company for 1 year, you want to renew [v.续费] but you want a cheaper price, you want a renewal discount.

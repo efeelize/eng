@@ -54,9 +54,9 @@
 > 4)Backing,it's just it's the money.you can get backing from the government.So just like these content creators who need backing. This company. It was a bunch of independent artists, and they were finding it difficult to, you know, raise money.
 
 # 7.platform /'plæt'fɔrm/ [n.平台] & content creators [n.内容创作者] & contents 
-> 1)we use platform in a lot of ways. I mean originally, it chooses a stage where you can, you know, give a speech. But now it's used for basically apps. You know a place where you can spread your voice or something like that.Right or whatever the app is used for.Yeah, like Youtube, Instagram, almost anything.
+> 1)we use platform in a lot of ways. I mean originally, it chooses a stage where you can, you know, give a speech. But now it's used for basically apps. You know a place where you can spread your voice or something like that.Right or whatever the app is used for.Yeah, like Youtube, Instagram, almost anything.in the programming world, it's like, it's a lower level than SaaS [Software as a Service:软件即服务]. So it's more like the servers in the network, that kind of thing.Alright. But for everyday people or these platforms are really, really important, like WeChat, for example.Youtube, Instagram, Facebook.
 
-> 2)And one thing that Youtube, Instagram, Facebook. All of these platforms need, in order to function, in order to work, our content creators.Right, because that's what they offer essentially, they offer content.Alright, so we get content creators. We're often thinking about blogs, little videos but these people were artists.
+> 2)All of these platforms need, in order to function, in order to work, our content creators.Right, because that's what they offer essentially, they offer content.Alright, so we get content creators. We're often thinking about blogs, little videos but these people were artists.
 
 > 3)we didn't say content in the same way. Er, content was just like what's it about.Was in like we always say a table of contents.In a book. But now, content is video. It's you know, tweets, it's all of these things.
 
@@ -67,12 +67,6 @@
 > 1)engaged mean that they are going to marry with each other.
 
 > 2)this other meaning is that they're all like involved and paying attention and kind of excited.like engaged community.
-
-
-
-
-
-
 
 # III.pattern
 ***Hi Josh, I’m Katherine Wang and I’ll be your interviewer today.***
@@ -88,4 +82,11 @@
 ***Beneflex is a platform that connects content creators with backers from around the world. We started the company last year because we were independent artists who were finding it difficult to raise enough money to fund our projects.***
 
 ***Actually, I’ve been reading up on everything I could find about the company online. It seems that you have a passionate team and an engaged community. I’d be thrilled to help the company grow.***
+
+
+
+
+
+
+
 
