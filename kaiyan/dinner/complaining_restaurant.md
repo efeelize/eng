@@ -28,28 +28,48 @@
 # 2.pay as you go [n.现收现付]
 - A system in which a person or organization pays for the cost of something when they occur rather than before or afterwards is called pay as you go.
 
+# 3.where do I begin [phr.从何开始] & to make matters worse [phr.更糟糕的是]
+> 1）this is what you say when you have a long list of complaints.If you say something negative.
 
+> 2)It's used to explain how the situation got even worse.Yeah, so I'm complaining about one thing and then this thing is even worse than the first part.
 
+# 4.took forever [phr.特别慢] & take no time 
+> 1)So take forever here just try not to think about "take" in the literal sense, like take the phone or take some money. It's just a word we use when we're talking about time.Exactly but when you say "You took forever" obviously it doesn't mean forever. It just means a really, really, really long time, slower than you expected.
 
+> 2)it is the opposite of "take forever" if something happens very quickly.I would probably say it took no time.
 
+# 5.short-staffed [adj.人手短缺的] & under-staffed & swamped [adj.忙的不可开交]
+> 1)so like maybe someone calls in sick or some accident happened and you did not have enough people.Alright so this doesn't only happen at a restaurant it can happen anywhere and usually in service jobs.
 
+> 2)you can also say under-staffed and it pretty much has the same meaning as short-staffed.
 
+> 3)So we can always use this phrase at work. I'm swamped at work, I'm swamped with work… They're not exactly the same but pretty similar.Anything. Yeah you don't need to have a job in order to be swamped you could be swamped with homework, swamped with chores at home. So it just means really, really, really busy.
 
+# 6.attitude adjustment & fix your attitude 
+> 1)So adjustment, of course, is similar to change but adjust is more slight?Yeah. Like you adjust the temperature. I mean it's basically a fancy word for change or fix and we're gonna put a few more examples into our expansion section. so go ahead and check that out.
 
+> 2)So if a person is like that someone might say that my attitude is not so good and I have a bad attitude. So it's kind of the way that you think and this affects the way that you behave as well and we often talk about bad attitudes when we talk about teenagers.
 
+# 7.meeting expectations [phr.达到期望]
+> 1)so expectation that's something that you think should happen.And if something is not meeting expectations then it's not reaching that level.So we would see this phrase a lot when we were in school like when the teacher would give us a report card, it might say, "Lisa is doing great but Adam is only meeting expectations."It's not bad, but it's just not what the teacher wants. The teacher wants to see you, emm...you get better scores or you to do better in class.
 
+> 2)Well it sounds like there are other things that are not meeting the customer's expectations because he says, "I specifically asked for no mayonnaise /'meənez/ [n.蛋黄酱,可简写：mayo] on my burger."
 
+# 8.I specifically said & I specifically asked &  I specifically stated. 
+> All of these sort of verbs that have to do with talking or asking or commanding.Yeah. And it usually means that you did this for a reason.Yeah. I wasn't just being crazy when I was speaking. I wanted no mayonnaise on my hamburger that is why I specifically said, "Please, no mayonnaise."
 
+# 9.pride ourselves on sth  [phr.我们引以为傲的]
+> "So "pride" obviously is the noun version of proud.And when you are proud you are very pleased with something that you have done.
 
+> Companies and managers will always say, "Alright, we pride ourselves on something.Yeah so even pride ourselves on service that's a very common one. We pride ourselves on our tradition or history. It really can be anything.
 
+# 10.hygienic /ˌhaɪdʒɪ'ɛnɪk/ [adj.卫生的] & sanitary /'sænə'tɛri/ [adj.清洁的]
+> 1) tending to promote or preserve health.like:hygienic habits like using disposable tissues;hygienic surroundings with plenty of fresh air.hygienic is usually related to the body.So for example, in this case, we used hygientic because there is a hair in the soup.The kitchen was hygienic but you know sometimes hairs did start swimming in soups or other dishes. That something that happened from time to time[phr.偶尔].
 
+> 2) I think about sanitary as referring to waste.The garbage or anything like that.free from filth /fɪlθ/ [n.污秽] and pathogens /'pæθədʒəns/ [n.病原体、物].
 
-
-
-
-
-
-
+# 11.on the house [phr.免单]
+> Because it means that the restaurant is paying.Yes. So anything that is free at a restaurant or a bar is on the house.
 
 # III.pattern
 ***Where do I begin? First of all, our food took forever!***
