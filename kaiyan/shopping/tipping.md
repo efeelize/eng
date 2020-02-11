@@ -6,7 +6,20 @@
 
 > Ironically, despite originating in the U.K., tipping in Britain has become rare with gratuity expectations falling far below North America’s. The change in perspective was brought about by[这种观点的改变是由于] a minimum wage[最低工资] increase which eliminated /ɪ'lɪmɪnet/ [vt.消除] the need for customers to supplement employee wages. Although many have demanded that a similar custom should be adopted in North America, it remains to be seen whether any changes will be made in the near future.
 
-# II.grammer
+# II.Everything you need to know abouttipping in the USA
+# 1.Dining
+> While tipping isn't necessarily "compulsory"[强制性要求] in this setting, expect to add at least 15 to 20 percent of the bill.Your wallet will stay fatter at fast food and counter-order restaurants[前台点餐]. The standard 15 to 20 per cent doesn't apply here.[这些地方并不需要给出账单15%-20%金额的小费]
+
+# 2.Drinking
+> If you're drinking at a bar, tip your bartender an extra dollar [一美元] for every drink. Tip a little extra and you might get something stronger.[调出度数更高的酒]
+
+# 3.Hotels
+> If a porter /'pɔrtɚ/ [n.行李搬运工] hauls /hɔ:l/ [v.搬运] your luggage to your room when you arrive at your hotel, tip a dollar or two per bag.Don't forget to tip the people cleaning your room and replacing your sheets (A tip of $2 to $3 per night is fine).
+
+# 4.Taxis 
+> Getting around town in a taxi[在城里逛逛]? Tip 10 to 20 percent on top of the taxi meter total[按车程总价的10%-20%给小费即可]. Feel free to make a judgement call on this depending on the ride[根据自己的乘车感受来调整小费金额] – more if you feel like it, and less if you don't.
+
+# III.grammer
 # 1.headaches & a pian in the butt & pain in the neck
 > 1)[n.头痛]So, we're not actually talking about headaches as headaches, right? The things that actually ache in your head. 
 
@@ -74,17 +87,54 @@
 
 # 16.server's [cont.服务人员]
 
-# III.pattern
+# 17.“Everything from (noun) to (noun)”
+> is used to express a wide range[表达范围很宽]. For example, in today's lesson, the speaker said, “people tip for everything from restaurants to taxis.” Here the speaker just means that people tip for a wide range of things including restaurants, taxis and other common places where you receive services like salons.
+
+- 1. They've got everything from apples to zucchinis /zuˈkini/ [西葫芦]
+
+- 2. I listen to everything from reggae /'rɛɡe/ [雷盖] to jazz. 
+
+# 18.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# IV.pattern
 ***Acceptable gratuity at sit-down restaurants has increased a lot.so now it's basically fifteen to twenty percent.***
 
 ***Not just the meal,but the experience in general.Juding by your meal and the good service,I'd say eighteen percent would be good.***
 
 ***That's such a big chunk of the menu price.Servers must make a killing on tips.***
 
+# V.pattern
+***I heard that people tip for everything from restaurants to taxis.***
 
+***Sure do. Americans also tip for food delivery and other things too. Basically, we tip most people who work in the service industry.***
 
+***It became widespread about a hundred years ago. Before then it was largely frowned upon and even illegal in some states.***
 
+***More or less. Wages are very low for most service workers. So they really rely on tips.***
 
+***I guess it also encourages them to provide good service. But how much should you tip?***
+
+***About 15 percent of your bill for good service, 20 percent for great service.***
 
 
 
