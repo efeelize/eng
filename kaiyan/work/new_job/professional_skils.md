@@ -105,7 +105,10 @@ if it is a verb, which I could also be Jim conflicted /kɑn'flɪkt/  with John.w
 # 13.on board.[phr.认可，同意]
 > 1)So it just means everyone agrees.The whole point is that it could mean on board at the organization, or on board with an idea, with a team, with a plan.Yeah, if you're on board, you're all going in the same direction.Right, and if you are not on board with an idea or a team, you are obviously going in a different direction.
 
-> 2)Interestingly enough, we do use on board a lot with organizations, companies, HR. Just because after Josh gets hired, if he gets hired, Katherine would probably say, like, welcome on board.
+> 2)To start a new job or position, we do use on board a lot with organizations, companies, HR. Just because after Josh gets hired, if he gets hired, Katherine would probably say, like, welcome on board.
+
+# 14.quote unquote [phr.所谓的]
+> we use it when we want to distance ourselves from an idea,but still say it.
 
 # III.pattern
 ***Josh, why do you think you’d be a good fit for this position?***
