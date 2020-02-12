@@ -36,6 +36,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # III.pattern 
 ***Josh, I’d like to move onto some hypothetical situations. How would you convince a senior leader to change their mind on a product decision they’ve made?***
 
