@@ -44,7 +44,7 @@
 # 6.I'd say
 > Sure, exactly. Now, "I'd say" here is just a way of expressing your opinion, "well, I'd say, you know, eighteen percent".It's kind of like giving your opinion when nobody asked, like "if you asked me, I would say..."Right, and that's why we have the, well, because no "would" in this. But we have the "I", "I would say", it's a bit more polite, because, yeah, "I am" sort of "I'm just expressing my opinion", maybe nobody asked. But then it's cool how they also combine this phrase "I'd say" with that first phrase "judging by".Yeah. You can often use it like that judging by blah blah blah. "I'd say" and then give your suggestion.Sure. So I could look at...maybe I saw Connor looked a little...looked a little sad. I'd say, "Judging by his facial expressions, I'd say...I'd say he needs some cheering up."
 
-# 7.make a killing [] & make
+# 7.make a killing [phr.赚大钱] & make
 > “Make” is used in a variety of money expressions, usually in order to mean “earn.” However, although some of these expressions can be used with the verb “earn” many of them are set expressions that can only be used with “make.”
 
 > 1)“To make a killing” is one money expression that means to earn a huge profit[巨额利润]. It is frequently used to someone makes a lot of money (very quickly) like in the stock market.
@@ -85,36 +85,40 @@
 # 15.outdated [adj.过时的]
 > So "outdated", it's just like old and not modern, you know, it's not really relevant to our time.Not relevant or not useful, not helpful.
 
-# 16.server's [cont.服务人员]
+# 16.server's [cont.服务人员] & service industry [n.服务业] & serving
+> 1)It's all about customer service. People who cut hair that like work in a salon. This is also kind of like the service industry 
 
-# 17.“Everything from (noun) to (noun)”
-> is used to express a wide range[表达范围很宽]. For example, in today's lesson, the speaker said, “people tip for everything from restaurants to taxis.” Here the speaker just means that people tip for a wide range of things including restaurants, taxis and other common places where you receive services like salons.
+> 2）So "serving," like a server at a restaurant, they serve others. They help others. They give things to others and it's all about customers and helping them.
+
+# 17.everything from sth to sth & everything form A to Z 
+> 1)it is used to express a wide range[表达范围很宽]. For example, in today's lesson, the speaker said, “people tip for everything from restaurants to taxis.” Here the speaker just means that people tip for a wide range of things including restaurants, taxis and other common places where you receive services like salons.
 
 - 1. They've got everything from apples to zucchinis /zuˈkini/ [西葫芦]
 
 - 2. I listen to everything from reggae /'rɛɡe/ [雷盖] to jazz. 
 
-# 18.
+> 2) so we don't really mean A to Z, but it just means like everything. They just have all kinds of stuff.that just means they have everything. Maybe they sell everything.
 
+# 18.(it's a) long story [n.说来话长]
+> "Long story," I really like using this phrase. Basically, you can use this when someone asks you a question and you feel the answer is not simple.Yeah, or "long" really. Like if you have to explain it for a long time, you could say "It's a long story" or just shorten it and say "long story."
 
+# 19.restaurants & diners /'dainə/ & food delivery 
+> 1)So in America, we have restaurants called diners and diners always have these really big menus. They have all kinds of food. You could say, "Oh this diner has everything, from breakfast food to salads to barbecue and Mexican food. It's like, wow, there's so much stuff."
 
+> 2)These are the people that, when you order food, they bring it to your house or office or wherever you are.Delivery is basically bringing something to somewhere else.so you can deliver mail. You can deliver food. You can deliver anything really.
 
+# 20.widespread 
+> 1)so widespread can also mean like really common,customs can become widespread. They become customary.Yeah, so all kinds of things can be widespread. Customs can be widespread. A certain type of belief, like the way people think, can be widespread. A certain type of fashion could be widespread.
 
+> 2)but this also can be used for other things that like—for example, I think of a widespread wildfire.When that fire spreads and becomes bigger, it's, you know, widespread.
 
+# 21.a must [n.必不可少的东西]
+> 1) so "a must" is a noun here. It's something you really should do. It's like strongly recommended to do this.For example, I saw the new Star Wars movie, Connor. I think you should see it. It's a must.It's a must. It's a strong recommendation, right?
 
+> 2)we often say it when we travel, like what are all the "must-sees" or the "must-dos" when we go traveling?Sometimes a must is something like you really do need to do, but it also means just like something that you should do.
 
-
-
-
-
-
-
-
-
-
-
-
-
+# 22.cheapskate /ˈtʃipˌsket/ [n.〈美俚〉守财奴]
+> so a cheapskate is someone who really doesn't like to spend their money.
 
 # IV.pattern
 ***Acceptable gratuity at sit-down restaurants has increased a lot.so now it's basically fifteen to twenty percent.***

@@ -102,10 +102,12 @@ if it is a verb, which I could also be Jim conflicted /kɑn'flɪkt/  with John.w
 # 12.disciplined [adj.自律的、受过训练的、遵守纪律的]
 > I mean the whole point about being disciplined is having focus, staying on track, you know, not letting things, sort of, distract you.you got to wake up at 6 a.m., go to the gym, workout. Nobody wants to do. Well, some people do.Some people they really want to do that. And those people probably don't need discipline.
 
-# 13.on board.[phr.认可，同意]
+# 13.on board.[phr.认可，同意] & frowned /fraun/ upon [phr.不同意]
 > 1)So it just means everyone agrees.The whole point is that it could mean on board at the organization, or on board with an idea, with a team, with a plan.Yeah, if you're on board, you're all going in the same direction.Right, and if you are not on board with an idea or a team, you are obviously going in a different direction.
 
 > 2)To start a new job or position, we do use on board a lot with organizations, companies, HR. Just because after Josh gets hired, if he gets hired, Katherine would probably say, like, welcome on board.
+
+> 3)so frowned upon, a "frown" is like the opposite of a smile.A "frown" is an angry face, so "frown upon" means you disapprove of something.Yeah, like often companies frown upon, you know, dating employees—when employees date each other, coworkers.
 
 # 14.quote unquote [phr.所谓的]
 > we use it when we want to distance ourselves from an idea,but still say it.

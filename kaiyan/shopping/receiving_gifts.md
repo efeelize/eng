@@ -69,8 +69,10 @@
 # 10.can wait [phr.不着急]
 > It just means these things are not important now, there's something else that is more important.So remember guys. Um… it's not just people that wait,or people wait but when you say something else can wait. For example, dinner can wait.You can talk about objects too. The Pinot can wait.It means that this wine. It's not important right now.
 
-# 11.customary [adj.按照习俗的]
-> Customary, traditional following a custom of that culture.
+# 11.customary [adj.按照习俗的] & custom 
+> 1)Customary, traditional following a custom of that culture.
+
+> 2)So custom is like a tradition, right? it's like a practice that we do.Just the things that we believe, the things that we practice, like beliefs and traditions. Those are our customs.
 
 # III.pattern
 ***Hey! So happy you two made it here in one piece! Please, come in come in! Here, let me take your coats.***
