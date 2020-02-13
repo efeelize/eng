@@ -34,11 +34,46 @@
 
 - 3. Once I switched to my new job, I was in a position to travel more often.[有机会]
 
-# 2.
+# 2.evaluation [n.评价]
+> 1)so an evaluation is just a review. It's looking back at someone's work over the year. So they take kind of information like, how much overtime [n.加班时间] they did, how much money they earn for the company, and then they use that as their evaluation to determine whether they'll get a promotion or a bonus.
 
+> 2)we can evaluate other things besides employees, right? Maybe you don't know what school you're gonna go to, so you say, "I need to evaluate my options."
 
+# 3.bonus /'bonəs/ [pl.bonuses]
+> 1)So, "a bonus" is just money that you usually get at the end of the year, and it's money added to your salary. So, it's kind of like extra salary.
 
+> 2)A bonus can also just be something good, right?Sure, exactly. Sometimes when I hear really good news, I just say, "Oh, bonus."
 
+# 4.put in sth & put sth in  [phr.投入]
+> 1)That's to kinda spend some extra time or effort to do something.it's usually time and effort. You put in time. You put in effort and then the result is well, in this case, it was a bonus, but it could be other good things too.
+
+> 2)sometimes when we use "put in," we separate this phrasal verb as well.Yeah, this one you can separate, so you can "put time in" or "put in time." It's fine.
+
+# 5.bring in [v.带来、引入]
+> we often talk about bringing in sales, bringing in revenue. There is lots of things that you can bring in that a company or a boss would find super valuable.So Kate must've gone out, found some new customers and attracted them to the company. But it's not only customers that you can bring into a company. You can also bring in money.
+
+# 6.step up [phr.在需要时采取行动] & take on [phr.承担] & put sb on sth.
+> 1）"step up" just really means to put in that extra effort to take on more responsibility.I'm sure everyone knows someone like that at a company, or maybe you're that person at your company. Maybe you step up when people need help or something needs to be done. we often hear a line like, "oh, we were falling behind, so I had to step up." Or, "I stepped up because no one else was doing anything."
+
+> 2)So "take on" is another phrasal verb that we always use at work. And it, basically, just means "start doing more things" or "be responsible for more things."Or maybe you have a second job, so you can say, "Hey, I had to take on a second job to make some more money."
+
+> 3)So, here she is more "being put on" these bigger projects. So, her boss's kind of giving it to her, right? So usually, when we're taking things on, we're doing it because we want to. We're doing it because it's our choice. And usually, when we are put on something, it's because it's someone else's choice.
+
+# 7.proactive /ˌpro'æktɪv/  [adj.积极主动地] & reactive /rɪ'æktɪv/
+> 1)It's good to be proactive, and basically, if you're proactive, you make things happen. You don't wait for something to happen, and then you do something. You're kind of like ahead of everything,?when you're being proactive, yeah, you're... you're out there. You're not waiting for anybody. You're getting stuff done.
+
+> 2)because when you wait for things to happen to you, that's called being reactive. You're reacting to things.
+
+- you also have processes that become reactive to news cycles.[你也会有一个对新的想法和环境反应的一个过程。]
+
+- But because you're training yourself to be reactive, right?[因为你在让自己受到影响。对吧?]
+
+# 8.gratitude [n.] & grateful [adj.] & appreciate 
+> 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
+
+> 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
+
+# 9.
 
 
 
