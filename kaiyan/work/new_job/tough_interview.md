@@ -51,10 +51,32 @@
 
 ***It taught me to stand up for myself professionally. In that case, it meant leaving the company when the role and work environment were no longer productive towards my goals.***
 
+# IV.pattern
+***Good afternoon, Melinda. Thanks for coming in for the interview. Here's my card. Please have a seat.***
 
+***Nice to meet you, Paul! Thank you for this opportunity.***
 
+***Well, let's get started. First, could you tell me a little about your educational background?***
 
+***Of course. I graduated from UCLA in 2008, with a Bachelor's degree in Marketing. After working for 2 years, I went on to get my MBA from the University of Texas, graduating in 2011.***
 
+***Ok. I saw on your resume that you've worked at various companies for relatively short periods of time. What is your reason for moving around so much?***
+
+***Well, after finishing my undergrad, I started to work for a startup as a Marketing Assistant and then was promoted to Team Supervisor. It was a very small company so I was able to gain a lot of experience in various areas of marketing. Unfortunately, the company went out of business after a year. The next 2 positions I held were short-lived because of company restructuring and my decision to pursue an MBA degree. But despite the transitions, I’ve always worked in marketing and have continued developing my skills and experience in this field. I’ve managed to grow in each position, taking on more challenging roles and managing more team members.***
+
+***I see…Why do you think we should hire you as our Marketing Manager?***
+
+***Well, I love your product. It's always been my dream to work for the firm. I believe I have both the knowledge and skills to be the Marketing Manager as I've worked in both offline and online businesses, which is a great fit with your firm.***
+
+***What would you say are your greatest strengths?***
+
+***I've proven to be a problem solver. I'm very good at analyzing problems and coming up with solutions. I know what key metrics to measure and how to improve them. I'm also extremely driven and proactive.***
+
+***Very good. And what about your greatest weakness?***
+
+***Well, I used to try to do everything myself. But as I worked in more senior roles, I've learned that a good manager needs to leverage her team and bring out the best in them.***
+
+***Lastly, what kind of goals do you have for yourself professionally?***
 
 
 
