@@ -77,8 +77,10 @@
 
 > 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
-# 9.scale up [phr.提升规模]
->  And when you grow to scale you are trying to, you know, increase your customers. But you also need to increase like support. You need to increase… Cuz if you just grow very quickly you'll find that you won't be able to do anything.or you get really overwhelmed with all the extra work.
+# 9.scale up [phr.提升规模] & thrive [v.兴旺发展]
+> 1）And when you grow to scale you are trying to, you know, increase your customers. But you also need to increase like support. You need to increase… Cuz if you just grow very quickly you'll find that you won't be able to do anything.or you get really overwhelmed with all the extra work.
+
+> 2)you can flourish in an environment or situation. And of course thrive also gets used as an adjective all the time.like a thriving economy.
 
 # 10.formalize [v.正式化] & -ize 
 > 1)formalized. So this basically just means established.Established, right exactly. You need to make rules, formal rules.So this always comes with scaling up as well, you know, when you're a scrappy little startup, you know, you can really do kind of whatever you want, but when you get to be, youknow, a big company everything needs to be formalized.
