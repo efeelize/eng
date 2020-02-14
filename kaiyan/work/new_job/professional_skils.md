@@ -28,32 +28,30 @@
 
 - 3. When you get a new job, making new friends quickly will help you develop a sense of belonging.[培养归属感]
 
-# 2.expertise /'ɛkspɝ'tiz/ [n.专业技能、知识] & verticals [垂直领域] & horizontally /ˌhɑrɪˈzɑntəlɪ/ [adv.水平地] & analytical skills  [adj.善于分析的] & analysis /ə'næləsɪs/ [n.分析] & logical &  assets /'æsɛt/ [n.资产、品质]
+# 2.expertise /'ɛkspɝ'tiz/ [n.专业技能、知识]  &  analytical skills [adj.善于分析的] & hard skills [n.硬性技能] & soft skills & excel at / in sth [v.擅长]
 > 1)Expertise, and it just means a lot of knowledge.Means like you are an expert.Expert in this particular field or area.Expert in this particular field or area.
 
-> 2)vertical of course means up and down, as opposed to horizontal, which means side to side. So when I saw the word for the first time, I thought: Ok, it has to mean something about up and down.So in that same sense, it basically means you are targeting a specific market, you're not going horizontally /ˌhɑrɪˈzɑntəlɪ/ to many different industries.
+> 2) Josh has a pretty good answer here. I'm not the best at answering this question, but I think that his answer is pretty decent here. He believes his analytical skills [adj.善于分析的] and market sense are great assets /'æsɛt/ as a product manager.
 
-> 3)if you think about those lines like a horizontal line, as a company you want to sell to as many people or in as many markets as possible. Whereas in a vertical situation, you just want to focus on one specific thing.
+> 3)hard skill: it just basically means something that you can learn to do, like for a specific job.So what the job calls for, well, programming. We are talking about the programmers before. Obviously, programming or just computer skills would be the hard skill in that situation.
 
-> 4) Josh has a pretty good answer here. I'm not the best at answering this question, but I think that his answer is pretty decent here. He believes his analytical skills and market sense are great assets /'æsɛt/ as a product manager.Also some languages tend to be more analytical than others. For example, English is not really all that analytical in the sense of you're not really able to just look at a word and very easily determine its meaning.
+> 4)soft skill: and the opposite, that would be a soft skill which is something that you can take kind of to any job and even other areas of life, like your interpersonal skills.
 
-> 5)So analysis, you know, the noun form. When you're, like, kind of looking for patterns studying or something?
+> 5)excel : there really isn't that much of a difference. I think probably the safest thing we can say is you can excel in a very general idea.But then when we think about like sports, for example, I wouldn't say that I excel in football.Right, because it's more of a skill, like a specific skill.
 
-> 6)a lot of people tend to be very analytical, and in this sense it's very similar to, like, logical?
+# 3.analytical & analysis /ə'næləsɪs/ [n.分析] & logical &  assets /'æsɛt/ [n.资产、品质]
 
-> 7)Now assets, of course are things that are very valuable.It could be anything. It could be a quality of your personality, but it also could be, like, a house.Yeah, it could be your property.Yeah, it's anything that you own, right? Anything that you own that is valuable. I mean every year when you pay taxes, you have to make a list of your assets. Yeah, the government will always want to come, and take their, their own chunk. 
+> 1)analytical: Also some languages tend to be more analytical than others. For example, English is not really all that analytical in the sense of you're not really able to just look at a word and very easily determine its meaning.a lot of people tend to be very analytical, and in this sense it's very similar to, like, logical?
 
-# 3.your values should be well aligned with company & match up with & fit 
-> it's a fit, these people, these values, these passions, they all fit with the company, they're all aligned with the company.Basically they all match up with the company.
+> 2)analysis, you know, the noun form. When you're, like, kind of looking for patterns studying or something?
 
-# 4.framing [v.立框架]
-> 1)It'a a structure. Well, I mean, if you look at a photograph, and a lot of times the photograph or the piece of art will be framed. They have that wood around it.Giving it a structure.Yeah, if you put a frame on a painting, sometimes the frame is more expensive than the actually painting.Sure, I mean it could be made from, like, really expensive wood, or could have really you know, beautiful carvings /'kɑrvɪŋ/ [n.雕刻品] in it. 
+> 3)assets: of course are things that are very valuable.It could be anything. It could be a quality of your personality, but it also could be, like, a house.Yeah, it could be your property.Yeah, it's anything that you own, right? Anything that you own that is valuable. I mean every year when you pay taxes, you have to make a list of your assets. Yeah, the government will always want to come, and take their, their own chunk. 
 
-> 2)But in the sense it basically, when you frame something, you just kind of telling it in a way you say it,essentially.In this case, he's framing problems in a way that leads the whole team to deliver.
+# 4.verticals [垂直领域] & horizontally /ˌhɑrɪˈzɑntəlɪ/ [adv.水平地]
 
-- It's important to frame an argument so that it's relevant and easy to understand.[你的论证要有框架，这样更好切中主题而且易于理解]
+> 1)vertical of course means up and down, as opposed to horizontal, which means side to side. So when I saw the word for the first time, I thought: Ok, it has to mean something about up and down.So in that same sense, it basically means you are targeting a specific market, you're not going horizontally /ˌhɑrɪˈzɑntəlɪ/ to many different industries.
 
-- I was surprised how strong he was considering his wiry /'waɪəri/  frame.[骨架很瘦]
+> 2)if you think about those lines like a horizontal line, as a company you want to sell to as many people or in as many markets as possible. Whereas in a vertical situation, you just want to focus on one specific thing.
 
 # 5.deliver on a promise [phr.履行诺言]
 > we also do use deliver with the word promises. But here we don't tend to say you deliver promises, you deliver on a promise.
@@ -113,6 +111,18 @@ if it is a verb, which I could also be Jim conflicted /kɑn'flɪkt/  with John.w
 
 # 14.quote unquote [phr.所谓的]
 > we use it when we want to distance ourselves from an idea,but still say it.
+
+# 15.your values should be well aligned with company & match up with & fit 
+> it's a fit, these people, these values, these passions, they all fit with the company, they're all aligned with the company.Basically they all match up with the company.
+
+# 16.framing [v.立框架]
+> 1)It'a a structure. Well, I mean, if you look at a photograph, and a lot of times the photograph or the piece of art will be framed. They have that wood around it.Giving it a structure.Yeah, if you put a frame on a painting, sometimes the frame is more expensive than the actually painting.Sure, I mean it could be made from, like, really expensive wood, or could have really you know, beautiful carvings /'kɑrvɪŋ/ [n.雕刻品] in it. 
+
+> 2)But in the sense it basically, when you frame something, you just kind of telling it in a way you say it,essentially.In this case, he's framing problems in a way that leads the whole team to deliver.
+
+- It's important to frame an argument so that it's relevant and easy to understand.[你的论证要有框架，这样更好切中主题而且易于理解]
+
+- I was surprised how strong he was considering his wiry /'waɪəri/  frame.[骨架很瘦]
 
 # III.pattern
 ***Josh, why do you think you’d be a good fit for this position?***
