@@ -90,7 +90,7 @@
 
 ***That sounds great. How does the product management team work with executive leadership?***
 
-***We don’t micromanage. We believe in giving PMs full rein in the execution stage and letting them thrive.***
+***We don’t micromanage. We believe in giving PMs full rein in the execution /ˌɛksɪ'kjuʃən/ stage and letting them thrive.***
 
 ***That’s great to hear. And if you don’t mind me asking, what’s the vision for this product?***
 
@@ -102,7 +102,7 @@
 
 ***Yes, I do have one last question. What do you think are the most important qualities for someone to really excel in this role?***
 
-***Well, other than the hard skills, we really want a strategic thinker who is collaborative, someone who has a passion for building great products and always puts the user front and center.***
+***Well, other than the hard skills, we really want a strategic /strə'tidʒɪk/ thinker who is collaborative, someone who has a passion for building great products and always puts the user front and center.***
 
 ***Thanks Katherine. Those are all the questions I have right now. Is there anything I can clear up for you about my qualifications?***
 
