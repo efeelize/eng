@@ -54,16 +54,20 @@
 # 5.bring in [v.带来、引入]
 > we often talk about bringing in sales, bringing in revenue. There is lots of things that you can bring in that a company or a boss would find super valuable.So Kate must've gone out, found some new customers and attracted them to the company. But it's not only customers that you can bring into a company. You can also bring in money.
 
-# 6.step up [phr.在需要时采取行动] & take on [phr.承担] & put sb on sth. & up their game [phr.拿出更好的表现]
-> 1）"step up" just really means to put in that extra effort to take on more responsibility.I'm sure everyone knows someone like that at a company, or maybe you're that person at your company. Maybe you step up when people need help or something needs to be done. we often hear a line like, "oh, we were falling behind, so I had to step up." Or, "I stepped up because no one else was doing anything."
+# 6.sb / sth to the core [phr.] & non-core [adj.非核心的]
+> 1)lots of fruits like apples and pears. They have cores. And for example we have cores.Our bodies have cores, like, like our abs [简写] { abdominals /æb'dɑmənl/ [n.腹肌] }. Those are our cores. 
 
-> 2)So "take on" is another phrasal verb that we always use at work. And it, basically, just means "start doing more things" or "be responsible for more things."Or maybe you have a second job, so you can say, "Hey, I had to take on a second job to make some more money."
+> 2)we also use this in a more abstract way. Right, like our core beliefs.So for example, a lot of startups because they are founded by younger people and entrepreneurs, their core values tend to be more like equality and transparency /træns'pærənsi/ [n.透明].
 
-> 3)So, here she is more "being put on" these bigger projects. So, her boss's kind of giving it to her, right? So usually, when we're taking things on, we're doing it because we want to. We're doing it because it's our choice. And usually, when we are put on something, it's because it's someone else's choice.
+> 3)it's a bit more abstract but you can say that someone or something to the core.Or it could be a thing like, you know, he is a politician to the core.
 
-> 4)When you're upping your game you are improving.I think it means different things in different circumstances. But in the workplace it means, you know, getting more sales, increasing your numbers. You know, basically improving your performance. 
+- The pear is rotten to the core.[这梨全烂了。]
 
-# 7.proactive /ˌpro'æktɪv/  [adj.积极主动地] & reactive /rɪ'æktɪv/
+- And that shakes me to the core.[而这一点动摇了我的内心。]
+
+> 4) OK, non-core is non-important, unimportant roles. That's not true. These are support roles and you know they're often just as—if not more—important to the structure.
+
+# 7.proactive /ˌpro'æktɪv/  [adj.积极主动地] & reactive /rɪ'æktɪv/ & driven [adj.有动力的] 
 > 1)It's good to be proactive, and basically, if you're proactive, you make things happen. You don't wait for something to happen, and then you do something. You're kind of like ahead of everything,?when you're being proactive, yeah, you're... you're out there. You're not waiting for anybody. You're getting stuff done.
 
 > 2)because when you wait for things to happen to you, that's called being reactive. You're reacting to things.
@@ -72,15 +76,17 @@
 
 - But because you're training yourself to be reactive, right?[因为你在让自己受到影响。对吧?]
 
+> 3)so very driven. It's like very motivated,very determined.
+
 # 8.gratitude [n.] & grateful [adj.] & appreciate 
 > 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
 
 > 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
-# 9.scale up [phr.提升规模] & thrive [v.兴旺发展]
-> 1）And when you grow to scale you are trying to, you know, increase your customers. But you also need to increase like support. You need to increase… Cuz if you just grow very quickly you'll find that you won't be able to do anything.or you get really overwhelmed with all the extra work.
+# 9.draw up [phr.起草、制定]
+> 1)if you're drawing a plan, you know, like maybe you're five years old and you're making a plan for how to, you know, kidnap Santa, steal all the toys. Maybe you would, you know, you can't write at that point but you can draw, you know, you with the gun and Santa. But, yeah.
 
-> 2)you can flourish in an environment or situation. And of course thrive also gets used as an adjective all the time.like a thriving economy.
+> 2)do rememberi ,it is always draw up.
 
 # 10.formalize [v.正式化] & -ize 
 > 1)formalized. So this basically just means established.Established, right exactly. You need to make rules, formal rules.So this always comes with scaling up as well, you know, when you're a scrappy little startup, you know, you can really do kind of whatever you want, but when you get to be, youknow, a big company everything needs to be formalized.
@@ -116,24 +122,6 @@
 
 # 16.scheme /skim/
 > it is kind of like a plan or set up,or a system.when we use this word as a verb, it almost always means do something bad. They're scheming. But scheme can just be like, it just, yeah, a plan, a system, a marketing scheme. And you know, an employment scheme. Something like that.
-
-# 17.sb / sth to the core [phr.] & non-core [adj.非核心的]
-> 1)lots of fruits like apples and pears. They have cores. And for example we have cores.Our bodies have cores, like, like our abs [简写] { abdominals /æb'dɑmənl/ [n.腹肌] }. Those are our cores. 
-
-> 2)we also use this in a more abstract way. Right, like our core beliefs.So for example, a lot of startups because they are founded by younger people and entrepreneurs, their core values tend to be more like equality and transparency /træns'pærənsi/ [n.透明].
-
-> 3)it's a bit more abstract but you can say that someone or something to the core.Or it could be a thing like, you know, he is a politician to the core.
-
-- The pear is rotten to the core.[这梨全烂了。]
-
-- And that shakes me to the core.[而这一点动摇了我的内心。]
-
-> 4) OK, non-core is non-important, unimportant roles. That's not true. These are support roles and you know they're often just as—if not more—important to the structure.
-
-# 18.draw up [phr.起草、制定]
-> 1)if you're drawing a plan, you know, like maybe you're five years old and you're making a plan for how to, you know, kidnap Santa, steal all the toys. Maybe you would, you know, you can't write at that point but you can draw, you know, you with the gun and Santa. But, yeah.
-
-> 2)do rememberi ,it is always draw up.
 
 # IV.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***

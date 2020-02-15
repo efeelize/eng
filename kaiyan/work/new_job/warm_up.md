@@ -63,10 +63,14 @@
 # 8.reading up on sth [phr.查阅、研究]
 > so it just means kind of research, or look into, or read about. But it's often when you're getting ready or preparing for something. In this case, an interview. You're reading up usually for a purpose.if I were going to a meeting or something with somebody really important, maybe I want to read up on this person.You're gonna read up on the person, on the company, on the data, on the topic.Yet. This is not stalking[跟踪]. This is information you are looking into.
 
-# 9.engaged [adj.投入的]
-> 1)engaged mean that they are going to marry with each other.
+# 9.engaged [adj.被吸引、感兴趣的、投入的] & engaging /ɪn'ɡedʒɪŋ/ [adj. 迷人的]
+> 1)he says that's really not a problem you know but this other position become only administrative work, instead of maybe a mix of administrative and Marketing or advertising work, and he says "as long as I'm still engaged in the work that first attracted me to the role", he's happy then.
 
-> 2)this other meaning is that they're all like involved and paying attention and kind of excited.like engaged community.
+> 2)engage, it's the same word as that you would use to say I'm engaged to be married, meaning you are planning on getting married and its now a formal decision that you know you and your fiance have engaged in, but in this context, engage, this is a great business lingo right, engaged means you are fully invested in the work you're doing, you are aware your presence, you're interested most of all in the work that you're doing.You're passionate.And you hear this a lot, engaged learning, you know engaged work environment.
+
+> 3)this other meaning is that they're all like involved and paying attention and kind of excited.like engaged community.
+
+> 4)engaging:Do you find this podcast engaging?
 
 # III.pattern
 ***Hi Josh, I’m Katherine Wang and I’ll be your interviewer today.***

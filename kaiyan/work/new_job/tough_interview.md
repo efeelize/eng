@@ -15,22 +15,60 @@
 
 - 3. As long as the weather is nice, we can go for a hike.
 
-# 2.
+# 2.resume & CV  &  curriculum /kə'rɪkjələm/ vitae /'vi:tai/ [n.个人简历；血液；vita的复数] 
+> 1)so this word "resume" of course we hear this a lot in a business or work context, A resume should be for a work context you know maybe one, two pages maximum.
 
+> 2)technically a CV which stands for curriculum vitae is an academic resume.So it's usually much longer has you can list a lot more experience, you know could be many many pages long. if you're playing for an academic job though they will almost always say "CV" and that means much longer, much more detail, everything you've ever researched, all that kind of information.
 
+> 3)but nowadays I think even in businesses they're used pretty interchangeably, so both of them though will probably have experience，work history...it's just may be the difference would be the details beyond that.
 
+# 3.you've yet stay at a single job 
+> this is just a formal way when you use this language, you've yet to stay at a job, you could also say exactly the same thing by saying "but I see that you haven't stayed at a single job", but "you've yet" is just a little bit more formal.
 
+# 4.freelance [adj.兼职的] & full time 
+> 1)So freelance means you are hired specifically to do maybe a project or short term assignment, and short term could mean a couple weeks, it could mean a couple of months or six months in this case; so the easiest way to think of it is that you've got freelance and you've got full time.it's, it's by nature [n.性质] it is short term and usually six months or under I would say is what defines freelance work.
 
+> 2)full time would mean you're hired and you are working there until either you leave or they fire you.
 
+# 5.nature [n.性质]
+> the nature means the essence /'ɛsns/ ,the way it's done.
 
+# 6.honing /'həuniŋ/ [v.磨炼] & productive [adj.有效的、有积极意义的]
+> 1）so to hone something means to perfect it, means to you can think of it almost like it's a knife you know you're sharpening a knife, you're honing skills, you're sharpening them, making...making them better in some way.Ok, I think that's a great way to look at it, but in this case we're talking about administrative skills.So the knife would be answering telephones, writing correspondence...maybe not the knife he's looking for.so he's...you know, obviously if he's in Marketing advertising, you know, administrative skills...honing those administrative skills is not something he was interested in and he says specifically "was not the most productive use of my time".
 
+> 2)there is a good difference I need to point out between saying "this was not the best use of my time" instead of "this was not the most productive use of my time", and the difference is productive is just a little more specific.I think as you get higher and higher in your language level you want to use specific words to convey meaning so by saying "this was not the best use of my time", it's a little general it also sounds maybe you know, with an english ear, sounds...I don't know, you might say arrogant /'ærəɡənt/.Exactly, that he wants to be productive.
 
+# 7.stand up for myself [phr.为自己站出来] & up for [phr.准备好了、乐意加入]
+> 1)stand up for myself: so this is just a way of saying you know what you want and you're not afraid to maybe tell other people about that or to make decisions based on what it is that you really do want, so in this case stand up for himself means he was willing to quit this job that was a full time job, because he knew he didn't want to just be doing administrative work.
 
+> 2) She thinks it's a great plan and she expresses that by saying "I'm up for that."Yes, so "I'm up for something" means that I am willing to do that.Yeah yeah, like so it's a real casual, soft, you know, kind of lightweight to say I would you like or do you want to do that.
 
+- 1)The whole question of shcool curriculum is up for discussion.[某事需要去做...]
+- 2)One or two people like to get to school early, but most of us would be up for going in later[准备做某事]
 
+# 8.step up [phr.在需要时采取行动] & take on [phr.承担] & put sb on sth. & up their game [phr.拿出更好的表现]
+> 1）"step up" just really means to put in that extra effort to take on more responsibility.I'm sure everyone knows someone like that at a company, or maybe you're that person at your company. Maybe you step up when people need help or something needs to be done. we often hear a line like, "oh, we were falling behind, so I had to step up." Or, "I stepped up because no one else was doing anything."
 
+> 2)So "take on" is another phrasal verb that we always use at work. And it, basically, just means "start doing more things" or "be responsible for more things."Or maybe you have a second job, so you can say, "Hey, I had to take on a second job to make some more money."
 
+> 3)So, here she is more "being put on" these bigger projects. So, her boss's kind of giving it to her, right? So usually, when we're taking things on, we're doing it because we want to. We're doing it because it's our choice. And usually, when we are put on something, it's because it's someone else's choice.
 
+> 4)When you're upping your game you are improving.I think it means different things in different circumstances. But in the workplace it means, you know, getting more sales, increasing your numbers. You know, basically improving your performance. 
+
+# 9.restructuring /ri'strʌktʃərɪŋ/ [v.重组] & transitions.[n.变动]
+> 1)This is like a big change in the organization of a company.Yeah, sometimes like a whole department will disappear, and if your department is removed, then probably don't have a job unless they move you to a different department.
+
+> 2)she says despite these transitions she was always working in marketing, so these transitions she's referring to are all of her changes, the movement she had in jobs.
+
+# 10.metrics /'mɛtrɪks/ [n.计量模型] & matrix  /'metrɪks/ [n.矩阵]
+> 1)So a metric is some kind of information that you measure, they can be things like how many people are visiting your website, how many units have a product you have sold. It's whatever is the most important piece of information for your job. 
+
+> 2)So if you're a salesperson, probably your key metric is your sales numbers, right? If you're running the marketing for a website, maybe your key metric is the traffic coming to the website, right? So often, you talk about "key metrics", the most important data or information for your job.
+
+# 11.leverage /'lɛvərɪdʒ/ [v.影响] & bring out the best in sb 
+> 1)To leverage a team is just to use them well.
+
+> 2)she also is good at bringing out the best in them, so this is a really common phrase that we use to bring out the best in somebody.Yes, especially for a leader, you have to find ways to get people motivated to make them do their best work.So not everybody is good at everything, but she is able to find what they are best at, and have them do it well.
 
 # III.pattern
 ***Mark, thanks for coming in for the interview this morning.***

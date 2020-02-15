@@ -60,10 +60,8 @@
 
 > 2)"Accommodate" kind of means that we will do what we can to help.My mom always does that when like I had a guest, so over at her house, she always is very accommodating.
 
-# 9.onboard [adj.加入、入职]/welcome aboard
-> 1)Ok, so "board" here means to board a ship, to go on to a ship.Yeah, so in that case, it's the ship, but in this case, I guess it's kind of a ship.
-
-> 2)Yeah. So so "welcome aboard" is something that people always say or come aboard, go aboard.
+# 9.tag along [phr.跟大家一起，跟随]
+> For example, Connor said "hey Adam I'm gonna go hit up these food trucks. Do you want to tag along?" I would know that his meaning is want to come with.Exactly, yeah "tag along" is a real nice casual phrase "join".
 
 # 10.horror stories [phr.恐怖的故事和遭遇]
 > So horror movie is a type of movie, horror story of course is a type of story. Now in this case, what we are doing is when we're saying "Oh I've heard some horror stories." It just means horrible.Yeah, exactly. It's kind of a chunk. It's always used like this like we don't say a terror story to. And in this case, she heard some horror stories about the work environment.
@@ -81,14 +79,6 @@
 
 - let's hit up the mall and buy some stuff.
 
-# 14.tag along [phr.跟大家一起，跟随]
-> For example, Connor said "hey Adam I'm gonna go hit up these food trucks. Do you want to tag along?" I would know that his meaning is want to come with.Exactly, yeah "tag along" is a real nice casual phrase "join".
-
-# 15.up for [phr.准备好了、乐意加入]
-> She thinks it's a great plan and she expresses that by saying "I'm up for that."Yes, so "I'm up for something" means that I am willing to do that.Yeah yeah, like so it's a real casual, soft, you know, kind of lightweight to say I would you like or do you want to do that.
-
-- 1)The whole question of shcool curriculum is up for discussion.[某事需要去做...]
-- 2)One or two people like to get to school early, but most of us would be up for going in later[准备做某事]
 
 
 

@@ -19,8 +19,8 @@
 > Different cultures may introduce new questions into the interview mix that you may not have heard before. Don't let these questions catch you off guard.[趁你不备] [别被这些问题打个措手不及]
 
 # II.grammar
-# 1.Play a role
-> We use the phrase play a role with comparative and superlative adjectives to describe how much influence or effect something has on another thing. Here are some examples:
+# 1.Play a role & take on more challange roles
+> 1) We use the phrase play a role with comparative and superlative adjectives to describe how much influence or effect something has on another thing. Here are some examples:
 
 - play a significant role 扮演重要的角色 
 
@@ -41,6 +41,8 @@
 - 2. Compared to living car-free, recycling plays a relatively insignificant role in reducing our carbon footprint.[与不开车相比,环保回收在减少碳足迹方面只有着非常轻微的作用]
 
 - 3. How big of a role do you hope to play in your new job?[你希望在新工作中扮演何种角色呢？]
+
+> 2)So she took on more challenging roles, she was responsible for more.she accepted more challenging work.
 
 # 2.walk me through [phr.跟我讲讲、带我看看]
 > 1)so walk through, this is originally just like you are walking through something to check it, kind of explain.It means to go slowly, explain slowly.
@@ -68,10 +70,19 @@
 
 > 2)reiterate:I said something, maybe the person didn't understand, or maybe I want to say it a bit better, I would say let me reiterate.
 
-# 6.growing pains [n.发展初期（esp初期）的困难]
+# 6.growing pains [n.发展初期（esp初期）的困难] & startup [n.初创公司]
 > 1)so she was there for a few of these major iterations or versions, and because of that, he understands all of the challenges in this iterative process. You know, it, all the growing pains.when you transition from young, or in this case, in a new company to an experienced mature company, there are some difficulties.
 
 > 2)So you can always use this phrase to talk about a person about a child, or you know, a company, an organization. Any, anything that has to grow and change in fly, and all of the wonderful metaphors /'mɛtəfɚ/, we can use to talk about companies.
+
+> 3)So a startup as a small company, usually it's tech-related. Many startups fail, but some startups become big and famous like Google and Facebook. So in this case the company did fail, right? The startup went out of business, but, not before she was promoted to team supervisor in the startup.
+
+# 7.scale up [phr.提升规模] & thrive [v.兴旺发展] & to be promoted [v.晋升] & get a promotion 
+> 1）And when you grow to scale you are trying to, you know, increase your customers. But you also need to increase like support. You need to increase… Cuz if you just grow very quickly you'll find that you won't be able to do anything.or you get really overwhelmed with all the extra work.
+
+> 2)you can flourish in an environment or situation. And of course thrive also gets used as an adjective all the time.like a thriving economy.
+
+> 3)so to be promoted, that's the verb, and then we also say "get a promotion".
 
 # III.pattern
 ***So, Josh, I’d like to know a little about your background. Could you walk me through your resume a bit?***

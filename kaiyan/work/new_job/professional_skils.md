@@ -45,10 +45,9 @@
 
 > 2)analysis, you know, the noun form. When you're, like, kind of looking for patterns studying or something?
 
-> 3)assets: of course are things that are very valuable.It could be anything. It could be a quality of your personality, but it also could be, like, a house.Yeah, it could be your property.Yeah, it's anything that you own, right? Anything that you own that is valuable. I mean every year when you pay taxes, you have to make a list of your assets. Yeah, the government will always want to come, and take their, their own chunk. 
+> 3)assets: of course are things that are very valuable.It could be anything. It could be a quality of your personality, but it also could be, like, a house.Yeah, it could be your property.Yeah, it's anything that you own, right? Anything that you own that is valuable. I mean every year when you pay taxes, you have to make a list of your assets. Yeah, the government will always want to come, and take their, their own chunk. financial asset. It could even be just an asset...your personality is an asset, you've got a fun personality maybe.
 
 # 4.verticals [垂直领域] & horizontally /ˌhɑrɪˈzɑntəlɪ/ [adv.水平地]
-
 > 1)vertical of course means up and down, as opposed to horizontal, which means side to side. So when I saw the word for the first time, I thought: Ok, it has to mean something about up and down.So in that same sense, it basically means you are targeting a specific market, you're not going horizontally /ˌhɑrɪˈzɑntəlɪ/ to many different industries.
 
 > 2)if you think about those lines like a horizontal line, as a company you want to sell to as many people or in as many markets as possible. Whereas in a vertical situation, you just want to focus on one specific thing.
@@ -101,9 +100,9 @@ if it is a verb, which I could also be Jim conflicted /kɑn'flɪkt/  with John.w
 > I mean the whole point about being disciplined is having focus, staying on track, you know, not letting things, sort of, distract you.you got to wake up at 6 a.m., go to the gym, workout. Nobody wants to do. Well, some people do.Some people they really want to do that. And those people probably don't need discipline.
 
 # 13.on board.[phr.认可，同意] & embrace &  frowned /fraun/ upon [phr.不同意]
-> 1)So it just means everyone agrees.The whole point is that it could mean on board at the organization, or on board with an idea, with a team, with a plan.Yeah, if you're on board, you're all going in the same direction.Right, and if you are not on board with an idea or a team, you are obviously going in a different direction.
+> 1)Ok, so "board" here means to board a ship, to go on to a ship.Yeah, so in that case, it's the ship, but in this case, I guess it's kind of a ship.So it just means everyone agrees.The whole point is that it could mean on board at the organization, or on board with an idea, with a team, with a plan.Yeah, if you're on board, you're all going in the same direction.Right, and if you are not on board with an idea or a team, you are obviously going in a different direction.
 
-> 2)To start a new job or position, we do use on board a lot with organizations, companies, HR. Just because after Josh gets hired, if he gets hired, Katherine would probably say, like, welcome on board.
+> 2)To start a new job or position, we do use on board a lot with organizations, companies, HR. Just because after Josh gets hired, if he gets hired, Katherine would probably say, like, welcome on board.So so "welcome aboard" is something that people always say or come aboard, go aboard.
 
 > 3)embrace means to accept enthusiastically. So it means you're accepting something. A lot of people say like older folks don't like to embrace change.
 
@@ -115,7 +114,7 @@ if it is a verb, which I could also be Jim conflicted /kɑn'flɪkt/  with John.w
 # 15.your values should be well aligned with company & match up with & fit 
 > it's a fit, these people, these values, these passions, they all fit with the company, they're all aligned with the company.Basically they all match up with the company.
 
-# 16.framing [v.立框架]
+# 16.framing [v.立框架] ]
 > 1)It'a a structure. Well, I mean, if you look at a photograph, and a lot of times the photograph or the piece of art will be framed. They have that wood around it.Giving it a structure.Yeah, if you put a frame on a painting, sometimes the frame is more expensive than the actually painting.Sure, I mean it could be made from, like, really expensive wood, or could have really you know, beautiful carvings /'kɑrvɪŋ/ [n.雕刻品] in it. 
 
 > 2)But in the sense it basically, when you frame something, you just kind of telling it in a way you say it,essentially.In this case, he's framing problems in a way that leads the whole team to deliver.
