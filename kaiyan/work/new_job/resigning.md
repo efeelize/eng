@@ -1,0 +1,86 @@
+# Resigning_from_a_job
+# I.Rules for resignation
+> With the average American job tenure /'tɛnjɚ/ [任期] lasting 4.2 years[干一份工作的平均年限], it's expected most of us will part ways with [分道扬镳] an employer 10 or more times during our career. How you exit says a lot about you and can play a big role in securing references [离职方式可以充分说明你的为人] and networking opportunities for future jobs[获得推荐和建立人脉的机会]. Here are two tips for helping you leave a lasting positive impression [持久的正面印象] when you resign.
+
+# 1.Resign to the right person
+> It is tempting [往往会] to tell your co-workers first that you are leaving to gain support.[以获得支持] However, for the rest of your career, potential employers are more likely to want to speak with a former manager than a former co-worker[潜在雇主一般更愿意通过你的上一任经理了解你，而非前同事。]. It is both a sign of respect and display of business savvy /'sævi/ [n.悟性] that you speak to the person who hired you first when you have decided to leave.[决定离职的时候，通知第一个雇用你的人既是尊重他的体现，也是你自己商业头脑的表现。]
+
+# 2.Give a reasonable notice and remain productive
+> Asking your new employer for a few extra days so that you can honor a two week exit commitment[留出两周办理离职]. Be productive during this notice period unless you want to be remembered as a negative distraction.[在提出辞职到正式离职期间要保持工作效率，否则会给前任公司留下负面印象。]
+
+# II.grammar
+# 1.“to be more than + adj. & to be less than + adj.
+> 1)The phrase “to be more than + adj” is an indirect and polite way to say “very.” It’s commonly combined with adjectives like “willing” or “happy” and emphasizes your enthusiasm to do something. [通常与“willing”或“happy”等形容词连用，强调你做某事的强烈意愿.]
+
+> 2)In contrast, the opposite expression “to be less than + adj” means “not very” and is often used to politely express displeasure. For example, “His boss was less than pleased with his performance at work.
+
+- 1. I'd be more than happy to answer your questions. [我很乐意回答你的问题。]
+
+- 2. She'd be more than willing to help you out. [她很乐意帮你一把。]
+
+- 3. The client was less than impressed with his rude behaviour. [客户对他的粗鲁行为不太满意。]
+
+# 2.过去式表达礼貌：I just wanted to let you know
+> Past tense equals polite, that's a little formula that will really really help you with English. I wanted to let you know, I was wondering if you had time. 
+
+# 3.phenomenal [adj.] & phenomenon /fə'nɑmɪnən/ [n.现象]
+> 1）phenomenal: it's just a word we use to emphasize how much of something is.if something is phenomenal, it just means it's awesome.so when someone's phenomenal, they're basically amazing.your boss could say to you, you've been a phenomenal team player.Of course it could also be a phenomenal mistake. 
+
+> 2) A phenomenon is just something that exists,
+
+# 4.resign [v.] & a letter of resignation [n.辞呈] &  two weeks' notice 
+> 1) so resignation, this is a noun but this is basically the noun form of resign, quit, leave.normally when we leave, we hand in a letter of resignation.it's just saying like,"Hey I'm quitting."
+
+> 2) your two weeks' notice tells them,"Hey I'm going to leave in two weeks."
+
+# 5.branching out (into/from) sth [phr.扩展业务，涉足新工作] & pursuing & take the leap [phr.作出改变]
+> 1) so branching out makes me think about a tree.Yeah because a tree has many branches. Okay so when you branch out into something, you try something new.so you could branch out into a new hobby or in this case a new job. Now importantly Lisa already said branch out into something, but you can also branch out from something.Yeah, for example, you could branch out from web design and branch out into software development.
+
+> 2) to pursue something just means to chase after something.we often say pursue your dreams, goals, ambitions or interests.
+
+> 3) so when you take the leap, you are basically taking your chances, you're doing something different and there's an element of risk.So a leap is a kind of jump and I guess you're jumping into the unknown. Now most importantly here you can say take the leap, you can also say take a leap, you will hear both of them.
+
+# 6.sorely /'sɔrli/ [adv.疼痛的，非常的]
+> 1) Now, sorely, the key root of sorely is the word sore, which means Oh! this hurts.Yeah it's a pain.
+
+> 2) But in other contexts, it usually just means extremely or very.like sorely mistaken.You could also be sorely disappointed by something.So a great word that you can use basically to emphasize anything.
+
+# 7.persuade & convice 
+> 1)persuade on the other hand, that has more to do with reasoning and arguments, like maybe you want to persuade your uncle to change his opinion about something.
+
+> 2)to convince someone is to make someone believe something.so you wouldn't really persuade yourself, that is sort of the key point there.you can convince yourself.
+
+# 8.stay on [phr.继续留下]
+> Stay on means he will remain here, he will continue to work, he will continue to participate.Yeah, it's basically a shorter form of stay on the job.
+
+# 9.seamless [adj.连续的，顺利的]
+> 1）Seamless:if something is seamless,it just means smooth.so someone's performance at work could be seamless.Or I actually hear this a lot in like, customer experience.
+
+> 2) seam : so I used to work at a fashion college and I heard the word,"seam", a lot, because seam basically comes from clothing.Yeah, it's where you sew two pieces of clothing together.so if you put two pieces of clothing together, it might be very clear and obvious that you've done it, if you can see the seam which is where you actually connected these two pieces of material together, it's kind of ugly.
+
+# III.pattern
+***Hi Leah, do you have a minute?***
+
+***I just wanted to let you know that I've decided to leave my current position. You've been a phenomenal boss, and I value my time here, but I've decided to submit my resignation.***
+
+***Oh, I'm so sorry to hear that. May I ask why you're leaving?***
+
+***Well, as you know, I've been interested in branching out and pursuing a career in marketing[转行去做营销] for some time, and I've finally decided to take the leap[迈出这一步] and make a career change.***
+
+***I see. Your presence will be sorely missed. Is there anything I can do to persuade you to stay?***
+
+***Unfortunately, I've already accepted the job. But, I am more than willing [乐意] to stay on until the end of the month to ensure that the transition is seamless.[确保工作顺利交接]***
+
+***Thanks for offering, Alec. I'll be counting on you for your assistance.***
+
+***No problem, Leah. It's been a pleasure working with you.***
+
+
+
+
+
+
+
+
+
+
