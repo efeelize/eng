@@ -83,10 +83,12 @@
 
 > 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
-# 9.draw up [phr.起草、制定]
-> 1)if you're drawing a plan, you know, like maybe you're five years old and you're making a plan for how to, you know, kidnap Santa, steal all the toys. Maybe you would, you know, you can't write at that point but you can draw, you know, you with the gun and Santa. But, yeah.
+# 9.draw up [phr.起草、制定] & scheme /skim/ [n.计划, 方案]
+> 1)"draw up," we almost always use it with contracts or other legal documents.It could even be like plans, "to draw up some plans."Oh, that's true. Yeah, so if you are an architect, your job is to design structures. You can draw up a plan. A lawyer can draw up an agreement.
 
-> 2)do rememberi ,it is always draw up.
+> 2)do remember ,it is always draw up.
+
+> 3) it is kind of like a plan or set up,or a system.when we use this word as a verb, it almost always means do something bad. They're scheming. But scheme can just be like, it just, yeah, a plan, a system, a marketing scheme. And you know, an employment scheme. Something like that.
 
 # 10.formalize [v.正式化] & -ize 
 > 1)formalized. So this basically just means established.Established, right exactly. You need to make rules, formal rules.So this always comes with scaling up as well, you know, when you're a scrappy little startup, you know, you can really do kind of whatever you want, but when you get to be, youknow, a big company everything needs to be formalized.
@@ -119,9 +121,6 @@
 > 2)So we say tier one, we also say first tier, right? But you still get that, that same idea of level, right, I mean, the cities at the top. The cities that are kind of going down.When I think of a tiered system, I think one of the first things I think of is the military.Because there are just so many different ranks and tiers and it takes a long time to climb all the way up to the top.
 
 > 3)And if you are at a big company, there might be multiple tiers of management.So we all know the CEO sits at the top, and then below the CEO might be a couple of directors, and then underneath each director might be some supervising managers and then under the manager's might be some team leads.
-
-# 16.scheme /skim/
-> it is kind of like a plan or set up,or a system.when we use this word as a verb, it almost always means do something bad. They're scheming. But scheme can just be like, it just, yeah, a plan, a system, a marketing scheme. And you know, an employment scheme. Something like that.
 
 # IV.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***

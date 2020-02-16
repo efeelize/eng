@@ -8,7 +8,27 @@
 # 2.Give a reasonable notice and remain productive
 > Asking your new employer for a few extra days so that you can honor a two week exit commitment[留出两周办理离职]. Be productive during this notice period unless you want to be remembered as a negative distraction.[在提出辞职到正式离职期间要保持工作效率，否则会给前任公司留下负面印象。]
 
-# II.grammar
+# II.How to tell your boss you're quitting your job
+> It's just as important to be professional when you’re quitting your job as it is when you’re trying to get hired.﻿
+
+> It can be challenging to take a calm and reasoned approach to resigning [冷静周全的方式] if you've been mistreated or underappreciated[受到了苛待，或者自己的价值没被赏识]. However, what you say when you leave could be mentioned to prospective employers[潜在雇主], and negativity [负面的态度] isn't going to get you a positive recommendation. Whenever possible, leave your job gracefully.
+
+# 1.A thank you for the opportunity.
+> Express your gratitude for the opportunity to grow in your current job or learn new skills.
+
+# 2.An explanation for why you are leaving.
+> You do not need to mention the specifics of your new job but might choose to allude /ə'lʊd/ [vi.提及,暗指] to this in a general way.[隐晦地提一下大概。]
+
+# 3.An offer to help with the transition.
+> If appropriate, you might state that you are willing to help train a replacement [培训继任者] or be available to answer questions after you have moved on.
+
+# 4.Notice.
+> Two weeks' notice is the traditional amount of notice. If you’re working under a contract or labor agreement, you might be required to give a different amount of notice.[按照其要求的特定时间来告知]
+
+# 5.The date you are leaving.
+> State a specific date for your expected last day of employment. That date will be used as your official termination date.[你最终离职的官方日期。]
+
+# III.grammar
 # 1.“to be more than + adj. & to be less than + adj.
 > 1)The phrase “to be more than + adj” is an indirect and polite way to say “very.” It’s commonly combined with adjectives like “willing” or “happy” and emphasizes your enthusiasm to do something. [通常与“willing”或“happy”等形容词连用，强调你做某事的强烈意愿.]
 
@@ -58,7 +78,40 @@
 
 > 2) seam : so I used to work at a fashion college and I heard the word,"seam", a lot, because seam basically comes from clothing.Yeah, it's where you sew two pieces of clothing together.so if you put two pieces of clothing together, it might be very clear and obvious that you've done it, if you can see the seam which is where you actually connected these two pieces of material together, it's kind of ugly.
 
-# III.pattern
+# 10.To have a life & get a life
+> 1) "To have a life" means to have interests, hobbies or other enjoyable activities outside of work or school. These activities are generally interesting and make your life worthwhile.
+
+> 2) In contrast, if someone says you need to "get a life," then it means that you need to find more exciting or interesting activities to do. It also expresses that you are wasting too much time on useless or trivial things. Be careful when using this phrase because it can be rude when said to others.
+
+- 1. Between raising the kids and work, I don’t really have a life. [我终日奔波于养育孩子和工作之间，并没有什么个人生活。]
+
+- 2. Why don’t you get a life and stop telling others what to do? [你为什么不过你自己的日子，别再告诉别人该做什么了？]
+
+- 3. I don’t think she has a life. She’s just on her phone all the time. [我认为她没有个人生活，她总是在打电话.]
+
+# 11.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# IV.pattern
 ***Hi Leah, do you have a minute?***
 
 ***I just wanted to let you know that I've decided to leave my current position. You've been a phenomenal boss, and I value my time here, but I've decided to submit my resignation.***
@@ -75,7 +128,26 @@
 
 ***No problem, Leah. It's been a pleasure working with you.***
 
+# V.pattern
+***I finally bit the bullet and did it, Bill.***
 
+***Let me guess, Peter, you resigned?***
+
+***Yep, I quit my job. I was just so tired of being overworked and underpaid.***
+
+***Yeah, you didn’t have much of a life after you started working at that software firm.***
+
+***No work-life balance at all. Plus, I felt like I never received any recognition for my hard work.***
+
+***That will make you feel unappreciated and unfulfilled for sure. So, how did you resign? You didn’t make a scene, I hope.***
+
+***Oh no, I was super professional about it. I just politely told the boss I had something to talk about -- at her convenience, of course.***
+
+***So, how did she take the news?***
+
+***She seemed ok about the whole thing; there wasn’t any hard feelings. I just gave her my two weeks' notice and that was it.***
+
+***Freedom at last!***
 
 
 
