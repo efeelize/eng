@@ -57,11 +57,13 @@
 - She had a hard time making ends meet right after her children were born.
 - They were able to make a killing by investing in biotechnology[生物科技].
 
-# 8.make ends meet [phr.收支相抵]
-> So this means make enough money to just live basically. Yeah.Exactly. So you often hear this with "it's becoming more and more difficult to make ends meets". How does one make ends meet?It's kind of using a negative sense, right? Like usually when it's...when it difficult. Yeah. It's like "oh! I can't make ends meet or I'm struggling to make ends meet."Right. Or why does Bill Gates have so much money when so many people are struggling to make ends meet?
+# 8.make ends meet [phr.收支相抵] & meet up with [v.碰面]
+> 1）So this means make enough money to just live basically. Yeah.Exactly. So you often hear this with "it's becoming more and more difficult to make ends meets". How does one make ends meet?It's kind of using a negative sense, right? Like usually when it's...when it difficult. Yeah. It's like "oh! I can't make ends meet or I'm struggling to make ends meet."
 
-# 9.proportion.
-> Ok. "Proportion" means a part.Yeah, like a percentage of how much money they make.Yeah, for sure, but of course, you know, these tips they're making up a larger and larger percentage or larger and larger proportion of their income. And a lot of these people, you know, they're not really struggling to make ends meet.
+> 2)so you can meet up with your friend for dinner.And usually you're going to do something together. it has some purpose.this is a really really common expression, meet up. It's kind of, you just mean meet, right, but kind of more casual.
+
+# 9.proportion /prə'pɔrʃən/
+>  "Proportion" means a part.Yeah, like a percentage of how much money they make.Yeah, for sure, but of course, you know, these tips they're making up a larger and larger percentage or larger and larger proportion of their income. And a lot of these people, you know, they're not really struggling to make ends meet.
 
 # 10.supplement /'sʌplɪmənt/ 
 > 1）[n.补充物]：Ok, so supplement we have talked...talked about before as a noun, specifically about like vitamins.So you would basically go to the pharmacy. Maybe you want some vitamin C. That's a supplement.Right, it...you're adding something extra to sort of complete it, right?
