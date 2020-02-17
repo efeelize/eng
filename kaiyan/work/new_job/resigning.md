@@ -48,10 +48,14 @@
 
 > 2) A phenomenon is just something that exists,
 
-# 4.resign [v.] & a letter of resignation [n.辞呈] &  two weeks' notice 
-> 1) so resignation, this is a noun but this is basically the noun form of resign, quit, leave.normally when we leave, we hand in a letter of resignation.it's just saying like,"Hey I'm quitting."
+# 4.resign [v.]  & quit   & a letter of resignation [n.辞呈] &  two weeks' notice 
+> 1)resign would be a verb, and so yeah, it's just a more formal way of saying that you quit your job,
 
-> 2) your two weeks' notice tells them,"Hey I'm going to leave in two weeks."
+> 2) quitting your job, you can do that in many different ways, formal, informal. You could just maybe not show up anymore.
+
+> 3)so resignation, this is a noun but this is basically the noun form of resign, quit, leave.normally when we leave, we hand in a letter of resignation.it's just saying like,"Hey I'm quitting."
+
+> 4) This two week notice basically means you're giving a resignation saying that you'll be leaving in two weeks,tells them,"Hey I'm going to leave in two weeks.some companies are different, some companies want a month or this or that, but here the two weeks thing this was a pretty normal very standard in the United States.By law it's one week but companies are free to set their own notice periods in their contracts as long as they are reasonably they can't ask for a year notice here.
 
 # 5.branching out (into/from) sth [phr.扩展业务，涉足新工作] & pursuing & take the leap [phr.作出改变]
 > 1) so branching out makes me think about a tree.Yeah because a tree has many branches. Okay so when you branch out into something, you try something new.so you could branch out into a new hobby or in this case a new job. Now importantly Lisa already said branch out into something, but you can also branch out from something.Yeah, for example, you could branch out from web design and branch out into software development.
@@ -89,27 +93,23 @@
 
 - 3. I don’t think she has a life. She’s just on her phone all the time. [我认为她没有个人生活，她总是在打电话.]
 
-# 11.
+# 11.bit the bullet [phr.咬紧牙关]
+> So bit the bullet this means like to do something that you've thought about doing for a while but you like may be afraid to do it.Yeah, maybe it's difficult, you don't really want to do it.But finally you do it and yeah bite the bullet.Or maybe you want to do it, but you're kind of I don't know should I do it, kind of scared to do it.
 
+# 12.overworked [adj.过分劳累的] & underpaid [adj.所得报酬过低的] work-life balance [n.工作与生活的平衡]
+> 1）So overworked and underpaid, so basically, he worked a whole lot and made very little money.So overworked. So he has this word "over" here, it does basically means too much, so too much work and under is not enough.
 
+> 2)So if you feel like you don't have a life, like all you do is work, there's no work-life balance, just all work and no life.We say all work and no play makes you a dull /dʌl/ boy.
 
+# 13.make a scene [phr.大吵大闹] & cause a scene & uproar /'ʌprɔr/ [n.骚动]
+> 1)Making a scene is, well, if you're in a public place, the workplace or anywhere really and you're being like maybe very loud or inappropriate. Sort of makes other people look, and stare and be like what's going on there.
 
+> 2)We might also say to cause a scene, and I also say it may be an uproar, uproar.
 
+# 14.take the news [phr.接受这个消息] & have hard feelings against/towards sb [n.生气、反感] & upset about sth with sb
+> 1) Hard feelings is bad feelings between people, or something that in the future you still feel really angry about this, perhaps, oh yeah, that's still a lot of hard feelings between me and my old boss, five years down the line, I still hate him. So hard feeling is your upset about something, and you're upset about something with somebody.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 2)You can't have hard feelings by yourself, it has to be the cause of somebody.You can't really have hard feelings against like a car or a building,or,you know.
 
 # IV.pattern
 ***Hi Leah, do you have a minute?***
@@ -129,7 +129,7 @@
 ***No problem, Leah. It's been a pleasure working with you.***
 
 # V.pattern
-***I finally bit the bullet and did it, Bill.***
+***I finally bit the bullet[咬紧牙关] and did it, Bill.***
 
 ***Let me guess, Peter, you resigned?***
 
@@ -139,7 +139,7 @@
 
 ***No work-life balance at all. Plus, I felt like I never received any recognition for my hard work.***
 
-***That will make you feel unappreciated and unfulfilled for sure. So, how did you resign? You didn’t make a scene, I hope.***
+***That will make you feel unappreciated and unfulfilled for sure. So, how did you resign? You didn’t make a scene, I hope.[但愿你没有大吵大闹]***
 
 ***Oh no, I was super professional about it. I just politely told the boss I had something to talk about -- at her convenience, of course.***
 

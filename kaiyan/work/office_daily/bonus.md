@@ -78,10 +78,14 @@
 
 > 3)so very driven. It's like very motivated,very determined.
 
-# 8.gratitude [n.] & grateful [adj.] & appreciate 
+# 8.gratitude [n.] & grateful [adj.] & appreciate & unfulfilled [adj.没有成就感的] & unappreciate [adj.不被赏识的]
 > 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
 
 > 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
+
+> 3)Unappreciated, it just means that you feel like nobody has given you any recognition.
+
+> 4)Unfulfilled, yeah, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be, a lot, lot of different things could leave you feeling unfulfilled.
 
 # 9.draw up [phr.起草、制定] & scheme /skim/ [n.计划, 方案]
 > 1)"draw up," we almost always use it with contracts or other legal documents.It could even be like plans, "to draw up some plans."Oh, that's true. Yeah, so if you are an architect, your job is to design structures. You can draw up a plan. A lawyer can draw up an agreement.

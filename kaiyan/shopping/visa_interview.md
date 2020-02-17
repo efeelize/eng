@@ -58,10 +58,12 @@
 
 > 3)And often I hear a lot of students say," Oh, I'll be gone for two nights three days." But you don't actually have to say both. You can choose one.
 
-# 5.booking [v.预定] & confirmation /ˌkɑnfɚ'meʃən/  [n.证明]
+# 5.booking [v.预定] & confirmation /ˌkɑnfɚ'meʃən/  [n.证明] & recognition /ˌrɛkəɡ'nɪʃən/ [n.认可，赏识] & recognize /'rɛkəg'naɪz/ [v.]
 > 1)so book is just reserve.and usually there's money involved, sometimes booking you pay when you book it, sometimes you, you have to just give your credit card information and you pay when you arrive.sometimes if you make an appointment, you want to book an appointment and also to make a reservation at a restaurant, you book a table.
 
 > 2)confirmation is usually a uncountable noun, but you can use it as like a countable, I have many confirmations.Because the separate ones, some for your flights, some for your hotels.
+
+> 3)to give someone recognition means to tell them they've done a good job or they've done something well.So to give someone recognition, you recognize, you know what they've done. So recognize would be the verb, your boss might come over and say, "Hey! you did a really great job last week". You say,"Thanks boss"! So that be recognition from your boss, and recognition's really important in the workplace. Let's give a maybe one more example of recognition here, shall we?
 
 # 6.letter of employment [n.在职证明] & supporting document [n.相关文件] & bank statements [n.银行对账单] &  &  tax return [n.纳税申报单] &  property deed [n.财产证书，房产证] & the title to your property  /'prɑpɚti/ [房产证]
 > 1)So basically all this means is proof of employment.it's like a could be a contractor, even a letter you can ask your boss to just sign the letter.you're gonna go back and also that you have money. Basically, it also shows you have some money.when you're applying for a visa because they want you to have enough money to, you know, if something happens, and just to entertain /ˌɛntɚ'ten/ [v.招待] yourself that do things, they don't want you to be stranded./'strændɪd/ [adj.搁浅]
