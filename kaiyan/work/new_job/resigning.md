@@ -93,8 +93,10 @@
 
 - 3. I don’t think she has a life. She’s just on her phone all the time. [我认为她没有个人生活，她总是在打电话.]
 
-# 11.bit the bullet [phr.咬紧牙关]
-> So bit the bullet this means like to do something that you've thought about doing for a while but you like may be afraid to do it.Yeah, maybe it's difficult, you don't really want to do it.But finally you do it and yeah bite the bullet.Or maybe you want to do it, but you're kind of I don't know should I do it, kind of scared to do it.
+# 11.bit the bullet [phr.咬紧牙关] & jumping the gun 
+> 1)So bit the bullet this means like to do something that you've thought about doing for a while but you like may be afraid to do it.Yeah, maybe it's difficult, you don't really want to do it.But finally you do it and yeah bite the bullet.Or maybe you want to do it, but you're kind of I don't know should I do it, kind of scared to do it.
+
+> 2)So jumping the gun would mean like just don't do it too fast.make sure that you've thought about it, and that you're sure it's really what you want to do.
 
 # 12.overworked [adj.过分劳累的] & underpaid [adj.所得报酬过低的] work-life balance [n.工作与生活的平衡]
 > 1）So overworked and underpaid, so basically, he worked a whole lot and made very little money.So overworked. So he has this word "over" here, it does basically means too much, so too much work and under is not enough.
