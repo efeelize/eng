@@ -24,7 +24,14 @@
 
 > Many Silicon Valley companies offer a minimal 15% annual salary as an end of year bonus tied to performance evaluation[和绩效挂钩]. Many also offer a sign-on bonus [签约奖金] equivalent to one month's salary [额外一个月的薪水] in order to attract top talent.[以此吸引人才]
 
-# III.grammar
+# III.Year-end bonus in the U.S.
+> A year-end bonus (sometimes called a "Christmas bonus") is a reward paid to an employee at the end of the year. Many year-end bonuses are tied to performance metrics[绩效权值挂钩], and the amount can vary depending on whether certain milestones are met[实现了某些目标]. Year-end bonuses are usually made up of lump-sum payments [一次性全部支付] used to reward the individual for hard work and dedication.
+
+> On Wall Street, it is common to see top executives [高级管理层] and employees of financial firms receive large bonuses at the end of the year. Bonuses fluctuate depending on the economy and the year's performance, but in most years the amount is substantial[有所波动].
+
+> A year-end bonus can be offered by any size company[任何规模的公司都可能发年终奖], typically when the overall sales and profit goals for the year have been met or exceeded[达到或者超过总体销售目标和利润目标时发]. The company may aim to offer year-end bonuses on a regular basis[定期发], or only offer them after an exceptional performance[只有员工表现出色才发]. These bonuses may be structured based on the employee’s salary[基于员工的薪资来评定], how well they met personal goals such as achieving sales targets, or other measures. In many examples, the year-end bonus is a taxable [需要纳税] increase in salary, which means the actual take-home [实际收到的钱] pay may not be as large as anticipated.
+
+# IV.grammar
 # 1.In a position to do something
 >  In a position basically means what we, what did we say, we said ability, have the ability to do something or the authority. Right, so you know, I'm not really in a position to help, I want to help you, I'm not really in a position to help.When you aren't in a position to do something, you are either unable to do it or don't have the authority to.
 
@@ -126,7 +133,44 @@
 
 > 3)And if you are at a big company, there might be multiple tiers of management.So we all know the CEO sits at the top, and then below the CEO might be a couple of directors, and then underneath each director might be some supervising managers and then under the manager's might be some team leads.
 
-# IV.pattern 
+# 16.If that
+> 1)The phrase "if that" is often used after numbers to mean "at the very most" [至多] or "no more than"[不超过]. 
+
+> 2)However,"if that" also implies "but probably not"[可能不会]. So in today's dialogue, when we heard that a quarter of [1/4] the American workforce receives a bonus, the speaker was actually skeptical that the number is that high.
+
+> 3)There are lots of situations in which you can use this phrase. One very common one would be where a speaker is trying to emphasize that something won't take very long. Another could be a conversation where a speaker is disagreeing with another person's estimate of something.[说话人不赞同另一个人所强调的事情]
+
+- 1. We don't have a lot on the agenda today, so the meeting should take about an hour, if that. [我们今天的议程没有太多，所以本次会议只要一个小时左右，可能还不到。] 
+
+- 2. You couldn't sell your car for $2000! You'd be lucky to get $1000, if that. [你的车2000美元卖不出去的！你卖到1000美元就算幸运了，可能还不到。]
+
+- 3. It won't take long to drive there. Two hours, if that. [开车去那儿要不了多久。就两个小时，可能还不到。]
+
+# 17.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# V.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***
 
 ***Let's start with your work. You not only put in the most overtime, but also brought in many new customers.***
@@ -142,7 +186,7 @@
 ***Wow, that's so generous of you! I really appreciate it.***
 
 
-# V.pattern
+# VI.pattern
 ***Zack, do you have some time to discuss the end of year bonuses?***
 
 ***That's right. We weren't really in a position to do it before. But with the help of new funding as we scale up, we need to formalize rewards and bonuses to help us retain and attract talent.***
@@ -164,6 +208,43 @@
 ***Ok, I'll think about it. How much of a bonus should we give?***
 
 ***I'd suggest starting with one month's salary for top performers since this is the first year we're doing bonuses. We can always go up in the future.***
+
+# VII.pattern
+***Hey, Clark, can I ask you a question? Do Americans get year-end bonuses?***
+
+***Some do, but most don't. Depends on the industry[公司].***
+
+***Really? In China, most companies give out Chinese New Year bonuses.***
+
+***That's a sweet deal[那很棒啊]! I'd say that at most[往多了说], a quarter of the American workforce gets a bonus, if that[可能还不到这么多].***
+
+***You mean people don't even get performance-based bonuses?***
+
+***Well, bankers and the high-octane [干劲十足] salespeople get big fat ones, for sure. A lot of people in managerial positions also do. Is your bonus performance-based?***
+
+***It's company-dependent[取决于公司]. But many give a non-performance-based CNY bonus and there's a performance- based one as well.***
+
+***Wow, two for the price of one! How big is the CNY bonus usually?***
+
+***It ranges from gift cards, a few hundred RMB, a month's pay, to a Tesla!***
+
+***A Tesla? That's extravagant to say the least![不夸张地说这也太奢侈了吧]***
+
+***Well, that's the extreme case[极端个例]. But many people brag about their companies' Chinese New Year perks. In turn, many companies also publicize their own benefits and perks for the PR opportunity.[争取公关机会]***
+
+***Oh I see. Does it create management problems though when the CNY bonuses are more for showing up than for performance[嘉奖表现]?***
+
+***It certainly does. For example, many people just stick around in order to get their CNY bonuses. Right after the New Year, they jump ship[跳槽].***
+
+***Oh no! But I bet companies have gotten savvier /'sævi/ at dealing with those situations.[应对这些情况肯定越来越精明]***
+
+***Yeah, I think so. For example, the company I work for just gives out a smaller CNY bonus, and most of those bonuses are performance-tied.***
+
+***I see. Well, at the end of the day[不管怎么说], it's great that most people get a bonus to celebrate the New Year.***
+
+
+
+
 
 
 
