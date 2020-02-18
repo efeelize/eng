@@ -69,6 +69,12 @@
 
 > 2)Some people have no awareness of other people.and they only have like self-awareness. And other people have like, no self-awareness, right? They don't know anything about themselves.
 
+# 10.show up [phr.到场]
+> 1)it is a little bit more informal.you wouldn't say it to your boss, what time are you gonna show up tomorrow? 
+
+> 2)It can have a kind of negative meaning sometimes. Depending, depending how you say it.
+
+
 # III.pattern
 ***Thanks for agreeing to be my "Plus One"[喝喜酒] for the wedding, Fiona.***
 
