@@ -35,25 +35,39 @@
 
 - 5. The new CEO has been centralizing power [集中权力] since the day he arrived.
 
-# 2.
+# 2.Plus One [n.男伴/女伴]
+> So we could actually say like the person, your guest, your friend is the plus one.this can be anybody, and on this case, they are two friends are maybe coworkers, people who are not necessarily in a relationship.
 
+# 3.attending [v.出席] & participate in 
+> attending is, you know, that's pretty formal, attend a wedding, attend a class.Attend a ceremony /'sɛrə'moni/ [n.典礼,仪式].Attend a meeting.it just means go to participate in, but, but like you said, more formal.
 
+# 4.milestone [n.里程碑]
+> Basically a milestone is an important event in your life.like graduating university.
 
+# 5.bride [n.新娘] & groom [n.新浪] & bridesmaids [n.伴娘] & groomsmen [n.伴郎] & wedding gown /ɡaʊn/ [n.婚纱] & wedding dress & tuxedo /tʌk'sido/ [n.燕尾服] & tux & tuxes
+> 1）wedding gown：a gown is just a fancy dress.So at one point, bride will be wearing a beautiful white wedding dress or we could also say, "wedding gown."
 
+> 2)We're so lazy, so we just say tux. Most guys look good in tuxes.James Bond, 007[double O senven ] looks really good in a tux.
 
+# 6.reception [n.宴会]
+> This is when the dinner essentially where you give speeches and so a wedding will have a ceremony and a reception.
 
+# 7.dress up [phr.隆重打扮] & overdressed & underdressed 
+> 1)actually dress up here just means, put on really nice fancy clothes.
 
+> 2) so if you go to a wedding in jeans, you are underdressed.
 
+> 3) if you go to a class at school wearing a tux,you are overdressed.
 
+# 8.bridal /'braɪdl/ registry /'rɛdʒɪstri/ [n.婚礼礼物登记单] & bridal /'braɪdl/ shower
+> 1）So basically the couple before the ceremony, they'll go to maybe some department stores, fancy stores that they like, and they choose the things that they want for gifts.So you don't have to guess, you just go to the store, look up the registry under their names, and basically choose your price.
 
+> 2) But also if you go to a bridal shower, so before the wedding, the bride will have a party, her friends will give her a party. Um also if they have a baby shower, so there's a party when they're about to have a baby.
 
+# 9.Anything else I should be aware of & self-awareness [n. 自我认知]
+> 1）So it just means, is there anything else I need to know? This I could imagine this question in hundreds of different contexts, right? And anything else I should be aware of?Yeah, my mother.she finds out a secret.
 
-
-
-
-
-
-
+> 2)Some people have no awareness of other people.and they only have like self-awareness. And other people have like, no self-awareness, right? They don't know anything about themselves.
 
 # III.pattern
 ***Thanks for agreeing to be my "Plus One"[喝喜酒] for the wedding, Fiona.***
