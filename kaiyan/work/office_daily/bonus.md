@@ -41,17 +41,25 @@
 
 - 3. Once I switched to my new job, I was in a position to travel more often.[有机会]
 
-# 2.evaluation [n.评价] & performance evaluation [n.绩效考核]
+# 2.evaluation [n.评价] & performance evaluation [n.绩效考核] & performance-based [adj.基于绩效的] & non-performance-based [adj.不基于绩效的]
 > 1)so an evaluation is just a review. It's looking back at someone's work over the year. So they take kind of information like, how much overtime [n.加班时间] they did, how much money they earn for the company, and then they use that as their evaluation to determine whether they'll get a promotion or a bonus.
 
 > 2)we can evaluate other things besides employees, right? Maybe you don't know what school you're gonna go to, so you say, "I need to evaluate my options."
 
-# 3.bonus /'bonəs/ [pl.bonuses] & perks [n.福利，非现金形式发放]
-> 1)So, "a bonus" is just money that you usually get at the end of the year, and it's money added to your salary. So, it's kind of like extra salary.
+> 3) so based on performance or bonuses that are based on performance, that can be shortened into performance-based bonuses.
 
-> 2)A bonus can also just be something good, right?Sure, exactly. Sometimes when I hear really good news, I just say, "Oh, bonus."
+> 4) so that's where she says, she says there is a non-performance-based bonus, that's the Chinese New Year bonus, but there's also another one, a performance-based one as well.
 
-> 3)So a perk here is going to be. It's something good, something people want, advantage. But it's not related to money.So for example, a perk might be free lunch or like a paid gym membership.
+# 3.bonus /'bonəs/ [pl.bonuses] & perks [n.福利，非现金形式发放] & year-end bonuses [n.年终奖] & big fat [adj.丰厚的]
+> 1) So, "a bonus" is just money that you usually get at the end of the year, and it's money added to your salary. So, it's kind of like extra salary.
+
+> 2) A bonus can also just be something good, right?Sure, exactly. Sometimes when I hear really good news, I just say, "Oh, bonus."
+
+> 3) So a perk here is going to be. It's something good, something people want, advantage. But it's not related to money.So for example, a perk might be free lunch or like a paid gym membership.
+
+> 4) we called it end of year bonuses, but we often just say year-end bonuses.
+
+> 5) usually when we use big fat, we are talking about money and we're talking about money in a very positive sense.like you could say while, he has a big fat salary.I got a big fat tax refund from government, not true, I'm waiting for this big fat check.
 
 # 4.put in sth & put sth in  [phr.投入]
 > 1)That's to kinda spend some extra time or effort to do something.it's usually time and effort. You put in time. You put in effort and then the result is well, in this case, it was a bonus, but it could be other good things too.
@@ -134,7 +142,7 @@
 > 3)And if you are at a big company, there might be multiple tiers of management.So we all know the CEO sits at the top, and then below the CEO might be a couple of directors, and then underneath each director might be some supervising managers and then under the manager's might be some team leads.
 
 # 16.If that
-> 1)The phrase "if that" is often used after numbers to mean "at the very most" [至多] or "no more than"[不超过]. 
+> 1)this is a really good phrase. You could change this by saying no more than, at most, if you kind of make it longer you could say if it even gets that.but of course no one is going to spend that much time or energy to speak in such long sentences.The phrase "if that" is often used after numbers to mean "at the very most" [至多] or "no more than"[不超过]. like if someone asks me "How much were your shoes?", I could say I don't remember, like fifty, if that?
 
 > 2)However,"if that" also implies "but probably not"[可能不会]. So in today's dialogue, when we heard that a quarter of [1/4] the American workforce receives a bonus, the speaker was actually skeptical that the number is that high.
 
@@ -146,29 +154,71 @@
 
 - 3. It won't take long to drive there. Two hours, if that. [开车去那儿要不了多久。就两个小时，可能还不到。]
 
-# 17.
+# 17.hyphenated /'haɪfən,etɪd/ [adj.带有连字符号的] & company-dependent [adj.取决于公司的]
+> 1)if you said based on performance, you could change that to performance-based.that becomes an adjective, that just makes it sound more natural and flow, a little bit better. and we often use this hyphen based, kind of grammar structure, like you could say evidence based,or even you know, market based.
 
+> 2)So this is, you know, depends on the company, which company you work for.Now of course the biggest difference here is that this is coming after the verb is, right? So a lot of people would say:"Oh wait a second, why are you hyphenating this? There's no noun.", right? But again you know, there are no hard fast rules for hyphenating things, for putting a hyphen in word.
 
+# 18.industry [n.行业] & industrial /ɪn'dʌstrɪəl/ [adj.工业的] & industrious /ɪn'dʌstrɪəs/ [adj. 勤劳的] & high-octane /'ɑkten/ [adj.干净十足] & laid-back [adj.闲散的]
+> 1)Now of course the bonus is going to depend on where you work and often where you work doesn't necessarily mean where your office is, but actually which industry you belong to.like that could be the tech industry, it could be the medical industry.Or the banking industry. 
 
+> 2)Yeah I mean industry originally meant factories, there really aren't a ton of factories in America anymore.that's why we get that word industrial.
 
+> 3)of course the American spirit is also very industrious.
 
+> 4)so high-octane, this makes me think of race cars.because they use high-octane gasoline.and in this case it just means high energy.a back high- octane sports, even is another example of high-octane, I don't know, coffee? I guess a lot of coffee would have more caffeine in it, and I would not be surprised if a company like Starbucks would say try our new high-octane coffee.
 
+> 5)laid-back is like the opposite of high-octane.
 
+# 19.sweet deal [phr.很棒啊] & two for the price of one [phr.买一送一]
+> 1）sweet deal. it's when you get something nice, you're happy about getting something. I mean a lot of times too this could be used in like a negotiation setting, like they're offering you a deal and maybe it's just not quite good enough, so I need to find a way to sweeten the deal.
 
+> 2)it sounds like a sales slogan or something.Two for one deal.
 
+# 20.managerial /ˌmænə'dʒɪrɪəl/ [adj.管理上的]
+> just anything to do with manager stuff, so I mean you can think about this word collocating with words like duty, managerial responsibilities. Tasks, managerial style I think is probably one of the most important ones, what is your style of management?
 
+# 21.extravagant /ɪk'strævəgənt/ [adj.奢华]
+> 1)Extravagant would mean like you're kind of spending too much on something.It's a little bit too much. So some time you really want to emphasiz that something like looks really nice and flashy, but it's a bit too much.
 
+> 2)When we talk about extravagant fashion, it's a kind of fashion that's really really out there, right?Maybe a little bit too much, or there's a very famous book, many of you have read or seen the movie of, which is called the Great Gatsby, and Gatsby would throw these extravagant party.he lived extravagantly.
 
+# 22.to say the least [phr.不夸张的说]
+> it's usually used kind of in a negative way? Like it's more than what I say.that's kind of funny because earlier we have, just that little chunk, if that, right? So like this is kind of the opposite before we were emphasizing that something is kind of small and here we're emphasizing "Wow this is pretty big."so I could say like the food was disappointing to say the least.
 
+# 23.publicize [v.公开宣传]
+> So when you publicize something, you kind of share it, you announce it to the public.you know it often has positive connotations /ˌkɑnə'teʃən/ [n.内涵] and can have negative connotations as well.
 
+# 24.stick around [phr.等着] & jump ship [phr.跳槽]
+> 1）sticking around of course means not leaving.you're kind of waiting around for some, so these guys who stick around for their bonuses right after that happens they apparently just jump ship.
 
+> 2)We should say you guys probably do know by now that we do not have a phrase in English that's like jump a job.No no, it's always jump ship.And it's usually when something bad starts to happen and you're like: Uh-oh, the company's going down, better jump ship.
 
+- 1. Would you mind sticking around until after lunch? We can do the second interview then. 
 
+- 2. It was a really great reception, but we really didn't stick around all that late. 
 
+- 3. Being in a lasting relationship means sticking around through thick and thin. [要持久维持一段关系意味着要同甘共苦。]
 
+# 25.savvy /'sævi/ [n.悟性] & savvier
+> 1)so savvy just means you have this like ability, the kind of practical ability to do something.so we do often use it in these lessons, also hyphenated,text-savvy, street-savvy.
 
+> 2)but here we could almost think of it as it chunk, someone has gotten savvier. It's like they've learned.they've gotten better, more skillful.
 
+- 1. The kid is tech savvy[技术行家], sir, but fret not, I am tech savvier.[技术行行家]
 
+- 2. You're so savvy about pop culture[对大众文化的悟性特别好].I really am.
+
+- 3. Trump is a very savvy [精明] political animal.
+
+- 4. These savvy speakers [演讲老手] have some tips for novice speakers.[新手]
+
+# 25.at the end of the day [phr.归根结底] & when all is said and done
+> it's just when you kind of consider everything and then you say the most important facts.
+
+- 1. For when all is said and done, however you voted, our shared values, interests and ambitions can and must bring us together.
+
+- 2. When all is said and done, my dear, you may be right.
 
 # V.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***

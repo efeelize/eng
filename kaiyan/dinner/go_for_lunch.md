@@ -8,7 +8,9 @@
 
 # II.grammar
 # 1.feel like 
-> feel like  is more about something we want to do. It’s commonly used when making a choice. Because of that, “feel like” is never followed by an adjective. Here is the pattern for “feel like.”
+> 1)A great phrase to express how you are feeling.How you're feeling or even what you want to eat.So whenever I think about eating Thai food, I might say like, "I feel like Thai food."because feel really can be like "I feel sick." "I feel great." But in this case it's just the way that we express what we want to eat.
+
+> 2)feel like is more about something we want to do. It’s commonly used when making a choice. Because of that, “feel like” is never followed by an adjective. Here is the pattern for “feel like.”
 
 - 1. I feel like + SUBJECT [主语] + VERB + OBJECT[宾语] (I feel like I want pizza.) 
 - 2. I feel like + NOUN (I feel like pizza.) 
@@ -17,30 +19,43 @@
 - 5. She said she feels like a romance movie, but I'd prefer action. 
 - 6. I feel like I want some beer. It's been a tough day. 
 
-# 2.
+# 2.ordering in [phr.叫外卖] & get delivery & eating out [phr.在外面吃饭] & eating in & eat and run [phr.吃好就走] & grabbing [v.匆忙的吃] 
+> 1）"Order in" that means you call the delivery guy. it sounds exactly the same to me. Are you getting delivery or going out for lunch? Are you ordering in or going out for lunch?
+
+> 2)"Eating out" means going out to eat.Nothing too crazy here. Doesn't have to be only used for lunch. Of course, you could also have dinner with your friends and family, and go eat out at a restaurant.
+
+> 3)eating in :And that could be ordering in or cooking your own food at your house.
+
+> 4) "eat and run" here just basically means you need to eat quickly, then go.Should say one thing about this phrase. This is a great chance for you to show your politeness if your friend treats you to lunch or dinner, and then you have to leave. You can just say sorry to eat and run.
+
+> 5) "grabbing," It just means to get something quickly.casually you can grab a sandwich. You can grab a coffee. You can grab a beer.so it's just a great thing that you do you with friends. Now, if you are on a date with a very beautiful girl or a very handsome guy, maybe you should go to that place with great reviews. With your friends, just go grab a sandwich.
+
+# 3.to be tight on time [phr.时间紧迫] & be tight on money 
+> 1)"to be tight on time" means you don't have any spare time. We can use this for other things too. Like maybe you have a tight schedule.
+
+> 2)or just to use this same structure that we see in the dialogue. You can be tight on money.Little tight on money this month.
+
+# 4.cafeteria /ˌkæfə'tɪrɪə/ [n.自助餐厅] & canteen /kæn'tin/ [n.食堂] & food court [n.小吃街]
+> 1)usually when we're talking about high schools, universities, big companies, they use the word "cafeteria."
+
+> 2)when I think of "canteen," I think of the army.Yeah, or camp. Like summer camp had a canteen. I mean I'm sure if you go to a different city or maybe a different state in America, they might use "canteen" more than "cafeteria."
+
+> 3)this is the place in the mall that has all the restaurants, usually fast food restaurants.Right, so they'll be a McDonald's in the food court.or a Subway or a KFC.whereas the cafeteria or the canteen, it might have all the same foods like hamburgers or sandwiches. But it's usually just one company that runs the cafeteria.
+
+# 5.getting old [phr.感到厌烦]
+> if something is getting old, you don't really want to do it anymore or hear it anymore. Like if everyday I came in and made fun of Lisa's shoes, you know, maybe the first couple times she act like ha ha ha ha ha. But then after a month she'll be like, "All right. That's getting a little old."
+
+# 6.packed [adj.拥挤的]
+> "Be packed," So we use this word to express that a place is very full of people.Like for example,we were packed on the bus like sardines /ˌsɑr'din/ [n.沙丁鱼]. Disneyland is always packed.That sounds like kind of a positive packed, I guess, unless you just really want to go by yourself.
+
+# 7.fresh out of [phr.快没有] & newly out of
+> 1) We're talking about food, but this fresh doesn't really refer to food.So when something is fresh, it's new. So in this way, it's kind of like, right now I am newly out of time. another person could say like "fresh out of luck."
 
 
+> 2)And it's also a polite way to emphasize you really don't have any time in this case.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 8.sandwich it is
+> "Sandwich it is," which it's actually a great little point we should probably talk about before the dialogue. "Sandwich it is" just sounds like "okay it's been decided. It is a sandwich."
 
 # III.pattern
 ***Hey, Louise. Are you ordering in or going out for lunch?***
