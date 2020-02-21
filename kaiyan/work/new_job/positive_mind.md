@@ -24,18 +24,35 @@
 
 - 4. After our client gave us positive feedback, we began building the prototype /'protə'taɪp/ [n.原型]. 
 
-# 2.
+# 2.conscious [adj.意识到，有意识的] & unconscious /ʌn'kɑnʃəs/ [adj.失去知觉的] & subconscious /ˌsʌb'kɑnʃəs/ [adj.下意识、潜意识的] & consciously [adv.]
+> 1)Conscious means that you're actually aware or you are actually, you know, doing something on purpose.basically "conscious" means that, yeah, like you said, aware.
 
+> 2)unconscious is asleep[adj.睡着的、麻木的].or like being knocked out.If you're in a boxing match. Someone hits you in the head too many times.
 
+> 3)subconscious:That's more like psychological[adj.心理学上的].It's like deep down. Yeah, you might be thinking about it but you don't know you're thinking about it. 
 
+> 4)consciously is when you're conscious about something, you're consciously thinking about something. You pretty much.that's doing something on purpose.
 
+# 3.perception [n.看法、概念]
+> Perception is how you see or hear or...To have perception or, you know, how you see something is also how you perceive /pɚ'siv/ [vt.察觉,感觉] something.
 
+# 4.turn over a new leaf [重新开始] & anew [adv.重新]
+> 1）turn over a new leaf means to, basically, make a change for the better.
 
+> 2)"anew" is just an adverb that we use to say, you know, start thinking in a new way.have fresh new wonderful thoughts.And even just going back to that New Year's idea, like the idea, that on January 1st. You can begin life anew.
 
+# 5.gratitude [n.] & grateful [adj.] & appreciate & unfulfilled [adj.没有成就感的] & unappreciate [adj.不被赏识的] & appreciative [adj.感恩的、珍惜的] & grateful [adj.感激的]
+> 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
 
+> 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
+> 3)unappreciated, it just means that you feel like nobody has given you any recognition.
 
+> 4)unfulfilled, yeah, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be, a lot, lot of different things could leave you feeling unfulfilled.
 
+> 5)To be appreciative, grateful or thankful.Of course we use this word but it's much more common to use it in another form, "appreciate". Like if you're actually telling something, like, for example, Spencer wasn't supposed to come in today, he did come in today. So, hopefully, someone says: "Thanks man, I appreciate it."
+
+> 6)I think maybe "grateful" is a little more appreciative than "appreciative".but it wouldn't be something you would say, like to someone, like if, you know, Spencer helped me at work. I wouldn't say I'm grateful. You know, it would sound kind of strange."grateful" is more like for some bigger things.So for example, the one we just used, you could say "oh, I'm appreciative", you know, "I appreciate that you came in for work today". But you could say, you know, I was really grateful for the way my parents raised me.
 
 
 

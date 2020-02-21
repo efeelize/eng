@@ -55,7 +55,7 @@
 
 > 2) A bonus can also just be something good, right?Sure, exactly. Sometimes when I hear really good news, I just say, "Oh, bonus."
 
-> 3) So a perk here is going to be. It's something good, something people want, advantage. But it's not related to money.So for example, a perk might be free lunch or like a paid gym membership.
+> 3) So this is a, like a colloquial, very spoken English way of saying benefits.So these include like your health care, it could include vacation, other things like that. It's something good, something people want, advantage. But it's not related to money.So for example, a perk might be free lunch or like a paid gym membership.Perks. 
 
 > 4) we called it end of year bonuses, but we often just say year-end bonuses.
 
@@ -93,14 +93,12 @@
 
 > 3)so very driven. It's like very motivated,very determined.
 
-# 8.gratitude [n.] & grateful [adj.] & appreciate & unfulfilled [adj.没有成就感的] & unappreciate [adj.不被赏识的]
-> 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
+# 8.at the end of the day [phr.归根结底] & when all is said and done
+> it's just when you kind of consider everything and then you say the most important facts.
 
-> 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
+- 1. For when all is said and done, however you voted, our shared values, interests and ambitions can and must bring us together.
 
-> 3)Unappreciated, it just means that you feel like nobody has given you any recognition.
-
-> 4)Unfulfilled, yeah, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be, a lot, lot of different things could leave you feeling unfulfilled.
+- 2. When all is said and done, my dear, you may be right.
 
 # 9.draw up [phr.起草、制定] & scheme /skim/ [n.计划, 方案]
 > 1)"draw up," we almost always use it with contracts or other legal documents.It could even be like plans, "to draw up some plans."Oh, that's true. Yeah, so if you are an architect, your job is to design structures. You can draw up a plan. A lawyer can draw up an agreement.
@@ -212,13 +210,6 @@
 - 3. Trump is a very savvy [精明] political animal.
 
 - 4. These savvy speakers [演讲老手] have some tips for novice speakers.[新手]
-
-# 25.at the end of the day [phr.归根结底] & when all is said and done
-> it's just when you kind of consider everything and then you say the most important facts.
-
-- 1. For when all is said and done, however you voted, our shared values, interests and ambitions can and must bring us together.
-
-- 2. When all is said and done, my dear, you may be right.
 
 # V.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***
