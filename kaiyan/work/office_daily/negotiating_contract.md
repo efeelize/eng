@@ -35,8 +35,8 @@ Right. So it's cool to be a programmer. You get to do lots of things. But when y
 
 > 4)Another way we do here, comprehensive is with medical care or any kind of like insurance.
 
-# 8.in light of [phr.考虑到] & considering
-> And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
+# 8.renewal /rɪ'nuəl/ [n.重建;更新] price [n.续费价格]
+> A renewal discount is a discount for a customer that is renewing his contract.Yeah you've already been with the company for 1 year, you want to renew [v.续费] but you want a cheaper price, you want a renewal discount.
 
 # 9.downgrade [v.降低] & upgrade 
 > 1) "downgrade" means "to go from a higher, more expensive level of service to a simpler, cheaper level of service"Yeah, the basic package which is not a comprehensive package, it's a limited package.Yeah, it's limited to only the most important services.Yeah, the basic package which is not a comprehensive package, it's a limited package.Yeah, it's limited to only the most important services.so "downgrading" means "using a basic package instead of a comprehensive package" .
@@ -56,12 +56,6 @@ Right. So it's cool to be a programmer. You get to do lots of things. But when y
 > 4.1)Like a lot of companies, I'm sure when they want to change their systems, they wish they could just switch very easily. But, yeah, sometimes these, these transitions, we'd even say it like, even this transitional period, it's sometimes very difficult.
 
 > 4.2)You know, when I was a kid, software was something that you bought in a box.And you took it home, and it was yours.On your computer. And then, over time, we made this transition into software as a service, cloud computing.
-
-# 11.renewal /rɪ'nuəl/ [n.重建;更新] price [n.续费价格]
-> A renewal discount is a discount for a customer that is renewing his contract.Yeah you've already been with the company for 1 year, you want to renew [v.续费] but you want a cheaper price, you want a renewal discount.
-
-# 12.charged by the hour & billed on an hourly basis.
-> So next he says that he can add some hours of tech consulting. Yeah and another service that is billed on an hourly basis can be legal consultant.
 
 # II.pattern
 ***Colin, thanks for your time today. I would like to thank you for being one of our best customers over the past year. Have you looked over the service agreement I emailed earlier?***

@@ -39,10 +39,12 @@
 # 5.best years [n.大好年华]
 > Basically the prime of your life. This is when you have kind of the ability and youth to do many different things.That's right. So what you might think are your best years, I might not think are my best years. But usually, you know, we could say best years are probably from like your 20s to your 40s. Something like that.
 
-# 6.on someone else's time [phr.由别人安排时间] & on company time & sb is on my time & on my boss's time
+# 6.on someone else's time [phr.由别人安排时间] & on company time & sb is on my time & on my boss's time & time is on your side [phr.有可支配的时间]
 > 1)And that just means that you don't have control over the time. You have to do things within the time that people give you.So basically if you feel your time is being controlled by someone or something else, you can say you are on that thing's time.
 
 > 2)you don't have to just say on someone else's time. You could say on company time, on, I'm on Lisa's time, Lisa is on my time.or on my boss's time. I'm sick of doing all the work on my boss's time, I'd like to do it on my own time.
+
+> 3)So it just basically means you're young, you still have time,you're young, you have your whole life ahead of you, you got a big future, so use that time wisely.
 
 # 7.flextime [n.弹性工作制]
 > And it's a shortened version of flexible time.So it means flexible work hours, flexible work schedule.so maybe, you know, you can come in late, leave late or maybe, you know, you can work from home instead.or come in early leave early, you know, something like that. Like you said flexible time, flexible work hours. 
