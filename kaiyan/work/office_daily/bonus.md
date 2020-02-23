@@ -41,14 +41,18 @@
 
 - 3. Once I switched to my new job, I was in a position to travel more often.[有机会]
 
-# 2.evaluation [n.评价] & performance evaluation [n.绩效考核] & performance-based [adj.基于绩效的] & non-performance-based [adj.不基于绩效的]
-> 1)so an evaluation is just a review. It's looking back at someone's work over the year. So they take kind of information like, how much overtime [n.加班时间] they did, how much money they earn for the company, and then they use that as their evaluation to determine whether they'll get a promotion or a bonus.
+# 2.savvy /'sævi/ [n.悟性] & savvier
+> 1)so savvy just means you have this like ability, the kind of practical ability to do something.so we do often use it in these lessons, also hyphenated,text-savvy, street-savvy.
 
-> 2)we can evaluate other things besides employees, right? Maybe you don't know what school you're gonna go to, so you say, "I need to evaluate my options."
+> 2)but here we could almost think of it as it chunk, someone has gotten savvier. It's like they've learned.they've gotten better, more skillful.
 
-> 3) so based on performance or bonuses that are based on performance, that can be shortened into performance-based bonuses.
+- 1. The kid is tech savvy[技术行家], sir, but fret not, I am tech savvier.[技术行行家]
 
-> 4) so that's where she says, she says there is a non-performance-based bonus, that's the Chinese New Year bonus, but there's also another one, a performance-based one as well.
+- 2. You're so savvy about pop culture[对大众文化的悟性特别好].I really am.
+
+- 3. Trump is a very savvy [精明] political animal.
+
+- 4. These savvy speakers [演讲老手] have some tips for novice speakers.[新手]
 
 # 3.bonus /'bonəs/ [pl.bonuses] & perks [n.福利，非现金形式发放] & year-end bonuses [n.年终奖] & big fat [adj.丰厚的]
 > 1) So, "a bonus" is just money that you usually get at the end of the year, and it's money added to your salary. So, it's kind of like extra salary.
@@ -197,19 +201,6 @@
 - 2. It was a really great reception, but we really didn't stick around all that late. 
 
 - 3. Being in a lasting relationship means sticking around through thick and thin. [要持久维持一段关系意味着要同甘共苦。]
-
-# 25.savvy /'sævi/ [n.悟性] & savvier
-> 1)so savvy just means you have this like ability, the kind of practical ability to do something.so we do often use it in these lessons, also hyphenated,text-savvy, street-savvy.
-
-> 2)but here we could almost think of it as it chunk, someone has gotten savvier. It's like they've learned.they've gotten better, more skillful.
-
-- 1. The kid is tech savvy[技术行家], sir, but fret not, I am tech savvier.[技术行行家]
-
-- 2. You're so savvy about pop culture[对大众文化的悟性特别好].I really am.
-
-- 3. Trump is a very savvy [精明] political animal.
-
-- 4. These savvy speakers [演讲老手] have some tips for novice speakers.[新手]
 
 # V.pattern 
 ***Hi Kate, thanks for coming in. Let's talk about your annual performance evaluation and bonus.***

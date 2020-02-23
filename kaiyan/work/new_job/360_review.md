@@ -18,12 +18,35 @@
 
 - 3. She just got her dream job, hence her good mood and fancy new car. 
 
-# 2.
+# 2.360 review [three sixty] & 360
+> 1)it means 360 degrees.which of course if any of you are paying attention, basically means everywhere around you.so people are reviewing you from all angles.
 
+> 2)it's interesting though, because a lot of people will use incorrectly, I should say, will use 360 to mean, like to turn around or change their minds that "He did a 360 on that, before he liked spinach. He did 360." But actually it should be 180.cause 360 means you're going the same direction again.
 
+# 3.evaluation [n.评价] & assessment & peer evalutaion & performance evaluation [n.绩效考核] & performance-based [adj.基于绩效的] & non-performance-based [adj.不基于绩效的]
+> 1)so an evaluation is just a review. evaluation you're just like judging its quality.It's looking back at someone's work over the year. So they take kind of information like, how much overtime [n.加班时间] they did, how much money they earn for the company, and then they use that as their evaluation to determine whether they'll get a promotion or a bonus.
 
+> 2)so assessment is all about like improving kind of, you're trying to improve the value of something.
 
+> 3) you could say peer evaluation and sometimes people do say peer evaluation.
 
+>4)we can evaluate other things besides employees, right? Maybe you don't know what school you're gonna go to, so you say, "I need to evaluate my options."
+
+> 5) so based on performance or bonuses that are based on performance, that can be shortened into performance-based bonuses.
+
+> 6) so that's where she says, she says there is a non-performance-based bonus, that's the Chinese New Year bonus, but there's also another one, a performance-based one as well.
+
+# 4.convoluted /'kɑnvəlutɪd/  [adj.复杂的]
+> it means complicated, but in an unreasonable way.When something is convoluted, it's just unnecessarily complicated.now stories can often be convoluted as well, especially when these stories are excuses.like why are you late? Well, because my dog was hungry, but the store they were out of dog food, so I had to go to a different store, but the second store was actually being robbed by aliens who come from a planet where there's no dog food, but they need dog food to live, so...
+
+# 5.prompts /prɔmpt/ [v.提示]
+> so can be a noun or a verb, and it's kind of some message or a signal to do something.Even actually on a test, if you're taking an English test or any kind of test, the prompt is the question.So you've got like a question and ABCD, pick one where the prompt is the question.and that not comes up a lot to in listening tests.listen to the prompts.
+
+# 6.deficiency /dɪ'fɪʃənsi/ [n.缺陷] & weakness & flaw & shortcoming 
+> a deficiency is a fancy way to say weakness.but "defficient" I mean it really, kind of sounds very technical, like a machine. You have to set some kind of deficiency in the machine or the system.There's something lacking in it, often we can say a person has a vitamin /'vaɪtəmɪn/ deficiency.
+
+# 7.ramble on [phr.啰嗦闲谈]
+> 
 
 
 
