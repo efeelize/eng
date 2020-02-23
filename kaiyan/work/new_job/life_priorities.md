@@ -30,7 +30,7 @@
 
 - 3. What you may be gaining in their eyes, you could be losing in the eyes of others.[或许在他们眼中你得到的东西正是其他人眼中你可能在失去的东西]
 
-# 2.contemplate /'kɑntəmplet/ [vt. & vi. 深思, 细想] & thinking about & in light of [phr.考虑到] & considering
+# 2.contemplate /'kɑntəmplet/ [vt. & vi. 深思, 细想] & thinking about & in light of [phr.考虑到] & considering 
 > 1)So this is a great word that people use when they're sick of using the word "thinking".This is pretty much a more advanced word that expresses thinking about or considering.
 
 > 2)We often use "contemplating" for like really big or really serious, weighty subjects.usually has to do with bigger decisions that you have to make and not even the silly decision sometimes, it's also just like really, maybe deeply thinking about something sometimes.like the universe, you can contemplate the universe.Or you can contemplate the meaning of life,
@@ -39,11 +39,13 @@
 
 > 4）And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
 
-# 3.grueling /ˈɡruəlɪŋ/ [adj.艰辛的]
-> grueling basically just means like exhausting.So basically, grueling also, something that's grueling, it could be physically exhausting, mentally exhausting or both. Yeah, army training, a really tough workout, maybe raising kids or having a bad relationship, you could say, "Oh, this is just so grueling."
+# 3.grueling /ˈɡruəlɪŋ/ [adj.艰辛的] & gauge /gedʒ/  [n.测量]
+> 1）grueling basically just means like exhausting.So basically, grueling also, something that's grueling, it could be physically exhausting, mentally exhausting or both. Yeah, army training, a really tough workout, maybe raising kids or having a bad relationship, you could say, "Oh, this is just so grueling."
+
+> 2)gauge basically means measure.
 
 # 4.you know what I always say 
-> It's almost like we should be talking about that phrase in and of itself, like that's just such a bad thing to say, "You know what I always say."
+> It's almost like we should be talking about that phrase in and of itself, like that's just such a bad thing to say, "You know what I always say."All of those things on your car on the dashboard /'dæʃ'bɔrd/ [汽车上的仪表盘], call those gauges.like the speedometer /'spi'dɑmɪtɚ/ [n.<机>示速器,速度计], and all of those ones, gauge. Yeah, and just like that we can use it to, you know, talk about personality, like you can gauge a person's attitude.
 
 # 5.work hard when you're young,so you don't have to when you're old
 > But just remember that this phrase, although it's not really short, it is commonly used. So basically, just don't waste your time, all your time when you're young and, so you don't have to work hard when you're older.
