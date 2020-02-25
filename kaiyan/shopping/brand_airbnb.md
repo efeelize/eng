@@ -31,7 +31,34 @@
 
 - 2. John was working for an accounting company.
 
-# 3.
+# 3.browsing /'brauziŋ/ [v.浏览] & browser /ˈbraʊzɚ/ [浏览器]
+> 1)We always use it for internet related things.You browse the website, you browse an app.
+
+> 2)in facts what you use to browse the internet, is a browser.So maybe you use Safari or Chrome or you know Firefox, they're all browsers.
+
+# 4.photoshop
+> 1)this word photoshop we can use as both the verb or the noun, which is the software. if it is an adjective, you would say that picture has been photoshopped.
+
+> 2)native speakers will say photoshop.say the whole world.we don't really say PS.
+
+# 5.the real deal [adj.实际情况]
+> it's the actual thing.so in reality.what it actually looks like.
+
+# 6.deposit /dɪ'pɑzɪt/ [n.押金]  & host [房东] & subletting /sʌb'letiŋ/ [n & v.转租] & listings [n.挂牌房屋] & guests’[adj.客人;住客] & tenant  /'tɛnənt/ [n.租客]
+> 1)Deposit is always the money that you need to pay first, or we often say pay upfront /ˈʌpˈfrʌnt/ [adj. 预付的].So if you're renting an apartment, you always need to pay a deposit.
+
+> 2) so here the host is the person that actually owns the room or the apartment or the unit.Or maybe they are even renting and they're subletting to you know visitors and travelers.
+
+> 3)So this listing is basically an advertisement and a posting. so you'll see these on any kind of website that sells stuff.Craigslist, Taobao, eBay. Any online retailer has plenty of listings.
+
+> 4)So the guests are the people that stay there.They're more than visitors. They can sometimes be paid guests or unpaid guests.So in this case it would be people who previously stayed there and paid for their stay.Other times it could just be a friend of yours stopping by. They're also your guests.
+
+> 5)So tenant is always for someone who pays rent.So they're not gonna be paying day by day which is kind of what Airbnb is about.They pay maybe month to month or like two months at a time and the place is theirs. They have certain rights.
+
+# 7.ratings [n.评分] & reviews [n.评论、点评]
+> 1)so a rating is going to be on a number system.So maybe a, most likely a star system.These are ratings, 4 out of 5, 5 out of 5.
+
+> 2) the reviews are the written parts of the rating.so you know, "this was a great place", "the view was beautiful".
 
 
 
