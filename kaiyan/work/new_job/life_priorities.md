@@ -30,14 +30,10 @@
 
 - 3. What you may be gaining in their eyes, you could be losing in the eyes of others.[或许在他们眼中你得到的东西正是其他人眼中你可能在失去的东西]
 
-# 2.contemplate /'kɑntəmplet/ [vt. & vi. 深思, 细想] & thinking about & in light of [phr.考虑到] & considering 
-> 1)So this is a great word that people use when they're sick of using the word "thinking".This is pretty much a more advanced word that expresses thinking about or considering.
+# 2.make sth priority /praɪ'ɔrəti/ [n.] & to prioritize sth  /praɪ'ɔrətaɪz/  [v.]
+> 1)for example, I could make an urgent task a priority.You can really make anything a priority, or you can also make a person a priority.
 
-> 2)We often use "contemplating" for like really big or really serious, weighty subjects.usually has to do with bigger decisions that you have to make and not even the silly decision sometimes, it's also just like really, maybe deeply thinking about something sometimes.like the universe, you can contemplate the universe.Or you can contemplate the meaning of life,
-
-> 3)if you go to a restaurant, you might say, "I'm thinking about having the steak." But you probably wouldn't say, "I'm contemplating ordering the steak."
-
-> 4）And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
+> 2) when we were using the verb, you would say "to prioritize something." to prioritize a person, like your wife or your partner.
 
 # 3.grueling /ˈɡruəlɪŋ/ [adj.艰辛的] & gauge /gedʒ/  [n.测量]
 > 1）grueling basically just means like exhausting.So basically, grueling also, something that's grueling, it could be physically exhausting, mentally exhausting or both. Yeah, army training, a really tough workout, maybe raising kids or having a bad relationship, you could say, "Oh, this is just so grueling."
@@ -84,6 +80,15 @@
 > 2)that just means be more efficient with your time.
 
 > 3)this is kind of a fun little pattern too.You could say, "live better, not longer."
+
+# 15.contemplate /'kɑntəmplet/ [vt. & vi. 深思, 细想] & thinking about & in light of [phr.考虑到] & considering 
+> 1)So this is a great word that people use when they're sick of using the word "thinking".This is pretty much a more advanced word that expresses thinking about or considering.
+
+> 2)We often use "contemplating" for like really big or really serious, weighty subjects.usually has to do with bigger decisions that you have to make and not even the silly decision sometimes, it's also just like really, maybe deeply thinking about something sometimes.like the universe, you can contemplate the universe.Or you can contemplate the meaning of life,
+
+> 3)if you go to a restaurant, you might say, "I'm thinking about having the steak." But you probably wouldn't say, "I'm contemplating ordering the steak."
+
+> 4）And "in light of" can mean "considering". But I'm not sure that we need such a comprehensive package considering last year's usage.
 
 # III.pattern
 ***Hey dad, I'm contemplating working at this tech firm, but I heard the hours are grueling.***
