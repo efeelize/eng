@@ -55,33 +55,10 @@
 
 > 5)So tenant is always for someone who pays rent.So they're not gonna be paying day by day which is kind of what Airbnb is about.They pay maybe month to month or like two months at a time and the place is theirs. They have certain rights.
 
-# 7.ratings [n.评分] & reviews [n.评论、点评]
+# 7.ratings [n.评分] & reviews [n.评论、点评] & critique /krɪ'tik/ [n.批评]
 > 1)so a rating is going to be on a number system.So maybe a, most likely a star system.These are ratings, 4 out of 5, 5 out of 5.
 
 > 2) the reviews are the written parts of the rating.so you know, "this was a great place", "the view was beautiful".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # III.pattern
