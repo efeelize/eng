@@ -87,11 +87,11 @@
 
 ***Kind of like Yelp for companies?***
 
-***Exactly! I also read that over 50% of vacancies aren't even advertised. In other words, networking is key.***
+***Exactly! I also read that over 50% of vacancies /'vekənsi/ aren't even advertised. In other words, networking is key.***
 
-*** That's insane! I've actually been thinking about jumping ship recently. A number of recruiters have tried to poach me these past few months, but the companies don't really interest me.***
+***That's insane! I've actually been thinking about jumping ship recently. A number of recruiters have tried to poach me these past few months, but the companies don't really interest me.***
 
-*** I'm so jealous, Peter! I'd love to be a passive job seeker. That's why I'm also searching for job opportunities by company, since I already know their mission and vision align with mine.***
+***I'm so jealous, Peter! I'd love to be a passive job seeker[像你一样有公司主动找我]. That's why I'm also searching for job opportunities by company, since I already know their mission and vision align with mine.***
 
 ***Well, best of luck! Let's celebrate once you've found your perfect match!***
 
