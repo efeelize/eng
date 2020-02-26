@@ -26,7 +26,32 @@
 
 - 3. What is true is that most people do not like paying taxes.
 
-# 2.
+# 2.find the time [phr.抽时间、找时间] & make the time 
+> 1)to find the time to do something," and it just means that, well, you look at your schedule, you see an open space and hey, you find the time to do an activity.like "I can't find the time to go to the gym." Or find the time to have a social life for some. If you're working, you know, until 10/11 pm at night, it's difficult!
+
+> 2)when you're "making the time," you're actually actively doing this, so you maybe will cancel an appointment, or you will cancel something else so that you have more time.or maybe in our exercise example, you just wake up earlier.
+
+# 3.juggle /'dʒʌɡl/  [v.兼顾] & juggling sth 
+> 1)When we're talking about our daily lives, "juggling" means doing several things at the same time.so maybe you are juggling school and work. A lot of people do that. or you might be juggling your kids, your job and school as well. You're usually successfully doing it. 
+
+> 2) of course, you could say:Oh, I can't juggle all of these things.
+
+# 4.overwhelming [ptcp.使应接不暇，使不知所措] & overwhelm sb [v] & overwhelmed
+> 1)So things can be overwhelming. Work can be overwhelming. Life can be overwhelming. And as a result, we often feel overwhelmed.
+
+> 2) we often use this in sports, like, a basketball team could overwhelm their opponents /ə'ponənt/.I hope you don't cause that makes me think about, like, you're attacking them.
+
+> 3)In everyday situations, you might use it at work, or when you're studying, you might feel overwhelmed by the information.
+
+# 5.piling up [ptcp.堆积]
+> 1)it's often used in this negative sense.So if it keeps piling up, that just means it keeps increasing. so you have some work to do. Maybe it's very small. It doesn't need to be a very big task, but they just keep adding more and more, and then you get another one and another one. 
+
+> 2)we really had to stretch our imaginations to think of a positive way to use this phrase.like:he's fam mail [粉丝来信] is piling up.
+
+# 6.work smarter,not harder
+> that just means be more efficient with your time.
+
+
 
 
 
