@@ -78,8 +78,12 @@
 # 13.economic standpoint [n.经济角度]
 > standpoint just basically means like from a type of perspective.So this can be used for all kinds of things, so here he says "from an economic standpoint". So, you know, when thinking economically, this doesn't make sense, but when it comes to this phrase, "standpoint", you could put all kinds of other things in front of it, right? Like from a historic standpoint. 
 
-# 14.work smart [phr.聪明的工作] 
+# 14.work smart [phr.聪明的工作] & work smarter,not harder & live better,not longer
 > 1)so we have a phrase,it's like don't work hard,work smart.Yeah, exactly, because you know, lots of people work in grueling /ˈɡruəlɪŋ/ jobs, you know, that means they work very very hard or they have to work very very hard, but a lot of people, they can figure out other ways to work, they don't need to work in such grueling conditions, they can work smarter than other people. basically finding ways to be like more productive and it just like kind of get things done without really a lot of waste.
+
+> 2)that just means be more efficient with your time.
+
+> 3)this is kind of a fun little pattern too.You could say, "live better, not longer."
 
 # III.pattern
 ***Hey dad, I'm contemplating working at this tech firm, but I heard the hours are grueling.***
