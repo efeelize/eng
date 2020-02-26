@@ -18,13 +18,15 @@
 
 # II.grammar
 # 1.what 引导的从句
-> “what is most important...”,the noun phrase can be rewritten: The thing that is most important...You can put any verb you want into the "what" clause, not limited to "is."
+> 1)“what is most important...”,the noun phrase can be rewritten: The thing that is most important...You can put any verb you want into the "what" clause, not limited to "is."
 
 - 1. What is most important is that we learn to work together as a team.
 
 - 2. What she thinks about my life doesn't bother me.
 
 - 3. What is true is that most people do not like paying taxes.
+
+> 2) you don't actually need to have an "is" next to "what." It could be a different verb.like, what I like about China is the food. but you can see that you can really play around with this pattern, and use it as a subject or an object.
 
 # 2.find the time [phr.抽时间、找时间] & make the time 
 > 1)to find the time to do something," and it just means that, well, you look at your schedule, you see an open space and hey, you find the time to do an activity.like "I can't find the time to go to the gym." Or find the time to have a social life for some. If you're working, you know, until 10/11 pm at night, it's difficult!
@@ -48,24 +50,30 @@
 
 > 2)we really had to stretch our imaginations to think of a positive way to use this phrase.like:he's fam mail [粉丝来信] is piling up.
 
-# 6.work smarter,not harder
-> that just means be more efficient with your time.
+# 6.put that into parctice [phr.付诸于实践]
+> To "put it into practice" means to actually do this, to actually practice this idea. there's lots of things that we can put into practice. We can put, for example, our values into practice.Or if we're talking about English, you can put that grammar into practice.That is a very, very practical thing that you can put into practice. So basically, you can put anything into practice. It just means "do it."
 
+# 7.minimize [v.减到最少] & minimal /'mɪnɪməl/  [adj.]
+> 1)This means to reduce. so you can minimize stress.  you can "minimize the damage." If you work for a company, something bad happens, you need to minimize the damage in the media.
 
+> 2) the adjective is "minimal" and, for example, someone might put minimal effort in at work.
 
+# 8.distractions [n.使人分心的事] & distract [v.] & distracting [adj.]
+> 1)distractions:these are just things that take your attention away.
 
+> 2)distract:So we all know what distracts us at work. It's usually our phone, or maybe our computer, or it could be a distracting co-worker.a really chatty co-worker.
 
+# 9.it is essential that sb do sth.../ be essential to sth [adj] & it is necessary/improtant that...
+> 1) "essential" means that it's absolutely necessary.so essential is stronger than important. It's more important than important.For example, mathematics is essential to engineering. you could also say this for a person. This person is essential to our team.
 
+> 2) so that is kind of a set phrase there. It's essential that we do something. It's essential that he stay on our team.
 
+> 3) you could also do this with like important or necessary. It's necessary that... It's important that...
 
+# 10.devote yourself to sb & dedicate 
+> 1)when you devote yourself to them, you give your time to this person.In kind of a loving way.Just notice the preposition here, devote my mornings "to" important stuff."devote" is just more emotional. it's almost like dedicate plus emotion. So you might devote yourself to your wife, and that sounds better than to dedicate yourself to your wife.so devotion has more of an emotional sense.
 
-
-
-
-
-
-
-
+> 2) we're thinking again that husband probably dedicated to his family. he works hard to pay the bills, but maybe he's not really happy about it. when you're talking about work, you could say devote or dedicate. 
 
 # III.pattern
 ***David, how do you find the time to juggle all of these different projects?***
