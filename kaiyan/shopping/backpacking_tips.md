@@ -8,10 +8,10 @@
 > In 1972, Maureen and Tony Wheeler travelled from London to Australia. After arriving in Melbourne /ˈmɛlbən/ , Tony wrote Across Asia on the Cheap, the first Lonely Planet guidebook.
 
 # 3.Backpacking in numbers
->1)“4”:The most common number of beds in a dorm, according to Hostelgeeks.com. It is upwards
+> 1)“4”:The most common number of beds in a dorm, according to Hostelgeeks.com. It is upwards
 of 30 in some hostels.[单间床位数超过30]
 
->2)“12p”: The cheapest glass of beer in the world – much loved by backpackers – is Vietnam's biahoi, or "fresh beer", cost only 12p [12便士] and can be found at street-corner joints[街角酒吧].
+> 2)“12p: The cheapest glass of beer in the world – much loved by backpackers – is Vietnam's biahoi, or "fresh beer", cost only 12p [12便士] and can be found at street-corner joints[街角酒吧].
 
 # II.grammar
 # 1.when it comes to + noun/verb-ing
@@ -25,6 +25,7 @@ of 30 in some hostels.[单间床位数超过30]
 - 4. What's the most important thing to you when it comes to picking a job? 
 - 5. My memory is terrible when it comes to remembering names.
 - 6. When it comes to vacations, I prefer beaches to mountains. 
+
 # 2.
 
 
@@ -66,3 +67,8 @@ of 30 in some hostels.[单间床位数超过30]
 ***Yeah, and you want to watch your budget. Stores mark up prices in the tourist areas.***
 
 ***Good to know. Thanks for your tips!***
+
+
+
+
+
