@@ -21,8 +21,10 @@
 ## (2) mess up
 > it is a phrasal verb. So you could mess up a noun; you could mess a noun up. But if you want to use something like "it," you can't say "mess up it." So this guy could say "I messed up the email." He could say "I messed the email up," but he wouldn't say "I messed up it."one grammar point you should pay attention to with "mess up" is that it is a phrasal verb. So you could mess up a noun; you could mess a noun up. But if you want to use something like "it," you can't say "mess up it." So this guy could say "I messed up the email." He could say "I messed the email up," but he wouldn't say "I messed up it."You can just say, "I really messed up."
 
-## (3)CC
-> Yeah, CC, so when we CC something, we make a copy of it and send it to someone else.I'm sending an email to Johnny, but I also want to send the same email to Lisa, for example, I can just CC Lisa.or I could just say, "CC me in that email
+## (3)CC [carbon copy]
+> 1）so when we CC something, we make a copy of it and send it to someone else.I'm sending an email to Johnny, but I also want to send the same email to Lisa, for example, I can just CC Lisa.or I could just say, "CC me in that email
+ 
+> 2)CC stands for carbon copy. So if you're sending someone an email, and you want someone else to get it, but maybe you're not really addressing the email to them, you can just CC them, so they also receive this email, and the other person who is getting the email knows that someone else is getting this email.
 
 ## (4)accidentally
 > When we make a mistake, we can say, "I accidentally did something."it doesn't really matter. You can say "I did something accidentally" or "I accidentally did something."

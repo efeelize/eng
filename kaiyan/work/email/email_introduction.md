@@ -6,8 +6,10 @@
 > I think an important thing is writing with the correct tone. So this means writing an email that's written correctly for who you're talking to. If you're writing to two good friends and of course you can write, "Hey guys, what's up? How are you doing?" Really casual. But if you're writing a business email, you're not gonna say, "What's up?"No. You'll have to be a little more formal. Use words like "dear" to address people and finish the email off by saying "sincerely".
 
 # i.grammer
-# 1.introduction
-> An introduction is when you say, hi person, this is another person. "Hi Steven, this is John."Something like that. And so usually when you write an email introduction, it's very common, it's very normal to have your first sentence be a sentence like this. Or you just say, I am writing this email to something. So in this case, we have "I am writing this email" as an introduction to let the people that you're writing the email to know what you're talking about.
+# 1.introduction & introduction email [intro email] & handover [v.交接]
+> 1）An introduction is when you say, hi person, this is another person. "Hi Steven, this is John."Something like that. And so usually when you write an email introduction, it's very common, it's very normal to have your first sentence be a sentence like this. Or you just say, I am writing this email to something. So in this case, we have "I am writing this email" as an introduction to let the people that you're writing the email to know what you're talking about.
+
+> 2)So an intro email is just short for "introduction email", when you're leaving your job and someone is taking over your job, you're doing a job handover, of course you should do an introduction email. So this is an email where you introduce yourself to that person and you introduce them to some of the duties and responsibilities that they are going to have to do.
 
 # 2.business english
 > It's just English that you use in the business world or at work. So if you are giving a meeting then you need to use business English, or if you're talking to a client then you'll be using business English.This is not everyday English, this is not the English that you use to talk to friends or watch a movie, something like that.No. It is English for doing business. So let's say, for example, you're at dinner at a friend's house, and you meet this person named Jeremy and he says, "I need to help my hotel staff improve their business English." And then you think, ah!
