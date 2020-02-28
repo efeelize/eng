@@ -15,7 +15,9 @@ of 30 in some hostels.[单间床位数超过30]
 
 # II.grammar
 # 1.when it comes to + noun/verb-ing
-> We use "when it comes to" to introduce a new topic or a new aspect of a topic. It's similar to "regarding" or "in terms of" but it is much more casual.
+> 1)"When it comes to" just means regarding or about.it doesn't have to be at the beginning every time. For example, I could have a friend who's really really smart, but he's a really bad when it comes to talking to people. Maybe he's really awkward.
+
+> 2)We use "when it comes to" to introduce a new topic or a new aspect of a topic. It's similar to "regarding" or "in terms of" but it is much more casual.
 
 - 1. When it comes to playing basketball, he's the best I know.
 
@@ -26,27 +28,36 @@ of 30 in some hostels.[单间床位数超过30]
 - 5. My memory is terrible when it comes to remembering names.
 - 6. When it comes to vacations, I prefer beaches to mountains. 
 
-# 2.
+# 2.you want to do sth [phr.你应该] & you might want to do sth & you don’t want to 
+> 1)There's a really good and useful phrase here, "you want to + verb." You want to watch. "You want to" does not mean you want this. It means "you should." This is a phrase we use for giving advice.
 
+> 2)that's a little softer, "you might want to."It's like giving a suggestion like maybe you think it's gonna rain, so you tell your friend, "Hey, you might want to take an umbrella."
 
+> 3) Here's an example of the negative form if you're trying to like get healthy or lose weight or something like that. "You don't want to eat a pizza."at least not very often.maybe once a week is okay.or just eat half the pizza.
 
+# 3.adventurous /əd'vɛntʃərəs/ [adj.充满危险的、大胆的] 
+> That is the adjective of "adventure."When I moved to Korea ten years ago, it was a very adventurous time.
 
+# 4.hostel /'hɑstl/ [n.廉价或免费的旅社] & hotel
+> the difference between a hotel and a hostel is that, hostels are cheaper and usually you also have to share a bathroom.Or share a room. When lots of people are sharing a room together, we call that a dorm. So dorm rooms are very common in hostels, also coed rooms, and those are rooms where it's mixed guys and girls
 
+# 5.to mark up a price [phr.标高价格]
+> This is pretty common, and "to mark up a price" means to make something more expensive.This happens if you go to a sports game. They always mark up the prices. It feels like you have to pay ten dollars for one French fry.
 
+# 6.get off the beaten path [phr.去人少的地方玩]  &  on the beaten path [phr.人多的景点] & hidden gems /dʒɛm/ [phr.隐藏景点]
+> 1)He wants to go to the unpopular places, the hidden places that are really, really good.And that's what this phrase is all about. It's getting away from the common attractions, getting off the path that's been beaten by many footsteps.So if you can imagine a trail or a path that people are beating with their feet, it's a popular path. So Steve wants to get away from that popular path, that popular tourist path.
 
+> 2) I can think of things like in New York, the places on the beaten path are the Statue of Liberty or Times Square.Off the beaten path might be a local pizza place that tourists don't know about, but it's like really good. It's like a secret place that only the locals  [n.本地人，当地人]  know.
 
+> 3)A gem is like a precious stone or a jewel and we often refer to things that are special and that we really care about. We call them gems[n.宝石].So here "hidden gem" just means a really awesome thing that people don't know about, like maybe it's a restaurant like that awesome, awesome pizza place in New York that I talked about. I don't know if it exists, but it probably does.
 
+# 7.you best bet is to do sth  [n.你最好选择]
+> Basically, this phrase just means your best option or your best chance of getting what you want, like, for example, if it's a really busy day of the week for travel, your best bet is to show up early to buy a ticket, because then there's a good chance you'll get a ticket.
 
+# 8.the essentials [n.]  & essential [adj.必不可少的]
+> 1)That's like a noun phrase, the essentials. Make a list of the essentials is another way we could say this.When you're shopping, for example, the essentials would be things that you always need in your fridge like eggs, milk, maybe vegetables.
 
-
-
-
-
-
-
-
-
-
+> 2)"Essential" means necessary, you need it.
 
 # III.pattern
 ***So, Steve, are you ready for your big backpacking adventure?***

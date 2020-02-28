@@ -32,10 +32,14 @@
 # 5.on a shoestring /'ʃustrɪŋ/  [phr.勒紧裤腰带、十分节约]
 > The shoestring. Another good word for people that don't have any money.Yeah. And it just means like if you imagine a shoelace or shoestring, it's very narrow, so your budget is very narrow.
 
-# 6.backpackers' bible [背包客的圣经] & to go backpacking [n.徒步旅行]
+# 6.backpackers' bible [背包客的圣经] & to go backpacking [n.徒步旅行] & Travel guides [n.旅行攻略] & backpacking [n.背包旅行]
 > 1)backpack:It's basically just a big bag where you carry everything in it.So basically the backpackers' bible, these people used it as their their holy book of traveling.
 
 > 2)to go backpacking:So the verb is to go backpacking.Yes. And in fact, years ago when I went traveling, I went backpacking.Right. And I mean for some people it's great, for other people you have to carry everything on your back like a turtle.
+
+> 3)Travel guides. These are very useful for first-time travelers. Maybe if you don't really know where to go, it's basically a book with a bunch of information. That's designed for travelers. and we can even call them "travel guide books." Some popular ones are Lonely Planet, but these days I think most people just use their smartphones, like Yelp or Google.times have changed.
+
+> 4)This would be an exciting trip that he's going on. When we're talking about backpacking, we're talking about a low-cost type of travel longer than your typical vacation, it really is just traveling, but, like you said before in the introduction, mostly young people do it and it's really about saving money. You have a big backpack on your back and you go to all kinds of places. A lot of them are around Europe or South America.We refer to these travelers as backpackers, and usually, they're like students on a gap year, so they take a semester or year off school and they go backpacking through Europe.
 
 # 7.evolved [vt. & vi. 演变; 进化] & devolved /dɪ'vɑlv/ [vi.衰落]
 > 1)so evolve, sounds like we could be in a biology class.It's when something evolves, it gets better. And it's always a positive thing.
