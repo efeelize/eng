@@ -81,6 +81,11 @@
 # 7.method /'mɛθəd/ 
 > pick up methods[选择取证方式], the way how you do something, so we have a very common expression, you know, sometimes if you don't understand what someone is doing and why they're doing it, you can say there must be a method to their madness.so why are they doing this? There must be a reason.
 
+# 8.visa  & sponsoring a visa
+> so a visa of course, is when you are allowed to live and work in another country, you have to get a special something in your passport that allows you to do that. And then you have a visa procedure, so getting this visa, getting this permit to live in to work in another country, of course is not a simple process, it's very complicated.
+
+> So when we talk about this visa procedure, oftentimes the visa needs to be sponsored, so the sponsorship comes from a company usually, and what that means is that the company is going to pay money and take care of all of the.And so obviously, for example, if you are from Brazil and you want to move to France, you can't just decide to buy a visa, you have to have a company in France and says "we are going to pay for this employee", where you want them to work for us, they are going to do this work for us. This is the reason why we are getting someone from Brazil and not from France, that is the process of sponsoring a visa.
+
 # III.pattern
 ***Good morning. Thank you for coming in to the consulate today. Let's begin. What’s the purpose of your visit to the USA?***
 

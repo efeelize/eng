@@ -23,10 +23,12 @@
 
 > 2) But to proposition, to make the verb to proposition means something very specific in English, something very very specific, when you say that someone propositions you, it means that that person is offering sex.
 
-# 5.furnished [v.精装修的] & accommodate [v.容纳]
+# 5.furnished [v.精装修的] & accommodate [v.容纳] & relocation consultants [n.安居顾问]
 > 1）So a fully furnished house is a house that has furniture, has everything already. It has a couch, it has a TV, it has a bed, it has everything already. it sounds great, you don't have to worry about furniture at all, everything is there for you already. But sometimes, it's not that great, because you don't get to choose the furniture.
 
 > 2)so accommodate means to fit, to be enough space for your family. So maybe, we don't know, maybe he has 5 children, there need to be enough bedrooms for all the children, so that all the children will be accommodated.
+
+> 3)So a consultant is, interestingly consultancies are an industry, at least in the United States and everywhere else in the world as well, and these are people that help give advice on different things.so you have corporate consultants, these are people that go into companies and say "you're doing that wrong", "you're doing this wrong", "you need to change that". Ok, and I'll give you my money. It's a very large industry in the United States and I know it in many other countries as well.And in this case, we have relocation consultants, so a relocation consultant will be someone who has lots of information and experience with all of the issues surrounding relocating to a new place. So they'll give you information about schools, what neighborhood to live in, transportation, things like that and will help you at every step of the way.
 
 # 6.dental  /'dɛntl/  [adj.]  &  provider  &  schooling 
 > 1)So dental is just dental insurance, it's insurance that you can use when you go to the dentist, but a lot of time, we just say dental, we don't really say dental insurance.
@@ -38,21 +40,30 @@
 # 7.certified [adj.具有资质的]
 > So when someone is certified that means that they have gone to school, they've had enough schooling, so that they get a certificate at the end and they can perform a certain task or duty.
 
+> So if you're a certified teacher, that means that you went to school to become a teacher, you are educated enough to teach other people, and you have a certificate saying that.And in the United States, we talk a lot about teacher certification, so if you want to become a teacher in the United States, you have to go to a special school that's different from a university, where at the end you get your teacher certification.
 
+# 8.have a say in sth [phr.有发言权]
+> So this phrase "to have a say in something", it means do I get to be apart of the decision, so he wants to know if he can decide where his children go or will they choose for him.
 
+# 9.top-notch /nɑtʃ/ [adj.顶尖的]
+> So something that is top-notch is of high quality, it's the best, it's really good. As a matter of fact, I would say that I have top-notch sunblock in my life. So, I really care a lot about wearing sunscreen every single day, I wear sunscreen every single day.30 SPF on my face.
 
+# 10.reservations [预定、保留意见]
+> 1)So a lot of you have probably heard the word "reservations" when you're talking about booking a reservation, like at a restaurant or at a hotel. 
 
+> 2)But here it's used differently, it's doubt, it means doubts. So we can say the benefits truly outweigh [v.远远优于] whatever doubts you may have or whatever uncertainties you may have.
 
+# 11.miss the boat [phr.错过好机会]
+> what it means is that "don't pass on a good offer", in other words, there's a boat that's leaving, everyone loves to be on the boat, you would be stupid to not go on that boat.
 
+# 12.fast track [v.快车道]
+> So to fast track your career means to quickly advance, to go to a higher position as quickly as possible.
 
+# 13.emerging market [n.新兴市场]
+> So an emerging market, when we talk about a market, we talk about the economy and its usually a country's economy. And the one that is emerging is one that is growing really rapidly. Brazil's economy is growing really rapidly, it's an emerging economy.
 
-
-
-
-
-
-
-
+# 14.sleep on it [phr.睡一觉再说]
+> So we have this expression "sleep on it", which means to wait a day, to wait a little bit, to think about it, maybe stop thinking about it for a few hours and then think about it again, to see if it's emotions change or his feelings changed. The literal meaning of that is "I'm going to go to sleep tonight, and wake up in the morning and then see how I feel about it".you need to reevaluate everything, and not making immediate decision. 
 
 # II.grammar
 ***Harold, we've been really impressed by your work with our partners in Brazil…so much so that the board would like to offer you the role of Regional Director of Latin America. It's an amazing opportunity for your career. However, you would need to relocate.***
