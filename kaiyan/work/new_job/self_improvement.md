@@ -17,35 +17,40 @@
 # 1.first thing first
 > This phrase is used to emphasize, and firstly address, the most important of a series of issues to be discussed.
 
+> first things first, this basically means that maybe you have a lot of things you want to say but you want to talk about what you think is like the most important first.it just means to do the most important thing first or talk about what you think is most important first.
+
 - 1. First things first, he's not my boyfriend! 
 
 - 2. First things first, you need to clean your room. 
 
 - 3. First things first, we need to book our plane tickets before making hotel reservations.
 
-# 2.
+# 2.slump  /slʌmp/  [n.颓废、工作效率低下] & peak 
+> 1)so a slump means like you're not doing well, you can be like in a slump at work, and like you're not very productive, you're not getting a lot of work done, or you could maybe kind of be like in a slump in life, you just feel like you're not living your life as best as you could.Yeah you're not doing things that you want to do you're not learning, you're not growing, for example, you could also be in a slump at school or maybe your grades aren't good and maybe you don't feel any motivation.
 
+> 2)so a slump here it is kind of means like your low it's like the opposite of a peak, peak is like the top of the mountain, but you could also like be in a peak in life and be really high and do really well.Yeah you're pretty happy and you're moving forward, that's the important part.
 
+# 3.better [v.提升]
+> Right so guys I'm sure you guys all know the word better you know something is better than something else, but here better is a verb and it just means like you said to improve to get better at something.
 
+# 4.comfort zone 
+> 1)zone is like an area so this is the place that you are comfortable or the things that you're comfortable with doing.Great so a comfort zone isn't always a place, it can be a place, but a lot of times it's just like your habits in what you're used to doing, so yeah he needs to get out of his comfort zone, but he's not quite sure how to do that.
 
+> 2)so a comfort zone isn't always a place, it can be a place, but a lot of times it's just like your habits in what you're used to doing, so yeah he needs to get out of his comfort zone, but he's not quite sure how to do that.
 
+# 5.flaws [n.缺点] 
+> your flaws are your weaknesses or it could also be like a personality problem maybe you were too impatient, or maybe you're not good at comforting others.
 
+# 6.self-aware [adj.有自知之明的] & self-improvement [n.自我提升]
+> 1)so when you are self-aware you are aware of your flaws and your strengths, you're also aware of your actions and how your words affect others.So like aware here just kind of means you know what's going on, you can be aware of problems that have nothing to do with you, but being self-aware is kind of being real with yourself. So if you're self-aware, you're probably really real with yourself and you know what's going on in your life and how you act.
 
+> 2) so this is a noun, self-improvement and it just basically means to improve yourself.
 
+# 7.funny you say that [phr.太巧了！]
+> it’s just saying wow it's a coincidence that you say that,so you just mentioned something that is actually happening in my life.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 8.drag you down [phr.拖累]
+> so to drag means to pull, so you can imagine that you are trying to get better you're trying to climb this mountain, but someone keeps pulling you down.
 
 # III.pattern
 ***Mackenzie, I've been in such a slump lately. Got any advice on how I could better myself?***

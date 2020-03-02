@@ -53,7 +53,40 @@
 
 - 3. Next, I will discuss the problems with using iOS 6 on an old iPhone .
 
-# 2.
+# 2.tailor 
+> To tailor is to customize your writing to adjust it to your audience.
+
+# 3.concise /kən'saɪs/ [adj.简洁的]  &  convoluted [adj.费解的]  &  redundant  & wordy language  &  unnecessary formality  &  cliches  /'kli:ʃei/  [n.陈词滥调]  & jargon /'dʒɑrɡən/ [n.行话] 
+> 1)So this word "concise", this is very useful, it means short, but also it gets to the point, you don't use any unnecessary words.and it means exactly what you want to say, concise.
+
+> 2) convoluted is like complicated, hard to understand, don't use hard to understand words to impress your reader.
+
+> 3)So redundant, redundant is when you use words that are the same. so you're just repeating the same meaning again, for no reason, it doesn't help.
+
+> 4)So wordy language means sentences that have too many words, too many unnecessary words.
+
+> 5)so I have an example of unnecessary formality. So you can imagine this at the end of an email. Please do not hesitate to contact me if you require additional information.you can just say please contact me,or just call me if you need more information.
+
+> 6)Cliches are phrases that are overused, people overuse them too much.like at the end of the day,it just means in the end.
+
+> 7)I think one time that we get jargon a lot is if you have an IT department and they are talking to other departments, when you talk about technical stuff, you know, RSS and CSS and others acronyms /'ækrənɪm/ [n.首字母缩略词] that other people don't know.and ROI,if you're businessman in Silicon Valley, you think that everyone knows what it means.So it means return on investment, so remember, don't use jargon, you'll just confuse your reader.
+
+# 4.convey the meaning
+> So to convey the meaning means to get the meaning across to communicate the meaning.
+
+# 5.terminology /ˌtɝmə'nɑlədʒi/ [n.术语]
+> So a term is a word, one term as one word. If you say terminology, it means a bunch of words.
+
+# 6.passive voice [n.被动语态] & active voice [n.主动语态]
+> 1)when use the passive voice you say things like '' it has been decided that,'' right? You don't say who decided, you just say it has been decided.Yeah, it's indirect. Another example would be some questions have been raised about.
+
+> 2)so an active voice those would be we decided that.John raised a question about.You missed some deadlines, right? So when you make it an active voice sentence you have to decide who did it? Sometimes it's I, sometimes it's you, sometimes it's we. You have to decide that, but when you do this the sentence is actually easier for us to understand.
+
+# 7.attention-grabbing [adj.引人注目的]
+> you write important topics or messages on the subject line like this report is due next week.
+
+# 8.shorthand [n.缩写]
+> so there's some expressions that we use a lot, and it's just much easier and clearer to use these email shorthand expressions like BTW is the example she gives, it means by the way.
 
 
 
