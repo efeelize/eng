@@ -1,6 +1,7 @@
 Warning letter
 # I.letter
 Dear Adam,
+
 This letter is a warning about your recent unsatisfactory job performance. We have received many complaints from your Department Head about your lateness. As well, we have observed you using office material for your own personal use several times. 
 
 On July 12 in a meeting with your manager, you were warned verbally about your performance. At that time, you assured her that you would change your behavior. However, since then, you have not only been late on more than one occasion, but also you have been observed continuing to use office material inappropriately.
