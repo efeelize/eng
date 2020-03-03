@@ -23,10 +23,14 @@
 > 3)If you're in the line of fire means you're in the most dangerous place.so this phrase if you think of a gun shooting maybe even a machine gun,war yes, so the wherever the bullets are going, that is the line of bullets, of fire.
 
 # 4.trim some fat [phr.裁员] & layoff /'le,ɔf/ [裁员]
->  so the trim some fat this just means to get rid of things that are unnecessary and in this case, unfortunately, the things that are unnecessary are people.
+> 1)so the trim some fat this just means to get rid of things that are unnecessary and in this case, unfortunately, the things that are unnecessary are people.
+
+> 2)But it doesn't always need to be people.it literally means to get rid of anything that you are deeming unnecessary, so if you could say," we need to trim some fat from the budget", means we need to cut our expenses of things that are not necessary.
 
 # 5.acquisition [n.收购]
 > so Microsoft bought Nokia, that's an acquisition when a company acquires another companies.Yes, to acquire to take over.
+
+# 6.
 
 
 
