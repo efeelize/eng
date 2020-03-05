@@ -34,22 +34,67 @@
 
 - 3. There’s a new cleaning product that can work miracles on a dirty floor.
 
-# 2.
+# 2.rested [ptcp:充分得到休息、气色好]
+> so this means like you slept well, you got a lot of sleep. so you look good. Maybe your skin is a little bit brighter and your eyes are more awake.
 
+# 3.do wonders [phr.产生神奇的功效]
+> 1)"Do wonders" means that it will do great things.we can talk about anything that's related to our body, begin to say that, you know, this conditioner will do wonders for your hair.Or maybe this vitamin will do wonders for your health. 
 
+> 2)let's give one more example. You could say something like learning a new language will do wonders for your brain, it'll help you learn a lot.
 
+# 3.hiccups [n.打喷嚏，小问题]
+> 1)hiccups are sometimes if you eat too much,or like you drink something too fast,you laugh too much,they are annoying.
 
+> 2)But hiccups can also mean like problems. So she's not talking about eating a big meal on her trip and then having hiccups, she's talking about having problems.You could say that there are hiccups during your career maybe.so like maybe your career hasn't been going too well, and you've been experiencing some hiccups.
 
+> 3)But when you talk about them as when they're big problems, calling them hiccups is kind of like you're not making it seem very serious, you're like, oh, you know, we had some hiccups here. You know, they actually were pretty big problems.you’re trying to play if off.
 
+> 4)I think in general if you're talking about a hiccup, it interrupted whatever you're doing. if you're trying to do something else, like you're trying to reach a goal, but you experience a problem, that keeps you from reaching that goal,that can be a hiccup.
 
+# 4.started off [phr.启程]
+> In fact, her trips started off with a pretty big hiccup.She lost her luggage, or not maybe her, but the airline.
 
+# 5.to add insult to injury.[phr.雪上加霜、伤口上撒盐]
+> so basically when you have one problem, things are already kind of bad and then it gets worse by having another problem.
 
+# 6.checked bags [phr.托运行李]
+> So these are the bags that you usually check in once you go to the counter at an airport.And they are put into the cargo of the plane.So they are put under the plane basically. So when you go to get your ticket to get on the plane, if you have some big bags, you say, "Here I'd like to check these bags in". So we call this checked bags or checked luggage. 
 
+# 7.toiletries  /'tɔɪlətrɪz/ [n.洗漱用品]
+> So toiletries are basically I would say they're usually liquids that you use to wash your face or your hair or your body.it can be shampoo,too.What about toothpaste?I think that would fall under the toiletries type, the toiletries category.
 
+# 8.carry-on [n.随身行李]
+> he says he always packs a few changes of clothing in his carry-on.So this is basically the bag that you bring with you on to the plane.
 
+# 9.live out of your suitcase [phr.居无定所]
+> 1)We usually use this as a phrase. A lot of times when you're travelling, or if you're moving around a lot, you'll have to live out of your suitcase which is really to live off of not much.
 
+> 2)So if you're not, you're living out of your suitcase, maybe you don't unpack, maybe you don't have a closet, or maybe you do have a closet but you're, you're traveling so much, that pretty much. What you have is, what you keep in your suitcase, yes, so you kind of living out of your suitcase always on.
 
+# 10.nooks and crannies [phr.犄角旮旯]
+> so just like small spaces. so you can have nooks and crannies in like, I don't know, in a suitcase; you can have nooks and crannies in, in a house maybe.just like small little spaces where you can put things into nooks and crannies.
 
+# 11.paranoid [adj.过分紧张]
+> So paranoid means like, it's just really worried.overly worried.the other definition of paranoid is usually like a fear of someone watching you.
+
+# 12.leak [n. & v. ]& leakages /'likɪdʒ/ [n.渗漏] & spill & leak information & leaked photo 
+> 1)leaking is like maybe you have like a hole in a bag, so some a little bit of things start to come out, so leak usually happens like through some sort of hole, or if something wasn't tied tight.toiletries were usually liquids.So those things can spill or leak. 
+
+> 2)Now leakage is much smaller than a spill, right? It's like a little bit comes out.So she uses tape to seal the lids or caps, and she also pours liquids into vacuum pump bottles.
+
+> 3)spill is like when you knock something over, if you, if you have a glass and there's something, and then you knock it over.
+
+> 4)you can also leak information.Specially top secret information.So if you are somebody who works like in the government, and you have secrets like government secrets, if you tell them to people who aren't supposed to know them, you can leak information.
+
+> 5)And also a lot of celebrities often get caught up in these public scandals maybe. On a lot of times, it involves leaked photos.
+
+# 13.seal off & vacuum pump bottle 
+> 1)to seal means to kind of close off to make, to make shut, to make closed.you can seal off a lot of things. 
+
+> 2)So you push down on something on the top like maybe a button on top of the bottle, it brings the liquid out.basically these are bottles that use a vacuum as well as a pump. So in order to get the liquid out of the bottle, you have to press down on a pump. And as you use the liquid, The inside of the bottle becomes small.
+
+# 14.guru /'ɡʊru/ [n.专家、大师]
+> so another word for expert,master.
 
 # III.pattern
 ***Chloe, you look well rested! How was your trip to Zhangjiajie?***
