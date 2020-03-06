@@ -10,8 +10,12 @@
 > If you have a foreign license without a photograph, you may be asked to show your passport. You should also have an International Driver’s Permit (IDP), which must be used in conjunction with your foreign license[与你的外国驾照一起使用].
 
 # II.grammar
-# 1.get sb doing sth [phr.让某人做...]
-> We use the phrase “get somebody action/verb+ing” when we help or make somebody start an activity.
+# 1.get sb doing sth [phr.让某人做...] & get you on your way [phr.帮助你准备上路] & get you 
+> 1）We use the phrase “get somebody action/verb+ing” when we help or make somebody start an activity.
+
+> 2)it just means I'm going to help you start your journey.
+
+> 3)get you, basically means to get you ready, to help you prepare, 
 
 - 1.If you're having trouble thinking of an idea for your essay, the teacher can probably get you started.
 
@@ -19,18 +23,49 @@
 
 - 3. A: We should probably get going. B: Let me just make you some tea[沏点茶], then we'll get you on your way.[送你走]
 
-# 2.
+# 2.compact /'kɑmpækt/ [n.小型] & mid-size [n.中型] & SUV [sport utility vehicle] & luxury 
+> 1)so compact here, this just basically means like small.Like something that can be small and fit somewhere small like, for example, foldable chairs, you know, you can sit in them but they become very compact when you fold them.So compact is used for a lot of things like cars, you just said chairs.Or maybe like some type of suitcase. You could say it's really compact. You know, but you can still fit a lot of things inside.
 
+> 2)so that's just like a usual car, like four doors.so it's a bit bigger than a compact car.
 
+> 3)then SUV. That actually means sport utility vehicle.
 
+> 4)Luxury, so this word here is kind of like fancy, expensive.Leather seats, comfortable. Luxury though, we don't just use this word to describe nice cars. you can use it to describe hotel,a luxury room.
 
+# 3.diver’s license [n.驾驶执照]
+> so this is that piece of plastic. It's a card.With your picture and your age, where you live, all these things, we use it. So you can drive a car, and you have to take a test first. The driving test.
 
+# 4.roadside protection [n.道路救援]
+> So this roadside protection would basically be, if your car breaks down, if your car stops working, someone can come and get you in the car.so a tow truck. That's like a big car, it's a truck that pulls the broken car.
 
+# 5.rentail [adj.租赁的] & rental [n.] & rent [v.] & rent-a-car [n.租车]
+> 1)in this case it's an adjective,
 
+> 2) we could also use it as a noun, you could say I got a rental.so you can say a car is a rental.
 
+> 3) if you go to a wedding you can rent a suit.
 
+> 4) that's just another way to say rental car,in this case, it's a noun. 
 
+# 6.upgrade & update
+> 1) when we talk about computers, upgrade usually means you get something new.  if you get a new computer, it's like you upgraded to a newer better computer. 
 
+> 2)update means you just change something that you already have.so you would update like computer software.
+
+# 7.mileage /'maɪlɪdʒ/ [n.里程]
+> So mileage here is basically just how far the car drives.
+
+# 8.dropping it off [phr.停放]
+> so drop off, you leave it somewhere,Like you can drop off your friend at the airport maybe.You can drop your kids off at the pool.So you can drop off all kinds of things. You can drop off clothes at the cleaners[n.洗衣店], you can drop off her rental car obviously.
+
+# 9.branch [n.分店]
+> branches basically just mean it's part of one bigger companies.it comes from the word tree branch.because a company is like a tree. It has lots of, I guess branches.think of the company as the big part of the tree and then the little stores here and there are the little branches that are all over the place. OK, cool. So branches, so this can be used for banks, can be used for stores.
+
+# 10.go over [phr.仔细核对]
+> so go over means you're checking something carefully. You're looking to make sure you understand it.They're going to kind of cover the policy. They're going to talk about it.So there's many things you can go over but you might go over an agreement, you might go over a work contract. you can go over your homework to check for mistakes.
+
+# 11.tank [n.油箱]
+> So cars, unless you're driving like a Tesla or something like that, you need to fill up the gas tank with gas.go to the gas station near the airport. Then you can take it back, you can drop it off.
 
 # III.pattern
 ***Hi, there. Do you have any cars available until next Monday?***
