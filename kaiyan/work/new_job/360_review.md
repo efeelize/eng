@@ -1,4 +1,4 @@
-# 360_review
+# 360_review & 360 degree feedback
 # I.What is a 360 review in the workplace?
 > The 360 review is a professional feedback opportunity that enables a group of coworkers to provide feedback on an employee’s performance. The feedback is generally asked for by the manager to whom the employee reports.[通常是负责这位员工的上司向大家寻求反馈意见]
 
@@ -76,15 +76,34 @@
 
 > 3)red tape is more about something I would like to do like restrictions. You can't do it because there is a restriction. Usually the red tape is put there again by administrations or management.like if a restaurant wants to sell liquor, sell beer or wine, they have to apply for a liquor license and there're something to a lot of red tape.
 
-# 11.implementation [n.实施] & actionable [adj.可行的;可诉的]
+# 11.implementation [n.实施] & implementing &  actionable [adj.可行的;可诉的]
 > 1）so to implement something is similar to execute something, to start a plan, to kind of put that plan into action. so I think that probably the biggest difference is implementation doesn't necessarily mean see it the whole way through. Like you could implement a plan, and I'm just kind of forget about it. In fact, I do that every week of my life. I am going to implement this new diet regime /re'ʒim/ [节食].
 
-> 2) actionable：It's really just practical.it's something you put into action.if you look at the dictionary, it's from like legal systems, law courts. That's where this words from.And now we just use it in business a lot.
+> 2)So implementing here means to put something into practice, to start something.start using it. So often you have something that's a little bit complicated, like a system or something, you need to implement it. we often say implement instead of just use or do, right? It sounds more sophisticated.
+
+> 3) actionable：It's really just practical.it's something you put into action.if you look at the dictionary, it's from like legal systems, law courts. That's where this words from.And now we just use it in business a lot.
 
 # 12.equitable /ˈɛkwɪtəbəl/ [adj.公平的] & equality /ɪ'kwɑləti/ [n. 同等,平等] & equal /'ikwəl/ [adj.相等的, 同样的]
 > 1)equitable or this idea of equity, this has in my lifetime, this word has really really exploded or this idea,this concept has really exploded, because the old idea is equality.and the key difference there is that equitable means fair.
 
 > 2)equal means the same.
+
+# 13.interpersonal skill [n.人际交往能力] & anti-social
+> 1)So anything that involves two people communicating, ah, talking about things they need to get done at work. So it could be ways of disagreeing, or you know having a discussion. It could include skills for compromising, for persuading someone,problem-solving skills as well.Or anything that involves communication between different people. 
+
+> 2)If someone has poor interpersonal skills, then they're probably anti-social. maybe they lose their temper very easily. They're socially awkward.
+
+# 14.abundant [adj.丰富的] & candid [adj.坦率的] & constructive [adj.建设性的] 
+> 1)so the employee is getting abundant feedback, right? They're getting lots of feedback.
+
+> 2)so it should be honest, candid, honest, frank and constructive. It should help you improve.
+
+> 3)so something is constructive, it's not just criticizing you, it's telling you how you can improve.
+
+# 15.aligned [v.对齐] & compile /kəm'paɪl/ [v.汇集]
+> 1)So we heard that they need to figure out the manager's goals and expectations are aligned with the subject's.so let's start off with "goals". So the goals here are what the subject wants to happen in the future with the company, so if they want to get promoted to a certain job, these are the goals. So they need to make sure that the manager's goals for the subject and the subject's goals for themselves are the same.so both the manager and the employee want the employee to grow,If their goals are aligned.
+
+> 2)we noticed that the final step for the, ah, 360-degree feedback review process is after collecting all the feedback, you have to compile it.They can put it all together. They can aggregate it, and give out the report to the employee.put in the, put in the format that is, ah, pretty easy to understand,So you compile it, make the report.
 
 # III.pattern
 ***Hey, Ross, have you done your 360 reviews yet?***
@@ -108,6 +127,35 @@
 ***Absolutely. The whole point of having multiple raters is to get feedback from all angles, hence the name 360. When you take all that together, you end up with a really good gauge of someone’s skills and potential.***
 
 ***That does make sense, actually. I better get on that, then.***
+
+# IV.pattern
+***Good morning Mr. Gibbons! Thanks again for meeting with me this morning.***
+
+***No problem, Stacey. So what is this 360-degree feedback review you wanted to talk about?***
+
+***Well, in our last meeting you expressed interest in implementing a system of review where the employee would gain valuable feedback that would help him or her develop business and interpersonal skills. I’ve done my research and found that the 360-degree system does just that.***
+
+*** I haven’t heard of this system before. Tell me more about it.***
+
+***The manager isn't the only one involved in evaluating the employee; peers and customers do it as well. Because it’s not just one person evaluating the employee, the employee is getting an abundant feedback that can be candid, constructive and help the employee realize what they need to improve on.***
+
+***What are everyone’s roles and responsibilities?***
+
+***The 360-degree feedback system needs an administrator, reviewers, the manager and the employee or subject. The administrator can be me, or someone else in HR and the reviewers can be the employee’s co- workers or some clients, that he or she has dealt with in the past. It’ll all be anonymous, so the employee won’t know whom the feedback is from.***
+
+***Before we start using this feedback system we should make sure that all those participating are aware of what we are doing, ready for it and willing to take part.***
+
+***How should we make certain everyone is ready to cooperate with this new feedback system?***
+
+***We should have a few workshops explaining what the 360-degree feedback system is and how it’ll be useful for them as opposed to conventional methods of performance evaluation.***
+
+***We could even have those involved in leadership and manager roles undergo the 360 reviews first. It’ll be good to show an example of what to do during these reviews from the top; we’ll build a positive culture of feedback.***
+
+***Ok, one more thing, can you tell me about the process of the 360 review?***
+
+***The first step is to meet the subject. Ensure they understand how everything is going to work and determine what their expectations are. The second step is to talk with the subject’s manager. Figure out if the manager's goals and expectations are aligned with the subject’s; if they aren’t this may not be the best feedback method.***
+
+***Also, we’ll ask the manager to compose a list of co-workers the subject has known for a few years. These people could be the reviewers. The third step is to send out the review. We can either do a one-on-one interview or send out a survey via email to the reviewers. The fourth step is to review all the feedback and compile a report. And the final step is to deliver the results.***
 
 
 
