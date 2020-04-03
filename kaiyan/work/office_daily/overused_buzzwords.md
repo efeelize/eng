@@ -16,7 +16,17 @@
 # 4.Customer lifecycle [客户生命周期]
 > A customer lifecycle outlines the stages a prospect goes through before, during, and after completing a transaction with a company [潜在客户在与公司完成交易之前、期间和之后经历的各个阶段]. Number of stages can vary depending on your business and industry.[根据你的业务和行业，阶段的数量可能会有所不同]
 
-# II.grammar
+# II.Buzzwords you need to forget 
+# 1.Digital transformation
+> This seemingly cutting-edge [前沿] phrase dwells /dwɛl/ [vi.居住,住] in obscurity /əb'skjʊrəti/ [n.晦涩或不明的事物]. It's a throwaway /'θroəwe/ [宣传小册子] line. Instead of using it as a blanket statement of your technological intentions, be specific. Talk about how your teams will use artificial intelligence [人工智能] or cloud-based platforms [云的平台]. Without context, "digital transformation [数字变革]" says little.
+
+# 2.Crushing it [干得漂亮]
+> You'd be surprised how often people say this. Even if they use it ironically [讽刺意味], "crushing it" always sounds a little too macho /'mɑtʃo/ [adj.大男子气概的]. If you or someone else has done an amazing job, be forthcoming and explain why.
+
+# 3.Girl boss
+> It is believed that woman's leadership should not be diminished /də'mɪnɪʃ/ [adj.减少了的,被贬低的] by qualifying her position with a gender-focused term [聚焦性别]. If you feel like it's a good way to recognize a leader like Arianna Huffington [《赫芬顿邮报》], then maybe you should also start referring to Jeff Bezos as a "boy boss."
+
+# III.grammar
 # 1.something needs doing...
 > When we want to express what an object needs, we often use the phrase "something needs doing." Some examples from our daily lives might include "the laundry needs doing," "the dishes need washing," or the "bed needs making."
 
@@ -86,3 +96,28 @@
 ***Oh, it was great sir. Patrick and I were just saying how the envelope needs pushing!***
 
 ***Agreed! It's time we started thinking outside the box. Ok, carry on gentlemen!***
+
+# IV.pattern
+***Hey, how was your hot date last night?***
+
+***I don't think she's my type. She couldn't stop using buzzwords like "influencer" and "clickbaity."***
+
+***She sounds like a friend of mine who calls himself an influencer.***
+
+***I'm sure he influences someone. So then she took me to a new restaurant that has all kinds of superfoods. I thought to myself, "You mean salads?"***
+
+***Wow, I bet she's pretty woke, too.***
+
+***Yep. When I ordered chicken wings, she said she was almost triggered because she's vegan.***
+
+***Well I guess there won't be a second date!***
+
+***Who knows, but it would've been nicer if she had spoken plain English.***
+
+***Well, you meet all kinds of people in the dating game. You just gotta stay positive!***
+
+***Yep, hashtag YOLO!***
+
+
+
+
