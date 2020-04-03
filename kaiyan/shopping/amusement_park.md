@@ -38,7 +38,7 @@
 # 2.pumped [adj.激动地、兴奋的]
 > pumped", it's a basic, just means excited.and "pumped" also has other meanings, but here, it just means super excited.
 
-# 3.amusement park & ride [n.游乐设施] & drop tower [n.跳楼机] & afraid of heights [phr.恐高] & Ferris wheel [n.摩天轮] & pirate ship [n.海盗船] & bumper cars [n.碰碰车] & go for a spin [phr.兜风、转圈] & log ride [n.激流勇进] & tea cups [n.茶杯、茶杯车] & roller coaster /'kostɚ/ [n.过山车]
+# 3.amusement park & ride [n.游乐设施] & drop tower [n.跳楼机] & afraid of heights [phr.恐高] & Ferris wheel [n.摩天轮] & pirate ship [n.海盗船] & bumper cars [n.碰碰车] & go for a spin [phr.兜风、转圈] & log ride [n.激流勇进] & tea cups [n.茶杯、茶杯车] & roller coaster /'kostɚ/ [n.过山车] & haunted maze /mez/ [n.迷宫]
 > 1)so an amusement park is a fun place with tons of games and all kinds of other things you can do.amusement, Fun or funny. Something like It's kind of like the entertainment.
 
 > 2) so "ride", we all know, is a verb, ride a bike, ride a bus, but here that is a noun. So, ride just describes all these kinds of, usually big things at amusement parks that you can go on, you, you ride them, so for example, the drop tower.
@@ -60,6 +60,8 @@
 > 10)tea cups:they are big teacups, and they go round and round and round.these are big cups that just kind of turn, they spin. We said "spin" earlier, to go for a spin, but the "spin" also means to like turn... turn around, right? So, the teacups they spin. Actually, the teacups, if you want to make it spin more, you can make it spin more, there's usually a thing in the cup. 
 
 > 11) so usually there's a bunch of different cars, they're attached kind of like a train, and they're on tracks, like a train, and they go up and down and around and upside down and all this.Every amusement park has at least one rollercoaster.
+
+> 12)Now a maze here is like, it's like a puzzle but it's a puzzle in real life. It's a structure of a place.you have to kind of walk through it. We usually make them on farms, so they're usually made out of straw.
 
 # 4.in ages [phr.很长时间，很久] & remotely [adv.程度小的]
 > 1)it's kind of exaggerating, you know, it's not that she hasn't really been there in, like three hundred years.
@@ -108,10 +110,6 @@
 > 1)I don't have the stomach for something or I can't stomach something basically just means I can't handle it.so stomach here it could be a noun or a verb.
 
 > 2)But if you say you, you can stomach or you can't stomach that, that be a verb basically saying that you can take it.It's also could be any kind of foods. It could be you know a type of situation you need to stomach as well, like I don't really have the stomach for confrontation,and I don't have the stomach for Adam's behavior.I can't stomach this guy.
-
-# 10.
-
-
 
 # IV.pattern
 ***Sherri, I’m so pumped we’re here! I haven’t been to an amusement park since I was a kid!***
