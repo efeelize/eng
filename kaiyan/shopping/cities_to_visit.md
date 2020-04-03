@@ -1,4 +1,4 @@
-# top 10 cities to visit
+# Top 10 cities to visit
 # I.The best cities to visit in 2020 
 # 1.Bonn /bɑn/ [n.波恩], Germany
 > Once capital of West Germany, Bonn slipped off [phr.溜走；滑落] the radar [淡出了众人视线] when Berlin reseized the reins [重新掌权] in 1990. But it's back in the spotlight /'spɑtlaɪt/ [n.公众注意的中心] in 2020, as the city gears up [phr.准备好] to mark Beethoven /'bei,təuvən/ [贝多芬]'s 250th birthday. Well, you can expect a year-round [全年无休] line-up [v.排成行] of concerts drawing world-famous orchestras /'ɔrkɪstrə/ [n.管弦乐队], soloists /'soloɪst/ [n.独唱者；独奏者] and conductors /kən'dʌktɚ/ [n.(乐队)指挥]. 
@@ -92,16 +92,6 @@
 > 1)so basically it's what mode of transportation did you use.so this basically means how did she move how did you move herself and her family so of course that question sounds kind of silly. It might be better to think you know how did she get from point A to point B.
 
 > 2)Now I'm curious Adam how do you usually get around in Shanghai.
-
-
-
-# 9.
-
-
-
-
-
-
 
 # IV.pattern
 ***Hey Jeremy, are you traveling overseas for your vacation this summer?***

@@ -1,5 +1,4 @@
 # Dinner_with_coworkerss
-
 # I.Perfect food-and-beer pairings
 > It's no secret that Americans love beer, which, especially for casual dining, can serve as a great match for food. Here are some perfect beer and food pairings recommended by some experts.
 
@@ -12,7 +11,12 @@
 # 3.French fries and fried foods 
 > French fries, an American staple cuisine /kwɪˈzin/ [美式主食], are light in flavor profile /'profaɪl/ , so opt for a brew that will help cleanse the palate without washing away the taste of the food[选择既能清爽口腔但是又不冲淡食物口味的啤酒]. The recommendation that goes for most fried, salty dishes includes light German lagers[德国拉格啤酒] and Samuel Adams Octoberfest[山姆·亚当斯的十月啤酒节啤酒].
 
-# II.grammar
+# II.Office Lunch Idea: Brown-bagging [自带午饭]
+> In today's dialogue, our co-workers are all trying to decide where to go to eat. Of course, if your office is in a very expensive downtown location[昂贵的中心地段], not all workers will be able to afford to buy their food everyday. So many office workers "brown bag it": they pack their sandwiches, fruits, cookies, etc. all into a brown bag, and bring it to work with them. If the office has a lunchroom [午餐室], then the brown-baggers can eat lunch together. If not, then they might have to eat by themselves at their desks.
+
+> Now, not everyone uses an actual brown bag to bring their lunch to work. But even if you bring your lunch in a purple box, it can still be called brown bagging it. Additionally, sometimes when brown bag is said at work, it doesn't mean the food itself, but rather a kind of meeting or presentation that goes on during lunchtime [并不表示食物，而是一种在午饭时间进行的会议或者展示。]. Since these can sometimes be, shall we say, a little boring, the best way to escape them is to head to the nearby food court or cafeteria with your rich co-workers!
+
+# III.grammar
 # 1.Neither am I & neither do I & me neither 
 > 1)In today’s dialogue, the speaker, Sarah, responded to Sean’s question by saying, “neither.” In this case, “neither” was used as a very casual and shortened version of “neither am I” or “me neither.”[“neither”用法非常随意， 是“neither am I”或者 “me neither”的简化形式。]
 
@@ -58,7 +62,7 @@
 # 7.big eater [n.大胃王]
 > sometimes we also say like that you have a big appetite.'Appetite' /'æpɪtaɪt/ just means your ability to eat or not, basically.
 
-# III.pattern
+# IV.pattern
 ***Man, what a long day! I could really go for a cold one.***
 
 ***Same here. Should we start with a round of beers?***
@@ -78,5 +82,33 @@
 ***That's a ton of food. Are you sure you'll have room for dessert after that?***
 
 ***Oh, don't worry! There's always room for dessert!***
+
+# V.pattern
+***Daniel, do you want to grab some lunch?***
+
+***Oh, is it noon already? I’m swamped this morning. Didn’t realize it was so late.***
+
+***Yeah. I’m starving. Where do you want to go?***
+
+***Um, my brain isn’t working this morning. What do you think?***
+
+***Well, we’ve pretty much tried everything around the office. There’s nothing exciting.***
+
+***I know. I hate eating in the same food court everyday.***
+
+***And that’s if you can get a seat. Maybe we should just get take-out.***
+
+***No, it’s too late to place an order. Hey Lisa, do you want to join us for lunch?***
+
+***Sure. Where are you guys going?***
+
+***We have no idea. Any suggestions?***
+
+***Actually I saw a great deal on a group buy app. It's a new Thai restaurant just around the corner. Wanna give it a try?***
+
+***Sure, let’s do that.***
+
+
+
 
 
