@@ -37,7 +37,7 @@
 
 - A: I really don't want to wake up at 5 a.m. tomorrow! B: Neither do I!
 
-# 2.ordering in [phr.叫外卖] & get delivery & eating out [phr.在外面吃饭] & eating in & eat and run [phr.吃好就走] & grabbing [v.匆忙的吃] 
+# 2.ordering in [phr.叫外卖] & get delivery & eating out [phr.在外面吃饭] & eating in & eat and run [phr.吃好就走] & grabbing [v.匆忙的吃] & grab/get lunch & take-out [n.外卖] & takeaway & take it to go & place an order [phr.下单] & group buy [n.团购]
 > 1）"Order in" that means you call the delivery guy. it sounds exactly the same to me. Are you getting delivery or going out for lunch? Are you ordering in or going out for lunch?
 
 > 2)"Eating out" means going out to eat.Nothing too crazy here. Doesn't have to be only used for lunch. Of course, you could also have dinner with your friends and family, and go eat out at a restaurant.
@@ -47,6 +47,18 @@
 > 4) "eat and run" here just basically means you need to eat quickly, then go.Should say one thing about this phrase. This is a great chance for you to show your politeness if your friend treats you to lunch or dinner, and then you have to leave. You can just say sorry to eat and run.
 
 > 5) "grabbing," It just means to get something quickly.casually you can grab a sandwich. You can grab a coffee. You can grab a beer.so it's just a great thing that you do you with friends. Now, if you are on a date with a very beautiful girl or a very handsome guy, maybe you should go to that place with great reviews. With your friends, just go grab a sandwich.
+
+> 6)So someone is always going to ask this in the office around 11:30. And so this idea of grabbing lunch. what are we doing here when we're grabbing lunch?You're going and getting lunch."Do you want to eat some lunch?"sounds so strange.We grab or get lunch.
+
+> 7)take out:At lunchtime, food courts are super busy so you probably won't be able to get a seat. So, she suggests maybe we should just get take-out. You take it out of the restaurant.so you don't eat it there. You eat it at home or somewhere else.
+
+> 8)takeaway:I just want to get takeaway. But I think take-out is more common.
+
+> 9)take it to go:And you would say this when you're at the restaurant. They would ask you would you like to eat here or take it away and you can say I'd like to take it to go.
+
+> 10) place an order,you could just say order.I would say the only difference is placed an order could also mean to do it ahead of time. But not necessarily.
+
+> 11)Great deal on a group buy app.The idea is that you get a group of people and when you buy it from these apps, it brings the price down, cheapens it.
 
 # 3.a round [n.每人一点]
 > 1)so "a round"—this is a counter, right? It's a counter for a group of things.So, basically, if you are with your friends and you go to a bar or a restaurant and everybody, you know, is going to have some beers. 
@@ -102,12 +114,12 @@
 
 > 2)or just to use this same structure that we see in the dialogue. You can be tight on money.Little tight on money this month.
 
-# 9.cafeteria /ˌkæfə'tɪrɪə/ [n.自助餐厅] & canteen /kæn'tin/ [n.食堂] & food court [n.小吃街] & packed [adj.拥挤的]
+# 9.cafeteria /ˌkæfə'tɪrɪə/ [n.自助餐厅] & canteen /kæn'tin/ [n.食堂] & food court [n.商场里的小吃街] & packed [adj.拥挤的]
 > 1)usually when we're talking about high schools, universities, big companies, they use the word "cafeteria."
 
 > 2)when I think of "canteen," I think of the army.Yeah, or camp. Like summer camp had a canteen. I mean I'm sure if you go to a different city or maybe a different state in America, they might use "canteen" more than "cafeteria."
 
-> 3)this is the place in the mall that has all the restaurants, usually fast food restaurants.Right, so they'll be a McDonald's in the food court.or a Subway or a KFC.whereas the cafeteria or the canteen, it might have all the same foods like hamburgers or sandwiches. But it's usually just one company that runs the cafeteria.
+> 3)food court：this is the place in the mall that has all the restaurants, usually fast food restaurants.so they'll be a McDonald's in the food court，or a Subway or a KFC，a coffee place. Starbucks probably.So the point is that most food courts are kind of the same.whereas the cafeteria or the canteen, it might have all the same foods like hamburgers or sandwiches. But it's usually just one company that runs the cafeteria.
 
 > 4）"Be packed," So we use this word to express that a place is very full of people.Like for example,we were packed on the bus like sardines /ˌsɑr'din/ [n.沙丁鱼]. Disneyland is always packed.That sounds like kind of a positive packed, I guess, unless you just really want to go by yourself.
 
@@ -116,8 +128,13 @@
 
 > 2)And it's also a polite way to emphasize you really don't have any time in this case.
 
-# 11.sandwich it is
+# 11.sandwich it is 
 > "Sandwich it is," which it's actually a great little point we should probably talk about before the dialogue. "Sandwich it is" just sounds like "okay it's been decided. It is a sandwich."
+
+# 12.bread bowl soup & brown bag 
+> 1)it's amazing. It's amazing. And it's good for the environment, I think. You don't need to, you know, spend so much energy washing the bowl. You can just eat the bowl.
+
+> 2)So I usually try to, if I can, if I have time, I usually tried to brown bag it. Brown bag just means you bring your own lunch in a brown bag.Even if you bring it in a box, a plastic box. It still, you could call it brown bagging. But be careful because if your co-workers every day see you brown bagging, they might think that you are kind of antisocial. And then at work that's one way you get to know your co-workers is to have lunch. So if you're always eating lunch by yourself because you brought it.you really miss out on that opportunity to get to know your co-workers better. 
 
 # IV.pattern
 ***Man, what a long day! I could really go for a cold one.***

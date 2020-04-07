@@ -47,10 +47,14 @@
 # 4.life cycle [n.生命周期]
 > so "a life cycle" is a good phrase. You can almost see the word circle in there.and circles and cycles can be fairly similar. A cycle does not need to be a perfect circle, but it does kind of go around and around like a circle.Right, but you can also think about the life cycle of a product. 
 
-# 5.cliché & buzzword
+# 5.cliché & buzzword & slang /slæŋ/ & plain english 
 > 1)this really just means overused phrase.in the beginning, it sounds really cool and original, but later it just sounds kind of not interesting.
 
 > 2)basically, the difference between a buzzword and a cliché. Cliché has been around for a long time.sometimes maybe it's because they're true, as well.It's just that we're kind of bored of hearing them.
+
+> 3)there's a little difference between a buzzword and slang. Now buzzword is usually a smart sounding word or a higher level word and they've become popular while slang doesn't make you sound smart.
+
+> 4)So we always say plain English; we don't say simple English, because that kind of sounds like you're not very smart.Plain English just means the words that everybody can understand.
 
 # 6.take actionable steps [phr.采取行动] & push the envelope [phr.挑战极限]
 > 1)"Take actionable steps." This just means take practical steps.And we keep going back and forth with this idea of buzzwords being new and clichés being old. I don't remember the word "actionable" when I was a kid. no, neither did I. I don't think anyone ever said it.
@@ -75,6 +79,54 @@
 > 3) I've even heard the adjective "synergistic."
 
 > 4)Synergize. Yeah, "let's synergize this meeting."
+
+# 10.influencer [n.网红] & clickbaity [adj.标题党的] & clickbait [n.] & hashtag [#号] & YOLO (you only live once .及时行乐) & FOMO (fear of missing out )
+> 1)It's used to describe someone who is popular or famous on social media.So you might even call them a social media influencer or an Instagram influencer.so it's mostly Instagram, but it could be other things like TikTok,but these influencers mainly influence us to buy things.
+
+> 2)so this word here is two words put together: click and bait, with the suffix -y added to the end.so a click is talking about like a mouse click or clicking on your phone; bait is the thing you put on the end of a fishing line when you go fishing to try to catch some fish.so just like a fisherman tries to catch fish, these influencers try to catch our clicks, I guess by using bait, using attractive things that we want to click on.So this is when we see a news headline or we're trying to choose a video and it promises that something really exciting and interesting. But then, when we click on it or read it, it didn't give us what it promised.
+
+> 3)Clickbait is a noun, but we often use this new word "clickbaity" as an adjective to describe something that feels a bit clickbaity, is that really what this video is about?
+
+- 1. I saw an article online that promised three free tips to make a million dollars, but then doesn't actually give you tips. It's just clickbait. 
+
+- 2. When I look through videos on YouTube, I see a lot of clickbaity video thumbnails. [诱骗点击的视频缩略图] 
+
+- 3. Facebook is full of clickbait, so you have to be careful.
+
+> 4)So hashtag is the number sign. It's on the bottom right of the telephone keypad. It's that little symbol that we use a lot in social media, like on Instagram or Douyin, TikTok, and it just describes the subject of that posting like what is it about.It's like a label or a title. So before you read the article or whatever you can kind of get an understanding of what it's about.just remember guys, we always use the symbol. We don't write "hashtag" in our message. We put the hashtag symbol.
+
+> 5)it just means to live your life to the fullest. You only live one time, make the most of it.even if something is scary, you should do it because you only have one chance. You only live once like, for example, skydiving.
+
+# 11.superfoods [n.超级食品（对健康非常好的食品）] & vegan [adj.严格素食主义的]
+> 1）So we were just talking about some internet buzzwords, but now we're on a food buzzword here. Superfoods are foods that we consider super super healthy.the reason this is an overused buzzword is because really it just means healthy food.Examples of this, blueberries, salmon, something we call quinoa /'kinwɑ/ [n.奎奴亚藜(产于安第斯山脉地区,印第安人种植,食用其粟)] or kale /kel/ [n.羽衣甘蓝], which is like spinach /'spɪnɪtʃ/ [n.菠菜].
+
+> 2)And vegan is kind of like vegetarian, but more. Vegan can be an adjective or a noun. A vegan doesn't eat any products that came from animals, anything at all, even like the hair, even if you didn't kill the animal, so that includes milk and eggs and everything.they won't even use soap, because some soaps have animal products in them.Now vegan is not our overused buzzwords for today, but it is included in this lesson today.
+
+# 12.I thought/said to myself [phr.我心想] & woke [adj.清醒的] & triggered [ptcp.触发、引起]
+> 1）it like kind of when we're judging things or other people. Sometimes we even just say "I said to myself."let's look this expression "I thought to myself "really quickly. He could have said "I thought," but when we say "I thought to myself," it just emphasizes that we did it quietly and to ourselves.
+
+> 2)Sam says, "I bet she's pretty woke too." Now "woke" is the past simple tense of the word "wake," like "I woke him" or "I woke my dog up." That's what woke means, but it's used as an adjective here.because this word isn't talking about getting out of bed, it's talking about being aware of big issues in society and not ignoring them.That's the way a lot of people are using this word these days, sort of means that you're awake to or you're aware of lots of problems in the world. And this could be a good word depending on who you talk to, but it could also be a little bit arrogant if I say, "Oh, Johnny. I'm so woke. I know what's going on in the world. I am so much better than everybody else."
+
+> 3)A trigger is a part of a gun. You pull the trigger, the gun goes bang. But it also just means an event or something that causes something else to start, like when you go in the sunshine, the sun triggers your body to make vitamin D and that's why it's called the sun vitamin.
+
+> 4) if you get triggered that means you react to things you read or see or things people tell you.but in the same way, when we see something or hear something that makes us react, it's starting something in us and that's why it's called the trigger.
+
+> 5)Usually the word triggered, as an adjective here, is used by like psychologists for people who have real serious mental health problems. So that's why this is an overused buzzword is because it's just being used so much.
+
+# 13.第三条件句型
+> It describes a past hypothetical situation (a situation that didn't happen) resulting from a previous situation. It is often used when talking about regrets or wishes.
+
+## 13.1 主语 + could/would have + 过去分词 + if + 主语 + 过去完成时
+
+- I could've passed the test if I'd studied harder.
+
+- I wouldn't have slept in if I had gone to sleep earlier.
+
+## 13.2 if + 主语 + 过去完成时 + 主语 + could/would have + 过去分词
+
+- If I had known this was a formal event, I would have dressed nicer.
+
+- If I had gone to sleep earlier, I wouldn't have slept in.
 
 # III.pattern
 ***How about that speech, John? Could the CEO possibly cram any more buzzwords in?***
