@@ -10,6 +10,12 @@
 
 > Throughout its history [纵观其历史], Toastmasters has served over four million people, and today the organization serves over 352,000 members in 141 countries, through its 16,400 member clubs. Toastmasters membership increased rapidly around the turn of the century [21世纪初], nearing 16,000 clubs worldwide by 2016.
 
+> why is it called the Toastmasters, not talking about bread right.Don't think small, maybe we got the wrong idea, now toasting is when you imagine like a wedding or something.And everyone sit there, and then one person stands up, they'll make a speech, you know, congratulations to the bride and groom love, blah blah blah. And then, we all raise our glasses, everyone has some alcohol or wine.Toast to the bride to their health to their happiness, so we toast people this way.
+
+> So toasting basically in that situation, you are speaking publicly, you're speaking in front of people at an event, and you're toasting to celebrate. So, now. this organization the Toastmasters, it's actually been around for around 90 years or so, it's been around for a long time, it's now gone international, it's been international for a while, its first international chapter was in Vancouver and Canada started in America.
+
+> They actually have Toastmasters in English, French and German around the world. And they actually have a yearly Toastmasters competition for whoever can give, like, the best public speech. It's an international competition, so it's gotten pretty big.
+
 # II.stage fright
 > Also known as "performance anxiety," stage fright is the fear of having to perform in front of others. And don't let the name fool you, stage fright isn't just limited to people in the entertainment industry. Ever feel a bit shaky before having to give a presentation in front of your coworkers? Yep, that's considered stage fright too.
 

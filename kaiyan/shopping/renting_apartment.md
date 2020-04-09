@@ -28,7 +28,10 @@
 
 > Although landlords are primarily responsible for ensuring the habitability of the rental unit, both landlords and tenants are responsible for certain repairs.[该损害是由租户造成的，房东不用承担相应责任]
 
-# V.grammar
+# V.Should you rent or buy?
+> Many Chinese buy their first homes before getting married, a key element of Chinese culture. However, Americans do not have nearly as much social pressure to do the same. Skyrocketing prices in many big cities are keeping people from owning a home. 
+
+# VI.grammar
 # 1.per se /pɜːr'sei/ & we don't hate it per se
 > 1)You probably already know that a lot of English (and indeed other European languages) comes from Latin. Some phrases are very academic or scientific [有些短语非常学术或科学性很强], but other phrases are still used in everyday speech. "Per se" is one of those phrases. it basically means "by/of itself". 
 
@@ -180,7 +183,29 @@
 
 > 2)Neat and tidy. So first of all we have this word neat, neat, it basically means not messy, right? And the thing is tidy kind of has the same meaning.Yeah, they're really really similar and that's why we put them in a chunk, like this neat and tidy. I don't want you to leave that room until it's neat and tidy. that's kind of how we say this, we just say them together, it's always neat and tidy.
 
-# VI.pattern
+# 16.-on
+> The preposition ‘on’ can be used after certain verbs when the action taken affects another person without the person knowing or without agreement. It is usually used when the action is hurtful or deceptive to the other person.
+
+- 1. The president raised taxes on the American people.
+
+- 2. His girlfriend gave a long excuse for why she cheated on him.
+
+- 3. The investors pulled a trick on the CEO to get him to step down.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# VII.pattern
 ***Alright, Tim, I wasn't able to check everything off your list, but I think we found a pretty decent apartment for you.***
 
 ***Okay. It is a one-bedroom though, right?***
@@ -205,7 +230,7 @@
 
 ***You know, I saw a sublet online that I think I'll take. Thanks for your help though!***
 
-# VII.pattern
+# VIII.pattern
 ***Hi, I’d like to ask about rentals in this neighborhood.***
 
 ***Well, you’ve come to the right place. Please take a seat. I’m Julia. Here’s my card. And what’s your name, sir?***
@@ -228,7 +253,7 @@
 
 ***Got it. I believe we do have a few listings that suit your criteria. I’ll try to set up a few appointments for you.***
 
-# VIII.pattern
+# VX.pattern
 *** Alan, you’re going to love this place. It’s hot on the market. Just listed yesterday.***
 
 ***Great. Can’t wait to see it.***
@@ -255,7 +280,7 @@
 
 ***I can call and check. But you need to act fast. A place like this won’t stay on the market for long.***
 
-# VX.pattern
+# X.pattern
 ***Hi Rob did I catch you at a bad time?***
 
 ***Not at all, Kelly. What can I do for you?***
@@ -284,7 +309,7 @@
 
 ***Well, then I'll send my brother over with some chemicals.***
 
-*** Great. One last thing, I want to make a noise complaint about the neighbors. Could you ask your brother to talk to them?***
+***Great. One last thing, I want to make a noise complaint about the neighbors. Could you ask your brother to talk to them?***
 
 ***That might be a little difficult.***
 
@@ -292,6 +317,28 @@
 
 ***Because my brother is your neighbor!***
 
+# XI.pattern
+***Dan, how was your weekend?***
+
+***Hey, Julie. I spent the entire weekend moving.***
+
+***Oh, you moved to a new place? Congratulations!***
+
+***Well, it’s not exactly an upgrade. My landlord raised the rent on me. I kind of had to move.***
+
+***I hate it when that happens. I once had a landlord who was selling his place mid-contract. I was left scrambling to find a new place with very short notice.***
+
+***Don’t you own your place?***
+
+***Yes and no. My husband and I bought it a few years ago. But the bank owns it. We have to pay it off for the next 20 years.***
+
+***Geez. Sometimes I wonder if owning your own home is worth it. Most people can’t afford to pay upfront. So they are stuck with a huge mortgage.***
+
+***I know, especially given how real estate prices have skyrocketed in the past few years. If we hadn’t bought our place back then, I don’t think we could afford anything now.***
+
+***That’s right. If you don’t get into the market early, you are priced out. I never should have listened to those who said the bubble was going to burst and prices were going to go down.***
+
+***Ah, shoulda coulda woulda.***
 
 
 
