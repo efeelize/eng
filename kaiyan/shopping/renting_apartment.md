@@ -92,7 +92,7 @@
 
 > 5)the way she asks, I think it's really, it's kind of softer. What kind of budget do you have in mind?Instead of asking what is your budget.
 
-# 7.sublet /ˌsʌb'lɛt/ [n.转租] & lease & tenants [n.房客] & landlord [n.房东]
+# 7.sublet /ˌsʌb'lɛt/ [n.转租] & lease & tenants [n.房客] & landlord [n.房东] & mid-contract [n.合同中期]
 > 1)so a sublet is when you have a renter who rents to another person.So here's another fun part about the word rent, you can rent from someone or you can rent out to someone.
 
 > 2)Lease is both a noun and a verb. The noun refers to the contract that binds you to whatever you are renting for a period of time[租赁期限], whether that's a car, an apartment, or equipment. The verb, however, is not so straightforward [直接]. In terms of property [拿房产来说], the landlord is the one that leases to the tenant. In terms of cars [但如果是车], the driver would lease a car, usually by the month.
@@ -106,6 +106,8 @@
 > 3)So tenants is basically someone who rents a property. The person that lives there. He rents and lives there. 
 
 > 4)So the landlord owns the property.
+
+> 5)In fact, we usually say the word lease for renting.Contract is usually for jobs, maybe for business deals? But 9 times out of 10, it's going to be lease.mid is in the middle. Yes, so I'm not finished. We signed a contract and suddenly the landlord saying, get out.
 
 # 8.walk through [n.看房] & open house & listing [n.挂牌房屋、在售房屋] & rentals [n.出租房] & walk-in closet 
 > 1)So walk-through is just, well, if you're walking through the apartment, looking at it?So in addition to walk-through, I think some really common terms are viewing or open house.But for apartments, it's probably going to be walk-through. Because usually it's very quick.For here's the bathroom, here is the room, here is the living room.
@@ -192,18 +194,31 @@
 
 - 3. The investors pulled a trick on the CEO to get him to step down.
 
+- 4. The landlord raised the rent on me.（the landlord raised the rent.）
 
+# 17.scrambling [v.慌张、紧张] & short notice [n.临时通知] & lots of notice 
+> 1）And so that feeling of like you have to get out right now. And you're very unstable and what do you do, I have to, I have to move my drawer but it's too big and I have to do this. You would be scrambling.It's like you're moving quickly, you don't really know if, where you're going. You're just trying to find some safety, basically. Like for example, people scrambling up a mountain. Yeah, it's difficult or, I think of something, you know, even in like the financial area, Bitcoin these days, become so successful that people are scrambling to buy it.
 
+> 2)we don't actually say a long notice. But you can say lots of notice,enough notice.in Canada if you quit your job, you have to give a two weeks notice. that should be enough time for the boss to find the new guy.
 
+# 18. mortgage /'mɔrɡɪdʒ/ [n.贷款] & pay it off [v.还清] & upfront [adj.正直的、预付的；v.提前支付] & be upfront 
+> 1)The bank owns the home but you have a lot of rights.It's your home. 
 
+> 2)The thing about pay it off,like pay for something. It's usually something really big like a loan. You have to pay off a loan, meaning like kind of clear or clean that balance off.takes a long time usually for a debt.
 
+> 3)And most people can't afford to pay upfront.that's why you have to pay off something.so you could pay something upfront which basically means you just pay the entire amount now.
 
+> 4)be upfront : that's nothing to do with buying. That's about like a personality thing. And it is, it's basically just to be honest. And very direct.like in a relationship you should be upfront about things.Don't beat around the bush.
 
+# 19.get into the market [phr.进入市场] & price out [phr.价格太贵无法承受]
+> 1）the market's gonna go up, maybe it's gonna go down. You never know when you should get into the market.that's why people always say if you don't get into the market early, you're priced out. So get in, you could say buy in. But usually like, especially for the housing market, got to get into the market.
 
+> 2)priced out:it's when it's too expensive that you're stuck outside the market. You can't buy into the market.And often times these markets are, are the cities that you know, the houses, the places are in. So I'm from Toronto, but I can't buy a house in Toronto /tə'rɔntəu/ [n.多伦多]. So I'm priced out of Toronto.
 
+# 20.shoulda coulda woulda [phr.事后诸葛亮]
+> 1)You feel this huge regret why didn't I do that, I should have done that, or if I, if I could have borrowed that money then I would have done this.I personally, I always say, woulda coulda shoulda. But everybody would say it differently, it just expresses that like, even though you have that regret, there's nothing you can do about it now.
 
-
-
+> 2)You can't look into the future and know exactly how the market is going to change. So don't worry about your regret, don't worry about it. 
 
 # VII.pattern
 ***Alright, Tim, I wasn't able to check everything off your list, but I think we found a pretty decent apartment for you.***

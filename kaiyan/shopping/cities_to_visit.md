@@ -12,7 +12,28 @@
 # II.Los Angeles: The Movie Capital of America
 > For over a century, LA has been the center of the movie universe. Hollywood not only has great power in American culture, but also in cultures around the world. Of course the question many people ask is "why Hollywood?" Why not New York, for example: another great cultural city in America. There are actually two pretty good reasons. One, a hundred years ago, the technology used to make movies was owned and controlled by the inventor Thomas Edison. As a result, he refused to allow people to use his technology to make movies that he couldn't control. However, Edison lived in New Jersey, on the east coast of America. California, remember, is on the west coast, far away from Mr. Edison's control. That might be the reason filmmakers went to California, but the reason they remained is because of the weather. Unlike New York, where winter would make it difficult to shoot movies, In California, you can shoot movies all throughout the year.
 
-# III.grammar
+# III.Top 6 places to check out in London
+> We got to hear about a lot of sights around London. Here are some places you have to check out.
+
+# 1.Buckingham Palace [白金汉宫] and the Changing of the Guard [骑兵卫队换岗仪式]
+> One of Britain's most iconic /aɪ'kɑnɪk/ [adj.最具代表性] buildings, Buckingham Palace is also the scene of London's most popular display of pomp /pɑmp/ [adj.壮丽] and circumstance, the Changing of the Guard.
+
+# 2.The British Museum 
+> Displaying one of the world's finest collections of antiquities /æn'tɪkwəti/ [n.文物藏品], the British Museum  contains  more than 13 million artifacts /'a:rtifækts/ [n.史前古器物] from the ancient world. Two of its most famous  exhibits are  the controversial Elgin Marbles [埃尔金大理石] from the Parthenon [帕特农神庙] and the Rosetta Stone [罗塞塔石].
+
+# 3. The Tower of London and Tower Bridge [伦敦塔和塔桥]
+> From prison to palace, treasure vault /vɔlt/ [n.宝库] to private zoo, the magnificent Tower of London  has fulfilled many different roles down the centuries[在几个世纪内完成了许多不同的角色]. Other highlights [亮点] include the famous Crown Jewels exhibition [王冠珠宝展], the Beefeaters [伦敦塔卫兵], and the Royal Mint [英国皇家造币厂].
+
+# 4. Big Ben and Parliament 
+> Nothing says "London" more emphatically than the 97-meter tower housing the giant  clock and its resounding bell known as Big Ben [没有比这个97米的高塔更能体现“伦敦”的了]. Below it, stretching along the Thames, are the Houses of Parliament [国会大厦], seat of Britain's government for many centuries.
+
+# 5. Westminster Abbey [威斯敏斯特教堂]
+> Another location with a long association with British royalty. Most sovereigns were not  only crowned here, but they were buried here too. More recently, it's become famous as  the preferred location for royal weddings.
+
+# 6. The London Eye 
+> Built to mark London's millennium celebrations [千禧年庆典] in 2000, the London Eye is Europe's  largest observation wheel [观景摩天轮]. Its individual glass capsules offer the most spectacular views [最壮阔]  of the city as you embark on [从事，着手] a circular tour above the Thames.
+
+# IV.grammar
 # 1.If I were you...I would...
 > 1)the subjunctive /səb'dʒʌŋktɪv/ [n.虚拟语气] is used to express wishes and situations that aren't real, but in this lesson, the use of the "If I were you…" is intended to give advice.
 
@@ -93,7 +114,48 @@
 
 > 2)Now I'm curious Adam how do you usually get around in Shanghai.
 
-# IV.pattern
+# 9. idioms that are associated with travel
+## (1) off the beaten 
+- an unusual or remote route or destination
+
+## (2)travel light
+- take little baggage
+
+## (3)have something will travel
+- You have the skills or equipment that are necessary to do a particular activity, and you are ready to do it anywhere.
+
+## (4)travel broadens the mind
+- You grow as a person and become more open minded through travel.
+
+## (5)at a good clip
+- quickly; at a good pace
+
+
+- 1. We found a great vacation spot off the beaten track, so no one else was around.
+
+- 2. I always like to travel light. That way I don’t have to lug around a lot of baggage.
+
+- 3. I have a teaching qualification and will travel!
+
+- 4. Everyone who gets the chance should go abroad because travel broadens the mind.
+
+- 5. Since you’re driving at a good clip, we’ll get there early.
+
+# 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# V.pattern
 ***Hey Jeremy, are you traveling overseas for your vacation this summer?***
 
 ***Yeah, but I'm still debating where to go.***
@@ -114,7 +176,7 @@
 
 ***Nice choice there, eh?***
 
-# V.pattern
+# VI.pattern
 ***Jenny, how was your trip to LA?***
 
 ***Oh Spencer, it was awesome! LA was quite different from what I'd always imagined.***
@@ -132,6 +194,32 @@
 ***How did you get around the city?***
 
 ***We rented a car and drove, which was the best way to explore the city. And the highways along the Pacific Ocean were absolutely gorgeous!***
+
+# VII.pattern 
+***Hey Sam, you were in London last summer, weren’t you? Any recommendations on things to do and see?***
+
+***Where do I start?! You gotta check out the Tower of London for sure!***
+
+***Is that where they house the Crown Jewels?***
+
+***Did you go on the London Eye?***
+
+***I did! You get a spectacular view on a clear day.***
+
+***Of course, there are the other places synonymous with London: Buckingham Palace for the changing of the guard, Westminster Abbey, Big Ben and Parliament.***
+
+***What about the British Museum, Piccadilly Circus [皮卡迪里广场还], and Trafalgar Square [特拉法加广场]?***
+
+***They’re definitely must-sees! The best way to get around is to catch the hop on-hop off.***
+
+***That’s a great idea! Maybe I’ll do that first thing, so I can get the lay of the land.***
+
+***And don’t forget to pop into a local pub for a pint.***
+
+***Will do! Thanks for all the ideas!***
+
+***No problem! Have a great trip!***
+
 
 
 
