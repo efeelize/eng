@@ -50,8 +50,8 @@
 
 > 2) the routing number. It looks kind of funny but it's just a number of the institution [n.机构], your bank's special number.
 
-# 4.blank check [n.空头支票] & if you have blank check to do sth & account number [n.账号] & beneficiary /ˌbɛnɪ'fɪʃɪɛri/ [n.收款人、受益人] & recipient [n.收款人] & receiver 
-> 1)We don't really use checks anymore, but often times, when I go to the bank, I still need something that's like a blank check.because they want to put money into my bank account,they need to know that information.if you look at a check like for writing money, the numbers are on the bottom of the check.
+# 4.blank check [n.空头支票] & if you have blank check to do sth & account number [n.账号] & beneficiary /ˌbɛnɪ'fɪʃɪɛri/ [n.收款人、受益人] & recipient [n.收款人] & receiver & paycheck /'pe,tʃɛk/ [n.薪水]
+> 1)so checks are kind of going the way of the dodo /'dodo/ [n.过时的东西], they are not as popular as they used to be.check actually means that kind of physical piece of paper, That has the kind of numbers, or that the payment that you're getting.and your name on it. It will always say, you know, "Pay to Lisa, eight hundred eighty eight dollars and eighty eight cents.We don't really use checks anymore, but often times, when I go to the bank, I still need something that's like a blank check.because they want to put money into my bank account,they need to know that information.if you look at a check like for writing money, the numbers are on the bottom of the check.
 
 > 2)"If you have a blank check to do something".It just means you can do whatever you want.do whatever you want. You have permission to do anything.
 
@@ -62,6 +62,8 @@
 > 5)And beneficiaries are also often used for things like insurance,or a will.
 
 > 6)"recipient" and "beneficiary" are the same, basically in this case. "Recipient" is a little less formal.And that just means receiver, right?Yeah, we will hear "receiver" and you won't see that at the bank. They won't let…Maybe the person might ask "Who is the receiver?" But you won't see it written down anywhere.
+
+> 7)we also use it for our paycheque, so it doesn't have to be a physical thing.Now one thing that a lot of people do as soon as they get their paycheques, or soon as they get any kind of cheques, is they use that money to pay off bills.
 
 # 5.currency /'kɝənsi/ [n.货币] & foreign currency [n.外汇] & exchange rate [n.汇率] & rate [利率] & transfer fee [n.转账费] & charged [v.收费] & cover the charge [v.承担]
 > 1）so they charged fees,just they make you pay,they are asking for money, like often lawyers, they charge so much money per hour.
