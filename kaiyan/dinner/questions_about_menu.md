@@ -83,23 +83,7 @@
 
 > 3)But if you don't want that, then you can say--Yeah. I'll have the salad dressing on the side.Yes. And you can do this with anything that has a sauce on it even if you order a sandwich with mayonnaise or a cheeseburger with ketchup, you can ask for any of that, on the side.
 
-# 8.house wines [n.餐厅特色葡萄酒] & merlot /mεə'ləu/ [n.梅尔洛] & grab your wine 
-> 1）Yeah, well, first of all the word "house" here is an adjective which is definitely not what we're used to.Yeah, refers to the restaurant.Right, so it's the restaurants. Emm, it's not their special wine. It's more like their basic wine.Right. If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
-
-> 2)So merlot is a kind of wine and it pairs with something.
-
-> 3)Yeah. This is a, a very informal kind of slang way to just say "go get".Right, bring your wine, get your wine, grab your wine.
-
-# 9.pairs [v.搭配] & complements & served [v.搭配] & wine pairing [n.搭配的酒]
-> 1)This a very common word used with wine in general. It just means that they go together well. You have two things: the food and the wine, and they go well together.
-
-> 2)another way to say that is "complements". Right, the wine complements this type of food. They go together well.
-
-> 3)so served with, just means that it comes together.Yeah, it's given with. That is served. You can have served over. Like maybe if you get some ribs. Maybe there are served over some mashed potatoes. That sounds pretty good to me.
-
-> 4)so this phrase. This noun phrase is from the verb pair. To pair with something is to find something that goes well. That, that matches it right?So, you can pair a wine with a dish.
-
-# 10.情态动词
+# 8.情态动词
 > Modals for suggestion may include can, could, may, might, must, will, would, and should.A few rule of using modals: 
 
 - Modals are helping verbs [情态动词有助动词的作用]

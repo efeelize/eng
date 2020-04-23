@@ -21,66 +21,71 @@
 
 > 2)in stock:But to stock it also means to kind of like have, so if you go to a store, you might ask the people at the store if they have something in stock.
 
-# 3.liquor /'lɪkɚ/ & hard stuff  [n.烈性酒] &  soft drinks
+# 3.varietals  /və'raɪətəl/ [n.品种] / variety 
+> 1)But in these categories, there's many different types of red[n.红酒] and many different types of white[n.白葡萄酒], what word do we use for these differences?Right, yeah, I think you said it to, it's the word varietals.
+
+> 2)variety:I mean it looks the same too, but it's more like specific to wine.Well, I like Pinot Grigio.So for example, My favourite varietal is Cabernet /'kæbərnei/ [n.赤霞珠,红酒]ow about you? Well, I like Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺，白葡萄酒] You wouldn't say what varietal of clothing do you wear? Or what varietal of sports do you like? Yeah, no, no, no, no, no, definitely not. 
+
+# 5.Cabernet /'kæbərnei/ [n.赤霞珠] & Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺白葡萄酒] & Pinot Noir  /ˈpinonwɑr/  [n. 黑皮诺/黑比诺（葡萄品种之一）] & house wines [n.餐厅特色葡萄酒] & merlot /mεə'ləu/ [n.梅尔洛] & grab your wine 
+> 1)Cabernet is a red wine and just a note on the spelling there, Cabernet is French, so we spell it as C-a-b-e-r-n-e-t, but we say Cabernet.Yeah, not caber-ne-t.
+
+> 2)Pinot Grigio:which is a white wine.We do not say Pi-not, Pinot Grigio.
+
+> 3)It's just a type of red wine.
+
+> 4）Yeah, well, first of all the word "house" here is an adjective which is definitely not what we're used to.Yeah, refers to the restaurant.Right, so it's the restaurants. Emm, it's not their special wine. It's more like their basic wine.Right. If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
+
+> 5)So merlot is a kind of wine and it pairs with something.
+
+> 6)This is a a very informal kind of slang way to just say "go get".Right, bring your wine, get your wine, grab your wine.
+
+# 6.tequila /tə'kilə/ [n.龙舌兰] & vodka  /'vɑdkə/ &  whiskey /'hwɪski/ & light beer [n.低度啤酒]
+> 1）tequila, that's really from one place, isn't it?Yeah pretty much, just comes from good old Mexico. 
+
+> 2) vodka: I think most people know that that is like the drink in Russia and places like Poland and probably the Ukraine? I guess it probably originated or first came from Russia, but now I mean you have popular vodkas that come from France and even America actually, there's vodka from all over, either way these three types of hard liquors will do the trick.
+
+> 3)I mean some ladies like IPA's or beers really pack a punch, but I mean generally maybe it's safe to say that a lot of ladies like light beer, which just means it's easy to drink.
+
+# 7.# pairs [v.搭配] & complements & served [v.搭配] & wine pairing [n.搭配的酒]
+> 1)This a very common word used with wine in general. It just means that they go together well. You have two things: the food and the wine, and they go well together.
+
+> 2)another way to say that is "complements". Right, the wine complements this type of food. They go together well.
+
+> 3)so served with, just means that it comes together.Yeah, it's given with. That is served. You can have served over. Like maybe if you get some ribs. Maybe there are served over some mashed potatoes. That sounds pretty good to me.
+
+> 4)so this phrase. This noun phrase is from the verb pair. To pair with something is to find something that goes well. That, that matches it right?So, you can pair a wine with a dish.
+
+# 8.liquor /'lɪkɚ/ & hard stuff  [n.烈性酒] &  soft drinks & pack a punch[phr.后劲大] & crowd-pleasers & higher proof [n.稍高度数] / lower proof [n.稍低度数]
 > 1)so liquor is just like that hard stuff, right? Like vodka /'vɑdkə/ and whiskey /'hwɪski/.
 
 > 2)hard stuff:Ok, but hard stuff though, so that's just another term for liquor. Okay, so we talked a bit about liquor, so our friend here Grant, he says as for the hard stuff, he says I think some whiskey, tequila, vodka, wow that's a lot, will do the trick.Yeah so as for it's just like an expression, it means kind of like a regarding?Yeah, it's kind of like while talking about this, yeah with regards to that, but it's much more casual, you wouldn't say with regards to the alcohol, I think we should blah blah blah blah, no, you would say as for the booze or as for the hard stuff.
 
 > 3)soft drinks:Yeah, I can't say that people ever really say, you know, oh I'm drinking this soft stuff.Right, the only soft we uses, soft drink and that's just for like coca cola.Yeah, some type of soda. 
 
-# 4.varietals  /və'raɪətəl/ [n.品种] / variety 
-> 1)But in these categories, there's many different types of red[n.红酒] and many different types of white[n.白葡萄酒], what word do we use for these differences?Right, yeah, I think you said it to, it's the word varietals.
+> 4)punch here, kind of means they're really strong.Right, they are quite strong and I actually find them kind of bitter, do you think they're bitter?
 
-> 2)variety:I mean it looks the same too, but it's more like specific to wine.Well, I like Pinot Grigio.So for example, My favourite varietal is Cabernet /'kæbərnei/ [n.赤霞珠,红酒]ow about you? Well, I like Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺，白葡萄酒] You wouldn't say what varietal of clothing do you wear? Or what varietal of sports do you like? Yeah, no, no, no, no, no, definitely not. 
+> 5)So a crowd is like a bunch of people and if they're pleased, they're happy, they're satisfied, so these two wines, you can't really go wrong with them, they're kind of like the standard typical wine that most people enjoy.Yeah yeah, and it's not really about how fancy or good they are, just everybody always likes them. OK, so they are crowd pleasers.
 
-# 5.Cabernet /'kæbərnei/ [n.赤霞珠] & Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺白葡萄酒] & Pinot Noir  /ˈpinonwɑr/  [n. 黑皮诺/黑比诺（葡萄品种之一）]
-> 1)Cabernet is a red wine and just a note on the spelling there, Cabernet is French, so we spell it as C-a-b-e-r-n-e-t, but we say Cabernet.Yeah, not caber-ne-t.
+> 6)proof: it's a word that we use to talk about how much alcohol is in, you know, the beer or the wine or the liquor that you're drinking right?Yeah, exactly, like if were drinking something strong, something that really packs a punch like vodka, the proof is I think 80?
 
-> 2)Pinot Grigio:which is a white wine.We do not say Pi-not, Pinot Grigio.
+> 7）higher proof：Well, depending on the flavor. It might not be true, it might not taste too good, but it doesn't have a lot of alcohol, so it's lower in proof and it has less calories, oh yeah but IPA's are higher in proof, they have a higher proof and usually more calories.
 
-> 3)Um… It's just a type of red wine.
-
-# 6.crowd-pleasers
-> Yeah that's right. So a crowd is like a bunch of people and if they're pleased, they're happy, they're satisfied, so these two wines, you can't really go wrong with them, they're kind of like the standard typical wine that most people enjoy.Yeah yeah, and it's not really about how fancy or good they are, just everybody always likes them. OK, so they are crowd pleasers.
-
-# 7.IPA
-> So IPA, this isn't an abbreviation /ə'brivɪ'eʃən/.
-
-# 8.pack a punch[phr.后劲大]
-> Yeah they do. Aka punch here, kind of means they're really strong.Right, they are quite strong and I actually find them kind of bitter, do you think they're bitter?
+> 8)lower proof：Right, so it's just kind of a system for measuring the alcohol and it doesn't use percent, so we just say higher proof, lower proof and like this other phrase, less calories.
 
 # 9.fellas/ fellow
 > 1)what is a fella. It just basically like a friendly way to say a guy or a man.
 
 > 2)Yeah and it comes from the word fellow.Yeah, fellow is just like... kind of like a friend?Right, but a male friend, you wouldn't call a girl who's your friend, you wouldn't call her a fellow right?That is a very good point, yeah, fellows or fellas are guys.
 
-# 10.light beer [n.低度啤酒]
-> Yeah, I mean some ladies like IPA's or beers really pack a punch, but I mean generally maybe it's safe to say that a lot of ladies like light beer, which just means it's easy to drink.
-
-# 11.higher proof [n.稍高度数] / lower proof [n.稍低度数]
-> 1)proof: it's a word that we use to talk about how much alcohol is in, you know, the beer or the wine or the liquor that you're drinking right?Yeah, exactly, like if were drinking something strong, something that really packs a punch like vodka, the proof is I think 80?
-
-> 2）higher proof：Well, depending on the flavor. It might not be true, it might not taste too good, but it doesn't have a lot of alcohol, so it's lower in proof and it has less calories, oh yeah but IPA's are higher in proof, they have a higher proof and usually more calories.
-
-> 3)lower proof：Right, so it's just kind of a system for measuring the alcohol and it doesn't use percent, so we just say higher proof, lower proof and like this other phrase, less calories.
-
-# 12.calories
-> So calories are in pretty much everything that you eat.It's like a measure of like energy right?Yeah, how much energy is in the food that you're eating, a simple example, chocolate has more calories than a carrot.Yeah, butter is a lot of calories.
-
-# 13.BYOB [bring your own beer] / BYOM [bring your own meat]
+# 10.BYOB [bring your own beer] / BYOM [bring your own meat]
 > Yeah, so the BYO obviously this means bring your own, do we have other ones that don't end with B?
 
 > Well, when I was invited to a barbecue or barbecue to a lot of meats, like sausage or hamburgers, on the invitation it said BYOM.Meat, yes yes yes, so you can change it to anything, bring your own girlfriend.
 
-# 14.tequila /tə'kilə/ [n.龙舌兰] & vodka  /'vɑdkə/ &  whiskey /'hwɪski/ 
-> 1）tequila, that's really from one place, isn't it?Yeah pretty much, just comes from good old Mexico. 
+# 11.do the trick [phr.奏效]
+> 1)do the trick, this is a really awesome expression. It just means they will do the job well.
 
-> 2) vodka: I think most people know that that is like the drink in Russia and places like Poland and probably the Ukraine? I guess it probably originated or first came from Russia, but now I mean you have popular vodkas that come from France and even America actually, there's vodka from all over, either way these three types of hard liquors will do the trick.
-
-# 15.do the trick [phr.奏效]
-> Oh do the trick, this is a really awesome expression. It just means they will do the job well.
-
-> Yeah so and it doesn't just have to be alcohol and getting drunk or something like that. For example, if you're sick, you know a doctor might give you some medicine and say here, take this medicine, it will do the trick.
+> 2)so and it doesn't just have to be alcohol and getting drunk or something like that. For example, if you're sick, you know a doctor might give you some medicine and say here, take this medicine, it will do the trick.
 
 # III.pattern
 ***What kind of booze should we stock up on for the party this weekend?***
