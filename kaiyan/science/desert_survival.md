@@ -66,23 +66,83 @@
 
 - 8. His English isn't improving because he doesn't speak out loud enough.
 
-# 3.
+# 3.crash-landed [v.失事、紧急迫降] & crashed [v.坠毁] & wreckage /'rɛkɪdʒ/ [n.残骸] & wreck /rɛk/ [v.失事]
+> 1)the difference between crash-land and crash means that you probably are still alive. Or at least, if you crash, you're likely dead. But if you crash-land, you might still be alive.basically "crash-landed" needs to have crashed and landed at the same time. it landed but not so smoothly. A crash-landing means you made it, most of you're, most of you are probably alive. But the plane can no longer fly. but a lot of times, you know, plane crashes are a bit difficult to survive.
 
+> 2)you have a car crash, plane crash, train crash.Or You can go and crash a party.So if just having a crash, you know, there's a good chance people are dead or don't have to be everybody.But if you crash-land somewhere, maybe your plane is in bad shape, but some people are still alive, maybe some dead.
 
+> 3) It's basically what's left behind after a crash. let's say you have a car crash on the road, and two cars hit each other and neither one can are drivable /'draɪvəbl/ [adj.可行驶的]. So the cars that are left behind you can just call wreckage. Brooken glass, bent medal, stuff like that.
 
+> 4)wreck. We usually say like a car wreck, train wreck, boat wreck. if your plane crashes and it's all mangled /'mæŋɡl/ [损坏]. it's like on fire and you can't use it anymore. And it's just a big wreck. 
 
+# 4.settlement [n.落脚点、定居点、协议] & to settle somewhere 
+> 1)settlement basically just means where people live.where they've settled down.A city is also a settlement, but you don't usually call it the settlement.Unless it's like a new settlement.So maybe when we go to the moon, or when we go to Mars...You can build a settlement on Mars.
 
+> 2)But a settlement could also be something else, too. It could be the type of agreement.You could have a divorce settlement. It's like what we agree upon, like, you know, as of the divorce.You might have, like a court settlement [判决结果], or an out-of-court settlement.Out-of-court settlement [n.庭外和解] means it's just money.
 
+> 3)To settle somewhere means to, you know, basically build homes. maybe start farming, build a community.And this community could be very small, but it could also be a city. 
 
+# 5.set off  & set out [phr.出发] & stay put [phr.原地不动]
+> 1）So "set off" means to to go out, to starts, basically, to basically leave here.Leaving, it could be like small sense. maybe you're going on vacation tomorrow, so maybe you want to pack his suitcases tonight. So you could set off early in the morning.Or after graduating high school, you know, you could set off on your own and never look back.
 
+> 2)set out just means to leave,to go and search.
 
+> 3)stay put means to not leave to not, to not move, to not go anywhere.stay put is really something that your mom would say when you're kid.maybe even a teacher. You're in kindergarten and now you just really naughty. And your teacher's getting mad at you and she puts you in time out. You stay put for five minutes. I don't wanna. No stay put. 
 
+> 4)It could also be like, you know, if I was with my wife or girlfriend for the weekend and I don't, you know, we don't really want to go anywhere or even a lot of our listeners like to use this word, staycation. It's kind of the same thing. Let's just stay put this weekend.Let's just stay put, I don't want to go out of the house, let's just take it easy. 
 
+# 6.course of action [phr.做法、步骤] & first and foremost [phr.最重要的是]
+> 1)This is just what you're going to do, So the things you're going to decide to do and in what order you're going to do them.So you always follow the course of action. Or I suppose you could not follow it as well.But It might be a little more, well, so hard to decide what you're going to do.
 
+> 2)So foremost, foremost here just kind of means importantAt the front.this word you can put at the beginning of the sentence.for example, first and foremost, Donald Trump is a businessman and not a politician.let's try to put it in the middle of the sentence. Maybe something like, what we need, first and foremost, is a new course of action. 
 
+# 7.salvage /'sælvɪdʒ/ [v.抢救] & rescuers /'reskjuə/ [n.营救人员]
+> 1)So salvage is kind of like collected, like put together, but they're also like saved.It's definitely about saving something. So in this case, you could imagine the plane, right? The plane has crash-landed. It obviously will not fly again.So you can salvage, I don't know, you could salvage like a bottle of water from the plane. You know, you could salvage a lighter like, kind of handy.
 
+> 2)salvage is also used for relationships. One other thing I would think of is reputation.The way people think about you, my reputation, your reputation.
 
+> 3)they come to rescue you. If someone rescues you, they are your rescuer. Or even your saviour /ˈsevjɚ/ [n.救星、救世主].
 
+# 8.salt tablet [n.盐片（含氯化钠）] & stay hydrated /ˈhaɪˌdretɪd/ [adj. 含水的]
+> 1)when I think about tablet, I think about medicine. Usually, a pill, like you just said. In this case, it's not really a medicine so much, it's just something that will make the water salty.So maybe you don't need that in a desert where water's scarce /skɛrs/ [adj.缺乏的].Salt might dehydrate /di'haɪdret/ [vt.使脱水] you.
+
+> 2)hydrated is water.You see hydra- in anything, it always means water.So basically to stay hydrated means to keep, you know, have enough water in your body.to stay filled with water in your body so you're not thirsty or dehydrated.
+
+# 9.parachute /'pærə'ʃʊt/ [n.降落伞]
+> So this is like the thing you use to jump out of a plane.When you jump out of a plane I hope you guys are wearing a parachute because if you're not, it's just going to be a very quick drop, and then, splat! But if you're wearing a parachute...You will just very very smoothly fall to the ground.Have you ever gone parachuting? Have you jumped out of a plane?
+
+# 10.edible /'ɛdəbl/ [adj.可食用的] & inedible [adj.不可食用的]
+> 1)edible means you can eat them.If something is edible, you can eat it. So then we would talk about, you know, edible plants as well. You know, personally I'm a vegetarian, so edible plants.But if it came to a life-or-death situation, you'll probably eat some animals.I'll eat some squirrels /'skwɝəl/ [n.松鼠]. I want to survive, right? For my survival.
+
+> 2)So if food is inedible, you can't eat it.So be careful there guys, it's not unedible, it's inedible.So a lot of things you can't eat out in the wild, poisonous /'pɔɪzənəs/ [adj.有毒的] mushrooms.
+
+# 11.bandages /'bændɪdʒ/ [n.绷带]
+> So you put these over cuts or wounds.I cut myself recently in a very annoying place, right on the top of my thumb. So it has required a lot of bandages to heal.
+
+# 12.at your disposal [phr.可以使用的]
+> It's available to use, exactly. So you know, we often say at somebody's disposal. the king has many guards at his disposal. The queen has Many minions /'minjən/ [n.奴才] or maids at her disposal.
+
+# 13.recap /ri'kæp/ [v.扼要重述]
+> 1）a lot of you guys probably have seen this re-, There's review，rewind /ˌri'waɪnd/ [v.倒带], retrace /rɪ'tres/ [vt.追溯], re-, usually means to do again. It implies to do something again. So, here recap, basically it just means like to review.it's kind of like summarising. It's a word to say let's summarise what we've already looked over. 
+
+> 2)if some of you go to college in America and you go to a lecture. And there's a professor and he says let's have a quick recap of yesterday's lesson or before the class ends, let's recap what we talked about today and focus on the most important things.
+
+# 14.shaving mirror & reflect [v.反射、折射]
+> 1)shaving mirror. I am, I am feeling a bit, you know, scraggly /ˈskræɡli/ [adj.胡茬] here. I do need to get a shave.
+
+> 2)actually the mirror it can be used to reflect sunlight for miles.Kind of bounce back, almost.If you look at yourself in the mirror, you are looking at your reflection.
+
+> 3)you can also use this word reflect to mean something more abstract, right? Like, like, Spencer your behaviour last night reflects poorly on the company.basically the way I acted last night looks bad for the company.Also you could say, their amazing performance at the Olympics reflects their hard training.so it can be good or bad.
+
+# 15.locate [v.]
+> 1)to locate basically means to find someone where they are, to find their location.like,excuse me, sir, can you help me locate the nearest McDonald's?
+
+> 2)Or locate, maybe if we're traveling, like locate your lost baggage.if you want to sound a little more fancy with your English, you know, you could say locate than find, maybe.like,I need to like check in, to get on the plane. But I can't locate my passport.
+
+# 16.blistering /'blɪstərɪŋ/ [adj.酷热的] sun / heat & blister /'blɪstɚ/ [n.水疱, 水肿]
+> 1)blistering sun means really hot sun,you could say blistering heat.
+
+> 2)it's the when you get like a bubble on your skin.So literally, if you are in the sun too long in the desert you really will have blisters.
 
 # IV.pattern
 ***You have just crash-landed in the middle of a desert on a mid-August day. You are at least 50 miles away from the nearest settlement, a small mining town.***

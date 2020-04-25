@@ -4,7 +4,16 @@
 
 > Other forms of electronic transfers include, for example, electronic funds transfer system (EFTS)[电子基金转账系统]. This is the system one uses when a customer gives his/her bank account number and routing number  [银行代码]to someone, like a bank or institution [金融机构]. An EFTS payment is like an electronic personal check [电子的私人支票]. In the United States, EFTS transfers are often called ACH transfers because they are done through the Automated Clearing House[可以通过自动清算所完成].
 
-# II.grammar
+# II.Transferring money between banks
+> When you transfer money between banks — called an external transfer [外部转账] — there can be fees and it might take days. These transfers are processed through the Automated Clearing electronic [自动清算所] network, much like other ACH transfers such as bill payments and direct deposit.[直接入账等其他ACH转账类似]
+
+> While transfers between accounts at the same bank can be instant [行内转账可以即时到账], you generally must wait for bank-to-bank transfers to process before funds get delivered [等待资金到账]. Some banks and credit unions [信用社] don’t charge for external transfers, but others assess a small fee, typically $10 or less. And this applies only to online transfers.[只有线上转账收取手续费]
+
+> ACH transfers usually take a few business days to process, and nearly every financial institution has a cutoff /'kʌt'ɔf/ time [截止时间] for transfer requests. Respecting [留心] these will help your money arrive on time. If you submit a transfer request after the cutoff - around the end of the business day [工作日结束时] - it generally won’t be processed until the next business day.[转账请求只有等到下个工作日才能得到处理]
+
+> Weekends and bank holidays don’t count as business days [周末和银行假期不属于工作日]. If you initiate /ɪ'nɪʃɪet/ [vt.开始] a transfer request at 11 p.m. on the Friday before a three-day holiday weekend, the money might not reach its destination until the following Thursday.[等到下周周四才能到账]
+
+# III.grammar
 # 1.make + 
 > We often use “do” with certains gerunds /'dʒɛrənd/ [n.动名词] or activities (ex: do the dishes), but English also uses “make” with many nouns instead of a basic verb. We often use an adjective before the noun as well to change the degree.
 
@@ -80,7 +89,28 @@
 
 > 2)And if you ever use your bank card or maybe a credit card at a restaurant or a store somewhere, and maybe there's a problem with it.It was declined. The person might say, "Oh, sorry, it didn't go through." it wasn't accepted.
 
-# III.pattern
+# 8.of the month [每个月重复的日期]
+> We use the phrase “of the month” to refer to a date that repeats each month, or when the specific month does not need to be mentioned [不需要提及特定月份的日期]. It’s commonly used for repeating events, like paying bills or rent, which usually happen on the same day each month.
+
+- 1. I pay my rent on the last day of the month.
+
+- 2. She gets paid twice a month: on the 1st and 15th of the month.
+
+- 3. A: Thanksgiving is in November, but I can't remember which day. B: It's on the fourth Thursday of the month.
+
+# 9.
+
+
+
+
+
+
+
+
+
+
+
+# IV.pattern
 ***Hi there. What can I do for you today?***
 
 ***I’d like to make a wire transfer to a friend overseas.***
@@ -106,6 +136,34 @@
 ***Oh, I’ll cover the charge, thanks.***
 
 ***Ok, great. You’ll receive a confirmation email in a day or two when it goes through.***
+
+# V.pattern
+***Hi there. How can I help you?***
+
+***I tried to make a purchase but my card was declined.***
+
+***Oh, let's take a look here. Oh, you might've had insufficient funds for your purchase.***
+
+***Really? What's the balance of my checking account?***
+
+***$103.40. There was an automatic payment to your Visa yesterday.***
+
+***Ah, right, I forgot to budget for that. Then, can I transfer some money back into that account?***
+
+***Sure, there will just be a $1 transfer fee.***
+
+***Oh, jeez. So many hidden fees. That's fine.***
+
+***If it helps, I can sign you up for weekly bank statements. Currently, yours are issued on the 10th of the month.***
+
+***No, that's okay. I'll just keep track of my transactions on my phone. Thank you.***
+
+
+
+
+
+
+
 
 
 

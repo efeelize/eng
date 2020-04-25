@@ -74,13 +74,26 @@
 > D.C. stands for the District of Columbia, so we call Washington, D.C.. You also see later in the lesson that people just call it D.C., so Washington, D.C. is the capital of the United States.that's where you're going to find all the lawmakers, government people.One thing here to note is that Washington is also a state and Washington, D.C. is the city, so just try not to get those two confused.Washington state is in the northwest of America and Washington, D.C. we say is in the mid-Atlantic which is on the east coast.absolute favorite thing to do a cool thing about D.C. is that if you want to be downtown in the city you can be there if you want to be out in nature surrounded by trees rocks water you can be there in like fifteen minutes it's really nice.
 
 # III.France spot 
-# 1.
+# 1.Provence /prɔ'vɔŋs/ [普罗旺斯]
+> Basically it just means like the countryside.the provincial /prə'vɪnʃl/ area.[郊区]
 
+# 2.Eiffel Tower /ˈaɪfəl/ & Seine [n.塞纳河]
+> the /seɪn/, that is the big river that flows through Paris. And the last one you guys know this.
 
+# 3.The Louvre /lu:vr/. [n.卢浮宫]
+> this is the famous museum called the Louvre.And you can say the /lu: v/. That's fine. With a French accent it's the /lu:vr/.
 
+# 4.the Mona Lisa
+> the Mona Lisa ironically is very small, but it's so famous because it was stolen and blah blah blah of the story. But it's you got to see it before you die.
 
+# 5.Champs Elysees /tʃæmps ˈɛlɪˌsiz]/ [n.香榭丽舍大道]
+> So that is the big Boulevard /ˈbʊləˌvɑrd/ [n.林阴大道].eally wide. The Canadian embassy is on that Boulevard and lots of shops that I can't afford.
 
+# 6.Arc De Triomphe /ɑːrk di triˈoʊmf/ [n.凯旋门]
+> And at the end of Champs Elysees  is something called the Arc De Triomphe. And that is, there's a picture of it in the culture section. You can check that out and you can see the Champs Elysees with the the Arc De Triomphe at the end.
 
+# 7.Galleries Lafayette  /ˈgæləriz ˌlɑːfaɪˈet/ [n.老佛爷百货]
+> This is a little too fancy for me but so the Galleries Lafayette...Lafayette Galleries.so just another name for a gallery.And this kind of place it sounds like again not really my kind of place, kind of upscale shopping.
 
 # IV.idioms that are associated with travel
 # 1.get around [phr.随意走走] 
@@ -118,6 +131,17 @@
 - 4. Everyone who gets the chance should go abroad because travel broadens the mind.
 
 - 5. Since you’re driving at a good clip, we’ll get there early.
+
+# 9.heading to [v.前往、去]
+> Just heading in the direction you're going to.You're going to, exactly. So you're heading home, you're heading out.
+
+# 10.what's on the agenda while you're there & itinerary /aɪ'tɪnərɛri/ [n.行程]
+> I think this is a question that I probably ask more than anything else. Just like "what are you going to do?"so if you just say "what's on the agenda", it's "what do you have planned". So what's he going to do in Paris to start?
+
+> so when you're traveling, often you'll have the word itinerary that you use, but that's kind of official time by time, day by day schedule.really formal and rigid.
+
+# 11.hit the hot spots [n.热门景点]
+> So that's the verb we use when you say you're going to the popular places, I'm gonna hit all the hot spots.
 
 # V.adj that are associated with sightseeing 
 # 1.Middle East [n.中东] & sweltering /'swɛltərɪŋ/  [adj.闷热的]
@@ -176,6 +200,9 @@
 > 2)Architecture is the design of buildings or bridges or other kinds of structures.
 
 > 3)an architect is a person who designs like buildings, or like you said, bridges or any big structure.
+
+# 10.arty /'ɑrti/ [adj.文艺]
+> He says he is not that arty,so he doesn't like...or well, I mean maybe he likes it but maybe he doesn't understand art. So he's not a creative person that kind of thing, he'd rather go somewhere else.Spencer always used to say arty-farty. Whenever Jenny would mention something kind of arty-farty, Spencer would say, I don't really care about that...
 
 # V.grammar
 # 1.If I were you...I would...
@@ -276,16 +303,18 @@
 
 > 2)just a quick note, that word "synonymous" comes from "synonym", which means something that has the same meaning.
 
-# 12.
+# 12.bucket list [n.必做的事情]
+> So we have kind of a phrase that means kick the bucket, so that means die. It means die. So a bucket list is the list of things that you want to do before you die..Before you kick the bucket.
 
+# 13.lavender /'lævəndɚ/ [n.淡紫色；薰衣草]
+> 1)Lavender fields.Smells good and relaxing. So maybe they'll have a nap, or just fall asleep in the fields.And the the lavender fields, they have the flowers blooming right now.
 
+> 2)so you guys know lavender, beautiful relaxing smell helps you sleep that kind of thing, purple.
 
+# 14.unwinding [v.放松] & wound /wund/ up [紧张]
+> 1)so if you imagine a spring or a coil, kind of thing, and it's kind of really tight, but you pull it, it relaxes a little bit.
 
-
-
-
-
-
+> 2) Even a person, right? Can really wound up.Too much work. He's really wound up, he needs to unwind.Today I'm a little wound up, I have to say.
 
 
 
