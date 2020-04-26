@@ -30,7 +30,8 @@
 
 - 3. Being from different countries, we have a hard time communicating.
 
-# 2.
+# 2.unwrapped gifts & emptying stockings 
+> 1)
 
 
 

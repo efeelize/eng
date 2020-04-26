@@ -59,20 +59,12 @@
 
 > 2) the routing number. It looks kind of funny but it's just a number of the institution [n.机构], your bank's special number.
 
-# 4.blank check [n.空头支票] & if you have blank check to do sth & account number [n.账号] & beneficiary /ˌbɛnɪ'fɪʃɪɛri/ [n.收款人、受益人] & recipient [n.收款人] & receiver & paycheck /'pe,tʃɛk/ [n.薪水]
+# 4.blank check [n.空头支票] & if you have blank check to do sth  & paycheck /'pe,tʃɛk/ [n.薪水] 
 > 1)so checks are kind of going the way of the dodo /'dodo/ [n.过时的东西], they are not as popular as they used to be.check actually means that kind of physical piece of paper, That has the kind of numbers, or that the payment that you're getting.and your name on it. It will always say, you know, "Pay to Lisa, eight hundred eighty eight dollars and eighty eight cents.We don't really use checks anymore, but often times, when I go to the bank, I still need something that's like a blank check.because they want to put money into my bank account,they need to know that information.if you look at a check like for writing money, the numbers are on the bottom of the check.
 
 > 2)"If you have a blank check to do something".It just means you can do whatever you want.do whatever you want. You have permission to do anything.
 
-> 3) Also on the bottom of this, check is your account number.It's really important one. That's the one that even if you don't do international remittance.
-
-> 4)the teller needs is the beneficiary's name.so the beneficiary is the person who is receiving the money.You don't need to use this word, but it will be on the application.
-
-> 5)And beneficiaries are also often used for things like insurance,or a will.
-
-> 6)"recipient" and "beneficiary" are the same, basically in this case. "Recipient" is a little less formal.And that just means receiver, right?Yeah, we will hear "receiver" and you won't see that at the bank. They won't let…Maybe the person might ask "Who is the receiver?" But you won't see it written down anywhere.
-
-> 7)we also use it for our paycheque, so it doesn't have to be a physical thing.Now one thing that a lot of people do as soon as they get their paycheques, or soon as they get any kind of cheques, is they use that money to pay off bills.
+> 3)we also use it for our paycheque, so it doesn't have to be a physical thing.Now one thing that a lot of people do as soon as they get their paycheques, or soon as they get any kind of cheques, is they use that money to pay off bills.
 
 # 5.currency /'kɝənsi/ [n.货币] & foreign currency [n.外汇] & exchange rate [n.汇率] & rate [利率] & transfer fee [n.转账费] & charged [v.收费] & cover the charge [v.承担]
 > 1）so they charged fees,just they make you pay,they are asking for money, like often lawyers, they charge so much money per hour.
@@ -98,17 +90,43 @@
 
 - 3. A: Thanksgiving is in November, but I can't remember which day. B: It's on the fourth Thursday of the month.
 
-# 9.
+# 9.declined [v.拒绝] & insufficient fund [n.存款不足] 
+> 1)if you're paying for something, and we still use cards here, we don't use like WeChat Pay or Alipay here. other than cards, you can also decline someone's request.but the difference is that decline is much more polite, reject is a little rude.
 
+> 2)if your card was declined, then you know what, the person at the store might say, "I'm sorry, that transaction failed."The transaction failed or didn't go through.
 
+> 3）insufficient, first of all, means not enough.It's also a very formal, polite way to say not enough. Now, funds, really just means some amount of money.and we usually use this as a chunk, insufficient fund.like if you're paying with your card, insufficient funds will be on the screen.Now is it possible to say "insufficient money"?because like you said, it's a chunk, we say this as a phrase. But we say "funds" in lots of other ways, that just means money.so for example, maybe someone needs to raise money for charity, they might say, "We need to raise some funds."
 
+# 10.issued 
+> 1)So if they're issued, then they're released or given out.And it's usually official things like when you get a new passport, the passport is issued to you.issuing is often something that is done by the government or some kind of like official organization like a bank.
 
+> 2)Even a company, when a company is in trouble, they might issue a statement, which is a different kind of statement. it's just something that they say officially, it's not related or it doesn't have to be related to money.
 
+# 11.automatic payment [n.自动还款] & automatic 
+> 1)so it does it automatically, it does it by itself.for example, on the 15th of every month, my money will automatically come out of my bank account and will go on to my visa.
 
+> 2)so many things these days are automatic.the main idea here is that it just makes things easier. Like when you walk into a store, the doors open. I don't even have to push the door, they are automatic doors, like on a bus or in a store or on a camera. Cameras all have an automatic focus...So we don't have to do it ourselves, we can be lazy.
 
+# 12.credit card/bank statements [n.银行对账单] & keep track of [phr.记录]
+> 1)a bank statement, it's a record like history of all of your deposits /dɪ'pɑzɪt/ [n.存款] and withdrawals /wɪð'drɔəl/ [n.提款]. So basically, it just tells you everything that you've spent.so normally when you look at your credit card/bank statement, it will have a list of all your transactions.If I bought a coffee, that's a transaction; if I took out some money when I was traveling, that's a transaction.
 
+> 2) it doesn't just have to be at your bank, it could be like a phone bill, it's kind of a statement, some people say mobile phone statement.But you know what, it's just easier to say phone bill.
 
+> 3) if they're keeping track of this, then they're following it, they're constantly checking this.keep track or following, for example, you could keep track of the news, you're always looking for new news updates.Parents, they're always trying to keep track of their kids when their kids are running around and fighting and playing.Or maybe if you have some friends over, you're watching a game, you want to keep track of the score.
 
+> 4)if you're late for a meeting, you can say, "Oh sorry, I lost track of the time."If you're having a lot of fun, it's hard to keep track of time.
+
+# 13.hidden fees [n.隐藏费用]
+> So hidden fee, it's not a secret fee, but it's not easy to find, that it's not easy to know about.it's basically another way that the bank tricks you into paying more money.When you sign up for a product, there's like a little tiny writing that says there is a one dollar fee or there is a whatever dollar fee for this kind of transfer or something else.for example, like phone bills. Often when you sign up for a new type of phone service, there's a lot of hidden fees like a hidden service fee.I wish companies would tell us everything that we have to pay, not try to keep it a secret.
+
+# 14.account number [n.账号] & beneficiary /ˌbɛnɪ'fɪʃɪɛri/ [n.收款人、受益人] & recipient [n.收款人] & receiver
+> 1) Also on the bottom of this, check is your account number.It's really important one. That's the one that even if you don't do international remittance.
+
+> 2)the teller needs is the beneficiary's name.so the beneficiary is the person who is receiving the money.You don't need to use this word, but it will be on the application.
+
+> 3)And beneficiaries are also often used for things like insurance,or a will.
+
+> 4)"recipient" and "beneficiary" are the same, basically in this case. "Recipient" is a little less formal.And that just means receiver, right?Yeah, we will hear "receiver" and you won't see that at the bank. They won't let…Maybe the person might ask "Who is the receiver?" But you won't see it written down anywhere.
 
 # IV.pattern
 ***Hi there. What can I do for you today?***

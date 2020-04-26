@@ -20,10 +20,49 @@
 
 - 3. The reason they divorced came down to the differences that they couldn't resolve.
 
-# 2.
+# 2.put in my two cents [phr.发表我的观点] & make your money work for you [phr.让你的钱为你工作]. & it's a journey of a thousand miles begins with one step [phr.千里之行始于足下] 
+> 1)here's a great phrase. Well, it's not really related to money at all.It's about giving advice.and you usually say it just like this, "If I can put in my two cents..." it's a little more polite that way actually.
 
+> 2) It sounds like a slogan.When you're not using your money it should be building itself basically.Because it does kind of have to work, it has to search out...you know, like places to go, ways that it can borrow itself out or lend itself out. And it's working.
 
+> 3) If you are not so diligent about managing money, you know, it's a journey of a thousand miles begins with one step,That's kind of the hardest thing to do, is to actually look at your expenses to see how they add up and start to, you know, just basically build your savings. it's easier said than done but you won't regret it.
 
+# 3.put away savings [phr.存钱] builds interest [phr.获得利息] & low-risk [adj.低风险]
+> 1)put away is kind of a similar idea like when your teacher tells you to put away your phone in class. You put it somewhere safe, you're gonna use it later.
+
+> 2)So interest is just that small percentage of money that you get, that you gain when you keep your money in an account in like a bank or an investment.The point is it doesn't matter if it's a low-risk investment, a medium risk or a high-risk one. They're all going to build a certain amount of interest.
+
+> 3）so these're all kinds of investment, they're low-risk, meaning it's safe.a low-risk investment. It will build interest but it won't build as much interest.so in a savings account you will build interest but it's probably like 2%, the most.And even that, even that now it's not 2%.
+
+# 4.mortgage /'mɔrɡɪdʒ/ [n.按揭] & payments [n.付款] & add up (to) [phr.累积]
+> 1）mortgage is a special kind of loan from the bank,and it's really only for a house,we don't use it for school,it really is only for that house,the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.
+
+> 2)So "add up" is just when you want to calculate the total of something.We use this a lot at the restaurant. When we're looking at the bill, what do our meals add up to?Exactly. In fact, I mean you could even get rid of the "to".You could just say like something adds up, like "Oh, all of those coffees every day."
+
+# 5.wants [n.想要的东西] & necessities [n.必需品] & splurge on sth  /splɝdʒ/ [n.挥霍] & be (not) live within your means [phr.量入为出]
+> 1）Now this is not a verb, this is a noun.you could say like, "Well, I want to buy a new TV but it's just a want."
+
+> 2)Now, necessity as you might guess means something that you need.It's necessary or it's needed. Now, living in a big city having a car isn't really a necessity.and the plural is "necessities".
+
+> 3)So splurge is like when you spend a lot of money on something.And it can be splurging on something useful but often it's just splurging on something kind of fun,and sort of more than you really need.More than you need and also importantly more than you can afford.Some of us can never afford to splurge too much.
+
+> 4)This is another phrase often used when we talk about managing money and and within your means just means, you know, don't spend more money than you make or you have.
+
+> 5)we don't say live without your means. We just say he's not living within his means.It's kind of a formal expression but it's pretty important.It's good financial advice.It doesn't matter how much money, I mean, if you are a really rich guy.But you spend money as if you were a richer guy, you're not living within your means.
+
+# 6.checking account [n.支票账户] & savings account [n.存款账户]
+> 1)if you have insufficient funds, then you probably need to check the balance on your checking account.So, balance, of course, is how much money is left. And the checking account, it's a type of bank account that you use a lot for buying things.the checking account is the one that you use for day-to-day banking.
+
+> 2)so usually you have two types of accounts, you have your checking account and your savings account. So the savings account is for saving money.you put the money, you want to save for when you retire and go live on the beach.
+
+# 7.budget [v.做预算] & planning ahead [phr.提前规划]
+> 1)I usually try to budget, especially when I am traveling. So maybe on my next trip, I will budget, maybe two thousand or three thousand dollars.
+
+> 2)you can budget for emergencies. You might want to have that extra money on the side, in case anything happens.
+
+> 3)you can even budget your time, So in that case, you are careful with your time and you, I guess, plan how much time to spend on everything.you kind of managing your time.
+
+> 4) it's all part of planning ahead for your future.It's kind of like when you, you expect something in the future or you're just planning in case it happens.
 
 # III.pattern
 ***Hey Peter, did you do any shopping over Chinese New Year?***
