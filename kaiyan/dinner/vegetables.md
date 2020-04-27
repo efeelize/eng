@@ -1,4 +1,5 @@
 # Thanksgiving_food
+
 # I.Thanksgiving traditions and history
 # 1.Who invented Thanksgiving?
 > The first “Thanksgiving” was a three-day feast [盛宴] in early autumn [初秋] of 1621 at the Plymouth Plantation /plæn'teʃən/ [种植园] in Massachusetts /ˌmæsə'tʃu:sits/ , celebrated together by Pilgrims /'pɪlgrɪm/ [n.朝圣者] and Native Americans [美国原住民].
@@ -49,19 +50,15 @@
 
 > 5)but in the UK, it to mean thank you.So if you ever go to the UK and you help somebody, or someone is thankful to you, they meant to all cheers, cheers, cheers.Doesn't mean you have to grab the nearest drinking.
 
-# 4.mashed potatoes [n.土豆泥] & brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝] & green bean casserole /'kæsərol/ [n.焗烤四季豆] & a casserole dish [n.烤盘]
+# 4.mashed potatoes [n.土豆泥] & brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝] 
 > 1)you take a potato and you mash it.so it's not solid anymore, very fluffy or creamy.and with mashed potatoes usually put in like butter, maybe milk, salt, pepper.
 
 > 2)Brussels sprouts are like tiny tiny little cabbages /'kæbidʒ/ [n.甘蓝；卷心菜].there like these little round green vegetables yeah, little small cabbages, and they're usually really good with bacon,some little bit of fried bacon /ˈbekən/ like chopped up with the brussels sprouts, really good.
 
-> 3)so green beans are like these long green beans，Casserole is like you put in often meat, but lots of vegetables, potatoes, this kind of thing, and then you cook it slowly in the oven /'ʌvn/ .so a casserole is usually like a big dish, there is also a thing called a casserole dish, So here this is a green bean casserole, it has green beans and probably like some sort of like a starch /stɑrtʃ/ [n.淀粉], so kind of like a bread type thing may be in there, maybe some cheese /tʃiz/ as well. Like a pasta /'pɑstə/ [n.意大利面食] maybe something like that.
-
-> 4)there's so many different types of casseroles and usually they're kind of crispy on the top.On the inside, usually it's like soft, if there's meat in there, it's very very tender and very juicy.and sometimes it might be creamy /'krimi/ [adj.乳脂状的] also, just depends on the type of casserole you are eating. 
-
 # 5.cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱] & turkey /'tɝki/ & pumpkin /'pʌmpkɪn/ pie [n.南瓜派]
 > 1) It's a sauce made of cranberries.so cranberries are like these little round red berries. Anyway, this is a very standard Thanksgiving dish, a sauce made of cranberries, it's pretty sweet and it goes great with the turkey.
 
-> 2)turkey,It's not a chicken,probably the cloest thing.But the turkey it's bigger than a chicken, usually, the meat also is a bit more dry, than the chicken.There's less fat in a turkey, so you have to cook it, a bit more carefully I think. Otherwise, it gets very dry. remember many Thanksgiving where I was thinking God, I need more gravy /'ɡrevi/ [n.肉汁] on this turkey because it's too dry,maybe more cranberry /'kræn'bɛri/ sauce.
+> 2)turkey,it's not a chicken,probably the cloest thing.But the turkey it's bigger than a chicken, usually, the meat also is a bit more dry, than the chicken.There's less fat in a turkey, so you have to cook it, a bit more carefully I think. Otherwise, it gets very dry. remember many Thanksgiving where I was thinking God, I need more gravy /'ɡrevi/ [n.肉汁] on this turkey because it's too dry,maybe more cranberry /'kræn'bɛri/ sauce.
 
 > 3)it's a pie made of pumpkin.I love pumpkin pie, especially with vanilla /və'nɪlə/ [n.香草] ice cream, super good, super good.
 
@@ -81,6 +78,15 @@
 > 1)So support someone needs to be behind them, to lift them up, even to like really give them an opportunity to improve, to achieve.
 
 > 2)so there's different types of support. For example, there's what we call financial support, basically, giving money to something or there is also like physical support, one of our examples here is. He got so fat. His legs eventually couldn't support his own weight. 
+
+# 8.green bean casserole /'kæsərol/ [n.焗烤四季豆] & a casserole dish [n.烤盘] & roasting [v.烤] & baking 
+> 1)so green beans are like these long green beans，Casserole is like you put in often meat, but lots of vegetables, potatoes, this kind of thing, and then you cook it slowly in the oven /'ʌvn/ .so a casserole is usually like a big dish, there is also a thing called a casserole dish, So here this is a green bean casserole, it has green beans and probably like some sort of like a starch /stɑrtʃ/ [n.淀粉], so kind of like a bread type thing may be in there, maybe some cheese /tʃiz/ as well. Like a pasta /'pɑstə/ [n.意大利面食] maybe something like that.
+
+> 2)there's so many different types of casseroles and usually they're kind of crispy on the top.On the inside, usually it's like soft, if there's meat in there, it's very very tender and very juicy.and sometimes it might be creamy /'krimi/ [adj.乳脂状的] also, just depends on the type of casserole you are eating. 
+
+> 3)"roast" we use this when we cook something at a high heat, like roast beef or roast potatoes.
+
+> 4)we use like "bake" for things like you know, pies and cookies.Baking is for stuff that you would buy at a bakery and roasting is more like meat and vegetables.
 
 # III.pattern
 ***You’ve really outdone yourself this year, Carrie. The mashed potatoes, brussels sprouts and green bean casserole are all on point!***
