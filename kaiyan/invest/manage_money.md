@@ -39,16 +39,14 @@
 
 > 2)So "add up" is just when you want to calculate the total of something.We use this a lot at the restaurant. When we're looking at the bill, what do our meals add up to?Exactly. In fact, I mean you could even get rid of the "to".You could just say like something adds up, like "Oh, all of those coffees every day."
 
-# 5.wants [n.想要的东西] & necessities [n.必需品] & splurge on sth  /splɝdʒ/ [n.挥霍] & be (not) live within your means [phr.量入为出]
-> 1）Now this is not a verb, this is a noun.you could say like, "Well, I want to buy a new TV but it's just a want."
+# 5.wants [n.想要的东西] & necessities [n.必需品] & essentials [n.& adj.必需品、必须做的事]
+> 1）"wants"this is not a verb, this is a noun.you could say like, "Well, I want to buy a new TV but it's just a want."
 
-> 2)Now, necessity as you might guess means something that you need.It's necessary or it's needed. Now, living in a big city having a car isn't really a necessity.and the plural is "necessities".
+> 2)necessity as you might guess means something that you need.It's necessary or it's needed. Now, living in a big city having a car isn't really a necessity.and the plural is "necessities".
 
-> 3)So splurge is like when you spend a lot of money on something.And it can be splurging on something useful but often it's just splurging on something kind of fun,and sort of more than you really need.More than you need and also importantly more than you can afford.Some of us can never afford to splurge too much.
+> 3)"essential" here is a noun, we often use it as an adjective, essential things, that's what this means. The essential things, the basic things, we even say the basics.
 
-> 4)This is another phrase often used when we talk about managing money and and within your means just means, you know, don't spend more money than you make or you have.
-
-> 5)we don't say live without your means. We just say he's not living within his means.It's kind of a formal expression but it's pretty important.It's good financial advice.It doesn't matter how much money, I mean, if you are a really rich guy.But you spend money as if you were a richer guy, you're not living within your means.
+> 4）"essential" does have that meaning of basic, but also necessary,Like you can't have an event without food, you can't have an event without... Well I guess you could have it without food, people wouldn't be happy; but you couldn't have an event without a venue or staff.like if we're thinking about say, a car for example, the essentials on a car are the wheels, the engine.The steering /'stɪrɪŋ/ wheel. But everything else is just an accessory /ək'sɛsəri/ [n.配件]. like the Bluetooth stereo /ˈstɛriˌo/.The leather seats. You don't need to have those in order to have a car.
 
 # 6.checking account [n.支票账户] & savings account [n.存款账户]
 > 1)if you have insufficient funds, then you probably need to check the balance on your checking account.So, balance, of course, is how much money is left. And the checking account, it's a type of bank account that you use a lot for buying things.the checking account is the one that you use for day-to-day banking.
@@ -63,6 +61,13 @@
 > 3)you can even budget your time, So in that case, you are careful with your time and you, I guess, plan how much time to spend on everything.you kind of managing your time.
 
 > 4) it's all part of planning ahead for your future.It's kind of like when you, you expect something in the future or you're just planning in case it happens.
+
+# 8.splurge on sth  /splɝdʒ/ [n.挥霍] & be (not) live within your means [phr.量入为出]
+> 1)So splurge is like when you spend a lot of money on something.And it can be splurging on something useful but often it's just splurging on something kind of fun,and sort of more than you really need.More than you need and also importantly more than you can afford.Some of us can never afford to splurge too much.
+
+> 2)This is another phrase often used when we talk about managing money and and within your means just means, you know, don't spend more money than you make or you have.
+
+> 3)we don't say live without your means. We just say he's not living within his means.It's kind of a formal expression but it's pretty important.It's good financial advice.It doesn't matter how much money, I mean, if you are a really rich guy.But you spend money as if you were a richer guy, you're not living within your means.
 
 # III.pattern
 ***Hey Peter, did you do any shopping over Chinese New Year?***

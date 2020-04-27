@@ -59,8 +59,10 @@
 
 > 2)so a comfort zone isn't always a place, it can be a place, but a lot of times it's just like your habits in what you're used to doing, so yeah he needs to get out of his comfort zone, but he's not quite sure how to do that.
 
-# 5.flaws [n.缺点] 
-> your flaws are your weaknesses or it could also be like a personality problem maybe you were too impatient, or maybe you're not good at comforting others.
+# 5.flaws [n.缺点]  & drag you down [phr.拖累]
+> 1)your flaws are your weaknesses or it could also be like a personality problem maybe you were too impatient, or maybe you're not good at comforting others.
+
+> 2)so to drag means to pull, so you can imagine that you are trying to get better you're trying to climb this mountain, but someone keeps pulling you down.
 
 # 6.self-aware [adj.有自知之明的] & self-improvement [n.自我提升] & on your own time [phr.在自己的空闲时间]
 > 1)so when you are self-aware you are aware of your flaws and your strengths, you're also aware of your actions and how your words affect others.So like aware here just kind of means you know what's going on, you can be aware of problems that have nothing to do with you, but being self-aware is kind of being real with yourself. So if you're self-aware, you're probably really real with yourself and you know what's going on in your life and how you act.
@@ -72,8 +74,10 @@
 # 7.funny you say that [phr.太巧了！]
 > it’s just saying wow it's a coincidence that you say that,so you just mentioned something that is actually happening in my life.
 
-# 8.drag you down [phr.拖累]
-> so to drag means to pull, so you can imagine that you are trying to get better you're trying to climb this mountain, but someone keeps pulling you down.
+# 8.industry /'ɪndəstri/ [n.行业] & industrial /ɪn'dʌstrɪəl/ [adj.]
+> 1)Industry, this is just the kind of job you are in, so that could be the medical industry.Or if you work in a restaurant, then you work in the service industry.
+
+> 2)industrial,For example, an industrial area. That's an area or a place with lots of factories and machines.
 
 # 9.it is expected/thought/believed/considered that...
 > 1)We can use today's grammar point to describe beliefs or opinions. In today's dialogue, Krystal said "But it's expected that you do them on your own time." In this sentence, she is describing a belief in her office.
@@ -91,7 +95,7 @@
 - 4. It's thought that the concert will be cancelled if it rains.
 
 # 10.seminars /'seminɑ:/ [n.研讨会] & workshop [n.专题讨论会] & hands-on practice 
-> 1)A seminar is a little bit like going to a class,it's kind of like an educational talk. Someone speaks in front of an audience. They share ideas.If you guys know Ted Talks, those are seminars.Usually, they don't last very long, maybe a few hours or a day.all of the people at a seminar are professionals.You can have a seminar for doctors, and they might be teaching the doctors about a new medicine.
+> 1)A seminar is a little bit like going to a class,it's kind of like an educational talk. Someone speaks in front of an audience. They share ideas.If you guys know Ted Talks, those are seminars.Usually, they don't last very long, maybe a few hours or a day.all of the people at a seminar are professionals.And usually students or workers at a company, they go to a seminar to learn more about their job or their school.You can have a seminar for doctors, and they might be teaching the doctors about a new medicine.
 
 > 2)A seminar, like we said, is someone speaking in front of an audience. A workshop is similar. We go there to learn new things, but you get more involved. So you learn new skills and you practice them.It's more interactive, You are participating.So we call (it a) workshop. Yeah. Often companies have team building workshops where all of the employees or staff go to another place, and sometimes they do games. They do ice-breakers. They workshop in order to work better as a team.
 
@@ -101,17 +105,7 @@
 > 1)It's very similar to the word skill, but it's a little bit more specific. For example, tennis players. I can swing a tennis racket, but I don't have good technique, so I probably will never be able to do it like a professional.Maybe some of you have learning techniques for learning new words. Maybe you write them on a card, and it helps you memorize words faster.
 
 > 2)technique is a way to do something whereas technology—that has more to do with computers and software and cell phones.
-
-# 12.industry /'ɪndəstri/ [n.行业] & industrial /ɪn'dʌstrɪəl/ [adj.]
-> 1)Industry, this is just the kind of job you are in, so that could be the medical industry.Or if you work in a restaurant, then you work in the service industry.
-
-> 2)industrial,For example, an industrial area. That's an area or a place with lots of factories and machines.
-
-
-
-
-
-
+s
 # IV.pattern
 ***Mackenzie, I've been in such a slump lately. Got any advice on how I could better myself?***
 

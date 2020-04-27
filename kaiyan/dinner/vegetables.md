@@ -39,16 +39,19 @@
 
 > 3)so outdone basically. It means to do something really well. But here Thomas says that Carrie outdid herself which means she did better than she usually does.Or at least better than he expected her to do.
 
-# 3.on point [phr.完美，合时宜] & delectable /dɪ'lɛktəbl/ [adj.美味的] & old family recipes /'rɛsəpi/ & cheers to that [phr.为此干杯]
+# 3.on point [phr.完美，合时宜] & delectable /dɪ'lɛktəbl/ [adj.美味的] & cheers to that [phr.为此干杯]
 > 1)So they were all amazing, they were all perfect.
 
 > 2)So delectable this is like delicious.And super tasty.
 
-> 3)Old family recipes, so recipes are like how to make food, how to make certain dishes.it's just like the instructions for making a dish.So in these instructions, it will say like how much seasoning /'sizənɪŋ/ [n.调味品] you might need? How much water you might need? How long you need to cook something for? How hot the oven needs to be? These are all directions of a recipe.
+> 3)so Sam here says cheers to that, so maybe he's like raises up his glass.A little toast, but here so this this cheers to that just basically means to agree with something.
 
-> 4)so Sam here says cheers to that, so maybe he's like raises up his glass.A little toast, but here so this this cheers to that just basically means to agree with something.
+> 4)but in the UK, it to mean thank you.So if you ever go to the UK and you help somebody, or someone is thankful to you, they meant to all cheers, cheers, cheers.Doesn't mean you have to grab the nearest drinking.
 
-> 5)but in the UK, it to mean thank you.So if you ever go to the UK and you help somebody, or someone is thankful to you, they meant to all cheers, cheers, cheers.Doesn't mean you have to grab the nearest drinking.
+# 4.old family recipes /'rɛsəpi/ & potluck /pɑt'lʌk/ [n.每人做一道菜带来]
+> 1)Old family recipes, so recipes are like how to make food, how to make certain dishes.it's just like the instructions for making a dish.So in these instructions, it will say like how much seasoning /'sizənɪŋ/ [n.调味品] you might need? How much water you might need? How long you need to cook something for? How hot the oven needs to be? These are all directions of a recipe.
+
+> 2)potluck:so this potluck is basically like a get together, a dinner or lunch and everyone will bring like a dish so they make something or they bring something.So everyone gets to try a little bit of everything.
 
 # 4.mashed potatoes [n.土豆泥] & brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝] 
 > 1)you take a potato and you mash it.so it's not solid anymore, very fluffy or creamy.and with mashed potatoes usually put in like butter, maybe milk, salt, pepper.
@@ -74,11 +77,6 @@
 # 7.cushy /ˈkʊʃi/ job [adj.舒适的、优厚的] & cushion /'kʊʃən/
 > Cushy job is, perhaps it's easy or you feel like its easy, um probably well paid, it's comfortable.Comfortable. So cushy comes from the word cushion which is it's on the sofa.
 
-# 8.support 
-> 1)So support someone needs to be behind them, to lift them up, even to like really give them an opportunity to improve, to achieve.
-
-> 2)so there's different types of support. For example, there's what we call financial support, basically, giving money to something or there is also like physical support, one of our examples here is. He got so fat. His legs eventually couldn't support his own weight. 
-
 # 8.green bean casserole /'kæsərol/ [n.焗烤四季豆] & a casserole dish [n.烤盘] & roasting [v.烤] & baking 
 > 1)so green beans are like these long green beans，Casserole is like you put in often meat, but lots of vegetables, potatoes, this kind of thing, and then you cook it slowly in the oven /'ʌvn/ .so a casserole is usually like a big dish, there is also a thing called a casserole dish, So here this is a green bean casserole, it has green beans and probably like some sort of like a starch /stɑrtʃ/ [n.淀粉], so kind of like a bread type thing may be in there, maybe some cheese /tʃiz/ as well. Like a pasta /'pɑstə/ [n.意大利面食] maybe something like that.
 
@@ -87,6 +85,18 @@
 > 3)"roast" we use this when we cook something at a high heat, like roast beef or roast potatoes.
 
 > 4)we use like "bake" for things like you know, pies and cookies.Baking is for stuff that you would buy at a bakery and roasting is more like meat and vegetables.
+
+# 9.gumbo [n.新奥尔良秋葵浓汤] & stew [n.炖菜] & Cajun [adj.卡真料理]
+> 1)gumbo:It's also very popular in America. So hear Jennifer explains a New Orleans dish called gumbo.
+
+> 2)stew:So it's a stew that has a lot of stuff in it.A lot of stuff in a stew. It's just like a thick /θɪk/ [adj.浓稠的] soup.
+
+> 3)Cajun:So, it originates from France but then there's a lot of other spices added to it.It's a completely different flavor.
+
+# 10.support 
+> 1)So support someone needs to be behind them, to lift them up, even to like really give them an opportunity to improve, to achieve.
+
+> 2)so there's different types of support. For example, there's what we call financial support, basically, giving money to something or there is also like physical support, one of our examples here is. He got so fat. His legs eventually couldn't support his own weight. 
 
 # III.pattern
 ***You’ve really outdone yourself this year, Carrie. The mashed potatoes, brussels sprouts and green bean casserole are all on point!***

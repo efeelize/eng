@@ -51,7 +51,7 @@
 
 > 6)So "for starters" is a phrase that we use that means to begin with, first off. So there's a list of things that Jim is going to tell her that she needs to change and the first thing is that she has way too much text in these slides.
 
-# 4.go with [phr.选择] & torn /tɔrn/ [adj.纠结] & Can I start you two off with some water? & server
+# 4.go with [phr.选择] & torn /tɔrn/ [adj.纠结] & Can I start you two off with some water? & server & caterer/catering company  [n.餐饮服务者]
 > 1)And often has this feeling or sense that you were waiting or hesitating. Or you couldn't decide and finally you choose. That's when we say go with.and you can use it, you know, anywhere. You don't need to use it just for food. For example, if I am shopping for clothes. The lady at the front can ask me "Oh, what did you choose", right? And then I can say "I went with the T-shirt".
 
 > 2) If you torn between two things, you can't decide between two things. It sounds very dramatic, though.Yeah. It's really not. It just means you are indecisive and unsure.And "torn", it sounds like painful, like, "Ooh, I really can't decide, I'm so torn!"Well. When you think about it, one side of you wants this, one side of you wants that, you don't know what to do.
@@ -59,6 +59,8 @@
 > 3)Can I start you two off with some water? Alright? So it's a lot of easy words but it might be a little bit confusing.this just means "Can I bring you some water first?"Right. Do you want water? If you want water, I'm going to bring that to you first.
 
 > 4)You might be used to this person being called a waiter.Yeah, female, waitress. But nowadays and the United States we often say "server". And this word goes for both male and female.Men and women can both be called servers.
+
+> 5)So a caterer /'ketərɚ/ could be a company or it could be one person, we don't know, and it doesn't really matter. The point is that they cater; they provide the food.And sometimes the drinks. so if you see waiters or servers at an event, they're probably part of a catering company.
 
 # 5.sashimi  /sɑ'shimi/ [n.生鱼片] & pan seared [adj.香煎的] & greasy [adj.油腻的] & oily /'ɔɪli/ 
 > 1)so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
