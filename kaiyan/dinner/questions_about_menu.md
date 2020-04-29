@@ -51,6 +51,8 @@
 
 > 6)So "for starters" is a phrase that we use that means to begin with, first off. So there's a list of things that Jim is going to tell her that she needs to change and the first thing is that she has way too much text in these slides.
 
+> 7)so to start means to, well, begin something. So starters?In this case yet to eat, but you can use it for many different, many different activities.Right, but here you said also starters doesn't just have to be for food.No, let's say you go on holiday, you're on vacation and you get up in the morning on day one. Okay, what are we gonna see for starters?Okay, or you know, you might say, "Hey Mike, how do I need to lose weight?" And you might say, "Well, for starters you need to change your diet."
+
 # 4.go with [phr.选择] & torn /tɔrn/ [adj.纠结] & Can I start you two off with some water? & server & caterer/catering company  [n.餐饮服务者]
 > 1)And often has this feeling or sense that you were waiting or hesitating. Or you couldn't decide and finally you choose. That's when we say go with.and you can use it, you know, anywhere. You don't need to use it just for food. For example, if I am shopping for clothes. The lady at the front can ask me "Oh, what did you choose", right? And then I can say "I went with the T-shirt".
 
