@@ -39,7 +39,7 @@
 # 7.steamed dumplings /stimd ˈdʌmplɪŋz/ [小笼包] & Cold dumplings [冷混沌] & peanut butter sauce [花生酱]
 
 
-# 8.Shanghai osmanthus /ɔz'mænθəs/ cake [n.上海桂花糕] & Eat green dumplings [青团]
+# 8.Shanghai osmanthus /ɔz'mænθəs/ cake [n.上海桂花糕] & Eat green dumplings [青团] & With peanut/almond  butter: 蘸花生/杏仁酱
 
 
 
