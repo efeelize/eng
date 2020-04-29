@@ -1,10 +1,5 @@
 # afternoon_tea
-# I.Storm in a teacup: British and Chinese tea cultures
-> As tea was first introduced to Britain by the royal family, British tea culture is marked with a sense of formality and grace, and traces of this can still be found in modern tearooms[即便在现代茶室中，仍然可以寻找到这种文化痕迹]. In the past, people dressed up [郑重打扮起来]and attended tea parties where socializing was the main activity, with concerts, garden walks [花园散步] and gambling as entertainment.
-
-> As tea and sweet treats[n.甜点] go hand in hand, the English ritual /'rɪtʃuəl/ [n.礼仪]emphasizes conversation and presentation in a leisurely /'liʒɚli/ [adj.从容的] atmosphere. People take their time and enjoy a chat with their friends, often in the lobbies of grand hotels[高档酒店的大堂里] or in tearooms.
-
-> Unlike the emphasis on presentation in British tea culture, Chinese tea culture emphasizes the virtues that come from within[内在美德], and a unity between human beings and nature[人与自然的合一感]. Chinese people also cherish the character of tea :fragrant but not aggressive[有芳香却不张扬],low-key but long lasting[低调而含韵悠长].
+# I.
 
 # II.grammar
 # 1.thrilled  /θrɪld/ [adj. 非常兴奋的] & excited & thriller [n.恐怖小说]
@@ -14,8 +9,7 @@
 
 > 3) I mean we even get the word "thriller", like a movie from this word.Thrillers are I guess exciting.so you have engaged in engaging and thrilling /'θrɪlɪŋ/ [adj.毛骨悚然的] and thrilled.
 
-# 2.afternoon tea 
-> So afternoon tea is basically kind of like, it's like a meal in between lunch and dinner.Yes, so you know if you get hungry often between those two meals, this will help you just to you know keep yourself.From being too hungry. Okay cool. So you can have afternoon tea between lunch and dinner and it's one of Finley's favorite British customs. Okay, so a custom is like a pratice, a cultural tradition.Yes something that is done by, well, British people. It has been done that way for a long time.Okay okay, so basically every country or every culture has their own customs.
+# 2.
 
 # 3.likewise [adv.同样，也一样]
 > Okay so "likewise", so this is like "me too".Okay, so she's also super excited. She's thrilled to be with Finley and looking forward to this new experience.
@@ -59,18 +53,7 @@
 
 > 2)But proper can like you said, so it can also just be like authentic. I feel like this is a word people use and British English much more than American English. You might say like "He's a, he's a proper fellow."
 
-# 13.Earl Gray [n.伯爵红茶] & Assam /'æsæm/ [n. 阿萨姆邦] & Darjeeling /da:'dʒi:liŋ/ [n.大吉岭茶]  & Peppermint /'pɛpɚmɪnt/ [n. 薄荷] & Chamomile  /'kæməmaɪl/ [n. 甘菊] & loose leaf teas [n.散装茶]
-> 1)so Earl Gray, this is a tea that my mom always really likes to drink actually. And it's like a black tea and it has like a hint, we say a little taste of oranges right?It's really light and it's really nice.
-
-> 2)Okay and Assam right, I don't know a whole lot about teas, but I think this comes from like India and even Yun Nan in China.Yeah, the two big places are, yeah, a region of India, gold Assam and also Yun Nan, such in China too.
-
-> 3)Darjeeling is again named after the region of India, tea originally came.
-
-> 4)And then peppermint, I think yeah, it's pepper, mint flavor tea. Peppermint is like this little green leaf and it's very, I like peppermint gum.Makes your breath nice. 
-
-> 5)chamomile is a flower.And if I guess, well, similar to China. It's a flower tea. Okay so boil the flower, dry the flowers in hot water and then drink.
-
-> 6)loose leaf teas:All these other ones come from like real tea leaves and this is more like a flower tea. Okay cool, and then here, at this restaurant they're all loose leaf teas, not tea bags.That just means both tea leaves which does not in the bag. In England, very very commonly most of the tea that you will drink comes in a tea bag. It's not like China, China likes the loose leaf teas.Yeah yeah, I know in America too, yeah. When you go and buy tea in the store, they usually come in these little different bags, and each bag you know, you put in one cup and you can actually use it a couple times depending on the tea.
+# 13.
 
 # 14.full treatment 
 > The full treatment. So when you get the full treatment, and sometimes we might say special treatment, but it just means like you kind of get everything.Okay, so like basically what she means here is that she's having the starters, she's having all the different food, and the awesome tea. So she's getting the full British afternoon tea experience.It just like, it means you get everything from A to Z. So one example we have, "Those VIP tickets really allowed us to receive the full treatment at the event." Right? Or "On her birthday, I took Judy to a SPA where she got the full treatment." So she didn't just get her feet you know down, she got her back, her hands, everything.
