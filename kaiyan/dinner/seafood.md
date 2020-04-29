@@ -12,17 +12,28 @@
 # 1.foodfie [n.美食照片]
 > Fie as in selfie.Okay. Yeah, this is just yes the most common thing at any restaurant now. Take a picture of the food.
 
-# 2.crawfish /'krɔ'fɪʃ/ [n.小龙虾]
+# 2.crawfish /'krɔ'fɪʃ/ [n.小龙虾] & 
 > 1）We said that this small lobster is a crawfish but you know I don't want to be too annoying here. But is a lobster a fish?No, it's more like a shrimp, right?Yeah, yeah. But we use this word fish for a lot of words that aren't really fish though, right?Right. So a lot of these seafood related animals like you know crawfish, like oysters.They all have a shell.And they're all called shellfish.Even though they're not fish.Right. But they come in a shell and they're from the sea. So we call them shellfish.
 
-# 3.dig in [phr.开吃] & peel & suck
+
+# 3.Hairy crab [n.大闸蟹] & Edible crab / brown crab：面包蟹 & Dungeness crab：珍宝蟹 & Alaskan king crab：阿拉斯加帝王蟹 & Blue crab：蓝蟹 & Crab feast：蟹宴
+
+# 4.Crab cakes：蟹饼；蟹肉饼 & Simply steamed / boiled：清蒸的；水煮的 & Dipping sauce：蘸酱；沾料
+
+
+# 5.orange crab roe [蟹黄（母螃蟹）/ 蟹膏 （公螃蟹）]  & gills [蟹腮] & claws [蟹爪]
+> Flip the crab over and crack open the flap on the crab's belly [腹部的蟹掩] to expose the orange crab roe inside. Remove the gills and the pale [灰白] heart. 
+
+> Crack the body of the crab in half [折成两半] and you'll expose more roe and white meat in the body. Pull off all the legs and claws with a twisting motion [拧下来]. To access the meat inside the legs and claws, you can try sucking on the legs or use the scissors,a chopstick or another crab legs to push it out. [把里面的肉推出来]
+
+# 6.dig in [phr.开吃] & peel & suck
 > 1)so dig in just means to start eating.You always hear someone say. OK, dig in, dig in.But you'll never really hear someone say eat eat eat.
 
 > 2)So this word peel here, so always for taking off the skin.Right. The outside.Peel a potato. Peel an apple. So we we use this word a lot for fruits, right?Right. And similarly we can peel the shell from you know a shrimp, crawfish, crab.
 
 > 3)When I think about suck I think about a straw. Drinking soda or cola with a straw /strɔ/ [n.吸管] you need to suck in.So a lot of people they like to eat bone marrow /'mæro/ [n.骨髓；精华；活力].So you'll suck on the bone to get the juices and the marrow out.Right, yeah. It's... most Westerners won't do that when they eat.
 
-# 4.wear the bib & put on goloves
+# 7.wear the bib & put on goloves
 > So eating crawfish can be quite a messy, you know thing. So they always provide you with a bib so you can you tie around your neck and it covers your the front of your shirt so you can, you know, not splash all over your nice maybe white shirt and then they give you gloves usually plastic so that your hands won't get on greasy and and messy.
 
 > 1)Usually we're talking about putting on is the action.I am wearing shoes, but I put on my shoes before I left my house.
@@ -35,7 +46,7 @@
 - Before we enter the factory.I'll ask you to please put on a safety helmet /'hɛlmɪt/ [n.头盔].
 - You put your sweater on backwards[穿反] again.
 
-# 5.punchy [adj.带劲儿] & kick [n.让人一振]
+# 6.punchy [adj.带劲儿] & kick [n.让人一振]
 > 1）punchy：So she is describing the flavor as having. It's very strong.So she've got like she says a lot of kick to it.So the flavor the, taste is both punchy like it's punching you.
 
 > 2)kick:Yes, exactly. So this flavor often contains a lot of spices /spaɪs/ [n.香料].Sometimes it'll be spicy /'spaɪsi/ [adj.辛辣的].Right. And then, they also say that the style of cooking is called thirteen spices[十三香].I've seen five spices[五香粉].
@@ -70,3 +81,10 @@
 ***Maybe I can search for a recipe and try to make it. We can invite a few friends over for a gumbo potluck dinner.***
 
 ***Sounds like a plan! Do you want more cold beer?***
+
+
+
+
+
+
+

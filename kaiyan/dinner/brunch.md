@@ -43,7 +43,6 @@
 
 ## 9）Eggs and tomato: 番茄炒蛋
 
-
 # 4.runny /ˈrʌni/ 稀的 & yolks /joʊks/ 蛋黄 & egg white /ɛg waɪt/ 蛋白 & beat /bit/ 打（蛋）& grated /ˈgreɪtɪd/ 碎的 & cholesterol /kəˈlɛstəˌrɔl/ 胆固醇
 
 
