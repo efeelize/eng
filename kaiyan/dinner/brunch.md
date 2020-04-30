@@ -33,15 +33,27 @@
 ## 4)scrambled eggs /ˈskræmbəld ɛgz/ 炒鸡蛋 
 
 
-## 5)sunny side up /ˈsʌni saɪd ʌp/ 单面煎蛋 & over easy /ˈoʊvər ˈizi/ 双面煎蛋 
+## 5)sunny side up /ˈsʌni saɪd ʌp/ 单面煎蛋 & over easy /ˈoʊvər ˈizi/ 双面煎蛋 & Over medium: 两面煎/蛋黄半熟 & Over hard: 两面煎/蛋黄全熟
 
 ## 6)rittatas /frɪˈtæt.ə/ 菜肉馅煎蛋饼 
 
-## 7)poached /poʊʧt/ 水煮（荷包蛋等） & hard boiled eggs [白煮蛋]
+## 7)poached /poʊʧt/ 水煮（荷包蛋等） & hard-boiled eggs [白煮蛋] & soft-boiled eggs [溏心蛋]
+> 1)So hard-boiled, this means that the yolk, the yellow part, inside of the egg is hard. 
+
+> 2)We also have the soft-boiled eggs, where the white part of the egg is as hard, but the inside is still soft.it's runny[流动的].
 
 ## 8）tea eggs [茶叶蛋] & soy sauce [酱油] 
+> tea eggs are the eggs that are cooked in soy sauce, and all these other, ingredients that they put in to soy sauce.
 
-## 9）Eggs and tomato: 番茄炒蛋
+## 9）Eggs (and) tomato [番茄炒蛋]
+> To me,egg and tomato sounds better, but Chinese is tomato egg.I think I'm more, I don't think I've ever thought about it, but I'm more likely, I think to say, egg tomato.the the base are the main part, would be the egg, the protein.
+
+## 10)Salted duck egg yolk: 咸蛋黄
+
+## 11
+
+
+
 
 # 4.runny /ˈrʌni/ 稀的 & yolks /joʊks/ 蛋黄 & egg white /ɛg waɪt/ 蛋白 & beat /bit/ 打（蛋）& grated /ˈgreɪtɪd/ 碎的 & cholesterol /kəˈlɛstəˌrɔl/ 胆固醇
 
