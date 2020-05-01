@@ -78,7 +78,8 @@
 
 # 12.sweet tooth /swit tuθ/ 喜爱甜食 & fave /feɪv/ 最喜欢的
 
-
+# 13.Nestle /'nɛsl/
+> This brand is known for instant coffee, bottled water [瓶装水], and chocolate.  it is number one on the list of largest food & beverage companies.
 
 
 

@@ -42,6 +42,8 @@
 
 # 8.sfilling /ˈfɪlɪŋ/ 馅料(如包子里的） & stuffing /ˈstʌfɪŋ/ 馅料（比如火鸡肚子里的馅料)
 
+# 9.sesame balls [芝麻球] 
+
 # III.pattern 
 ***I love dim sum! All the dishes are so delicious!***
 

@@ -6,12 +6,12 @@
 
 # 2.grapefruits /ˈɡreɪp.fruːt/ 葡萄柚 & pomelos /ˈpɒmə.loʊz/ 柚子 & tangerines /ˌtæn.dʒəˈriːnz/ 橘子 & clementines /ˈkleməntainz/ 柑橘 & mandarin orange /ˈmændərin ˈɔrindʒ/ 桔子
 
-# 3.berries /ˈberiz/ 浆果 & blueberry /ˈbluˌbɛri/ 蓝莓 & cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱]
+# 3.berries /ˈberiz/ 浆果 & blueberry /ˈbluˌbɛri/ 蓝莓 & cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱] & guacamole /ˌgwɑkəˈmoʊli/ 牛油果酱/鳄梨酱
 
 > 3)It's a sauce made of cranberries.so cranberries are like these little round red berries. Anyway, this is a very standard Thanksgiving dish, a sauce made of cranberries, it's pretty sweet and it goes great with the turkey.
 
 
-# 4.persimmons /pəˈsimənz/ 柿子 & avocado /ˌævəˈkɑdoʊ/ 鳄梨，牛油果
+# 4.persimmons /pəˈsimənz/ 柿子 & avocado /ˌævəˈkɑdoʊ/ 鳄梨，牛油果 & chestnut /'tʃɛsnʌt/ [n.栗子]
 
 
 

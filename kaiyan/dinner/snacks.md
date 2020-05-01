@@ -1,48 +1,71 @@
-# snacks
-# I.
+# Snacks
+# I.chips
+# 1.French fries /frɛnʧ fraɪz/ [薯条] 
+> in America we call these things chips, in England they have something else that they called chips.Chips for British people are French fries, so we call them French fries.
 
+# 2.Doritos corn chips [多力多滋玉米片] & nacho /ˈnɑˌtʃo/ chips & tortilla /tɔ'tijə/ chips
 
+# 3.Lays potato chips [乐事薯片]
 
+# 4.Pringles [品客] & Cheetos puffs [奇多] 
 
-# II.grammar
-# 1.beef jerky /bif ˈʤɜrki/ [牛肉干] & pork jerky [猪肉干] & Trukey jerky [n.火鸡肉干] & dried fish [n.鱼片干] & dried cuttlefish [n.鱿鱼丝] 
+# 5.wasabi /ˈwɑsəbi/[n.芥末酱]
 
+# II.candy & chocolate
+# 1.Gummy bears [n.小熊软糖] & elly beans [n.糖豆] & Twizzlers licorice [紐紐乐力可糖] 
 
-# 2.duck tongues [n.鸭舌] & duck wings [鸭翅] & chicken feet [n.凤爪]
+# 2.Caramel /'kærəm(ə)l/ [n.焦糖] 
 
+# 3.Praline [n.果仁焦糖]
 
-# 3.crackers /ˈkrækərz/ 【咸饼干（英美通用）】 & cookies /ˈkʊkiz/ [甜饼干、曲奇(美式)] & biscuit [英式] & Rice crackers [米饼，旺旺雪饼]
+# 4.Candy / chocolate bars /ˈʧɔklət bɑrz/ 巧克力条 & Snickers /ˈsnɪkərz/ 士力架（巧克力品牌）
 
+# 5.Assorted /ə'sɔrtəd/ chocolate [n.什锦巧克力] & Gift boxes [n.礼盒] 
 
-# 4.preserved plums /plʌm/ [n.蜜饯、话梅] & seaweed /'si'wid/ [n.海苔] & Spicy gluten /'ɡlutn/ [n.辣条]
+# 6.White/Milk/Dark chocolate [白/牛奶/黑巧克力] 
 
-# 5.French fries /frɛnʧ fraɪz/ [薯条] & chips /ʧɪps/ [薯片] & corn chips & nacho /ˈnɑˌtʃo/ chips & tortilla /tɔ'tijə/ chips & Potato chips
+# 7.Raw chocolate [n.生巧克力] 
 
-# 6.Lays[n.乐事] & Pringles [品客] & Cheetos [奇多] & Snickers /ˈsnɪkərz/ 士力架（巧克力品牌）
+# 8.Truffle /'trʌfl/ [n.松露巧克力] 
 
-# 7.Gummy bears [n.小熊软糖] & Jelly beans [n.糖豆] & Twizzlers [n.扭扭糖] & Caramel [n.焦糖] & Praline [n.果仁焦糖]
+# 9.Ganache /gə'næʃ/ [n.巧克力酱] & Cocoa /'koko/ powder [可可粉] 
 
+# 10.crunchy /ˈkrʌnʧi/ [酥脆的] & Chewy [n.粘牙] & Velvety /'vɛlvəti/ [n.天绒鹅般丝滑] & Silky [n.丝滑] & Smooth [n.丝滑] & Soft center [n.松软的芯] 
 
-# 8.Candy / chocolate bars /ˈʧɔklət bɑrz/ 巧克力条 & Assorted /ə'sɔrtəd/ chocolate [n.什锦巧克力] & Gift boxes [n.礼盒] 
+# III.nuts
+# 1.almonds /ˈɑlməndz/ [杏仁] 
 
+# 2.cashews /ˈkæˌʃuz/ [腰果] 
 
-# 9.White/Milk/Dark chocolate [白/牛奶/黑巧克力] & Raw chocolate [n.生巧克力] & Truffle /'trʌfl/ [n.松露巧克力]
+# 3.pistachios /pəˈstæʃiˌoʊz/ 开心果 
+> I remember coming to China many years ago and learning the Chinese name for this is "happy nut".And I mean if you think about the shell, the way that it's kind of open, it looks like it's smiling.
 
+# 4.Walnuts /'wɔ:lnʌt/ [核桃] & pecan /pɪ'kɑn/ [碧根果]
 
-# 10.Soft center [n.松软的芯] & Ganache /gə'næʃ/ [n.巧克力酱] & Cocoa /'koko/ powder [可可粉] 
+# 5.Seeds [n.瓜子] & to shell seeds [phr.嗑瓜子]
 
+# 6.pinenut /paɪn nʌt/ [松仁，松子]
 
-# 11.nuts /nʌts/ 坚果 & almonds /ˈɑlməndz/ 杏仁 & cashews /ˈkæˌʃuz/ 腰果 & pistachios /pəˈstæʃiˌoʊz/ 开心果 & Walnuts /'wɔ:lnʌt/ [核桃] & Seeds [n.瓜子] & to shell seeds [phr.嗑瓜子]
+# IV.Chinese snacks
+# 1.beef jerky /bif ˈʤɜrki/ [牛肉干] & pork jerky [猪肉干] & Trukey jerky [n.火鸡肉干] 
 
+# 2.dried fish [n.鱼片干] & dried cuttlefish [n.鱿鱼丝] 
 
-# 12.to snack [phr.吃零食] & to snake on sth [phr.吃某种零食] & snacker /ˈsnækər/ 爱吃零食的人 & a sometimes-food [偶尔吃吃]
+# 3.duck tongues [n.鸭舌] & duck wings [鸭翅] & chicken feet [n.凤爪]
 
+# 4.preserved plums /plʌm/ [n.蜜饯、话梅] & raisin /'rezn/ [n.葡萄干]
 
-# 13.crunchy /ˈkrʌnʧi/ 酥脆的 & Chewy [n.粘牙] & Velvety /'vɛlvəti/ [n.天绒鹅般丝滑] & Silky [n.丝滑] & Smooth [n.丝滑]
+# 5.seaweed /'si'wid/ [n.海苔] 
 
+# 6.Spicy gluten /'ɡlutn/ [n.辣条]
 
+# IV.grammar
+# 1.to snack [phr.吃零食] & to snake on sth [phr.吃某种零食] & snacker /ˈsnækər/ 爱吃零食的人 & a sometimes-food [偶尔吃吃]
 
-# III.pattern
+# 2.cut back on + n. [phr.减少]
+> cut back, which always is followed by on. so I'm trying to cut back on sugar.So it means use less sugar.you can cut back on any bad thing,smoking,drinking...
+
+# V.pattern
 ***We’ve got everything we need for dinner. Do we need anything else?***
 
 ***Um, we’re running low on snacks. Let’s grab some more.***

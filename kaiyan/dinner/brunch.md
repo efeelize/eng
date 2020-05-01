@@ -1,10 +1,20 @@
-# brunch
-# I.
+# Breakfast_Brunch
+# I.Cereals and cartoon characters
+> 
+
+
+# II.The brunch culture
+> The word brunch combines "breakfast" and "lunch". It started in 19th century England, but over the past 100 years, it has become very popular in North America as well. Originally, brunch was enjoyed by people coming home from church on Sunday morning. Over time, people who didn’t go to church started to enjoy it. 
+
+> Generally speaking, brunch fans love two things about brunch: one, it allows people to sleep in. Two, it allows people to drink at lunchtime. What’s not to love? Many enjoy getting together with friends or family over a long brunch. Many restaurants seizing on the new opportunity have started to offer gourmet brunch dishes, such as the truffle omelet we learned in today's lesson. 
+
+# II.dishes
 
 
 
 
-# II.
+
+# III.grammar
 # 1.ask
 ## (1)How do/would/ you like + n...
 > we can also use them about anything to find out what someone thinks about something.
@@ -31,7 +41,6 @@
 ## 3)hashbrowns /ˌhæʃ ˈbraʊnz/ 洋葱土豆煎饼 
 
 ## 4)scrambled eggs /ˈskræmbəld ɛgz/ 炒鸡蛋 
-
 
 ## 5)sunny side up /ˈsʌni saɪd ʌp/ 单面煎蛋 & over easy /ˈoʊvər ˈizi/ 双面煎蛋 & Over medium: 两面煎/蛋黄半熟 & Over hard: 两面煎/蛋黄全熟
 
@@ -60,7 +69,7 @@
 
 
 
-# 5.pancakes /ˈpænˌkeɪks/ 松饼 & waffles /ˈwɑfəlz/ 华夫饼 & hash browns /hæʃ braʊnz/ 煎薯饼 & avocado toast /ˌævəˈkɑːdoʊ toʊst/ 牛油果吐司 & quiche /kiʃ/ 牛奶蛋饼（用牛奶、鸡蛋做成的馅儿饼）& English muffin /ˈɪŋglɪʃ ˈmʌfən/ 英式麦芬（一种松饼）& crumpet /ˈkrʌm.pɪt/ 烤松饼 & crab cake /kræb keɪk/ 蟹饼
+# 5.pancakes /ˈpænˌkeɪks/ 松饼 & waffles /ˈwɑfəlz/ 华夫饼 & hash browns /hæʃ braʊnz/ 煎薯饼 & avocado toast /ˌævəˈkɑːdoʊ toʊst/ 牛油果吐司 & quiche /kiʃ/ 牛奶蛋饼（用牛奶、鸡蛋做成的馅儿饼）& English muffin /ˈɪŋglɪʃ ˈmʌfən/ 英式麦芬（一种松饼）& crumpet /ˈkrʌm.pɪt/ 烤松饼 & 
 
 
 # 6.Canadian back bacon /kəˈneɪdiən bæk ˈbeɪkən/ 加拿大培根（一种腌制的培根）
