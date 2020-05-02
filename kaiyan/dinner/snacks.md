@@ -46,6 +46,10 @@
 
 # 6.pinenut /paɪn nʌt/ [松仁，松子]
 
+# 7.hazelnut /'hezlnʌt/ [榛果]
+
+# 8.chesnuts [栗子]
+
 # IV.Chinese snacks
 # 1.beef jerky /bif ˈʤɜrki/ [牛肉干] & pork jerky [猪肉干] & Trukey jerky [n.火鸡肉干] 
 

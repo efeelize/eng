@@ -9,44 +9,18 @@
 > No matter if you are eating crawfish in New Orleans or small lobsters in Shanghai, be sure to wear a bib /bɪb/ [n.围裙], or at least have a bunch of paper towels nearby: It's definitely a fun meal to eat, but it sure can be messy!
 
 # II.grammar
-# 1.type
-## 1)crawfish /'krɔ'fɪʃ/ [n.小龙虾]  
-> this small lobster is a crawfish but you know I don't want to be too annoying here. But is a lobster a fish?No, it's more like a shrimp, right?Yeah,But we use this word fish for a lot of words that aren't really fish though, 
+# 1.work your way up/around + ... [phr.逐步操作、逐步进行] & "work one's way through college/university/school [半工半读]
+>  "work one's way" means to do something slowly and with great effort or work.  the whole time you know like working very hard. So we have this phrase work your way up, which usually means like at work we say work your way up the corporate ladder, means you start as, you know, that delivery guy, and you work your way up to the CEO.It can be used in almost any situation, especially when the situation is difficult.
 
-## 2)shellfish /'ʃɛl'fɪʃ/ [n.甲壳类动物]
-> So a lot of these seafood related animals like you know crawfish, like oysters.They all have a shell.And they're all called shellfish.Even though they're not fish.Right. But they come in a shell and they're from the sea. So we call them shellfish.
+- 1. I'm working my way up the corporate ladder.[一步步在职场打拼、晋升]
 
-## 3）Hairy crab [n.大闸蟹] 
+- 2. Because everyone wanted to talk to her, it took a long time for her to work her way across the room.
 
-## 4）Edible crab / brown crab [面包蟹] 
+- 3. The students are working their way through a difficult math problem.
 
-## 5）Dungeness crab [珍宝蟹] 
-> Native to the port of Dungeness, Washington [珍宝蟹原产地在华盛顿的Dungeness海港，因此得名], the flesh of the Dungeness crab has a naturally sweet and delicate [细腻] flavor. Along with snow crabs, which are known for their long, meaty legs, these crabs are often served as a plate of boiled legs with lemon butter for dipping [煮熟，然后蘸融化的黄油汁、配柠檬汁吃]. 
+- 4. This book is a little difficult to understand, but I'm still working my way through it.
 
-## 6）Alaskan king crab [阿拉斯加帝王蟹]
-> These crabs are very large with long, meaty legs. In fact, Americans love to just eat the legs, not the body, which is trickier to eat. Just like the Dungeness, boiled legs with lemon butter for dipping is the best way to enjoy it [水煮蘸黄油柠檬汁是最佳的享用方法]. 
-
-## 7)Snow crab [雪蟹]
-> Snow crabs vary a bit in size depending on the variety. They generally don't have extra long legs like king crabs do. But the legs are still very sweet and meaty. 
-
-## 8)Soft shell crab [软壳蟹] & Blue crab [蓝蟹]
-> The most common species of soft-shell crab eaten in America is the blue crab, where it can be caught along the East Coast. It's often dipped in batter, then deep-fried.[通常裹一层面粉糊、油炸着吃] 
-
-## 9）Crab cakes [蟹肉饼] & Crab feast [蟹宴]
-> Another way Americans love to eat their crab besides boiling is by extracting the meat and adding a flour mix with seasonings [调味料] to create a crab cake. Lightly fry [稍煎一下] both sides and you're all set. 
-
-## 10)bisque /bɪsk/ [海鲜汤]
-> For the crabs that don't pass market standards [品质不是太高的蟹], they might be used to create bisque, a smooth [浓郁], creamy and flavorful soup of French origin [法式汤].
-
-## 11)orange crab roe /ro/ [蟹黄（母螃蟹）/ 蟹膏（公螃蟹）]  
-> 1)roe is like eggs.
-
-> 2)Flip the crab over and crack open the flap on the crab's belly [腹部的蟹掩] to expose the orange crab roe inside. Remove the gills and the pale [灰白] heart. 
-
-## 12)pincer /ˈpɪnsɚ/ [蟹钳] & gills /gɪl/ [蟹腮] & claws [蟹爪]
-> 1)we call it hairy crab because it's got hairy pincers.
-
-> 2)Crack the body of the crab in half [折成两半] and you'll expose more roe and white meat in the body. Pull off all the legs and claws with a twisting motion [拧下来]. To access the meat inside the legs and claws, you can try sucking on the legs or use the scissors,a chopstick or another crab legs to push it out. [把里面的肉推出来]
+- 5. Our daughter is very independent. She is working her way through college.
 
 # 2.dig in [phr.开吃] & peel & suck
 > 1)so dig in just means to start eating.You always hear someone say. OK, dig in, dig in.But you'll never really hear someone say eat eat eat.
@@ -85,18 +59,53 @@
 # 6.foodfie [n.美食照片]
 > Fie as in selfie.Okay. Yeah, this is just yes the most common thing at any restaurant now. Take a picture of the food.
 
-# 7.work your way up/around + ... [phr.逐步操作、逐步进行] & "work one's way through college/university/school [半工半读]
->  "work one's way" means to do something slowly and with great effort or work.  the whole time you know like working very hard. So we have this phrase work your way up, which usually means like at work we say work your way up the corporate ladder, means you start as, you know, that delivery guy, and you work your way up to the CEO.It can be used in almost any situation, especially when the situation is difficult.
+# III.Crawfish & Crab
+# 1.crawfish /'krɔ'fɪʃ/ [n.小龙虾]  
 
-- 1. I'm working my way up the corporate ladder.[一步步在职场打拼、晋升]
+# 2.Hairy crab [n.大闸蟹] 
 
-- 2. Because everyone wanted to talk to her, it took a long time for her to work her way across the room.
+# 3.Edible crab / brown crab [面包蟹] 
 
-- 3. The students are working their way through a difficult math problem.
+# 4.Soft shell crab [软壳蟹] & Blue crab [蓝蟹]
+> The most common species of soft-shell crab eaten in America is the blue crab, where it can be caught along the East Coast. It's often dipped in batter, then deep-fried.[通常裹一层面粉糊、油炸着吃] 
 
-- 4. This book is a little difficult to understand, but I'm still working my way through it.
+# 5.Dungeness crab [珍宝蟹] 
+> Native to the port of Dungeness, Washington [珍宝蟹原产地在华盛顿的Dungeness海港，因此得名], the flesh of the Dungeness crab has a naturally sweet and delicate [细腻] flavor. Along with snow crabs, which are known for their long, meaty legs, these crabs are often served as a plate of boiled legs with lemon butter for dipping [煮熟，然后蘸融化的黄油汁、配柠檬汁吃]. 
 
-- 5. Our daughter is very independent. She is working her way through college.
+# 6.Alaskan king crab [阿拉斯加帝王蟹]
+> These crabs are very large with long, meaty legs. In fact, Americans love to just eat the legs, not the body, which is trickier to eat. Just like the Dungeness, boiled legs with lemon butter for dipping is the best way to enjoy it [水煮蘸黄油柠檬汁是最佳的享用方法]. 
+
+# 7.Snow crab [雪蟹]
+> Snow crabs vary a bit in size depending on the variety. They generally don't have extra long legs like king crabs do. But the legs are still very sweet and meaty. 
+
+# 8.Crab Rangoon [蟹角]
+> This American Chinese appetizer is a deep-fried wonton filled with cream cheese and crab meat, or imitation crab meat [由鱼肉做成的仿制蟹肉].
+
+# 9.Crab cakes [蟹肉饼] & Crab feast [蟹宴]
+> Another way Americans love to eat their crab besides boiling is by extracting the meat and adding a flour mix with seasonings [调味料] to create a crab cake. Lightly fry [稍煎一下] both sides and you're all set. 
+
+# 10.bisque /bɪsk/ [海鲜汤]
+> For the crabs that don't pass market standards [品质不是太高的蟹], they might be used to create bisque, a smooth [浓郁], creamy and flavorful soup of French origin [法式汤].
+
+# 11.orange crab roe /ro/ [蟹黄（母螃蟹）/ 蟹膏（公螃蟹）]  
+> 1)roe is like eggs.
+
+> 2)Flip the crab over and crack open the flap on the crab's belly [腹部的蟹掩] to expose the orange crab roe inside. Remove the gills and the pale [灰白] heart. 
+
+# 12.pincer /ˈpɪnsɚ/ [蟹钳] & gills /gɪl/ [蟹腮] & claws [蟹爪]
+> 1)we call it hairy crab because it's got hairy pincers.
+
+> 2)Crack the body of the crab in half [折成两半] and you'll expose more roe and white meat in the body. Pull off all the legs and claws with a twisting motion [拧下来]. To access the meat inside the legs and claws, you can try sucking on the legs or use the scissors,a chopstick or another crab legs to push it out. [把里面的肉推出来]
+
+# IV.shellfish /'ʃɛl'fɪʃ/ [n.甲壳类动物] & Fish
+> So a lot of these seafood related animals like you know crawfish, like oysters.They all have a shell.And they're all called shellfish.Even though they're not fish.Right. But they come in a shell and they're from the sea. So we call them shellfish.
+
+# 1.
+
+
+
+
+
 
 # III.pattern
 ***Wow, our crawfish is here! Let me take a foodfie first!***

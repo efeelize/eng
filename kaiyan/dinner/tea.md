@@ -19,13 +19,21 @@
 # 4.Chamomile  /'kæməmaɪl/ [n. 甘菊]
 > chamomile is a flower.And if I guess, well, similar to China. It's a flower tea. Okay so boil the flower, dry the flowers in hot water and then drink.
 
-# 5.Jasmine tea [茉莉花茶]
-s
+# 5.Jasmine /ˈdʒæzmɪn/ tea [茉莉花茶] & Osmanthus /ɔz'mænθəs/ tea [桂花茶]
+
 # 6.Earl Gray [n.伯爵红茶] 
 > so Earl Gray, this is a tea that my mom always really likes to drink actually. And it's like a black tea and it has like a hint, we say a little taste of oranges right?It's really light and it's really nice.
 
-# 7.loose leaf teas [n.散装茶]
+# 7.Ceylon /sɪˈlɑn/ [锡兰茶]
+
+# 8.Herbal tea [草本茶] & fruit/flavored tea [水果茶]
+
+# 9.peppermint [薄荷茶]
+
+# 10.loose leaf teas [n.散装茶] & tea bag
 > loose leaf teas:All these other ones come from like real tea leaves and this is more like a flower tea. and then here, at this restaurant they're all loose leaf teas, not tea bags.That just means both tea leaves which does not in the bag. In England, very very commonly most of the tea that you will drink comes in a tea bag. It's not like China, China likes the loose leaf teas.I know in America too, yeah. When you go and buy tea in the store, they usually come in these little different bags, and each bag you know, you put in one cup and you can actually use it a couple times depending on the tea.
+
+# 8.oolong /ˈuˌlɔŋ/ [乌龙]
 
 # II.tea-based drinks [n.茶饮]
 # 1.Triple citrus /ˈsɪtrəs/ [橙柚派对] & citrus fruit [n.柑橘类水果]
@@ -35,10 +43,10 @@ s
 # 3.Citrus mint mojito [n.橘香莫吉托] & Peppermint /'pɛpɚmɪnt/ [n. 薄荷]
 > peppermint, I think yeah, it's pepper, mint flavor tea. Peppermint is like this little green leaf and it's very, I like peppermint gum.Makes your breath nice. 
 
-# III.Bubble /Pearl（milk） tea [n.奶茶]
+# III.Bubble /Pearl（milk）tea [n.奶茶]
 # 1.Matcha [抹茶]
 
-# 2.Taro milk tea [香芋奶茶]
+# 2.Taro /ˈtɑro/ milk tea [香芋奶茶]
 
 # 3.dirty tea [脏脏茶]
 
@@ -46,8 +54,10 @@ s
 
 # 5.Cheese topped tea [奶盖]
 
-# 6.Topping [（菜肴、蛋糕等上的）浇汁，佐料] & Tapioca /.tæpi'əʊkə/ [木薯粉] & Grass jelly [仙草] & Coconut jelly:[椰果] & Sago [西米]
+# 6.Topping [（菜肴、蛋糕等上的）浇汁，佐料] & Tapioca /.tæpi'əʊkə/ [木薯粉] & Grass jelly [仙草] & Coconut jelly:[椰果] & Sago /'seɡo/ [西米]
 
+# 7.milk tea buffs [奶茶控]
+> milk tea buffs know that they should cut down on bubble tea.
 
 
 

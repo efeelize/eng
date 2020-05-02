@@ -111,7 +111,7 @@
 
 # IV.bakery 
 # 1.type
-## 1)Sliced bread [吐司面包] & Toast [烤面包片] & toaster [n.烤面包机] & smores [棉花糖三明治]
+## 1)Sliced bread [吐司面包] & avocado toast /ˌævəˈkɑːdoʊ/  [牛油果吐司] & toaster [n.烤面包机] & smores [棉花糖三明治]
 > 1)This is the bread that has already been cut and you usually make toast with it. Typically, you have white bread, whole wheat bread which is brown, and rye /raɪ/ bread [n.黑面包] which is dark brown.
 
 > 2)if you go camping, so I think we've talked about outdoor sports in summer and camping and making smores.So you have to toast, add a little fire to the outside of the marshmallows.Yes, it'll go a little bit burnt, some people like that golden brown toast, some people like burnt toast.
@@ -146,7 +146,7 @@
 > 3)Often people will just eat the cookie dough.hat was my favorite part about, like baking cookies or just having the dough.
 
 ## 9)Bagels /beɪdʒəl/ /beɪgəl/ [硬面包圈；百吉饼；贝果面包] & Donut /ˈdoʊnʌt/ [甜甜圈]
-> This is the signature breakfast bread in New York. But, it actually comes from the Jewish community in Poland. Bagels look like doughnuts but they are not deep fried and covered in sugar. It’s pronounced [beɪgəl], not [beɪdʒəl]. The best way to enjoy a bagel is with cream cheese.
+> Bagels look like doughnuts but they are not deep fried and covered in sugar. It’s pronounced [beɪgəl], not [beɪdʒəl]. The best way to enjoy a bagel is with cream cheese.Nothing is more New York than the dense, chewy texture of a toasted bagel [浓稠有嚼劲的烤百吉饼], a type of baked bread with Polish origins, paired with cream cheese. For those who love smoked salmon [熏三文鱼], it's called "lox" when you order it with your bagel.
 
 ## 10) pretzel /prɛtzəl/ [蝴蝶脆饼]
 > Pretzels are twisted and look like hearts. Most importantly, they are very salty! They are very popular at food stands and are best eaten with some yellow mustard. When you say pretzel, break it into two syllables, [prɛt] and [zəl],  [prɛtzəl].
@@ -164,12 +164,19 @@
 ## 14)White / Brown / rye /raɪ/ bread：白/黑面包 
 > White bread is the most common type of bread, it's not very healthy but it tastes really good.
 
-## 15)Whole wheat bread/ whole grain [全麦面包] 
+## 15)Whole wheat bread/ whole grain [全麦面包] & Multigrain bread [杂粮面包]
 > It's brown and has little pieces, seeds, things.so whole grain looks healthier.
 
-## 16)Multigrain bread：杂粮面包
+## 16)Pancakes & waffles 
+> 1)Pancakes:it's very basic brunch items,usually drizzled /'drɪzl/ with [滴上] maple syrup/'sɪrəp/ [枫糖浆] and topped with a slice of butter or two, pancakes are not the healthiest breakfast option, nor the easiest to prepare. Pancake batter /'bætɚ/ [面糊] is usually mixed the morning of, but there are frozen options [冰冻面糊] for those who don't have the time to make fresh pancakes.
+
+> 2)waffles:It's very similar to pancakes, also a bit sweet, but here they come with candied walnuts.so if this is the type of nut, that is probably cooked in sugar,probably also some butter.
 
 ## 17)swiss roll [n.瑞士卷]
+
+## 18)Croutons /'kru:tɔn/ [烤碎面包块]
+
+## 19)crumpet /ˈkrʌm.pɪt/ [烤松饼] 
 
 # 2.loaves /loʊvz/ [条，几条面包] & couple [两个，多个] & dozen [12个] & baker's dozen [13个]
 > 1)so a loaf of bread is the big piece, it's like many pieces.A single piece of bread before you slice the bread, it's a single loaf, one big loaf of bread. a loaf you can get sourdough /'saʊɚdo/ [酵母面包] loaf…White bread, anything that kind of comes in a bag is usually a loaf.

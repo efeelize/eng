@@ -31,7 +31,6 @@
 > now minced here is basically chopped very finely.
 
 # 2.Cold noodles [凉皮、凉面] & Gluten /'ɡlutn/ [面筋] & Barbecue cold noodle: [烤冷面（突出烤)] 
-> 
 
 # 3.Noodles with peas and meat [n.豌杂面]
 
@@ -39,7 +38,8 @@
 
 # 5.zhajiang noodles /zhajiang ˈnudəlz/ [炸酱面] & soybean paste /ˈsɔɪˌbin peɪst/ [豆瓣酱] & soybean /ˈsɔɪˌbin/ [大豆，黄豆] 
 
-# 6.stir-fried noodles /ˈstɝː-fraɪd ˈnuːdəls/ 炒面
+# 6.stir-fried /ˈstɝː-fraɪd/ noodles / Chow mein [炒面]
+> a classic chinese dish of stir-fried egg noddles with shredded /ʃrɛd/ [vt.切成条状] chicken breast-experiment with differnent fish,meat,or vegetables.
 
 # 7.udon /ˈuːdɒn/ 乌冬面
 
@@ -53,6 +53,8 @@
 # 11.thin /θɪn/ noodles [细面]
 
 # 12.thick /θɪk/ noodles [粗面]
+
+# 13.hot and sour soup [酸辣汤]
 
 # III.pasta noodles 
 # 1.pasta /ˈpɑːstə/ 意大利面（意面总称） 
@@ -96,7 +98,7 @@
 # 1.sweet and sour sauce [酸甜] & tangy /'tæŋi/
 > at least from an American point of view, this is going to be like the most common Chinese sauce.we would also call that tangy, that's the adjective if something is both sweet and sour.
 
-# 2.peanut /ˈpinət/ almond /'ɑmənd/ cashew /'kæʃʊ/ butter [花生酱] & peanut oil [花生油] 
+# 2.peanut /ˈpinət/ almond /'ɑmənd/ cashew /'kæʃʊ/ butter [花生/杏仁/腰果酱] & peanut oil [花生油] 
 > so this may sound strange if you think peanuts mixed with butter. It doesn't have actual butter.There's no butter. It's just when you blend it to form a paste /pest/ [糊状].And now very popular is almond butter.
 
 # 3.sesame oil /'sesəmi/ [芝麻油]
@@ -111,7 +113,7 @@
 
 # 7.Cilantro /sɪ'læntro/ [n.香菜] & parsley /'pɑrsli/ [n.西芹]
 
-# 8.Scallions /'skælɪən/ [大葱葱花]
+# 8.Scallions /'skælɪən/ [大葱葱花] & Leek slices [n.京葱丝] 
 
 # 9.mixture sauce [混合酱料]
 

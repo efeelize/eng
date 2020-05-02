@@ -20,31 +20,36 @@
 
 - 5. It's such a pleasure to meet you. I'm a big fan.
 
-# 2.dim sum /dɪm sʌm/ 点心
-
-# 3.siu maai / pork dumplings /pɔrk ˈdʌmplɪŋz/ 烧卖 & shrimp dumplings /ʃrɪmp ˈdʌmplɪŋz/ 虾饺 & wonton [混沌]
+# III.dim sum /dɪm sʌm/ [点心]
+# 1.siu maai / pork /pɔrk/ dumplings [烧卖] & shrimp dumplings [虾饺] & wonton [混沌]
 > 1)A lot of times in America at like a Cantonese restaurant, you'll see "siu maai", I've actually never called them pork dumplings myself.because I think most of the dumplings that Chinese people make do have pork in.
 
 > 2)Maybe the most authentic Chinese food, wonton soup is something I'm sure you've all had before. Pork, and often shrimp and veggies, wrapped in a tasty dumpling skin and served in a delicious broth. 
 
-# 4.BBQ pork buns /ˈbibiˌkju pɔrk bʌnz/ 叉烧包 & BBQ pork pastries /ˈbibiˌkju pɔrk ˈpeɪstriz/ 叉烧酥
+# 2.bamboo steamers /bæmˈbu ˈstimərz/ [竹蒸笼] & steamed /stimd/ [蒸的]
+> So these are gonna be the little round baskets that they basically steam the food in.
 
-# 5.rice noodle rolls /raɪs ˈnudəl roʊlz/ 肠粉
+# 3.Sweet and sour pork [n.咕咾肉]
+> Boned [去骨],battered /'bætɚd/ [裹着面糊],and deep-fried chicken which is then dressed with a translucent  /træns'lusnt/ [半透明] red or orange,sweet and mildly spicy sauce.
+
+# 4.BBQ pork buns /bʌnz/ [叉烧包] & BBQ pork pastries /ˈpeɪstriz/ [叉烧酥]
+
+# 5.rice noodle rolls /raɪs ˈnudəl roʊlz/ [肠粉]
 > it's usually pretty long, you need to dip it in the soy sauce. Oh, so good! 
 
-# 6.turnip /'tɝnɪp/ radish /ˈrædɪʃ/  cake 萝卜糕 & carrot cake /ˈkærət keɪk/ 胡萝卜蛋糕
+# 6.turnip /'tɝnɪp/ radish /ˈrædɪʃ/ cake [萝卜糕] & carrot cake /ˈkærət keɪk/ [胡萝卜蛋糕]
 > 1)one thing to note too is that a lot of times on the menu, they will call it a "turnip cake" instead of a "radish cake". So, depending on the restaurant you go to, it could be either or.
 
 > 2)So "carrot cake" would be a carrot cake, and we actually do have that as a dessert, and it's really tasty but you're not going to find that at a regular Cantonese restaurant, probably.
 
-# 7.bamboo steamers /bæmˈbu ˈstimərz/ 竹蒸笼 & steamed /stimd/ 蒸的
-> So these are gonna be the little round baskets that they basically steam the food in.
+# 7.sesame balls [芝麻球] 
 
-# 8.sfilling /ˈfɪlɪŋ/ 馅料(如包子里的） & stuffing /ˈstʌfɪŋ/ 馅料（比如火鸡肚子里的馅料)
+# 8.pot stickers [锅贴]
+> Wontons that haves been browned and steamed or simmered are called pot stickers.Serve them as an appetizer or a main course.
 
-# 9.sesame balls [芝麻球] 
+# 9.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
 
-# III.pattern 
+# IV.pattern 
 ***I love dim sum! All the dishes are so delicious!***
 
 ***Yeah, the little bamboo steamers are so cute too. By the way, your Cantonese is pretty good.***

@@ -10,7 +10,7 @@
 # 1.type
 ## 1)smoked fish /smoʊkt fɪʃ/ [n.熏鱼] & Flash Fried River shrimp [油爆河虾]
 
-## 2)seitan /ˋsetæn/ [面筋、烤麸] & gluten /ˈglutən/ [麸质; 面筋]
+## 2)seitan /ˋsetæn/ / gluten /ˈglutən/ [面筋、烤麸] 
 > And that's true it is gluten, but we don't really call it that as a dish.Everything is gluten free. Like gluten is a really bad word right now, so this dish is only gluten, so you really don't want to call it that. So Diana and I we both know this word seitan, we don't really know where it comes from.Asia probably, anyway. So no matter where it comes from and just don't call it gluten in English.
 
 ## 3)soy braised pork /sɔɪ breɪzd pɔrk/ [红烧肉] & Deep fired pork cutlet /'kʌtlət/ [n.炸猪排]

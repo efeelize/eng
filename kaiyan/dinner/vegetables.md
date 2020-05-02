@@ -1,10 +1,8 @@
-# vegetables & salad 
-# I.
+# Vegetables & Salad 
+# I.Dipping culture
+> We North Americans love our dips, but it's not always easy to explain our love to people from other cultures. A dip is like a sauce, but it's much thicker. Then, you take some chips, crackers /'krækɚz/ [饼干], bread or vegetables and use them to eat the dip. this is knid of like a sauce,but it's a lot thicker in consistency and it usually has chunks of things.
 
-
-
-
-
+> So the word "dip" is both the sauce and the action of eating the sauce. There are so many different kinds of dips: some, like spinach dip, are full of calories so you really should just have a little bit. Other, like hummous /ˈhʊməs/ [鹰嘴豆泥], salsa sɑlsə/ [辣调味汁] or guacamole /ˌɡwɑkəˈmoli/ [鳄梨酱] are actually pretty healthy. So feel free to dip as much as you like!
 
 # II.grammr 
 # 1.up to [phr.不亚于但不超过]
@@ -20,53 +18,60 @@
 
 - 5. Did you hear that the temperature will get up to 40 degrees tomorrow?
 
+# 2.
 
 
-# 2.greens /grinz/ 绿色蔬菜、绿叶菜 & leafy vegetables /ˈlifi ˈvɛʤtəbəlz/ 绿叶蔬菜、叶子菜 & spinach /ˈspɪnəʧ/ 菠菜 & Romaine lettuce [罗马生菜] & Arugula/Rocket [芝麻菜]
+# III.vegetable
+# 2.greens [绿色蔬菜、绿叶菜] & leafy /ˈlifi/ vegetables  [绿叶蔬菜、叶子菜] & veggies /ˈveʤiz/ [蔬菜] (俚语)
 
+# 3.spinach /ˈspɪnəʧ/ 菠菜 
 
-# 3.asparagus /əˈspɛrəgəs/ 芦笋 & Zucchini /zuˈkini/ [n.角瓜、西葫芦]
+# 4.Romaine lettuce [罗马生菜] 
 
-# 4.quinoa /ˈkin wɑ/ 藜麦 & grain /greɪn/ 谷物 & Croutons [小面包干]
+# 5.Arugula/Rocket [芝麻菜] 
 
+# 6.bok choy /bɑk ʧɔɪ/ [青菜] 
 
-# 5.edamame /ˌɛd əˈmɑ meɪ/ 毛豆 & chick peas /ʧɪk piz/ 鹰嘴豆 & French beans [豇豆]
+# 7.cabbage /ˈkæbəʤ/ [卷心菜]
 
+# 8.cauliflower /'kɔlɪ'flaʊɚ/ [花菜] & broccoli /'brɑkəli/ [西兰花]
 
+# 9.green bean [四季豆] & edamame /ˌɛd əˈmɑ meɪ/ [毛豆] & chick peas /ʧɪk piz/ [鹰嘴豆] & French beans [豇豆] & red beans [n.红豆]
 
-# 6.brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝]  & kale /keɪl/ [羽衣甘蓝] & 
-> 1)Brussels sprouts are like tiny tiny little cabbages /'kæbidʒ/ [n.甘蓝；卷心菜].there like these little round green vegetables yeah, little small cabbages, and they're usually really good with bacon,some little bit of fried bacon /ˈbekən/ like chopped up with the brussels sprouts, really good.
+# 10.brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝]  & kale /keɪl/ [羽衣甘蓝] 
+> Brussels sprouts are like tiny tiny little cabbages /'kæbidʒ/ [n.甘蓝；卷心菜].there like these little round green vegetables yeah, little small cabbages, and they're usually really good with bacon,some little bit of fried bacon /ˈbekən/ like chopped up with the brussels sprouts, really good.
 
-# 7.mashed potatoes [n.土豆泥] & turkey /'tɝki/ & pumpkin /'pʌmpkɪn/ pie [n.南瓜派]
+# 11.turnip /'tɝnɪp/ [大萝卜] &  radish /'rædɪʃ/ [白萝卜（沙拉用）] & carrot [胡萝卜]
+
+# 12.Taro /ˈtɑro/ [芋头] & roasted sweet potato [n.烤红薯]
+
+# 14.quinoa /ˈkin wɑ/ [藜麦] & grain /greɪn/ [谷物] & Sago /'seɡo/ [西米]
+
+# 15.mashed potatoes [n.土豆泥] & pumpkin /'pʌmpkɪn/ pie [n.南瓜派]
 > 1)you take a potato and you mash it.so it's not solid anymore, very fluffy or creamy.and with mashed potatoes usually put in like butter, maybe milk, salt, pepper.
 
-> 2)turkey,it's not a chicken,probably the cloest thing.But the turkey it's bigger than a chicken, usually, the meat also is a bit more dry, than the chicken.There's less fat in a turkey, so you have to cook it, a bit more carefully I think. Otherwise, it gets very dry. remember many Thanksgiving where I was thinking God, I need more gravy /'ɡrevi/ [n.肉汁] on this turkey because it's too dry,maybe more cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱].
+> 2)it's a pie made of pumpkin.I love pumpkin pie, especially with vanilla /və'nɪlə/ [n.香草] ice cream, super good, super good.
 
-> 3)it's a pie made of pumpkin.I love pumpkin pie, especially with vanilla /və'nɪlə/ [n.香草] ice cream, super good, super good.
-
-# 8.green bean casserole /'kæsərol/ [n.焗烤四季豆] & a casserole dish [n.烤盘] & roasting [v.烤] & baking 
-> 1)so green beans are like these long green beans，Casserole is like you put in often meat, but lots of vegetables, potatoes, this kind of thing, and then you cook it slowly in the oven /'ʌvn/ .so a casserole is usually like a big dish, there is also a thing called a casserole dish, So here this is a green bean casserole, it has green beans and probably like some sort of like a starch /stɑrtʃ/ [n.淀粉], so kind of like a bread type thing may be in there, maybe some cheese /tʃiz/ as well. Like a pasta /'pɑstə/ [n.意大利面食] maybe something like that.
-
-> 2)there's so many different types of casseroles and usually they're kind of crispy on the top.On the inside, usually it's like soft, if there's meat in there, it's very very tender and very juicy.and sometimes it might be creamy /'krimi/ [adj.乳脂状的] also, just depends on the type of casserole you are eating. 
-
-> 3)"roast" we use this when we cook something at a high heat, like roast beef or roast potatoes.
-
-> 4)we use like "bake" for things like you know, pies and cookies.Baking is for stuff that you would buy at a bakery and roasting is more like meat and vegetables.
-
-# 9.gumbo [n.新奥尔良秋葵浓汤] & stew [n.炖菜] & Cajun [adj.卡真料理]
+# 16.gumbo [n.新奥尔良秋葵浓汤]  & Cajun [adj.卡真料理]
 > 1)gumbo:It's also very popular in America. So hear Jennifer explains a New Orleans dish called gumbo.
 
-> 2)stew:So it's a stew that has a lot of stuff in it.A lot of stuff in a stew. It's just like a thick /θɪk/ [adj.浓稠的] soup.
+> 2)Cajun:So, it originates from France but then there's a lot of other spices added to it.It's a completely different flavor.
 
-> 3)Cajun:So, it originates from France but then there's a lot of other spices added to it.It's a completely different flavor.
+# 18.asparagus /əˈspɛrəgəs/ 芦笋 
 
+# 19.Zucchini /zuˈkini/ [n.角瓜、西葫芦] 
 
-# 10.type of salad
+# 20.bell peppers /bɛl ˈpɛpərz/ [灯笼椒、彩椒] & chilli /'tʃɪli/ [辣椒]
+
+# 21.Scallions /'skælɪən/ [葱] & Leek slices [n.大葱丝] & spring onion [小葱]
+
+# 22.Cilantro /sɪ'læntro/ [n.香菜] & chive /tʃaɪv/ [韭菜] & ginger/'dʒɪndʒɚ/ [n.姜,生姜]
+
+# IV.Salad
+# 1.type 
 ## 1）Cobb [考伯沙拉]
 
-
 ## 2）Caesar [凯撒沙拉] & Caesar dressing [凯撒酱] & Creamy and garlicky [奶油味和蒜味很重]
-
 
 ## 3）Caprese [意式三色沙拉]
 
@@ -80,23 +85,24 @@
 
 ## 8）Potato salad [土豆沙拉]
 
-## 9）Quinoa salad [藜麦沙拉]
+## 9）Quinoa /'kinwɑ/ salad [藜麦沙拉]
+> Quinoa became very popular in North America around 10 years ago. It became popular not only because it was a "superfood" but also because it was really easy to prepare. There are over 120 kinds of quinoa, but most people are used to eating the red, black, and most commonly, the white variety. What most people don't know about quinoa is that it's not a grain like rice or wheat. It's actually a seed, and the plant is a relative of spinach.
+
+
 
 ## 10）kale salad [羽衣甘蓝沙拉]
 
+## 11)coleslaw /ˈkoʊlˌslɑ/ [卷心菜丝沙拉]
+> when I think coleslaw,I think KFC,it's a very popular side you can get with some KFC chicken,and it looks kind of white,so I think that's from the sauce that they use, it's kind of it's nice and tiny, kind of sweet and sour. And usually the vegetables are shredded and chopped up, makes it really easy to eat. Taste great.
 
-# 11.dressing
+# 2.dressing
 ## 1)mayo/mayonnaise /'meənez/ [n.美乃滋]
-
 
 ## 2）Thousand island [千岛酱]
 
-
 ## 3）Ranch [农场沙拉酱]
 
-
 ## 4）Vinaigrette [油醋汁]
-
 
 ## 5）Greek [希腊酱]
 
@@ -104,15 +110,9 @@
 
 ## 7）French [法式酱]
 
-
 ## 8）Italian [意式酱]
 
-
 ## 9）Oriental [东方酱：生姜、酱油、芝麻]
-
-
-
-
 
 # III.pattern 
 ***This is the best salad bar in town. It has a wide range of choices.***
@@ -134,6 +134,21 @@
 ***They're both good. But the mango and shrimp salad has more interesting Southeast Asian flavors.***
 
 ***Sounds good. I’ll get that then.***
+
+# III.pattern
+***OK, looks like we’ve got enough meat. What veggies will we need?***
+
+***Let’s get some corn, eggplant and mushrooms to grill. And we’ll need spinach for the spinach dip.***
+
+***Alright. In that case, let’s get some bell peppers, celery and carrots for dipping.***
+
+***Sure. That will make a great healthy snack.***
+
+***Exactly. Now, is there anything else we need?***
+
+***How about some broccoli? I love broccoli.***
+
+***Let’s just get some coleslaw.***
 
 
 
