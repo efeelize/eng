@@ -42,17 +42,24 @@
 
 # III.Type
 # 1.Skewers /ˈskjuː.ɚ/ [串儿] & kebabs /kəˈbɑbz/ [烤肉串]
+> 1)kebabs:Meats chunks on a stick. The stick is the important part here. But there could also be veggies.that's my impression of a kebab. It's kind of like mixed some veggies, some meat.some onion, some more meat.
 
 ## 1)lamb skewers /læm / [羊肉串] & Beef skewers [牛肉串] & cumin /ˈkʌmɪn/ [孜然] & gamey /ɡeimi/ [味道膻]
 > lamb is like a younger sheep.
 
-## 2)chicken wings [鸡翅]
+## 2)chicken wings [鸡翅] & Buffalo wings [布法罗辣鸡翅] & chicken on the bone [带骨鸡肉]
 
-## 3)drumsticks /ˈdrʌmstɪks/ [鸡腿]
+## 3)drumsticks /ˈdrʌmstɪks/ [鸡小腿] & chicken thighs /θai/ [n.鸡大腿]
 
 ## 4)sausages /ˈsɔsɪʤɪz/ [香肠] & pepperoni /ˌpɛpə'roni/ [n.意大利辣香肠]
 
 ## 5)Barbecue cold noodle [烤冷面]
+
+## 6)ribs [排骨] & BBQ ribs
+> they always come with the bone.
+
+## 7)burgers [n.肉饼] & beef patty /'pæti/ [n.肉饼、小馅饼]
+> When we say burger or hamburger, maybe we're talking about the whole thing, you know, with the bread,the bun,the lettuces and tomato. But we could just be talking about the meat itself,so the patty,burger patty.
 
 # 2.mutton /ˈmʌtən/ stew with bread [羊肉泡馍] 
 > when I think mutton,I think kind of like an older,tougher sheep.so you need to stew it to get it all tender again,so stew is basically like a thick soup.and with bread in here just means you're adding a kind of Pita bread.
@@ -64,7 +71,7 @@
 
 # 4.chinese salad/ cold-mixed dishes / cold appetizers [凉菜] & Cilantro [n.香菜] & Scallions [葱花]
 
-# 5.roujiamo/Chinese/Qing burger [肉夹馍] & Sloppy Joe /ˈslɑpi ʤoʊ/ [碎牛肉饼；碎牛肉三明治] & beef patty /'pæti/ [n.肉饼、小馅饼]
+# 5.roujiamo/Chinese/Qing burger [肉夹馍] & Sloppy Joe /ˈslɑpi ʤoʊ/ [碎牛肉饼；碎牛肉三明治] 
 > 1)roujiamo,and you know a lot of people do call this the Chinese hamburger.
 
 > 2)this food we call it a sloppy Joe. I think the difference between a hamburger and a sloppy Joe is that the meat in the middle.Whereas the sloppy Joe is much more like this Chinese hamburger.so that's gonna be like ground meat with a sauce.

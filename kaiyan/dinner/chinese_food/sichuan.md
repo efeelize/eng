@@ -28,9 +28,9 @@
 # III.type
 # 1.Noodles with peas and meat [n.豌杂面]
 
-# 2.Malatang [麻辣烫] & Broth /brɑθ/ [肉汤（只有液体的汤）] & Soup [汤（有肉、蔬菜等食物在其中）]
+# 2.Malatang [麻辣烫] & skewers in spicy soup [串串]
 
-# 3.Mapo Tofu /Mapo ˈtoʊfu/ [麻婆豆腐] & Doubanjiang [豆瓣酱] & stinky tofu [臭豆腐]
+# 3.Mapo Tofu /Mapo ˈtoʊfu/ [麻婆豆腐] & Doubanjiang [豆瓣酱] & stinky tofu [臭豆腐] & Fermented /fɚ'mɛnt/ tofu [豆腐乳]
 
 # 4.Sichuan boiled fish /ˌsɪʧˈwɑn bɔɪld fɪʃ/ [四川水煮鱼] & Ratten /'rætən/ fish [n.藤椒鱼] &  get a bone stuck in their throat [骨头卡在喉咙里]
 
@@ -38,8 +38,10 @@
 
 # 6.stri-fried green beans [干煸四季豆]
 
-# 6.American Hunanese dish
-## 1)Kung Pao Chicken /kʌŋ paʊ ˈʧɪkən/ [宫保鸡丁] 
+# 7.Fish head [鱼头]
+
+# 8.American Hunanese dish
+## 1)Kung Pao Chicken /kʌŋ paʊ ˈʧɪkən/ [宫保鸡丁] & diced /daɪs/ vegetable/chicken/beef [切成丁的...]
 
 ## 2)General Tso's Chicken [左宗棠鸡] 
 > 1)Chunks of chicken that are dipped in a batter [面糊] and deep-fried and seasoned with ginger/'dʒɪndʒɚ/ [n.姜,生姜],garlic,sesame oil,scallions /'skælɪən/ [n.大葱],and hot chili peppers.
@@ -60,18 +62,24 @@
 # IV.Hotpot
 # 1.Animal organs / Sweetbread [英] [动物内脏] 
 
-# 2.intestine /ɪn'tɛstɪn/ [肠子] & Liver [腰子] & Lung [肺] & kidneys /ˈkɪdniz/ [肾，肾脏] & Blood sausages [血肠] & pig intestine /ɪn'tɛstɪnl/ [猪大肠]
+# 2.Liver [腰子] & Lung [肺] & kidneys /ˈkɪdniz/ [肾，肾脏] & Blood sausages [血肠] 
 
 # 3.Beef tripe /traɪp/ [牛百叶] & Beef tendon /'tɛndən/ [牛筋] & Beef brisket /'brɪskɪt/ [牛腩] & Aorta /e'ɔrtə/ [黄喉]
 
-# 4.fatty beef slices [肥牛片] & meatballs [肉丸] & spam /spæm/ [午餐肉] & bull frog [n.牛蛙]
+# 4.fatty beef slices [肥牛卷] & sliced beef [牛肉片] & meatballs [肉丸] & spam /spæm/ [午餐肉] & bull frog [n.牛蛙]
 
+# 5.Fried (pig) intestine /ɪn'tɛstɪnl/ [炒大肠] & Pig Tongue [猪舌头]
 
+# 6.Blood tofu/duck's blood [鸭血]
 
-# 8.half and half pot [n.鸳鸯锅]
-> And they literally have a pot with a divider in the middle, and you get two different kinds of soup.
+# 7.fish/meat/shrimp/mushroom balls [鱼/肉/虾/蘑菇丸子] & soup balls [n.撒尿牛丸] & cheese stuffed balls [n.芝士夹心丸]
 
-# 9.orginal [三鲜] & medium spicy [中辣]
+# 8.lamb spine [羊蝎子]
+
+# 9.half and half pot [n.鸳鸯锅] & Fondue /fɑnˈdu/ [n.奶酪火锅] & orginal [三鲜] & medium spicy [中辣]
+> 1）half and half pot：And they literally have a pot with a divider in the middle, and you get two different kinds of soup.
+
+> 2)Fondue: a pot of melted cheese.
 
 # V.pattern
 ***I'm so excited to finally eat authentic Sichuan food, Jay!***

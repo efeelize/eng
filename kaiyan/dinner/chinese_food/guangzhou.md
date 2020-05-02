@@ -20,6 +20,14 @@
 
 - 5. It's such a pleasure to meet you. I'm a big fan.
 
+# 2.wicked [adj.非常棒]
+> 1)originally like wicked is supposed to be evil, right? Like there's a movie called the Wizard of Oz.The wicked witch. Or there's always like wicked stepmother or something like that. It's an evil person.
+
+> 2)But now we usually to say wicked to mean awesome.
+
+# 3.don't knock [批评] it till you've tried it.
+> In this case knocking kind of means criticising，to say something bad.
+
 # III.dim sum /dɪm sʌm/ [点心]
 # 1.siu maai / pork /pɔrk/ dumplings [烧卖] & shrimp dumplings [虾饺] & wonton [混沌]
 > 1)A lot of times in America at like a Cantonese restaurant, you'll see "siu maai", I've actually never called them pork dumplings myself.because I think most of the dumplings that Chinese people make do have pork in.
@@ -29,7 +37,7 @@
 # 2.bamboo steamers /bæmˈbu ˈstimərz/ [竹蒸笼] & steamed /stimd/ [蒸的]
 > So these are gonna be the little round baskets that they basically steam the food in.
 
-# 3.Sweet and sour pork [n.咕咾肉]
+# 3.Sweet and sour pork [n.咕咾肉] 
 > Boned [去骨],battered /'bætɚd/ [裹着面糊],and deep-fried chicken which is then dressed with a translucent  /træns'lusnt/ [半透明] red or orange,sweet and mildly spicy sauce.
 
 # 4.BBQ pork buns /bʌnz/ [叉烧包] & BBQ pork pastries /ˈpeɪstriz/ [叉烧酥]
@@ -42,14 +50,34 @@
 
 > 2)So "carrot cake" would be a carrot cake, and we actually do have that as a dessert, and it's really tasty but you're not going to find that at a regular Cantonese restaurant, probably.
 
-# 7.sesame balls [芝麻球] 
+# 7.sesame balls [芝麻球] & spring rolls [春卷]
 
-# 8.pot stickers [锅贴]
+# 8.pot stickers [锅贴] & gyoza [日式煎饺]
 > Wontons that haves been browned and steamed or simmered are called pot stickers.Serve them as an appetizer or a main course.
 
-# 9.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
+# 9.satay /sɑte/ [沙爹串]
 
-# IV.pattern 
+# 10.Turtle jelly [龟苓膏]
+
+# 11.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
+
+# IV.Soup
+# 1.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup 
+> 1)there's a kind of soup called stew. And that has lots of pieces lots of meat lots of vegetables and not much broth not much water just a lot of pieces. It's just like a thick /θɪk/ [adj.浓稠的] soup.
+
+> 2)some of my students will say they like to have soup but what they mean is like the water part like not the noodles not the meat not the vegetables the water and that's called the broth.so as you can see broth and soup are pretty similar but broth just tends to mean the water part and a lot of Chinese soups are mainly just broth, so for example you have chicken soups or any kind of like ginger soup.
+
+# 2.beef stew [n.炖牛肉汤] 
+
+# 3.chicken noodle soup [美国版鸡汤，noodle/pasta;onion;celery] 
+
+# 4.beef minestrone /ˌmɪnɪˈstroni/ [牛肉时蔬汤:diced beef;carrot;celery;onion;]
+
+# 5.beef/chicken broth [牛肉/鸡肉高汤]
+
+# 6.sip on/eat broth [喝汤] /take a sip [小口喝]
+
+# V.pattern 
 ***I love dim sum! All the dishes are so delicious!***
 
 ***Yeah, the little bamboo steamers are so cute too. By the way, your Cantonese is pretty good.***

@@ -14,9 +14,9 @@
 # II.candy & chocolate
 # 1.Gummy bears [n.小熊软糖] & elly beans [n.糖豆] & Twizzlers licorice [紐紐乐力可糖] 
 
-# 2.Caramel /'kærəm(ə)l/ [n.焦糖] 
+# 2.Caramel /'kærəm(ə)l/ [n.焦糖] & turbinado/brown sugar [红糖] 
 
-# 3.Praline [n.果仁焦糖]
+# 3.toffee /'tɔfi/ nut [n.太妃榛仁] & Praline /'prɑlin/ [n.果仁糖] 
 
 # 4.Candy / chocolate bars /ˈʧɔklət bɑrz/ 巧克力条 & Snickers /ˈsnɪkərz/ 士力架（巧克力品牌）
 
@@ -59,7 +59,7 @@
 
 # 4.preserved plums /plʌm/ [n.蜜饯、话梅] & raisin /'rezn/ [n.葡萄干]
 
-# 5.seaweed /'si'wid/ [n.海苔] 
+# 5.seaweed /'si'wid/ & & nori /nɔri/ [n.海苔] 
 
 # 6.Spicy gluten /'ɡlutn/ [n.辣条]
 
@@ -68,6 +68,8 @@
 
 # 2.cut back on + n. [phr.减少]
 > cut back, which always is followed by on. so I'm trying to cut back on sugar.So it means use less sugar.you can cut back on any bad thing,smoking,drinking...
+
+# 3.midnight snacks [n.宵夜]
 
 # V.pattern
 ***We’ve got everything we need for dinner. Do we need anything else?***

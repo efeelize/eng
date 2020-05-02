@@ -59,8 +59,8 @@
 # 6.foodfie [n.美食照片]
 > Fie as in selfie.Okay. Yeah, this is just yes the most common thing at any restaurant now. Take a picture of the food.
 
-# III.Crawfish & Crab
-# 1.crawfish /'krɔ'fɪʃ/ [n.小龙虾]  
+# III.Crab
+# 1.
 
 # 2.Hairy crab [n.大闸蟹] 
 
@@ -97,17 +97,62 @@
 
 > 2)Crack the body of the crab in half [折成两半] and you'll expose more roe and white meat in the body. Pull off all the legs and claws with a twisting motion [拧下来]. To access the meat inside the legs and claws, you can try sucking on the legs or use the scissors,a chopstick or another crab legs to push it out. [把里面的肉推出来]
 
-# IV.shellfish /'ʃɛl'fɪʃ/ [n.甲壳类动物] & Fish
+# IV.shellfish /'ʃɛl'fɪʃ/ [n.甲壳类动物] 
 > So a lot of these seafood related animals like you know crawfish, like oysters.They all have a shell.And they're all called shellfish.Even though they're not fish.Right. But they come in a shell and they're from the sea. So we call them shellfish.
 
-# 1.
+# 1.mussels /ˈmʌsəlz/ [青口贝]
 
+# 2.clam /klæm/ 蛤蜊 & clam chowder /'tʃaʊdɚ/ [蛤蜊浓汤]
+> A rich and creamy soup with clam and other types of seafood,potatoes,etc...sometimes clam chowder was put in a sourdough bowl.
 
+# 3.shuck /ʃʌk/ oysters /'ɔɪstɚ/ [打开生蚝]
 
+# 4.razor /'rezɚ/ clam [蛏子]
 
+# 5.abalone /ˌæbə'loni/ [鲍鱼]
 
+# 6.scallop /'skæləp/ [干贝]
 
-# III.pattern
+# 7.sea urchin /ˈə..tʃɪn/ [海胆] & sea cucumber [海参]
+
+# 8.geoduck /ˈɡuiˌdʌk/ [象拔蚌]
+
+# V.Fish
+# 1.anchovies /'æntʃovi/ [n.凤尾鱼]
+
+# 2.Smoked salmon [熏三文鱼] & Sockeye salmon [红肉三文鱼]
+
+# 3.marlin /'mɑrlɪn/ [n.枪鱼] &  tuna /ˈtunə/ [金枪鱼] & yellowtail / bluefin tuna [黄/蓝鳍金枪鱼] & skipjack tuna [鲣鱼]
+
+# 4.trout /traʊt/ [鳟鱼]
+
+# 5.halibut /'hælɪbət/ [比目鱼] & turbot /'tɝbət/ [多宝鱼]
+
+# 6.Chinese perch /pɝtʃ/ [鳜鱼]
+
+# 7.snapper /'snæpɚ/ [鲷鱼]
+
+# 8.sea bass /bes/ [海鲈鱼]
+
+# 9.tilapia /təˈlɑpiə/ [罗非鱼]
+
+# 10. mackerel  /'mækrəl/ [鲭鱼]
+
+# 11.octopus [八爪鱼] & squid /skwɪd/ [鱿鱼] & cuttlefish /'kʌtlfɪʃ/ [墨鱼]
+
+# VI.shrimp
+# 1.shrimp [小虾] & prawn /prɔn/ [大虾] 
+> so I think in my experience, prawn is always like a bigger shrimp. Well it's like really tiny ones, you never call the small ones prawns. Those are always shrimp.not me personally, but yeah shrimp always means really small.
+
+# 2.sand/tiger/white/spot/striped/mantis /'mæntɪs/ prawns [基围虾、虎虾、白虾、牡丹虾、斑节虾、皮皮虾]
+
+# 3.crawfish /'krɔ'fɪʃ/ [n.小龙虾]  
+
+# 4.scampi /ˈskæmpi/ [鳌虾]
+
+# 5.lobster [龙虾]
+
+# VI.pattern
 ***Wow, our crawfish is here! Let me take a foodfie first!***
 
 ***I've never tried it before. So you call this "small lobster" in Chinese?***
@@ -138,7 +183,7 @@
 
 ***Sounds like a plan! Do you want more cold beer?***
 
-# IV.patterns 
+# VI.patterns 
 ***Lily, have you had hairy crab before?***
 
 ***No, today's my first time! Do you only get them this time of the year?***

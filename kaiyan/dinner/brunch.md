@@ -103,6 +103,10 @@
 
 # 13.egg drop soup [n.蛋花汤]
 
+# 14.Century egg [皮蛋]
+
+# 15.chawanmushi [日式鸡蛋羹]
+
 # V.cereal
 # 1.Raisin Bran /ˈreɪzɪn bræn/ 葡萄干麦片
 

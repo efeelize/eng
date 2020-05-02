@@ -54,7 +54,7 @@
 ## 13)cupcakes & muffins /ˈmʌfɪnz/ [玛芬]
 > those are small cakes designed to serve one personlittle cakes,they looks cake in general,but have a variety of flavors,selection of many different kinds. As with larger cakes, icing and other cake decorations, such as candy, may be applied.
 
-> 2)A muffin is an individual-sized, baked quick bread product. Muffins in the United States are similar to cupcakes in size and cooking methods. such as cornmeal and cheese muffins, or sweet varieties such as blueberry, chocolate chip or banana flavours. Muffins are often eaten as a breakfast food. Coffee may be served to accompany muffins. 
+> 2)A muffin is a little bit bread,and a little bit cake,it's an individual-sized, baked quick bread product. Muffins in the United States are similar to cupcakes in size and cooking methods. such as cornmeal and cheese muffins, or sweet varieties such as blueberry, chocolate chip or banana flavours. Muffins are often eaten as a breakfast food. Coffee may be served to accompany muffins. you can usually buy them at coffee shops or bakeries.so often we have blueberry muffins, banana muffins,carrot or chocolate muffins.
 
 ## 14)marble /'mɑrbl/ cake [大理石蛋糕]
 > a marble cake, which is basically a mix of the chocolate and vanilla flavor.
@@ -62,7 +62,7 @@
 ## 15)carrot cake [胡萝卜蛋糕]
 
 # 2.pie
-## 1)pecan pie /pə'kän paɪ/ /'piˌkæn paɪ/ [山核桃馅饼]
+## 1)pecan pie /pə'kän / /'piˌkæn/ [山核桃馅饼]
 > This one is super sweet because it's a pie with caramelized pecans. Now, some people will say [pə'kän] and others will say ['piˌkæn] with a strong "e". Let's practice both [pə'kän paɪ] and ['piˌkæn paɪ].
 
 ## 2)tarts [n.果馅饼]
@@ -75,6 +75,9 @@
 
 ## 5)strawberry rhubarb /'rʊbɑrb/ pies [n.大黄派]
 > A strawberry rhubarb pie, is a type of tart and sweet pie made with a strawberry and rhubarb filling. Sometimes tapioca /ˌtæpɪ'okə/ [n.木薯淀粉] is also used. The pie is usually prepared with a bottom pie crust and a variety of styles of upper crust. In the United States, often a lattice-style [格状] upper crust is used. 
+
+## 6)PB & J / peanut butter & jelly sandwish 
+> Americans just call it PB & J.you need to spread peanut butter first,then jelly.a classic breakfast and packed lunch food for kids.
 
 # 3.toppings
 ## 1)decorated /ˈdɛkəˌreɪtəd/ 装饰精美的
@@ -146,7 +149,9 @@
 > 3)Often people will just eat the cookie dough.hat was my favorite part about, like baking cookies or just having the dough.
 
 ## 9)Bagels /beɪdʒəl/ /beɪgəl/ [硬面包圈；百吉饼；贝果面包] & Donut /ˈdoʊnʌt/ [甜甜圈]
-> Bagels look like doughnuts but they are not deep fried and covered in sugar. It’s pronounced [beɪgəl], not [beɪdʒəl]. The best way to enjoy a bagel is with cream cheese.Nothing is more New York than the dense, chewy texture of a toasted bagel [浓稠有嚼劲的烤百吉饼], a type of baked bread with Polish origins, paired with cream cheese. For those who love smoked salmon [熏三文鱼], it's called "lox" when you order it with your bagel.
+> 1)Bagels look like doughnuts but they are not deep fried and covered in sugar. It’s pronounced [beɪgəl], not [beɪdʒəl]. it has a lot of texture,and it's made of unleavened /ˌʌn'lɛvnd/ bread[死面].
+
+> 2)The best way to enjoy a bagel is with cream cheese.Nothing is more New York than the dense, chewy texture of a toasted bagel [浓稠有嚼劲的烤百吉饼], a type of baked bread with Polish origins, paired with cream cheese. For those who love smoked salmon [熏三文鱼], it's called "lox" when you order it with your bagel.
 
 ## 10) pretzel /prɛtzəl/ [蝴蝶脆饼]
 > Pretzels are twisted and look like hearts. Most importantly, they are very salty! They are very popular at food stands and are best eaten with some yellow mustard. When you say pretzel, break it into two syllables, [prɛt] and [zəl],  [prɛtzəl].
@@ -187,12 +192,12 @@
 
 > 4)so this is a little bit of English culture, if you say baker's dozen that means thirteen. it means sometimes the baker will give you an extra for free.
 
-# 3.sliced /slaɪst/ 切成片的 & Pieces of bread：几片面包 & a slice of bread：一片面包
+# 3.sliced /slaɪst/ [切成片的] & Pieces of bread [几片面包] & a slice of bread [一片面包]
 > So when we slice something, it means we cut it into a bunch of pieces.and we often use it as an adjective, too. So sliced pizza or like a sliced apple.And it can also be a noun as well, you can ask just for a slice.
 
-# 4.crispy /ˈkrɪspi/ 脆的 & chewier /ˈʧuɪər/ 有嚼劲的 & crust /krʌst/ 外壳 & grind /graɪnd/ 磨碎
+# 4.fermented /fərˈmɛntəd/ [发酵] & crispy /ˈkrɪspi/ [脆的] & chewier /ˈʧuɪər/ [有嚼劲的] & crust /krʌst/ [外壳] & grind /graɪnd/ [磨碎]
 
-# 5.rosemary /ˈroʊzˌmɛri/ 迷迭香 & herbs /ɜrbz/ 草本植物、香料
+# 5.rosemary /ˈroʊzˌmɛri/ [迷迭香] & herbs /ɜrbz/ [草本植物、香料]
 
 # 6.barkery [n.面包（糕饼）房] & Baker [面包（糕饼）师傅；面包店老板]
 

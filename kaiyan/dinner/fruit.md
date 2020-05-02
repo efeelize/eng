@@ -25,15 +25,16 @@
 
 > 3)often like celementines are seedless.
 
-# 3.Florida orange
+# 3.Florida orange & zesty /zesty/ [橙子、柠檬清香的]
 > Florida orange, that's just really big and round.They usually like hard to peel, too.
 
 # 4.grapefruits [葡萄柚] & pomelos /ˈpɒmə.loʊz/ [柚子] 
 > grapefruits looks like a big orange, but it's usually kind of pink on the inside.So I just said grapefruits were sour. That's true. They're also bitter.
 
-# 4.avocado /ˌævə'kɑdo/ [n.牛油果] & guacamole /ˌgwɑkəˈmoʊli/ 牛油果酱/鳄梨酱
+# 4.avocado /ˌævə'kɑdo/ [n.牛油果] & guacamole /ˌgwɑkəˈmoʊli/ [牛油果酱/鳄梨酱]
+> avocado is usually they come from like Mexico,these look like pears,they kind of look like pears,but they're darker and they have a thick skin,and on the inside they're creamy and green.it's what they used to make guacamole if you ever had Mexican food.
 
-# 5.persimmons /pəˈsimənz/ [柿子] & ripen /'raɪpən/ [成熟]
+# 5.persimmons /pəˈsimənz/ [柿子] & ripen /'raɪpən/ [成熟] & nectarine /'nɛktərin/ [n.油桃] & peach [桃子]
 
 # 6.papaya /pəˈpaɪə/ [木瓜]
 
@@ -48,7 +49,10 @@
 # 10.banana & potassium /pəˈtæsiəm/ [n.钾]
 > banana is very high in potassium.
 
-# 11.seedless /ˈsi:dlɪs/ 无籽的 & spit out /spɪt aʊt/ 吐出 & choke on /tʃoʊk ɑn/ 呛到 
+# 11.longan [桂圆]
+> People in Taiwan believe eating longan in autumn means that your descendants /dɪ'sɛndənt/ [后代] will become high officials. Longan is also known as "gui yuan." As the story goes, people believe that eating this fruit will help newlyweds conceive a child more quickly.
+
+# 12.seedless /ˈsi:dlɪs/ 无籽的 & spit out /spɪt aʊt/ 吐出 & choke on /tʃoʊk ɑn/ 呛到 
 
 # IV.Smoothies /'smuːðɪz/ [冰沙] & Juice
 # 1.chia /ˈʧiə/ seeds  [奇亚籽] & hemp /hɛmp/ seeds [火麻仁]

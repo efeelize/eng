@@ -15,12 +15,13 @@
 # 2.Mimonsa /mɪ'mozə/ [n.含羞草鸡尾酒]
 > This is probably the most popular brunch drink that you'll find on a menu.Mimosa. It's champagne and orange juice.
 
+# 3.Hot Toddy [热棕榈酒]
+> This is a hot drink that makes you feel better when you have a cold. Everyone has a different recipe, but it's basically hot water, sugar, lemon, cinnamon, and most importantly, whiskey!
 
-
+# 4.apple cider /'saɪdɚ/ [苹果酒]
+> Apple cider is a great way to keep warm. Plus it's made from apples so there is no need to add extra sugar.
 
 # IV.pattern
-******
-
 
 
 

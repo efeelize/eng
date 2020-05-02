@@ -30,10 +30,13 @@
 
 # 9.peppermint [薄荷茶]
 
-# 10.loose leaf teas [n.散装茶] & tea bag
-> loose leaf teas:All these other ones come from like real tea leaves and this is more like a flower tea. and then here, at this restaurant they're all loose leaf teas, not tea bags.That just means both tea leaves which does not in the bag. In England, very very commonly most of the tea that you will drink comes in a tea bag. It's not like China, China likes the loose leaf teas.I know in America too, yeah. When you go and buy tea in the store, they usually come in these little different bags, and each bag you know, you put in one cup and you can actually use it a couple times depending on the tea.
+# 10.oolong /ˈuˌlɔŋ/ [乌龙]
 
-# 8.oolong /ˈuˌlɔŋ/ [乌龙]
+# 11.Chai tea [印度香茶]
+> Actually it's pretty similar to pumpkin spice, but it also has ginger and pepper. The name Chai is actually the Hindi word for "tea", and in English it sounds like Chai, Chai.
+
+# 12.loose leaf teas [n.散装茶] & tea bag
+> loose leaf teas:All these other ones come from like real tea leaves and this is more like a flower tea. and then here, at this restaurant they're all loose leaf teas, not tea bags.That just means both tea leaves which does not in the bag. In England, very very commonly most of the tea that you will drink comes in a tea bag. It's not like China, China likes the loose leaf teas.I know in America too, yeah. When you go and buy tea in the store, they usually come in these little different bags, and each bag you know, you put in one cup and you can actually use it a couple times depending on the tea.
 
 # II.tea-based drinks [n.茶饮]
 # 1.Triple citrus /ˈsɪtrəs/ [橙柚派对] & citrus fruit [n.柑橘类水果]
@@ -44,7 +47,10 @@
 > peppermint, I think yeah, it's pepper, mint flavor tea. Peppermint is like this little green leaf and it's very, I like peppermint gum.Makes your breath nice. 
 
 # III.Bubble /Pearl（milk）tea [n.奶茶]
-# 1.Matcha [抹茶]
+# 1.Matcha [抹茶] & green tea lattes
+> 1)Real matcha tastes very bitter and even quite a few Japanese people can't stand the bitterness. So if your green tea tastes sweet, that is not an authentic Japanese drink at all.
+
+> 2)Matcha (抹茶) and green tea lattes are not the same thing. If you think you are getting authentic Japanese matcha at Starbucks, you are dead wrong.This is what matcha should look like. Needless to say, no milk added and definitely no whipped cream on top of the drink.
 
 # 2.Taro /ˈtɑro/ milk tea [香芋奶茶]
 
