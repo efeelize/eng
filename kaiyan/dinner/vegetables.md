@@ -60,7 +60,7 @@
 
 > 2)it's a pie made of pumpkin.I love pumpkin pie, especially with vanilla /və'nɪlə/ [n.香草] ice cream, super good, super good.
 
-# 16.gumbo [n.新奥尔良秋葵浓汤]  & Cajun [adj.卡真料理]
+# 16.gumbo [n.新奥尔良秋葵浓汤]  & Cajun [adj.卡真料理] & horseradish /'hɔrs'rædɪʃ/ [n.山葵]
 > 1)gumbo:It's also very popular in America. So hear Jennifer explains a New Orleans dish called gumbo.
 
 > 2)Cajun:So, it originates from France but then there's a lot of other spices added to it.It's a completely different flavor.

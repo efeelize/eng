@@ -37,7 +37,7 @@
 
 
 # III.wine tasting
-# 1.place
+# 1.tasting
 ## 1)notoriously /noʊˈtɔriəsli/ 有名地 
 
 ## 2)grape vine /vaɪn/ 葡萄园 
@@ -50,10 +50,30 @@
 
 ## 6)ferment /ˈfɜrmɛnt/ 使发酵；酝酿  & absorbs /əbˈzɔrbz/ 吸收
 
-# 2.aromas /əˈroʊməz/ 芳香 & notes /noʊts/ 香型 & undertones /ˈʌndərˌtoʊnz/ 基调、浅色
-## 1）peppery /'pɛpəri/ 胡椒味的
+## 7)Tasting flight /ˈteɪstɪŋ flaɪt/ 品酒序列
+
+## 8)needs to breath /nidz tu brɛθ/ 葡萄酒醒酒、与氧气接触
+
+## 9)terroir /terwær/ 葡萄酒产地 
+
+## 10)vintage /ˈvɪntɪʤ/ 葡萄酒年份
+
+## 11)decanter /dəˈkæntər/ 醒酒壶
+
+# 2.aromas /əˈroʊməz/ 
+## 1)bouquet /buˈkeɪ/ 酒香
+
+- I think the terroir of France really shines through in the bouquet of this wine.
+
+## 2)aromas /əˈroʊməz/ 芳香 & notes /noʊts/ 香型 
+
+## 3)undertones /ˈʌndərˌtoʊnz/ 基调、浅色
+
+## 6）peppery /'pɛpəri/ 胡椒味的
 
 ## 2)strong aroma of fruit [水果芳香] 
+
+- This Chardonnay mostly tastes like berries with a hint of vanilla.
 
 ## 3)citrus and grassy aromas [柑橘和青草芳香] 
 
@@ -61,11 +81,22 @@
 
 ## 5)The aroma is very subtle [香味非常淡]
 
-# 3.tannins /'tænins/ 单宁酸、使酒有涩涩的口感 & acidic /əˈsɪdɪk/ 酸性的 & dry /draɪ/ 干的、酸的酒  
+# 3.flavor
+## 1)tannins /'tænins/ 单宁酸、使酒有涩涩的口感 
 
-# 4.mellow /ˈmɛloʊ/ 柔和的 & kick /kɪk/ 重口味
+- I don’t really like wine with too many tannins, it gives me a terrible headache.
 
-# 5.blend /blɛnd/ 混合型酒 & & meet in the middle 折中
+## 2)acidic /əˈsɪdɪk/ 酸性的 & dry /draɪ/ 干的、酸的酒  
+
+## 3)mellow /ˈmɛloʊ/ 柔和的 & kick /kɪk/ 重口味
+
+## 4)tight /taɪt/ （葡萄酒）紧实的 & crisp /krɪsp/ （葡萄酒）清爽的
+
+## 5)big /bɪg/ （葡萄酒）口味浓厚 & full-bodied /fʊl-ˈbɑdid/ （葡萄酒）饱满
+
+-  Full-bodied wines are sometimes too much for me. When it’s hot out, I prefer something crisp and bright.
+
+## 5)blend /blɛnd/ 混合型酒 & & meet in the middle 折中
 
 # IV.Varietal
 # 1.Red wines
@@ -129,6 +160,22 @@
 ***Ah. Gotcha. I’ll have the Syrah then. Is it heavily oaked?***
 
 ***Yes, it’s very oaky and heavy on the tannins.***
+
+# V.pattern
+***nothing is better after a long day of hiking in the Napa mountains than to unwind with a leisurely wine tasting.***
+
+***Absolutely. Ah, here comes the tasting flight now. Which should we start with?***
+
+***Let’s save the cabernet sauvignon for last – it’s probably still pretty tight and needs to breath. How about the sauvignon blanc?***
+
+***it’s very acidic and bright, Very crisp, yes, with a hint of citrus. I would pair it with a nice fish filet.***
+
+***Let’s try the chardonnay,Interesting, the bouquet is very fruity, almost a pineapple flavor.To be honest, this isn’t my cup of tea. It’s just not that complex.***
+
+***let’s try this cab. this is very big and full-bodied. Lots of tannins.Extremely oaky as well. I love it.***
+
+***You know, I really do think terroir makes a big difference in wines so have always preferred old world wines to new world. But this vintage from the Sonoma valley really knocks it out of the park. I think I’m going to buy a bottle.***
+
 
 
 
