@@ -52,6 +52,11 @@
 # 4.apple cider /'saɪdɚ/ [苹果酒]
 > Apple cider is a great way to keep warm. Plus it's made from apples so there is no need to add extra sugar.
 
+# 5.sangria /sɑːnˈɡriː.ə/ [桑格利亚酒，葡萄酒里泡水果] & pitchers /ˈpɪʧərz/ [扎]
+> 1)sangria is mixed with different alcohol and different juices, so like maybe orange juice, lemon juice, some brandy and of course white or red wine.So it has this really nice sort of a spicy zesty flavour to it, just to note though the classic one is the red sangria, so with red wine.
+
+> 2)so a pitcher is kind of a large jug,a jug container, it's usually like six glasses. I mean you could also get the sangria in a glass but I think it more commonly comes in a pitcher.
+
 
 # IV.hard stuff  & liquor [烈酒]
 # 1.tequila /tə'kilə/ [n.龙舌兰] 
@@ -65,10 +70,14 @@
 
 
 # V.beers
-# 1.light beer [n.低度啤酒]
-> I mean some ladies like IPA's or beers really pack a punch, but I mean generally maybe it's safe to say that a lot of ladies like light beer, which just means it's easy to drink.
+# 1.on tap /ɑn tæp/ 生啤、桶装啤酒
 
 # 2.Guinness /'ɡinis/ [吉尼斯黑啤酒（英国产强性黑啤酒的一种）
+
+# 4.light beer [n.低度啤酒]
+> I mean some ladies like IPA's or beers really pack a punch, but I mean generally maybe it's safe to say that a lot of ladies like light beer, which just means it's easy to drink.
+
+
 
 
 

@@ -3,10 +3,12 @@
 # 1.comfort food /ˈkʌmfərt fud/ 能安慰人的食物（常指高糖高油的食物）
 
 # 2.craving /ˈkreɪvɪŋ/ 渴望
+> it means you really really want,
 
 # 3.deluxe /dəˈlʌks/ 豪华的 & gourmet /ˈgʊrˌmeɪ/ 精致的美食
 
-# 4.on second thought /ɑn ˈsɛkənd θɔt/ 转念一想
+# 4.on second thought [转念一想]
+> And it just means I'm thinking again. Maybe I'll change my mind.Oh, you know, I'll have a coke, maybe I'll have fries. No, on second thought, I'll have a salad.
 
 # 5.thick & chunky /ˈʧʌŋki/ 粗短的; 厚实的 
 
@@ -87,25 +89,35 @@
 # IV.McDonalds/The golden arches 
 # 1.items
 ## 1)McNuggets /məkˈnʌgəts/ 麦乐鸡 
+> So a nugget is just a small piece of something.And with the chicken McNuggets, you get dipping sauces. So like plum sauce or barbecue. All those good extra things.And it actually, maybe this is just me, but even like if you go to Burger King, and you get chicken nuggets there, they can't call them McNuggets.
 
-## 2)McChicken /məkˈˈʧɪkən / 麦香鸡
+## 2)McChicken /məkˈˈʧɪkən / [麦香鸡]
+> so chicken sandwhich from McDonald's is McChicken.
 
-## 3)Filet-o-fish /fɪˈleɪ-oʊ-fɪʃ/ 麦香鱼
+## 3)Filet-o-fish /fɪˈleɪ-oʊ-fɪʃ/ [麦香鱼]
+> So it's basically a piece of fish.So I like to eat salmon filets.
 
-## 4)Quarter Pounder /ˈkwɔrtər ˈpaʊndər/ 足尊牛肉汉堡
+## 4)Quarter Pounder /ˈkwɔrtər ˈpaʊndər/ [足尊牛肉汉堡]
+> A Quarter Pounder is just a big beef.you can actually get a double Quarter Pounder.So that's half a pound of beef.
 
-## 5)Big Mac /bɪg mæk/ 巨无霸
+## 5)Big Mac /bɪg mæk/ 巨无霸 & Big Mac combo
 
-## 6)McFlurry /məkˈfləri/ 麦旋风
+## 6)egg McMuffin /ɛg məkˈmʌfən/ [麦满分]
 
-## 7)sundae /ˈsʌndeɪ/ 圣代
+## 7)McRib [肋排汉堡]
 
-## 8)egg McMuffin /ɛg məkˈmʌfən/ 麦满分
+## 8)sundae /ˈsʌndeɪ/ [圣代] & milkshake [奶昔] & McFlurry /məkˈfləri/ [麦旋风]
+> 1）sundae:So often you'll see ice cream sundae. But you don't need to say the ice cream, because it's automatically.It's made with ice cream. And usually it has the ice cream on the base.The bottom. Then maybe if you, for you probably, you'd get strawberries, maybe.Nice and healthier. Maybe peanuts, hot fudge, that kind of thing.
 
-## 9)hot cocoa/chocolate/fudge /fʌʤ/ 热巧克力
+> 2)milkshake:I mean a milkshake is just basically ice and ice cream, pretty much. And whatever flavor you want.
+
+> 3)McFlurry:So this is like a milkshake, but thicke.And it has chunks of things,cookies,candy,Sometimes like chunks of caramel.
+
+## 9)hot cocoa/chocolate/fudge /fʌʤ/ [热巧克力]
 >  We also call this "hot cocoa." Hot chocolate topped with whipped /hwipt/ cream [奶泡] or marshmallows makes the perfect winter beverage.
 
-## 10)McRib [肋排汉堡]
+## 10)combo [n.套餐]
+> the word "combo" just is short for "combination."And it just means a mix of things, usually a sandwich or a main part of the meal.a side,and french fries,a drink.So it's cheaper to get a combo than everything separately.in McDonald's they have like 10 or so,you can always say like I'll have combo number 1,please,I kind of know what I want before I go in.
 
 # 2.order 
 ***Hey Tom, let’s go to McDonalds. I’m craving chicken McNuggets!***
@@ -126,8 +138,6 @@
 
 ***I think I’ll have a sundae or McFlurry.***
 
-# IV.KFC
-# 1.plant-based/ vergetarian / fake / mock / lab meat [人造肉]
 
 
 

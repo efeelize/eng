@@ -8,7 +8,8 @@
 
 
 # III.type
-# 1.pad thai /pæd taɪ/ 泰式炒河粉 & chives /ʧaɪvz/ 韭黄、韭菜 & bean sprouts /bin spraʊts/ 豆芽
+# 1.pad thai /pæd taɪ/ [泰式炒河粉] & chives /ʧaɪvz/ [韭黄、韭菜] & bean sprouts /spraʊts/ [豆芽]
+> It's noodles. It's tofu, eggs, peanuts, bean sprouts.
 
 # 2.tom yam goong [冬阴功汤]
 
@@ -18,7 +19,8 @@
 
 # 5.moo nam tok.[猪肉沙律]
 
-# 6.fish/crab/shrimp cake [饼]
+# 6.satay /sɑte/ [沙茶肉串] & chicken/shrimp satay & satay sauce [沙茶酱] & Beef satay [沙茶牛肉]
+> It's a modern Indonesian and Malay spelling of sate, is a dish of seasoned [肉以酱汁先腌过再烤], Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; These are grilled or barbecued, then served with various spicy seasonings.
 
 # IV.pattern
 ***Hi there. Any questions about the menu, or are you ready to order?***

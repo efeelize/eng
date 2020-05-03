@@ -88,6 +88,9 @@
 
 > 3)miso soup, it's just fermented bean soup.it is delicious. It's a great pairing with some sushi. I always order sushi and miso soup on the side.
 
+## 10)satay /sɑte/ [沙茶肉串] & chicken/shrimp satay & satay sauce [沙茶酱] & Beef satay [沙茶牛肉]
+> It's a modern Indonesian and Malay spelling of sate, is a dish of seasoned [肉以酱汁先腌过再烤], Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; These are grilled or barbecued, then served with various spicy seasonings.
+
 # 3.others
 ## 1)barbecue sauce [烧烤酱] & marinade /ˈmɑrɪˌneɪd/ [n.腌渍料] & marinate [v.] & spinach dip [菠菜酱]
 > 1)Sauce that you put on the food when it's on the barbecue.So barbecue sauce, this is usually like, you know, a premade comes in a bottle, kind of sweet, kind of smoky and flavor. But it's a sauce.

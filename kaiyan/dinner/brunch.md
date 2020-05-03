@@ -44,7 +44,10 @@
 # 5.loaded with/in + n. [phr.充满]
 > 1)loaded with surgar:so it's full of surgar.
 
-> 2)loaded in vitamins/fiber
+> 2)loaded in vitamins/fiber.
+
+# 6.big/light eater [大胃王、胃口小的人] & meat eater [食肉主义者]
+> the oppsite of a big eater is light eater,we don't say small eater.
 
 # IV.Ways to cook an egg
 # 1.Eggs Benedict /ɛgz ˈbɛnəˌdɪkt/ 班尼迪蛋 & Eggs Benny /ɛgz ˈbɛni/ & Hollandaise sauce /Hollandaise / 荷兰酱（放在班尼迪蛋上的酱）
@@ -54,12 +57,14 @@
 
 > 3)Hollandaise is an emulsion /ɪ'mʌlʃən/ [乳状] of egg yolks, melted butter, and lemon juice.  
 
-# 2.omelet /ˈɑmlət/ [煎蛋卷] & frittatas /frɪˈtæt.ə/ [菜肉馅煎蛋饼] & an egg white omelet [只有蛋白的煎蛋卷]
+# 2.omelet /ˈɑmlət/ [煎蛋卷] & an egg white omelet [只有蛋白的煎蛋卷] & frittatas /frɪˈtæt.ə/ [菜肉馅煎蛋饼] & Spanish omelette /ˈspænɪʃ omelette/ 西班牙煎蛋饼
 > 1)an omelet or frittata indicates that the scrambled eggs [炒成固定的形状] are cooked until they've stabilized into a usable form and topped with other ingredients [上面铺着其他食材]. unlike eggs benedict, the eggs are mixed together. And they have flex stuff in side of where is like the eggs benedict. The salmon will probably be like on top underneath eggs.
 
 > 2)if you're super healthy, you're trying to be low fat, low cholesterol, you could get an egg white omelet.If you really wanted to get like a super healthy omelet, you could get a free range egg white omelet.
 
-> 2)frittatas : it's actually baked in the oven with other stuff like spinach, A frittata is typically open-faced [正面摊开], whereas an omelet is folded over in half onto the additions.[煎蛋卷是对半折，里面加料]is very common.with frittata,there's no crust,so it's little healthier than a quiche.
+> 3)frittatas : it's actually baked in the oven with other stuff like spinach, A frittata is typically open-faced [正面摊开], whereas an omelet is folded over in half onto the additions.[煎蛋卷是对半折，里面加料]is very common.with frittata,there's no crust,so it's little healthier than a quiche.
+
+> 4)it basically is an omelette which is kind of a mixture of egg that is fried, but there are a lot of things in it and what's inside of Spanish omelette is onions and potatoes.and you can add other things too, like sausage, you know, or like tomatoes just to make it a bit fancy.
 
 # 3.hashbrowns /ˌhæʃ ˈbraʊnz/ [洋葱土豆煎饼] &  & quiche /kiʃ/ [乳蛋饼（用牛奶、鸡蛋做成的馅儿饼]
 > 1)hashbrowns: So you take a kind of metal box usually and you make them into very thin, small pieces,and then kind of just cook them together. Or it's French fries, just going to be cut.

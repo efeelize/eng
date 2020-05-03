@@ -35,7 +35,7 @@
 # III.nuts
 # 1.almonds /ˈɑlməndz/ [杏仁] 
 
-# 2.cashews /ˈkæˌʃuz/ [腰果] 
+# 2.cashews /ˈkæˌʃuz/ (nuts) [腰果] 
 
 # 3.pistachios /pəˈstæʃiˌoʊz/ 开心果 
 > I remember coming to China many years ago and learning the Chinese name for this is "happy nut".And I mean if you think about the shell, the way that it's kind of open, it looks like it's smiling.
@@ -51,7 +51,7 @@
 # 8.chesnuts [栗子]
 
 # IV.Chinese snacks
-# 1.beef jerky /bif ˈʤɜrki/ [牛肉干] & pork jerky [猪肉干] & Trukey jerky [n.火鸡肉干] 
+# 1.beef jerky /bif ˈʤɜrki/ [牛肉干] & pork jerky [猪肉干] & Trukey jerky [n.火鸡肉干] & Beef satay /sɑte/ [沙茶牛肉]
 
 # 2.dried fish [n.鱼片干] & dried cuttlefish [n.鱿鱼丝] 
 

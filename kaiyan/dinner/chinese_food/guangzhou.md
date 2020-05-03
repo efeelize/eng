@@ -28,7 +28,7 @@
 # 3.don't knock [批评] it till you've tried it.
 > In this case knocking kind of means criticising，to say something bad.
 
-# III.dim sum /dɪm sʌm/ [点心]
+# III.dim sum /dɪm sʌm/ [广式点心]
 # 1.siu maai / pork /pɔrk/ dumplings [烧卖] & shrimp dumplings [虾饺] & wonton [混沌]
 > 1)A lot of times in America at like a Cantonese restaurant, you'll see "siu maai", I've actually never called them pork dumplings myself.because I think most of the dumplings that Chinese people make do have pork in.
 
@@ -42,27 +42,34 @@
 
 # 4.BBQ pork buns /bʌnz/ [叉烧包] & BBQ pork pastries /ˈpeɪstriz/ [叉烧酥]
 
-# 5.rice noodle rolls /raɪs ˈnudəl roʊlz/ [肠粉]
+# 5.rice noodle rolls [肠粉]
 > it's usually pretty long, you need to dip it in the soy sauce. Oh, so good! 
 
-# 6.turnip /'tɝnɪp/ radish /ˈrædɪʃ/ cake [萝卜糕] & carrot cake /ˈkærət keɪk/ [胡萝卜蛋糕]
+# 6.n + cake
+> So we use cakes to describe anything that's kind of small and put together, and usually baked.
+
+## 1)turnip /'tɝnɪp/ radish /ˈrædɪʃ/ cake [萝卜糕] carrot cake /ˈkærət keɪk/ [胡萝卜蛋糕]
 > 1)one thing to note too is that a lot of times on the menu, they will call it a "turnip cake" instead of a "radish cake". So, depending on the restaurant you go to, it could be either or.
 
 > 2)So "carrot cake" would be a carrot cake, and we actually do have that as a dessert, and it's really tasty but you're not going to find that at a regular Cantonese restaurant, probably.
+
+## 2)fish/crab/shrimp cake [饼]
+> shrimp cakes are usually round as well, like a normal cake would be.savoury. Like also fish cakes
 
 # 7.sesame balls [芝麻球] & spring rolls [春卷]
 
 # 8.pot stickers [锅贴] & gyoza [日式煎饺]
 > Wontons that haves been browned and steamed or simmered are called pot stickers.Serve them as an appetizer or a main course.
 
-# 9.satay /sɑte/ [沙爹串]
+# 9.satay /sɑte/ [沙茶肉串] & chicken/shrimp satay & satay sauce [沙茶酱] & Beef satay [沙茶牛肉]
+> It's a modern Indonesian and Malay spelling of sate, is a dish of seasoned [肉以酱汁先腌过再烤], Satay may consist of diced or sliced chicken, goat, mutton, beef, pork, fish, other meats, or tofu; These are grilled or barbecued, then served with various spicy seasonings.
 
 # 10.Turtle jelly [龟苓膏]
 
 # 11.chawanmushi /chawanmushi/ [日式茶碗蒸] & Chinese steamed eggs [鸡蛋羹]
 > literally "tea cup steam" or "steamed in a tea bowl") is an egg custard dish found in Japan. The recipe for the dish is similar to that of Chinese steamed eggs [鸡蛋羹], but the toppings may often differ. Since egg custard /'kʌstɚd/, along with soup, can't be picked up by chopsticks, it's one of the few Japanese dishes that are eaten with a spoon.
 
-# 12.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
+# 12.filling [馅料(如包子里的）] & stuffing  [馅料（比如火鸡肚子里的馅料)]
 
 # IV.Soup
 # 1.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup 

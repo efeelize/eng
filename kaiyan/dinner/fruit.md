@@ -43,7 +43,7 @@
 
 # 8.hawthorn /'hɔ'θɔrn/ [山楂] & candy hawthorn [n.冰糖葫芦]
 
-# 9.berries /ˈberiz/ 浆果 & blueberry [蓝莓] & cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱] 
+# 9.berries /ˈberiz/ 浆果 & blueberry [蓝莓] & cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱] & black cherries 黑樱桃，野樱桃 & currants /ˈkʌrənts/ 红醋栗
 > cranberry sauce :It's a sauce made of cranberries.so cranberries are like these little round red berries. Anyway, this is a very standard Thanksgiving dish, a sauce made of cranberries, it's pretty sweet and it goes great with the turkey.the turkey it's bigger than a chicken, usually, the meat also is a bit more dry, than the chicken.There's less fat in a turkey, so you have to cook it, a bit more carefully I think. Otherwise, it gets very dry. remember many Thanksgiving where I was thinking God, I need more gravy /'ɡrevi/ [n.肉汁] on this turkey because it's too dry,maybe more cranberry /'kræn'bɛri/ sauce [n.蔓越莓酱].
 
 # 10.banana & potassium /pəˈtæsiəm/ [n.钾]

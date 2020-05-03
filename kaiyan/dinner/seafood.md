@@ -100,23 +100,21 @@
 # IV.shellfish /'ʃɛl'fɪʃ/ [n.甲壳类动物] 
 > So a lot of these seafood related animals like you know crawfish, like oysters.They all have a shell.And they're all called shellfish.Even though they're not fish.Right. But they come in a shell and they're from the sea. So we call them shellfish.
 
-# 1.mussels /ˈmʌsəlz/ [青口贝]
+# 1.mussels /ˈmʌsəlz/ [青口贝] & mussels /'mʌsəl/ [n.淡菜；贻贝] & callop /'skæləp/ [干贝]
 
-# 2.clam /klæm/ 蛤蜊 & clam chowder /'tʃaʊdɚ/ [蛤蜊浓汤]
+# 2.clam /klæm/ 蛤蜊 & clam chowder /'tʃaʊdɚ/ [蛤蜊浓汤] & razor /'rezɚ/ clam [蛏子]
 > A rich and creamy soup with clam and other types of seafood,potatoes,etc...sometimes clam chowder was put in a sourdough bowl.
 
 # 3.shuck /ʃʌk/ oysters /'ɔɪstɚ/ [打开生蚝]
 
-# 4.razor /'rezɚ/ clam [蛏子]
+# 4.abalone /ˌæbə'loni/ [鲍鱼]
 
-# 5.abalone /ˌæbə'loni/ [鲍鱼]
+# 5.geoduck /ˈɡuiˌdʌk/ [象拔蚌]
 
-# 6.scallop /'skæləp/ [干贝]
-
-# 7.sea urchin /ˈə..tʃɪn/ [海胆] & sea cucumber [海参]
+# 6.sea urchin /ˈə..tʃɪn/ [海胆] 
 > sea urchin. Now you may not have heard this word before you've seen them. I can guarantee you may have eaten it and it's it's like a small ball. But not too small you can fit it in your hand, but it's very spiky /'spaɪki/ [adj.很尖],and they're sharp too. It will hurt your hand if you touch it. it looks like it's a ball covered in needles.Usually brown and then you cut it open and inside is yellow.
 
-# 8.geoduck /ˈɡuiˌdʌk/ [象拔蚌]
+# 7.sea cucumber [海参]
 
 # V.Fish
 # 1.anchovies /'æntʃovi/ [n.凤尾鱼]

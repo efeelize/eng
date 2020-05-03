@@ -13,41 +13,122 @@
 
 > 4)swine pairing. This noun phrase is from the verb pair. To pair with something is to find something that goes well. That, that matches it right?So, you can pair a wine with a dish.
 
-# 2.varietals  /və'raɪətəl/ [n.品种] / variety 
-> 1)there's many different types of red[n.红酒] and many different types of white[n.白葡萄酒], it's the word varietals.
+# 2.varietals /və'raɪətəl/ [adj.品种] &  variety [n.] & Varietal [单种葡萄酿的酒] & Varietal wines [品种酒]
+> 1) varietals is an adjective and refers to the wine.there's many different types of red[n.红酒] and many different types of white[n.白葡萄酒], it's the word varietals.
 
-> 2)variety:it's more like specific to wine.So for example, My favourite varietal is Cabernet /'kæbərnei/ [n.赤霞珠,红酒],Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺，白葡萄酒]. You wouldn't say what varietal of clothing do you wear,Or what varietal of sports do you like? definitely not. 
+> 2)variety refers to the grape variety grown and used to make the wine,it's more like specific to wine.So for example, My favourite varietal is Cabernet /'kæbərnei/ [n.赤霞珠,红酒],Pinot Grigio / ˈpiːnəʊ ˈɡriːdʒəʊ / [灰比诺，白葡萄酒]. You wouldn't say what varietal of clothing do you wear,Or what varietal of sports do you like? definitely not. 
+
+> 3) If only one variety (chardonnay, gewürztraminer) is mentioned on the label, then the wine is called Varietal[单种葡萄酿的酒] and  is named after the grape with a capital initial [以酿酒的葡萄品种给酒命名] (Chardonnay, Gewürztraminer). Varietal wines primarily show the fruit: how the wine tastes much depends on the grape variety.
+
+> 4)Varietal wines:It describes a wine that is made from a single or dominant grape variety. Such wines are called wines. For a wine to be varietally labeled, it must be a minimum of 75% made from the stated grape variety.
+
+- 1. This variety of tomato is particularly good and is resistant to disease.
+
+- 2. I like almost every variety of cheese except the moldy ones.
+
+- 3. Customers can browse wines by price, varietal, region and year.
+
+- 4. Malbec, a red wine varietal, represents a quarter of Argentina's wine exports.
+
+# 3.connoisseur /ˌkɑnəˈsɜr/ 鉴赏家；内行 & sommelier /səməl'jeɪ/ （法）酒侍
+
+# 4.house wines [n.餐厅特色葡萄酒] & special wine 
+> the word "house" here is an adjective which is definitely not what we're used to.refers to the restaurant.so it's the restaurants. it's not their special wine. It's more like their basic wine.If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
 
 
+# III.wine tasting
+# 1.place
+## 1)notoriously /noʊˈtɔriəsli/ 有名地 
 
-# III.type
+## 2)grape vine /vaɪn/ 葡萄园 
+
+## 3)winery /ˈwaɪnəri/ 葡萄酒酿造厂
+
+## 4)tasting room /ˈteɪstɪŋ rum/ 品酒屋 & sampling /ˈsæmplɪŋ/ 品尝 
+
+## 5)oaked /oʊkt/ 橡木贮藏的(葡萄酒) & oaky /ˈoʊki/ 橡木味的 & barrel /ˈbærəl/ 桶
+
+## 6)ferment /ˈfɜrmɛnt/ 使发酵；酝酿  & absorbs /əbˈzɔrbz/ 吸收
+
+# 2.aromas /əˈroʊməz/ 芳香 & notes /noʊts/ 香型 & undertones /ˈʌndərˌtoʊnz/ 基调、浅色
+## 1）peppery /'pɛpəri/ 胡椒味的
+
+## 2)strong aroma of fruit [水果芳香] 
+
+## 3)citrus and grassy aromas [柑橘和青草芳香] 
+
+## 4)spicy and woody [香味带点辛辣味和木头味] 
+
+## 5)The aroma is very subtle [香味非常淡]
+
+# 3.tannins /'tænins/ 单宁酸、使酒有涩涩的口感 & acidic /əˈsɪdɪk/ 酸性的 & dry /draɪ/ 干的、酸的酒  
+
+# 4.mellow /ˈmɛloʊ/ 柔和的 & kick /kɪk/ 重口味
+
+# 5.blend /blɛnd/ 混合型酒 & & meet in the middle 折中
+
+# IV.Varietal
 # 1.Red wines
-## 1)Cabernet /'kæbərnei/ [n.赤霞珠,红酒]
+## 1)Cabernet /'kæbərnei/ / Cab Sauv /kæb Sauv/ [n.赤霞珠,红酒]
 
 ## 2)Pinot Noir /ˈpinonwɑr/[n. 黑皮诺/黑比诺]
 
 ## 3)merlot /mεə'ləu/ [n.梅尔洛]
 
+## 4)Malbec /mælˈbɛk/ 马尔贝克
+
+## 5)Syrah /saɪrə// (澳大利亚)西拉(葡萄及葡萄酒)
 
 # 2.white wines
 ## 1)Pinot Grigio /ˈpiːnəʊ ˈɡriːdʒəʊ/ [灰比诺，白葡萄酒] 
 
-## 2)
+## 2)chardonnay /ʧɑrˈdɑneɪ/ 莎当妮（白葡萄酒）
 
+## 3)Sauvignon Blanc /ˌsɔˈvɪnjɑn blæŋk/ 白苏维翁
 
+## 4)Reisling /ˌriˈaɪlɪŋ/ 雷司令
 
+# V.pattern
+***Hello there, welcome to Wine World. Let me know if I can help you out at all.***
 
-# 3.house wines [n.餐厅特色葡萄酒] & special wine 
-> the word "house" here is an adjective which is definitely not what we're used to.refers to the restaurant.so it's the restaurants. it's not their special wine. It's more like their basic wine.If you don't want to think about what wine to order, then this wine is pretty good and it's not expensive. It's the house wine.
+***Um, yes, please, I could really use some help. I’m going over to my boss's house for dinner tonight and don’t know what kind of wine I should bring.***
 
+***OK, do you know what kind of food will be served?***
 
+***Well, his wife is Japanese. He said she makes really good sushi.***
 
+***Hmm, that's a bit of a challenge. Sushi is notoriously difficult to pair with wine. Well, let's see... have to be a white wine, of course. Sushi is a very delicately flavored food, and red wine would be a jarring contrast. You need a white wine, which has more subtle flavors, to complement the fish.***
 
-# III.pattern
+***I see. So should I get a bottle of Chardonnay? That's a white wine, right?***
 
+***Yes, Chardonnay is a white wine, but I’m not sure it'd be your best bet. Chardonnay is one of the more full-bodied whites, and tends to be a bit oaky. I'd suggest that you go for something brighter, like this Sauvignon Blanc from New Zealand.***
 
+***That’s another varietal, or type of grape, just like Chardonnay.The label says it’s got "attractive citrus and grassy aromas that give way to crisp, mineral flavors and a bone-dry finish. Serve chilled." Oh, no, how long will it take to chill the wine? I'm on my way to the dinner now.***
 
+***It’s okay, don’t worry, we'll just choose a wine from the cooler. We don’t have quite as extensive a selection over here, but this Rhone Valley white would be lovely.this is a French wine, so they don’t always specify the varietal on the label. The French believe that the soil a grape is grown in is one of the most important factors in the final flavor of the wine. This wine is probably a blend of a few different types of grapes, mostly Viognier, I'd guess.***
 
+***this is one of our best-sellers. It’s not quite as dry as the Sauvignon Blanc we were looking at earlier, which means it’s more approachable. It’s light and crisp, with a bit of a vanilla aroma.***
+
+# V.pattern
+***Hello, would you like to see a wine list?***
+
+***Yes please. What are your most popular reds?***
+
+***Definitely the Australian Merlot and Pinot Noir and the Californian Malbec.***
+
+***And what is your house red?***
+
+***We have an Argentinian Cabernet Sauvignon and a Chilean Syrah.***
+
+***The Cab Sauv has notes of currants and black cherries, and the Syrah has peppery undertones.***
+
+***Ok. I usually drink Shiraz. Which is closest?***
+
+***Syrah is actually the same. In Australia they call it Shiraz.***
+
+***Ah. Gotcha. I’ll have the Syrah then. Is it heavily oaked?***
+
+***Yes, it’s very oaky and heavy on the tannins.***
 
 
 
