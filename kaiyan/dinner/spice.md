@@ -76,10 +76,17 @@
 
 ## 6)Mustard /'mʌstɚd/ & wasabi /ˈwɑsəbi/ [芥末酱] & Honey mustrad [蜂蜜芥末酱]
 
-## 7)curry /ˈkʌri/ [咖喱]
+## 7)curry /ˈkʌri/ [咖喱] & massaman curry [马沙文咖喱] & green curry [青咖喱]
 
-## 8)Mulan SzeChuan sauce [木兰四川照烧酱]
+## 8)Mulan SzeChuan sauce [木兰四川照烧酱] & brown sauce [红烧酱] 
 > Mulan SzeChuan sauce is a dipping sauce for McDonald's Chicken McNuggets[麦乐鸡].the sauce was originally released back in 1998 to promote the Disney movie Mulan.
+
+## 9）mirin [日式味增] & teriyaki [日式照烧] &  & miso /miso/ soup [味增汤]
+> 1)mirin is an essential condiment used in Japanese cuisine. It is a type of rice wine similar to sake, but with a lower alcohol content and higher sugar content. 
+
+> 2)Teriyaki in Japanese is fried, and the teri fried things, from teriyaki, usually its mirin [日式味增].It has soy sauce, and usually a little bit of sugar.
+
+> 3)miso soup, it's just fermented bean soup.it is delicious. It's a great pairing with some sushi. I always order sushi and miso soup on the side.
 
 # 3.others
 ## 1)barbecue sauce [烧烤酱] & marinade /ˈmɑrɪˌneɪd/ [n.腌渍料] & marinate [v.] & spinach dip [菠菜酱]
@@ -91,7 +98,7 @@
 
 > 4)spinach dip:it has chopped-up spinach,probably lots of cheese,milk maybe.
 
-## 2)brown sauce [红烧酱] & white sauce [蛋白沙司]
+## 2)white sauce [蛋白沙司]
 
 ## 3)Hollandaise sauce /Hollandaise / 荷兰酱（放在班尼迪蛋上的酱）
 > Hollandaise is an emulsion /ɪ'mʌlʃən/ [乳状] of egg yolks, melted butter, and lemon juice. 

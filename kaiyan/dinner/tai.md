@@ -18,7 +18,7 @@
 
 # 5.moo nam tok.[猪肉沙律]
 
-# 6.fish/crab/shrimp cake 
+# 6.fish/crab/shrimp cake [饼]
 
 # IV.pattern
 ***Hi there. Any questions about the menu, or are you ready to order?***

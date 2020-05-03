@@ -114,6 +114,7 @@
 # 6.scallop /'skæləp/ [干贝]
 
 # 7.sea urchin /ˈə..tʃɪn/ [海胆] & sea cucumber [海参]
+> sea urchin. Now you may not have heard this word before you've seen them. I can guarantee you may have eaten it and it's it's like a small ball. But not too small you can fit it in your hand, but it's very spiky /'spaɪki/ [adj.很尖],and they're sharp too. It will hurt your hand if you touch it. it looks like it's a ball covered in needles.Usually brown and then you cut it open and inside is yellow.
 
 # 8.geoduck /ˈɡuiˌdʌk/ [象拔蚌]
 

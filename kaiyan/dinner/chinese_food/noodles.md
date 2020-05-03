@@ -64,7 +64,9 @@
 ## 7)Braised /breɪzd/ Beef Noodles [牛肉面]
 
 ## 8)udon /ˈuːdɒn/ [乌冬面] & soba /səʊbə/ [荞麦面] & Janpanese ramen /rɑ:mən/ [拉面] 
-> So these are like a Japanese soup noodles, And there's different kinds. Sometimes it has pork or beef or chicken or tofu or all of that.
+> 1)udon and soba are like a Japanese soup noodles, And there's different kinds. Sometimes it has pork or beef or chicken or tofu or all of that.Udon is usually in a soup and udon is a thicker round noodle. Ah it's still made of flour.To me it tastes like it's made from rice flour, but it's wheat flour.
+
+> 2)soba they're a little bit brown.Yeah they're kind of brown even a little bit grey at sometimes and they're made from buckwheat.So healthy if you can't eat wheat or bread or things like that. You can eat soba noodles.so if anyone is on a diet, soba is great for dieting.
 
 ## 9)rice noodles [米线]
 

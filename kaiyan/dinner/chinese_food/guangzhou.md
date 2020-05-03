@@ -59,7 +59,10 @@
 
 # 10.Turtle jelly [龟苓膏]
 
-# 11.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
+# 11.chawanmushi /chawanmushi/ [日式茶碗蒸] & Chinese steamed eggs [鸡蛋羹]
+> literally "tea cup steam" or "steamed in a tea bowl") is an egg custard dish found in Japan. The recipe for the dish is similar to that of Chinese steamed eggs [鸡蛋羹], but the toppings may often differ. Since egg custard /'kʌstɚd/, along with soup, can't be picked up by chopsticks, it's one of the few Japanese dishes that are eaten with a spoon.
+
+# 12.sfilling /ˈfɪlɪŋ/ [馅料(如包子里的）] & stuffing /ˈstʌfɪŋ/ [馅料（比如火鸡肚子里的馅料)]
 
 # IV.Soup
 # 1.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup 

@@ -105,7 +105,8 @@
 
 # 14.Century egg [皮蛋]
 
-# 15.chawanmushi [日式鸡蛋羹]
+# 15.chawanmushi /chawanmushi/ [日式茶碗蒸] & Chinese steamed eggs [鸡蛋羹]
+> literally "tea cup steam" or "steamed in a tea bowl") is an egg custard dish found in Japan. The recipe for the dish is similar to that of Chinese steamed eggs [鸡蛋羹], but the toppings may often differ. Since egg custard /'kʌstɚd/, along with soup, can't be picked up by chopsticks, it's one of the few Japanese dishes that are eaten with a spoon.
 
 # V.cereal
 # 1.Raisin Bran /ˈreɪzɪn bræn/ 葡萄干麦片
