@@ -36,18 +36,23 @@
 # 1.gouda /ɡaʊdə/ 古达干酪
 
 # 2, mozzarella /ˌmɑːt.səˈrel.ə/ 马苏里拉奶酪
+> this is like if you eat pizza, it's that white, grilled, melty cheese.when you pull a slice, it is like a long string and it comes out of your mouth.
 
-# 3. Parmesan [帕马森干酪]
+# 3.Parmesan [帕马森干酪]
 
-# 4. Blue Cheese [蓝纹奶酪]
+# 4.Blue Cheese [蓝纹奶酪]
 
 # 5.Cheddar [切达] & aged cheddar /ˈʧɛdər/ 陈年切达干酪
+> Cheddar, now you have different kinds of Cheddar. You have, two most of them are orange and you have an American Cheddar.So Cheddar is generally a little bit more salty than Swiss cheese.
 
 # 6.camembert /ˈkæməmber/ 卡门贝尔奶酪
 
 # 7.brie /bri/ 法国布里白乳酪
 
 # 8.manchego /mænˈtʃeɪ.ɡoʊ/ 曼彻格奶酪
+
+# 9.Swiss [瑞士奶酪]
+> Swiss is the one that is white and has holes in it,whenever I watch the cartoon, the mice, little mouse, they like to play with the Swiss cheese, like eat the Swiss cheese.
 
 
 

@@ -52,7 +52,8 @@
 
 # 12.Taro /ˈtɑro/ [芋头] & roasted sweet potato [n.烤红薯] & yam /jæm/ [红薯]
 
-# 14.roughage /'rʌfɪdʒ/ [n.粗粮] & quinoa /ˈkin wɑ/ [藜麦] & grain /greɪn/ [谷物] & Sago /'seɡo/ [西米] & buckwheat /ˈbʌˌkwit/ 荞麦
+# 14.roughage /'rʌfɪdʒ/ [n.粗粮] & quinoa /ˈkin wɑ/ [藜麦] & grain /greɪn/ [谷物] & Sago /'seɡo/ [西米] & buckwheat /ˈbʌˌkwit/ 荞麦 & Multigrain [杂粮]
+> so multi means many many different kinds and grain is like the seed or the plant used for making cereal, bread, muffins, oatmeal.So multi grain is considered a little healthier, because it's made from many different grains and many different seeds.
 
 # 15.mashed potatoes [n.土豆泥] & pumpkin /'pʌmpkɪn/ pie [n.南瓜派]
 > 1)you take a potato and you mash it.so it's not solid anymore, very fluffy or creamy.and with mashed potatoes usually put in like butter, maybe milk, salt, pepper.
@@ -115,6 +116,7 @@
 > it's also very creamy. It's kind of like orange.something else like pinkish /'pɪŋkɪʃ/ orange [橘红色]. a weird color but very good taste.I actually think Mcdonald's put it on the big Mac for a long time. 
 
 ## 3）Ranch [农场沙拉酱]
+> ranch is a creamy dressing.if you ever had a Caesar salad, it's the dressing. 
 
 ## 4）Caesar /ˈsizɚ/ dressing [凯撒酱] & Creamy and garlicky [奶油味和蒜味很重]
 > A Caesar salad is only a Caesar salad if it has Caesar dressing.
@@ -123,6 +125,7 @@
 > this dressing would be more like vinaigrette, we say.As vinegar and oil.
 
 ## 6）Honey mustrad [蜂蜜芥末酱]
+> it's sweet and spicy,it's a combination of flavours.
 
 ## 7）French [法式酱]
 

@@ -12,14 +12,20 @@
 
 # 5.thick & chunky /ˈʧʌŋki/ 粗短的; 厚实的 
 
-# 6.take-out /teɪk-aʊt/ 外带，自取 & delivery /dɪˈlɪvəri/ 外送，投递
+# 6.take-out /teɪk-aʊt/ 外带，自取  & delivery /dɪˈlɪvəri/ 外送，投递
 
 # II.pizza hut
 # 1.items
-## 1）Hawaiian /həˈwaɪən/ 夏威夷披萨
+## 1）a large chicken deluxe and a medium Hawaiian. [夏威夷披萨] & supreme pizza [豪华披萨]
+> 1)It's the deluxe. So it's got everything on it.Like mushrooms, chicken in all, it's got everything.so we also will use, use. For example, meat lovers deluxe, which is every kind of meat you can think of.So at some restaurants like Pizza Hut, they may call it as supreme pizza.
+
+> 2)Hawaiian pizza:This is always ham and pineapple.you can say I would like a ham and pineapple, but Hawaiian means exactly the same thing.Every restaurant will have Hawaiian pizza and it means the same.You got a lot of that in big restaurants, but a lot of the gourmet sort of authentic pizza places don't always have Hawaiian because sometimes they don't think it's real pizza, real authentic Italian pizza.
 
 ## 2）margherita /,mɑrɡə'ritə/ 玛格丽特披萨
-> tomato sauce,mozzarella cheese,basil.
+> so this is not the drink, same pronunciation and spelling.But this just means with mozzarella,tomato sauce,basil.
+
+## 3)pepperoni pizza 
+> pepperoni :It's like a spicy sausage almost, very thinly sliced, 
 
 ## 3）regular/thin crust [普通/薄底盘]
 
@@ -28,6 +34,11 @@
 ## 5) pizza/wine/coffee/chocolate snob /snɑb/ [行家]
 
 ## 6)extra [加量] & skip/hold [不要放]
+
+## 7)thin/regular/thick crust [...底盘]
+> 1)so thin crust is like this more authentic Italian. That's why it's become a lot more popular these days.crust is a little crispy,it's crusty like the outside part, hard, crispy bread. some people don't like to eat it.
+
+> 2)Another way I think usually I've seen regular crust.Or very common now Pizza Hut has stuff crusts with cheese inside.
 
 # 2.pattern
 ***Hi, I’d like to order a couple pizzas, please.***
@@ -54,14 +65,17 @@
 
 # III.subway
 # 1.items
-## 1)BLT /bi-ɛl-ti/ 培根生菜番茄三明治
+## 1)BLT sandwhich [bacon, lettuce and tomato
 
 ## 2)sub/ submarine /ˈsʌbməˌrin/ sandwich 潜艇三明治
 > The original name was submarine sandwich because its shape is the same as a submarine. But it has other names too, like sub, wedge /wɛdʒ/, hoagie /ˈhoɡi/, and hero. Some places have even larger sandwiches called battleship sandwiches. Long sandwiches, like at Subway, started in Italian-American communities in the USA before World War II. 
 
-## 3)BMT sandwich [Subway畅销款，bigger、meatier、tastier】
+## 3)BMT sandwich [bigger,beatier,tastier】
 
-## 4）foot-long/six-inch [1英尺/6英寸]
+## 4)the works [phr.所有配料都要]
+> 1) "the works" means there are many choices. I want all of the possible choices I want everything.Even the onion and peppers and the pickles.So this word here, the works and now we usually use this to describe ordering food when you have lots of choices. nything with toppings is what you would use the works for.
+
+> 2)like pizza, we've talked about pizza before, when you want everything on your pizza you can say I want the works on my pizza.
 
 # 2.order
 ***Hi, there. What can I get started for you?***

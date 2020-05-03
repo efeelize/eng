@@ -170,7 +170,9 @@
 > White bread is the most common type of bread, it's not very healthy but it tastes really good.
 
 ## 15)Whole wheat bread/ whole grain [全麦面包] & Multigrain bread [杂粮面包]
-> It's brown and has little pieces, seeds, things.so whole grain looks healthier.
+> 1)It's brown and has little pieces, seeds, things.so whole grain looks healthier.
+
+> 2)so multi means many many different kinds and grain is like the seed or the plant used for making cereal, bread, muffins, oatmeal.So multi grain is considered a little healthier, because it's made from many different grains and many different seeds.
 
 ## 16)Pancakes & waffles 
 > 1)Pancakes:it's very basic brunch items,usually drizzled /'drɪzl/ with [滴上] maple syrup/'sɪrəp/ [枫糖浆] and topped with a slice of butter or two, pancakes are not the healthiest breakfast option, nor the easiest to prepare. Pancake batter /'bætɚ/ [面糊] is usually mixed the morning of, but there are frozen options [冰冻面糊] for those who don't have the time to make fresh pancakes.

@@ -42,12 +42,15 @@
 
 # III.sauce/condiment /'kɑndɪmənt/ [酱类调料]
 # 1.(salad)dressing
+> on the salad it's called a dressing.And on a sandwich, it's called a sauce and also like with pasta, we would say sauce.
+
 ## 1)mayo/mayonnaise /'meənez/ [n.美乃滋]
 
 ## 2）Thousand island dressing [千岛酱]
 > it's also very creamy. It's kind of like orange.something else like pinkish /'pɪŋkɪʃ/ orange [橘红色]. a weird color but very good taste.I actually think Mcdonald's put it on the big Mac for a long time. 
 
 ## 3）Ranch [农场沙拉酱]
+> ranch is a creamy dressing.if you ever had a Caesar salad, it's the dressing. 
 
 ## 4）Caesar /ˈsizɚ/ dressing [凯撒酱] & Creamy and garlicky [奶油味和蒜味很重]
 > A Caesar salad is only a Caesar salad if it has Caesar dressing.
@@ -56,6 +59,7 @@
 > this dressing would be more like vinaigrette, we say.As vinegar and oil.
 
 ## 6）Honey mustrad [蜂蜜芥末酱]
+> it's sweet and spicy,it's a combination of flavours.
 
 ## 7）French [法式酱]
 
