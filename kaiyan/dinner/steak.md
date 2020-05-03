@@ -1,13 +1,15 @@
 # Steak
-# I.
+# I.Popular steak and wine pairings
+> Everyone knows steak and wine go together, but what cut goes best with which wine? You can never go wrong with Cabernet Sauvignon [赤霞珠], especially when paired with a fattier cut [油脂重的部位] like the ribeye /rɪb aɪ/ [肋眼肉], T-bone, or porterhouse [上等腰肉]. Zinfandel /'zinfəndel/ [n.馨芳葡萄酒], Syrah are also high in tannin and flavor. The extra fat makes stronger wines taste smoother and less bitter, while the wine enhances the flavor of the steak.
 
+> However, as we learned from the lesson dialogue, some prefer a lighter pairing with their steak. To complement a leaner cut, such as the filet mignon /ˌfiːleɪ ˈmiːnjɒ̃/ [菲力牛排], Merlot /mεə'ləu/ [梅洛] or Pinot noir /pino nwaʁ/[黑皮诺]are good choices. You could even go with a more acidic white wine.
 
+> Another thing to keep in mind is how you prefer your steak cooked. The more well done your steak, the less fat there will be, as it will be cooked away. Since heavier reds pair better with fattier cuts, they also complement rarer steaks, whereas lighter reds and stronger whites will pair better with more well-done steaks.
 
 # II.grammar
-# 1.
+# 1.steakhouse /ˈsteɪkˌhaʊs/ 牛排馆
 
-# 2.steakhouse /ˈsteɪkˌhaʊs/ 牛排馆
-
+# 2.
 
 
 # III.type
