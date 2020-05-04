@@ -85,8 +85,10 @@
 
 > 2)and sometimes we might say "appies" because we're too lazy to say appetizers.Or, maybe even more commonly, you will hear 'starters.'Yeah, or, 'share plates.'
 
-## 2)share plates & side dish [配菜] 
-> So a side dish is not part of any of the main things on the menu. a side dish is some other smaller food that comes with the main food,and usually,some knid of vegetables,if you're eating meat then it's ncie to go along with,like mashed potatoes.that's one kind of side dish or you know, French fries or green beans. Those are not side dishes for a pizzeria. But those are some typical American side dishes and almost every restaurant has side salad,It is. It's so easy and so quick. 
+## 2)share plates & side dish & sides [配菜] 
+> 1)So a side dish is not part of any of the main things on the menu. a side dish is some other smaller food that comes with the main food,and usually,some knid of vegetables,if you're eating meat then it's ncie to go along with,like mashed potatoes.that's one kind of side dish or you know, French fries or green beans. Those are not side dishes for a pizzeria. But those are some typical American side dishes and almost every restaurant has side salad,It is. It's so easy and so quick. 
+
+> 2)we can call sides,everbody will understand you.
 
 ## 3)entrees /'ɔntrei/ [n.主菜] & the mains
 > 1)It's actually called main sometimes too,it's the biggest part of the meal. So notice this word "entree" is spelled "E-N-T-R-E-E". But it's French, so we don't say "en-tree", we say "on-tray"

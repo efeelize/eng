@@ -88,21 +88,27 @@
 
 ## 2)acidic /əˈsɪdɪk/ 酸性的 & dry /draɪ/ 干的、酸的酒  
 
-## 3)mellow /ˈmɛloʊ/ 柔和的 & kick /kɪk/ 重口味
+## 3)mellow /ˈmɛloʊ/ 柔和的 & mellow out [phr.冷静一下] & kick /kɪk/ 重口味
+> Mellow,it's a word that means calmer.So when this context, it means less strong.But for a person, if the person is mellow,they're calm. You know, or if someone is really really excited, you might say, Mellow out.
 
 ## 4)tight /taɪt/ （葡萄酒）紧实的 & crisp /krɪsp/ （葡萄酒）清爽的
 
 ## 5)big /bɪg/ （葡萄酒）口味浓厚 & full-bodied /fʊl-ˈbɑdid/ （葡萄酒）饱满
+> Full-bodied. It's a great word for wine. And it means lots and lots of flavor, very strong flavor.and I think the Cabernets Sauvignon usually has a lot of flavor.
 
 -  Full-bodied wines are sometimes too much for me. When it’s hot out, I prefer something crisp and bright.
 
 ## 5)blend /blɛnd/ 混合型酒 & & meet in the middle 折中
 
+## 6）sophisticated [复杂的]
+> this is a word that is commonly used for wine.They're not simple, a little elegant.it means complex.
+
 # IV.Varietal
 # 1.Red wines
-## 1)Cabernet /'kæbərnei/ / Cab Sauv /kæb Sauv/ [n.赤霞珠,红酒]
+## 1)Cabernet /'kæbərnei/ Sauvignon /soviˈɲɔ̃/ & Cab Sauv /kæb Sauv/  & cab [n.赤霞珠,红酒]
+> So CAB is short for another French word "Cabernet Savignon", which is a type of wine, but it's named after the type of grape which makes the wine.
 
-## 2)Pinot Noir /ˈpinonwɑr/[n. 黑皮诺/黑比诺]
+## 2)Pinot Noir /ˈpinonwɑr/[n.黑皮诺/黑比诺]
 
 ## 3)merlot /mεə'ləu/ [n.梅尔洛]
 

@@ -61,6 +61,9 @@
 
 ## 15)carrot cake [胡萝卜蛋糕]
 
+## 16)soufflé /'suːf(ə)l/ [蛋奶酥]
+> is a baked egg-based dish which originated in early eighteenth century France. It is made with egg yolks and beaten egg whites combined with various other ingredients and served as a savory main dish or sweetened as a dessert. The word soufflé is the past participle of the French verb souffler which means "to breathe" or "to puff".
+
 # 2.pie
 ## 1)pecan pie /pə'kän / /'piˌkæn/ [山核桃馅饼]
 > This one is super sweet because it's a pie with caramelized pecans. Now, some people will say [pə'kän] and others will say ['piˌkæn] with a strong "e". Let's practice both [pə'kän paɪ] and ['piˌkæn paɪ].

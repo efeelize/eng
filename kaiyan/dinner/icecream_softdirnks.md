@@ -1,5 +1,4 @@
 # Icecream_Drinks
-
 # I.Icecream
 # 1.taste & flavor
 > 1）Taste is how you feel, generally speaking.when you're talking about the the taste of a food, the only difference is we can also use taste to mean the thing that we do with our tongue.so if you want to try a flavor of ice cream, you could say, could I taste that flavor? you may taste something, and it has a certain taste to you, but to me it's different.for example, you may like the taste of spicy foods, I may not, so it tastes too strong for me or too hot.

@@ -34,7 +34,8 @@
 
 # 4.Romaine lettuce [罗马生菜] 
 
-# 5.Arugula/Rocket [芝麻菜] 
+# 5.arugula /æ'ruɡjʊlə/ & rocket [芝麻菜] 
+> it's a type of leafy vegetable,it's delicious in any language. I like it because it's bitter, it tastes like mustard, which is one of my favorite foods in the world.
 
 # 6.bok choy /bɑk ʧɔɪ/ [青菜] 
 
@@ -46,7 +47,7 @@
 > edamame:it's a kind of bean, I mean you could think about it as a hairy bean.you don't eat the skin,you just like pop it out of the skin.
 
 # 10.brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝]  & kale /keɪl/ [羽衣甘蓝] 
-> Brussels sprouts are like tiny tiny little cabbages /'kæbidʒ/ [n.甘蓝；卷心菜].there like these little round green vegetables yeah, little small cabbages, and they're usually really good with bacon,some little bit of fried bacon /ˈbekən/ like chopped up with the brussels sprouts, really good.
+> Brussels sprouts are like tiny tiny little cabbages /'kæbidʒ/ [n.甘蓝；卷心菜].there like these little round green vegetables,little small cabbages, and they're usually really good with bacon,some little bit of fried bacon /ˈbekən/ like chopped up with the brussels sprouts, really good.
 
 # 11.turnip /'tɝnɪp/ [大萝卜] &  radish /'rædɪʃ/ [白萝卜（沙拉用）] & carrot [胡萝卜]
 

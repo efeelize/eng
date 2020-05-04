@@ -35,9 +35,11 @@
 
 # 8.gyoza /ɡiːˈəʊzə/ 日式煎饺
 
-# 9.pan seared sashimi  /sɑ'shimi/ [n.相互煎生鱼片]
+# 9.pan seared sashimi  /sɑ'shimi/ [n.香煎生鱼片]
 > so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
 
+# 10.Wagyu beef [和牛]
+> it is any of several breeds of cattle /'kæt(ə)l/ [牛], the most desired of which is genetically predisposed /ˌpri:di'spəuzd/ [先倾向于…的] to intense marbling and to producing a high percentage of oleaginous /ˌəʊlɪ'ædʒɪnəs/ unsaturated /ʌn'sætʃə'retɪd/ fat [不饱和脂肪]. The meat from such wagyu cattle is known for its quality, and commands a high price.
 
 # II.pattern
 ***Do you want to split a sashimi platter with salmon, tuna, and sea urchin?***

@@ -107,18 +107,23 @@
 
 # 6.stir fry [炒]
 
-# 7.fry [煎] & pan seared sashimi  /sɑ'shimi/ [n.相互煎生鱼片]
+# 7.fry [煎] 
+
+# 8.pan seared sashimi  /sɑ'shimi/ [n.香煎生鱼片]
 > so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
 
-# 8.deep fry [油炸]
+# 9.sautéed /'səutei/ [v.嫩煎] brussels /ˈbrʌsəlz/ sprouts /spraʊt/ [n.抱子甘蓝]
+> Lightly cooked and tossed with oil or butter,they key is lightly cooked,you wouldn't say fried,
 
-# 9.boil [煮]
-
-# 10.steam [蒸]
+# 10.deep fry [油炸]
 
 # 11.heat up [加热]
 
 # 12.braise /breizd/ [v.小火慢炖] & braised beef [红烧牛肉]
+
+# 13.boil [煮]
+
+# 14.steam [蒸]
 
 # V.pattern
 ***Our first barbeque of the season! This is going to be great!***

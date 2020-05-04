@@ -39,7 +39,7 @@
 > 3)you can also sell out your country or your friends,your company.If you're working for a company and then you, you think maybe I'm gonna move to another company, and you give them names or customers' information.
 
 # 4.to die for [phr.好的要命]
-> it's a very common term,it just means really great.maybe about food or about drinks. I guess either way something that tastes really good.
+> it's a very common term,it just means really great.but it's usually only uesed for food,maybedrinks. you wouldn't say like this movice is to die for.
 
 # 5.loaded with/in + n. [phr.充满]
 > 1)loaded with surgar:so it's full of surgar.
