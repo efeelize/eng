@@ -90,8 +90,10 @@
 # 2.roasting [v.烤] 
 > "roast" we use this when we cook something at a high heat, like roast beef or roast potatoes.
 
-# 3.baking 
-> we use like "bake" for things like you know, pies and cookies.Baking is for stuff that you would buy at a bakery and roasting is more like meat and vegetables.
+# 3.baking & baked potato [n.烤土豆]
+> 1）we use like "bake" for things like pies and cookies.Baking is for stuff that you would buy at a bakery and roasting is more like meat and vegetables.
+
+> 2)baked potato is a potato that is cooked as a whole, so it has the skin on the potatoes still, and it's very fresh, it's a very common side dish with steak.it might come with a little bit of butter on top, a little bit of sour cream also very common.
 
 # 4.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup & beef stew [n.炖牛肉汤] & chicken noodle soup [美国版鸡汤，有肉 菜面] & beef minestrone /ˌmɪnɪˈstroni/ [牛肉时蔬汤]
 > 1)there's a kind of soup called stew. And that has lots of pieces lots of meat lots of vegetables and not much broth not much water just a lot of pieces. It's just like a thick /θɪk/ [adj.浓稠的] soup.
@@ -105,7 +107,8 @@
 
 # 6.stir fry [炒]
 
-# 7.fry [煎]
+# 7.fry [煎] & pan seared sashimi  /sɑ'shimi/ [n.相互煎生鱼片]
+> so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
 
 # 8.deep fry [油炸]
 

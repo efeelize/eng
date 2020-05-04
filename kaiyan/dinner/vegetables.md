@@ -92,10 +92,13 @@
 ## 3）Caprese salad [意式三色/番茄沙拉]
 > we have another salad from the Mediterranean /ˌmɛdɪtəˈreniən/ [n.地中海] country, coming from Italy, we have the Caprese salad.The Caprese salad is a very simple salad.I think it probably has olive oil, mozzarella /ˌmɑtsəˈrɛlə/ cheese [n.马苏里拉奶酪], tomatoes, basil /'bæzl/ [n.罗勒],probably onion as well.it's light, But more flavorful than the Greek salad.so even though it's a bit lighter, not as heavy as the Greek salad, it's more flavorful, has more flavor.
 
-## 4）Coleslaw [卷心菜沙拉] & classic BBQ side salad [经典美式烧烤配菜]
-> when I think coleslaw,I think KFC,it's a very popular side you can get with some KFC chicken,and it looks kind of white,so I think that's from the sauce that they use, it's kind of it's nice and tiny, kind of sweet and sour. And usually the vegetables are shredded and chopped up, makes it really easy to eat. Taste great.it has a ton of mayo.
+## 4）Coleslaw [卷心菜沙拉] & classic BBQ side salad [经典美式烧烤配菜] & side salad [佐餐沙拉]
+> 1）when I think coleslaw,I think KFC,it's a very popular side you can get with some KFC chicken,and it looks kind of white,so I think that's from the sauce that they use, it's kind of it's nice and tiny, kind of sweet and sour. And usually the vegetables are shredded and chopped up, makes it really easy to eat. Taste great.it has a ton of mayo.
+
+> 2)side salad. So we know what a salad is. A side salad is more like a smaller salad and it's like a side dish. Side salad actually normally comes out before your meal. They don't have to, but don't be surprised if it does.
 
 ## 5）Garden/House salad [田园沙拉]
+> Just lettuce tomatoes, maybe some onions and addressing some sort of.if you're having a big steak, and mashed potatoes are both very heavy foods. And so you might just want a simple light salad by the side.
 
 ## 6）Greek salad [希腊沙拉]
 > It's the traditional salad of the Greek people.And a Greek salad usually has like, it also has cheese as Feta Cheese [菲达奶酪].some raw onions, olives, I believe tomatoes.Greek salad might come with like some lamb, lamb in there as well.
@@ -109,8 +112,11 @@
 
 ## 10）kale salad [羽衣甘蓝沙拉]
 
-# 2.(salad)dressing
-## 1)mayo/mayonnaise /'meənez/ [n.美乃滋]
+# 2.dressing
+## 1)salad dressing [n.沙拉酱] & on the side [phr.酱料分开放]
+> 1) Now a salad usually has salad dressing, Sometimes they can put it directly on a salad for you. So usually they put it on a little cup and I'll give it to you, so you can put it on yourself. You can make sure they don't put on too much.
+
+> 3)But if you don't want that, then you can say,I'll have the salad dressing on the side.And you can do this with anything that has a sauce on it even if you order a sandwich with mayonnaise or a cheeseburger with ketchup, you can ask for any of that, on the side.
 
 ## 2）Thousand island dressing [千岛酱]
 > it's also very creamy. It's kind of like orange.something else like pinkish /'pɪŋkɪʃ/ orange [橘红色]. a weird color but very good taste.I actually think Mcdonald's put it on the big Mac for a long time. 
@@ -130,6 +136,8 @@
 ## 7）French [法式酱]
 
 ## 8）Italian [意式酱]
+
+## 9) mayo/mayonnaise /'meənez/ [n.美乃滋]
 
 # III.pattern 
 ***This is the best salad bar in town. It has a wide range of choices.***

@@ -1,15 +1,5 @@
 # Japanese
-# I.
-
-
-
-
-# II.grammar
-
-
-
-
-# III.type
+# I.type
 # 1.sashimi platter /sashimi ˈplætər/ 刺身拼盘 & seafood platter/tower & sea urchin /ˈɜrʧən/ [海胆] 
 > sea urchin. Now you may not have heard this word before you've seen them. I can guarantee you may have eaten it and it's it's like a small ball. But not too small you can fit it in your hand, but it's very spiky /'spaɪki/ [adj.很尖],and they're sharp too. It will hurt your hand if you touch it. it looks like it's a ball covered in needles.Usually brown and then you cut it open and inside is yellow.
 
@@ -45,7 +35,11 @@
 
 # 8.gyoza /ɡiːˈəʊzə/ 日式煎饺
 
-# IV.pattern
+# 9.pan seared sashimi  /sɑ'shimi/ [n.相互煎生鱼片]
+> so pan seared, it means that you cooked the edges at a really high heat.Yes. So, it's in a pan and the searing part. Like you said, it's at high heat. So, it makes the outside cooked, but the inside is not cooked.And we see this often with like beef and tuna.
+
+
+# II.pattern
 ***Do you want to split a sashimi platter with salmon, tuna, and sea urchin?***
 
 ***Let’s get a California roll. Love those!***

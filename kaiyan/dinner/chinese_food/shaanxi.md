@@ -36,9 +36,9 @@
 > on-the-go breakfast. So this means you can eat it while you're going somewhere, while you're doing something.
 
 # 5.oily [adj.油腻的] & greasy
-> 1)I think, a lot of food that's oily is the food you actually add the oil to.it's been cooked in oil. 
+> 1)I think, a lot of food that's oily is the food you actually add the oil to.it's been cooked in oil. oily has the sort of more healthy sense to it. Like if a pasta is oily or a salad is oily. Oil is good for you,Olive oil.don't say greasy skin. You can say oily skin. But greasy skin is like an insult. Get your greasy hands off me.
 
-> 2)Whereas food that is greasy, it might just be fatty. Like a hamburger, you don't usually cook it in grease. But it has a lot of fat. So the grease, the oil, comes out of the meat. But you could get rid of the grease before eating it.for a McDonald's hamburger would be greasy. Or those eggs are greasy. But you wouldn't really say that they're oily.
+> 2)Whereas food that is greasy, it might just be fatty. Like a hamburger, you don't usually cook it in grease. But it has a lot of fat. So the grease, the oil, comes out of the meat. But you could get rid of the grease before eating it.for a McDonald's hamburger would be greasy. Or those eggs are greasy. But you wouldn't really say that they're oily.greasy is usually used when we talked about frying things.So, for example, chips are greasy. French fries are greasy. And you know, like really heavy meat with a lot of fat can be greasy as well.greasy is usually for frying things, French fries like that. 
 
 # III.Type
 # 1.Skewers /ˈskjuː.ɚ/ [串儿] & kebabs /kəˈbɑbz/ [烤肉串]

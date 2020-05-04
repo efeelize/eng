@@ -7,10 +7,29 @@
 > Another thing to keep in mind is how you prefer your steak cooked. The more well done your steak, the less fat there will be, as it will be cooked away. Since heavier reds pair better with fattier cuts, they also complement rarer steaks, whereas lighter reds and stronger whites will pair better with more well-done steaks.
 
 # II.grammar
-# 1.steakhouse /ˈsteɪkˌhaʊs/ 牛排馆
+# 1.steakhouse /ˈsteɪkˌhaʊs/ 牛排馆 & server & caterer/catering company  [n.餐饮服务者]
+> 1)You might be used to this person being called a waiter.female, waitress. But nowadays and the United States we often say "server". And this word goes for both male and female.Men and women can both be called servers.
 
-# 2.
+> 2)So a caterer /'ketərɚ/ could be a company or it could be one person, we don't know, and it doesn't really matter. The point is that they cater; they provide the food.And sometimes the drinks. so if you see waiters or servers at an event, they're probably part of a catering company.
 
+# 2.well down [全熟] & rare [一分熟] & medium rare [三分熟] & medium [五分熟]
+> 1)so well done is a way of cooking meat, and we'll talk about some of the different ways of cooking meat, well done means it's very well cooked, it's cooked a long time.so if you cut your steak, a well down steak is not pink or red, in the middle.It should be all brown looking, and maybe even the outside might look a little bit blackened charring.so usually a well done steak is a little bit dry, in my experience.
+
+> 2)rare is cooked the least,it's very read or pink in the center.you will have a little bit of blood still in the meat.
+
+> 3)medium is might be 50% cooked,it's got maybe just a tiny bit of pink,but it's mostly cooked all the way through.this is the safe choice if you don't want your steak to be too pink, to be too bloody, that you also don't want it to be very well down, and dry. Then you can choose the medium steak.
+
+# 6.beef carpaccio [n,生牛肉片] & medium rare [adj.三分熟] & well done [adj.全熟] & tender [adj.嫩的]
+> 1)It's very thinly-sliced [adj.薄切片的] beef, but it's raw.Yeah, so it's not thick[adj.厚的]. But carpaccio here is not French. It's a different language.It's Italian and because of that.
+
+> 2）It's still red on the inside, hopefully not bleeding. And the next one is medium rare which is what the customer says here.
+
+> 3)so well done means that it's cooked really well. You know, there's no red left.
+
+> 4)melt in your mouth, yeah. Essentially if it's tender, it's not chewy. 
+
+# 3.tender [嫩] & tough [老]
+> So you could say a tender steak, it's soft, chew very easily. A tough steak is very difficult to chew, and it's kind of dry and hard.
 
 # III.type
 # 1.cut /kʌt/ 牛的部位
@@ -22,8 +41,10 @@
 
 # 2.type
 ## 1)filet mignon /fɪˈleɪ ˈmɪgnən/ 菲力牛排
+> filet mignon is just a type of steak, so its meat comes from a particular part of the cow, the animal. And it's known to be very high quality, very soft, and tender as meat.
 
 ## 2)rib eye /rɪb aɪ/ 肋眼牛排 
+> so rib eye steak it's first of all, it's a larger piece of meat.it's a lot bigger than a filet mignon, for example. there is actually a piece of bone in the middle of the steak, the small circle, then it looks like an eye, and that's the rib,and it also has pieces of fat,so it's got around the edges,and maybe pieces of fat that you would cut off.
 
 ## 3)T-bone /ˈtiˌboʊn/ T骨牛排
 
