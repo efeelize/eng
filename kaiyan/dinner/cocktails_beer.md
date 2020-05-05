@@ -23,12 +23,14 @@
 
 > 3)so and it doesn't just have to be alcohol and getting drunk or something like that. For example, if you're sick, you know a doctor might give you some medicine and say here, take this medicine, it will do the trick.
 
-# 3.light [度数低，口味淡] & strong [度数高] & heavy [口味浓]
+# 3.light [度数低，口味淡] & strong [度数高] & heavy [口味浓] & peaty taste
 > 1)we can use this word "light" to talk about how much alcohol is in the drink, but also to talk about the flavor.we always use this word "light" when we're talking about drinks with less alcohol, like "light beer."
 
 > 2)But if we're talking about the opposite,so we want something that's not light, we can either use "strong" if we want something with a lot of alcohol.
 
 > 3)but if we're talking about taste, we prefer to use the word "heavy."
+
+> 4)For whiskey, it has a peaty taste because it's processed in peat /pit/ [n.煤炭], which is like a ground. So it absorbs the flavour in the smell of the thing that the container that it's sitting in.
 
 # 4.higher / lower proof [n.稍高/低度数] & high/low/less calories & NA/non-alcoholic [无酒精的]
 > 1)proof: it's a word that we use to talk about how much alcohol is in, the beer or the wine or the liquor that you're drinking.like if were drinking something strong, something that really packs a punch like vodka, the proof is I think 80?
