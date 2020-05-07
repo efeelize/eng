@@ -82,6 +82,9 @@
 ## 6)PB & J / peanut butter & jelly sandwish 
 > Americans just call it PB & J.you need to spread peanut butter first,then jelly.a classic breakfast and packed lunch food for kids.
 
+## 7)mince pies /mɪns paɪz/ [n.百果馅饼]
+> So mince pies are a Christmas snap, you only see that Christmas. It's like a little tiny, little pie.But it's sweet, so inside there's lot of dried fruits. Like spices may be cinnamon.It was like that and then on top maybe some sugar,and you will have it with cream.
+
 # 3.toppings
 ## 1)decorated /ˈdɛkəˌreɪtəd/ 装饰精美的
 
