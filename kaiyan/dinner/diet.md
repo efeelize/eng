@@ -82,11 +82,13 @@
 
 # 11.have in mind /hæv ɪn maɪnd/ 心里想到
 
-# III.diet fads /ˈdaɪət fædz/ [减肥饮食法]
-# 1.a well-balanced diet & a balanced + n.
+# III.diet fads /fædz/ 
+# 1.a well-balanced diet & a balanced + n. & go on a diet [phr.节食减肥]
 > 1)A well-balanced diet and plenty of exercise are vital." So a well-balanced diet means you eat some vegetables, and you eat some meat, maybe a potato.
 
 > 2)a balanced anything just means that there is not too much of A and too little of B. we often use this when talking about our work-life balance. 
+
+> 3)go on a diet.  It just means that you kind of changed the way that you eat, in order to lose weight.And just be careful of the way you say this, we almost always say go on a diet. We don't say I'll diet. I'll go on a diet.so think of it as a chunk.
 
 # 2.keto diet /ˈkeɪtoʊ ˈdaɪət/ 生酮饮食
 > this diet is so popular because you can eat a lot of high-fat foods, like bacon and sausage.and butter. They put butter into coffee. And this is kind of the problem with a lot of these diets as they let you eat a lot of one thing. you can eat all of the sausages that you want. It's okay.It works by lowering levels of insulin and shifting your primary fuel source from sugar to ketones. These compounds are made from fatty acids, and your brain and other organs can burn them for energy.

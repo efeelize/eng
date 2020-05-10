@@ -74,6 +74,9 @@
 
 # 7.green/kale smoothie [n.甘蓝奶昔]
 
+# 8.protein shakes [n.蛋白奶昔]
+> so a "shake" is a little bit like a smoothie. It's a drink, something you can drink.and there's different types of shakes. There's like milk shakes. in protein shakes, it's probably using protein powder.And that is something that can make people stronger or maybe look a little bit bigger.
+
 # V.supplements /ˈsʌpləmənts/ [补充剂]
 # 1.nutrients /ˈnutriənts/ 营养物质 & nutrition & nutritionist
 > 1)the nutrient is the thing, like the protein.More like the idea,So we could talk about my nutrition is good because I consume a good balance of nutrients.
@@ -91,7 +94,7 @@
 > carb is short from of carbohydrate.So a carb is a kind of nutrient , you can find them in bread and pasta and rice and in my favorite beer.So we usually just say "carb" or "low-carb" when we're talking about an adjective and when we're talking about a noun, we usually say carbs.
 
 # 4.high-protein /ˈproʊtiːn/ [高蛋白质的]  & whey /weɪ/ protein powder [乳清蛋白粉] & protein powder [蛋白粉]
-> 1)protein. You can think about this as being in eggs, egg whites.in meat. If you wanna get big muscles, you need to eat a lot of protein.So it's the same idea we say high-protein. This counts as an adjective or we can just say, I like to eat protein, where it is a noun.So a lot of these diets, these new diet fads, they have these rules, low-carb, high-protein.
+> 1)protein.It's a type of food, or should I say a lot of foods have protein. You can think about this as being in egg whites,Meat has a lot of protein. But there's also certain types of vegetables that have protein. If you wanna get big muscles, you need to eat a lot of protein.So it's the same idea we say high-protein. This counts as an adjective or we can just say, I like to eat protein, where it is a noun.So a lot of these diets, these new diet fads, they have these rules, low-carb, high-protein.
 
 > 2)whey is dairy based,it means it's made from milk, but if you're allergic to milk, you need to find a different one.Or if you don't want to put chocolate in your breakfast. So, you can actually get chocolate flavored protein powder,now this protein is whey.
 
