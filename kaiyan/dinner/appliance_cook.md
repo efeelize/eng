@@ -58,8 +58,10 @@
 
 > 2) cutlery:So you can kind of think of cutlery as like forks and knives and basically, yes, knives- things that you cut with,spoons and chopsticks too, all of that stuff for eating.
 
-## 2)measuring spoons [量匙]
-> so if you're making some meal and you're following a recipe very carefully, you need to measure, you need to like put in maybe one tablespoon or one teaspoon of oil or or something else. It's important to be, you know, accurate and careful.So there're always really handy to have around, and especially for like people over here in Canada and north America, we bake a lot.
+## 2)measuring spoons/ cup & cups [量匙/量杯]
+> 1)so if you're making some meal and you're following a recipe very carefully, you need to measure, you need to like put in maybe one tablespoon or one teaspoon of oil or or something else. It's important to be, you know, accurate and careful.So there're always really handy to have around, and especially for like people over here in Canada and north America, we bake a lot.
+
+> 2)So when you are cooking from a recipe, they usually have the number of measuring cups you need to use.so we need two cups of glutinous rice flour and one cup of water.
 
 ## 3)cutting/chopping board /ˈkʌtɪŋ bɔrd/ 切菜板 & chop up /ʧɑp ʌp/ 剁碎
 > so a cutting board. It's often like plastic or wood and it's basically that kind of flat piece that you chop things on.so cooking like chopping up some vegetables and for that, you need a cutting board.
@@ -100,10 +102,12 @@
 
 > 2)some of my students will say they like to have soup but what they mean is like the water part like not the noodles not the meat not the vegetables the water and that's called the broth.so as you can see broth and soup are pretty similar but broth just tends to mean the water part and a lot of Chinese soups are mainly just broth, so for example you have chicken soups or any kind of like ginger soup.
 
-# 5.grill /grɪl/ [烧烤] & barbeque/BBQ [烧烤]
+# 5.grill /grɪl/ [烧烤] & barbeque/BBQ [烧烤] & cookout
 > 1)grill:You're cooking it over the fire, Usually when at the BBQ you are actually grilling something.usually over a metal grate /ɡret/ [烤架].So this word grill is not just a verb, but it's also a noun. So it can refer to the thing that you grill something on and you can also be grilling food.
 
 > 2)so every time you say it's barbecue.but we can just write BBQ.
+
+> 3)cookout is basically a barbecue,it's the exact same thing.
 
 # 6.stir fry [炒]
 
@@ -121,9 +125,19 @@
 
 # 12.braise /breizd/ [v.小火慢炖] & braised beef [红烧牛肉]
 
-# 13.boil [煮]
+# 13. simmer /ˈsɪmɚ/ [煮] & boil [煮] 
+> 1)So when you simmer, you cook in hot water.but the temperature is a little bit lower than boiling.
+
+> 2)so boiling is when the water is filled, it has a lot of big bubbles. But simmer is just a little cooler than that,so maybe a little bubbles.
 
 # 14.steam [蒸]
+
+# 15.knead /niːd/ [揉] & dough /doʊ/ [面团] & wrap /ræp/ sth around sth  [包裹]
+> 1)You use dough to make dumplings. You use it to make bread.you use it to make pizza or cookies.This is what it looks like when you put water and flour together, and you haven't baked or cooked it yet.So dough is kind of the paste.It's kind of like a flour paste almost actually.a little thicker though. it's thicker. But we knead it by using our hands. We kind of press on it to make sure it's mixed together well kind of.you know you push down on it, and you roll it around like a ball.
+
+> 2)they're going to make balls out of the dough and pastes. So they're going to do that by kind of kneading and rolling.But then they need to flatten the dough balls so they can wrap the dough around the balls of paste.
+
+> 3)so when you wrap it, you just put something around something.so there's so many things you can wrap.Just the key thing here to remember is that you are moving this object around and covering it.so we usually say wrap something around something.
 
 # V.pattern
 ***Our first barbeque of the season! This is going to be great!***

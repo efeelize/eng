@@ -71,8 +71,17 @@
 
 # 12.filling [馅料(如包子里的）] & stuffing  [馅料（比如火鸡肚子里的馅料)]
 
+# 13.sweet dumplings & soup rice balls [汤圆] & savory tangyuan [咸味汤圆] & minced pork [猪肉糜] & ground beef [牛肉末]
+
+# 15.sticky rice [糯米] & glutinous /ˈɡluːtənəs/ rice flour /ˈflaʊɚ/ [糯米粉] & fermented glutinous rice [醪糟] 
+> 1)So there's a type of Chinese food, another one very popular called Zongzi. And that's glutinous rice dumplings, but we also just call them sticky rice.
+
+> 2)first of all rice flour is what you use to make, let's see, buns, dumplings, and noodles.Glutinous means sticky,ou don't hear it too often in English actually. It means sticky.  But here we have glutinous rice flour. So it's kind of like sticky rice flour.it's different from wheat flour.
+
+> 3)Unfilled tangyuan are served as part of a sweet dessert soup.[糖水中配以无馅料的小汤圆]
+
 # IV.Soup
-# 1.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup 
+# 1.stew [n.炖菜] & broth /brɑθ/ [清汤] & soup & chicken broth [清鸡汤]
 > 1)there's a kind of soup called stew. And that has lots of pieces lots of meat lots of vegetables and not much broth not much water just a lot of pieces. It's just like a thick /θɪk/ [adj.浓稠的] soup.
 
 > 2)some of my students will say they like to have soup but what they mean is like the water part like not the noodles not the meat not the vegetables the water and that's called the broth.so as you can see broth and soup are pretty similar but broth just tends to mean the water part and a lot of Chinese soups are mainly just broth, so for example you have chicken soups or any kind of like ginger soup.

@@ -66,29 +66,57 @@
 
 # 4.frozen /ˈfroʊzən/ [冷冻的] & freezer /ˈfri:zər/ 冰柜 & refrigerator /rəˈfrɪʤəˌreɪtər/ 冰箱 
 
-# 5.protein /ˈproʊˌtin/ 蛋白质 & boosts /busts/ 增强剂 
+# 5.Berry and Yogurt Smoothie /ˈsmuði/ [莓果酸奶奶昔]
+> Blend banana and mixed berries with low-fat yogurt. Add a dash of honey and you’ve got a great smoothie for the morning rush.
+
+# 6. Fruit Granola Yogurt Parfait /pɑr'fe/ [水果麦片酸奶芭菲]
+> Get plain Greek yogurt, layer with your favorite fresh fruit. Top with a handful of granola. It tastes as good as it looks.And when you mix it with yogurt, you get this thing that people often call a parfait. Or a parfait. Parfait in French means perfect.
+
+# 7.green/kale smoothie [n.甘蓝奶昔]
+
+# V.supplements /ˈsʌpləmənts/ [补充剂]
+# 1.nutrients /ˈnutriənts/ 营养物质 & nutrition & nutritionist
+> 1)the nutrient is the thing, like the protein.More like the idea,So we could talk about my nutrition is good because I consume a good balance of nutrients.
+
+> 2) so nutrition is more like the study of how to eat.More like the idea.
+
+- I should go and talk to my nutritionist before I start a new diet.
+
+# 2.boosts /busts/ 增强剂 
 > 1)Protein is the stuff that builds your muscle.And especially if you don't like to eat bread, you need to eat protein. So, now, usually when we think of protein, we think of meat.like chicken has lots of protein, beef has lots of protein.
 
 > 2)a boost is an extra, or an add-on, and it just means even more of something.and you can get something, it's called like an energy boost, like for example, if I'm feeling kind of sleepy after lunch, I need a boost or extra energy, sometimes people drink coffee.
 
-> 3)you don't want to put chocolate in your breakfast. So, you can actually get protein powder.so you can get chocolate flavored. Now this protein is whey.
+# 3.carbohydrate /ˌkɑːrboʊˈhaɪdreɪt/ [碳水化合物] & low-carb /loʊ-kɑːrb/ [低碳水的] 
+> carb is short from of carbohydrate.So a carb is a kind of nutrient , you can find them in bread and pasta and rice and in my favorite beer.So we usually just say "carb" or "low-carb" when we're talking about an adjective and when we're talking about a noun, we usually say carbs.
 
-# 6.nutrients /ˈnutriənts/ 营养物质 & nutritious /nuˈtrɪʃəs/ 有营养的
-
-# 7.dairy /ˈdɛri/ [乳制品] & curds /kə:d/ [n.凝乳] & lactose /ˈlæktoʊs/  intolerant [乳糖不耐受] & whey /weɪ/ protein powder [乳清蛋白粉]
-> 1)if you are lactose intolerant, you can't have protein powder, you need to find a different protein powder, and there's rice protein powders, or vegan ones made from vegetables, whey is just easier.
+# 4.high-protein /ˈproʊtiːn/ [高蛋白质的]  & whey /weɪ/ protein powder [乳清蛋白粉] & protein powder [蛋白粉]
+> 1)protein. You can think about this as being in eggs, egg whites.in meat. If you wanna get big muscles, you need to eat a lot of protein.So it's the same idea we say high-protein. This counts as an adjective or we can just say, I like to eat protein, where it is a noun.So a lot of these diets, these new diet fads, they have these rules, low-carb, high-protein.
 
 > 2)whey is dairy based,it means it's made from milk, but if you're allergic to milk, you need to find a different one.Or if you don't want to put chocolate in your breakfast. So, you can actually get chocolate flavored protein powder,now this protein is whey.
 
-# 8.Berry and Yogurt Smoothie /ˈsmuði/ [莓果酸奶奶昔]
-> Blend banana and mixed berries with low-fat yogurt. Add a dash of honey and you’ve got a great smoothie for the morning rush.
+# 5.dairy /ˈdɛri/ [乳制品] & curds /kə:d/ [n.凝乳] & lactose /ˈlæktoʊs/  intolerant [乳糖不耐受] 
+> if you are lactose intolerant, you can't have protein powder, you need to find a different protein powder, and there's rice protein powders, or vegan ones made from vegetables, whey is just easier.
 
-# 9. Fruit Granola Yogurt Parfait /pɑr'fe/ [水果麦片酸奶芭菲]
-> Get plain Greek yogurt, layer with your favorite fresh fruit. Top with a handful of granola. It tastes as good as it looks.And when you mix it with yogurt, you get this thing that people often call a parfait. Or a parfait. Parfait in French means perfect.
+# 6.grape seed extract /greɪp sid ˈɛkˌstrækt/ [葡萄籽萃取物]
 
-# 10.green/kale smoothie [n.甘蓝奶昔]
+# 7.CLA /si-ɛl-eɪ/ [共轭亚油酸] 
 
-# V.pattern
+# 8.fish oil [鱼肝油] & capsules /ˈkæpsəlz/ [胶囊] 
+
+# 9.calcium /ˈkælsiəm/ [钙] & chewable /ˈʧuəbl/ [可咀嚼的]
+
+# 10.iron /ˈaɪərn/ [铁] & zinc /zɪŋk/ [锌]
+
+# 11.folic acid /ˈfɑlɪk ˈæsəd/ [叶酸] & drops /drɑps/ [滴剂] & pregnant /ˈprɛgnənt/ 怀孕的 & prenatal /priˈneɪtəl/ 孕期、产前的
+
+# 12.multivitamins /ˌmʌltiˈvaɪˌtʌmənz/ [多种维生素] 
+
+# 13.minerals /ˈmɪnərəlz/ [矿物质]
+
+# 14.antioxidants /ˌæntiˈɑksədənts/ [抗氧化剂]
+
+# VI.pattern
 ***This is so neat, Grace. I’ve never used an app to buy fruit before. So what should we get?***
 
 ***Start with the easy stuff. Add a few apples and bananas to the cart.***
@@ -113,7 +141,7 @@
 
 ***Well that’s why you have me. It’s like they say, two heads are better than one!***
 
-# V.pattern
+# VI.pattern
 ***Hi, what kind of smoothie can I get you today?***
 
 ***Hm. I haven’t had breakfast, so I’m looking for something filling.***
@@ -132,7 +160,7 @@
 
 ***Ok. Coming right up.***
 
-# IV.patten
+# VI.patten
 ***What kind of juice do you want?***
 
 ***I always get the pear and apple blend.***

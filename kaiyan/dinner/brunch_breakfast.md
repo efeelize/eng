@@ -140,6 +140,8 @@
 
 # 9.flakes /fleɪks/ [麦片、薄片]
 
+# 10.burrito /bə'rito/ [n.墨西哥玉米煎饼]  
+
 # VI.pattern
 ***I'm so glad we got here early. This is the hottest brunch spot in town. Did you guys see the line-up?***
 

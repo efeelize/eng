@@ -72,8 +72,10 @@
 
 ## 3)Sweet bean sauce [n.甜面酱]
 
-## 4)sesame /'sɛsəmi/ paste [芝麻酱] 
-> So just with the pronunciation here, it's not [sɜ:seɪm]. It's ['sesəmi].it's darker a little bit,and it has a nutty /'nʌti/ flavor.
+## 4)black sesame /ˈsɛsəmi/ [黑芝麻] & black sesame/red bean/chocolate/taro /ˈtɑro/ paste /peɪst/ [黑芝麻酱/红豆沙/巧克力馅/香芋馅] & fruit preserves [水果馅] & crushed peanuts [花生碎]
+> 1)So paste is very sticky, and it's made by, you know, cooking the red beans for a long time and just kind of mushing them together. So you can kind of like we say smash maybe. Before it might be a bunch of little beans, but then you kind of mush them together into one paste. And that's what you get in the dessert.
+
+> 2)So just with the pronunciation here, it's not [sɜ:seɪm]. It's ['sesəmi].it's darker a little bit,and it has a nutty /'nʌti/ flavor.
 
 ## 5)peanut /ˈpinət/ almond /'ɑmənd/ cashew /'kæʃʊ/ butter [花生/杏仁/腰果酱] 
 > so this may sound strange if you think peanuts mixed with butter. It doesn't have actual butter.There's no butter. It's just when you blend it to form a paste /pest/ [糊状].And now very popular is almond butter.

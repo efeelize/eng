@@ -51,7 +51,7 @@
 
 # 11.turnip /'tɝnɪp/ [大萝卜] &  radish /'rædɪʃ/ [白萝卜（沙拉用）] & carrot [胡萝卜]
 
-# 12.Taro /ˈtɑro/ [芋头] & roasted sweet potato [n.烤红薯] & yam /jæm/ [红薯]
+# 12.Taro /ˈtɑro/ [芋头] & purple potato [紫薯] & roasted sweet potato [n.烤红薯] & yam /jæm/ [红薯]
 
 # 14.roughage /'rʌfɪdʒ/ [n.粗粮] & quinoa /ˈkin wɑ/ [藜麦] & grain /greɪn/ [谷物] & Sago /'seɡo/ [西米] & buckwheat /ˈbʌˌkwit/ 荞麦 & Multigrain [杂粮]
 > so multi means many many different kinds and grain is like the seed or the plant used for making cereal, bread, muffins, oatmeal.So multi grain is considered a little healthier, because it's made from many different grains and many different seeds.
@@ -81,6 +81,14 @@
 # 21.Scallions /'skælɪən/ [葱] & Leek slices [n.大葱丝] & spring onion [小葱]
 
 # 22.Cilantro /sɪ'læntro/ [n.香菜] & chive /tʃaɪv/ [韭菜] & ginger/'dʒɪndʒɚ/ [n.姜,生姜]
+
+# 23.organic /ɔrˈgænɪk/ 有机的
+
+# 24.corner store /ˈkɔrnər stɔr/ 街角小店 & farmer's market /ˈfɑrmərz ˈmɑrkət/ 农产品市场
+
+# 25.premium /ˈprimiəm/ 高价的，优质的 &  price tags /praɪs tægz/ 价格标签
+
+# 26.pesticides /ˈpɛstəˌsaɪdz/ 杀虫剂 & fertilizer /ˈfɜrtəˌlaɪzər/ 肥料
 
 # IV.Salad
 # 1.type 
