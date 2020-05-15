@@ -4,9 +4,9 @@
 
 > “Unmanned stores are all about removing friction [消除摩擦] and increasing productivity. For some retail categories like convenience grocery [便利店] or fast food [快餐店], minimising time in-store [尽量减少在店时间]  makes a lot of sense.”
 
->  For now, the novelty /'nɑvlti/  [n.新颖] of Amazon's first automated grocery store is more important than issues that may come up in the future [让人们忽略了未来可能引起的问题]. Since [由于] it requires an account [账户] and a smartphone, it could be inaccessible to many lower-income shoppers. The tracking technology may also raise privacy and data collection concerns. And then on top of that, there's the issue of 3.5 million cashiers in the U.S. making around $9.70 an hour who could eventually lose their jobs to automation.
+> For now, the novelty /'nɑvlti/  [n.新颖]of Amazon's first automated grocery store is more important than issues that may come up in the future [让人们忽略了未来可能引起的问题]. Since [由于] it requires an account [账户] and a smartphone,it could be inaccessible to many lower-income shoppers [将很多低收入者拒之门外].The tracking technology may also raise privacy and data collection concerns [引起隐私和数据收集的担忧]. And then on top of that [除此之外], there's the issue of 3.5 million [350万] cashiers [收银员] in the U.S making around $9.70 an hour [每小时收入] who could eventually lose their jobs to automation.
 
-> In a CNN interview, a local shopper said, "At the end of the day, the people who are shaping the world work in technology, and they are more comfortable with automation instead of small talk with a cashier".
+> In a CNN interview, a local shopper said, "At the end of the day [最终], the people who are shaping the world work in technology, and they are more comfortable with automation instead of small talk with a cashier".
 
 # II.grammar
 # 1.eventually & finally
@@ -27,6 +27,12 @@
 - 4. Eventually, everybody has to consider saving money for retirement.
 
 # 2.
+
+
+
+
+
+
 
 
 
