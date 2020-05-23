@@ -1,4 +1,4 @@
-# Blind_date.
+# love
 # I.Quick facts on dating culture in the US 
 # 1.Marriage is not (always) the ultimate goal
 > American people will think through and through before they decide to get married. They will make sure that their partner is the right one worth spending their life with. Thus, people who date in America are not all ended up being married. 
@@ -60,7 +60,7 @@
 
 > 2)You can sometimes say "have a shot," like "I had a shot at it but it didn't work."
 
-# III.pattern
+# V.pattern
 *** Hey, Peter. Have you been seeing anyone lately?***
 
 ***Nah. Since Lindsay and I broke up, I've just been enjoying the dating scene.***
@@ -83,7 +83,61 @@
 
 ***Great, I'll let her know!***
 
+# V.pattern
+***Do you believe in love at first sight, Jen?***
 
+***Personally, I’ve always thought the idea was a bit far-fetched.***
+
+***Really? You’ve never experienced it? What about with your husband?***
+
+***We hit it off, sure. But there was no spark. He just grew on me over time.***
+
+***Not with my wife and me. When I first saw her, there was an instant attraction. I knew right away that I wanted to spend the rest of my life with her.***
+
+***It could be because of outcome bias, meaning that because you guys are in a healthy long-term relationship now, you believe that it was great from the get-go.***
+
+***Well, if that’s the case, then you should feel the same way, right?***
+
+***I’m not sure. I actually read a study that said men reported they experienced love at first sight more than women.***
+
+***I wonder if that includes your husband.***
+
+***If you ask him, he’ll tell you that he fell in love with me after the first time I cooked for him.***
+
+***Oh, so I guess you could say it was "love at first bite"!***
+
+# V.pattern
+***Lulu! Tell us about your love life. Are you seeing anyone?***
+
+***No Auntie. I’m trying to focus on finishing my PhD first.***
+
+***Oh Lulu, no man wants to marry a brainy girl.***
+
+***I’m not looking to get married any time soon, Auntie.***
+
+***But the clock is ticking! You don’t want to get left behind!***
+
+***Oh ease up on her, darling. A girl as beautiful as Lulu won’t have any problems finding a match.***
+
+***You know, Old Wang next door has a nephew who’s single. I heard he just bought a house in the city. Maybe we can set you two up.***
+
+***I’m not interested in blind dates, Auntie.***
+
+***Who said anything about a blind date? We’ll all just get together for a chat and see where it goes from there. I’ll just go grab his phone number!***
+
+***Lulu, I know she can be a little much, but she only wants what’s best for you.***
+
+***I understand that, Uncle. I just wish she could be a bit less narrow-minded.***
+
+***Well now that she’s gone, you can tell your old uncle. Is there anyone special in your life?***
+
+***Sorry, sorry! It’s just the way our generation is wired. We didn’t have the opportunities you kids have today. We had to be more practical.***
+
+***Do you think what I’m doing isn’t practical too, Uncle?***
+
+***Sorry, that came out wrong. Personally, I think it’s great what you’re doing. As long as you follow your heart, your old uncle will always have your back.***
+
+***Thanks a million, Uncle!***
 
 
 
