@@ -154,7 +154,7 @@
 
 
 # V.pattern
-*** Hey, Peter. Have you been seeing anyone lately?***
+***Hey, Peter. Have you been seeing anyone lately?***
 
 ***Nah. Since Lindsay and I broke up, I've just been enjoying the dating scene.***
 
