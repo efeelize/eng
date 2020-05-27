@@ -36,8 +36,9 @@
 > There is another sneaky [adj.狡猾的] tactic that is often used by both nosy relatives and regular people (both men and women) looking for dates. Just assume that the person does have a significant other [先假定有另一半], and then ask something about that supposed relationship. For example, you could ask "what did your boyfriend get you for Valentine's Day/your birthday/Christmas". If the person is seeing someone, then they can tell you about the gift and, indirectly, their boyfriend. If they aren't seeing anyone or don't want to tell you, then this gives them the opportunity to answer in the way they so choose.
 
 # IV.grammar
-# 1.At first & love at first sight/ bite/fight & at first glance/ blush
-> 1)most of the time “at first” doesn’t imply something continuing in this way. Rather, it means that in the beginning, the situation was one way (or seemed to be one way), but then at some point it changed.
+# 1.一见钟情
+## 1）At first &  love at first sight/ bite/fight & at first glance/ blush 
+> 1）most of the time “at first” doesn’t imply something continuing in this way. Rather, it means that in the beginning, the situation was one way (or seemed to be one way), but then at some point it changed.
 
 > 2)“Love at first sight” has a very specific meaning: from the moment one person sees another person, they fall in love with them and, importantly, continue to love them over time. At first is a tiny phrase that can either be used on its own or found in other phrases such as “love at first sight”.
 
@@ -51,14 +52,91 @@
 
 - 3. When Thomas Edison produced the first commercial light bulb, it was love at first light!
 
-# 2.left behind [n.剩女; 留下; 遗留] & to be /get left over
-> 1)Chinese culture does have the concept of "women who are left behind", and it's not exactly positive.
+## 2）hit it off [phr.一拍即合] 
+> we hit it off meaning that they got along really well from the beginning.So there's another good phrase that you don't only need to use when you're talking about romance like we can use that when we're talking about friends, coworkers, fellow travelers,anyone.
 
-> 2) "left behind" comes from the phrase "to leave behind". When you "leave something behind", it means to go somewhere and not bring a certain thing with you. It could be something serious like leaving behind family members, or something less serious like forgetting your keys at home.
+## 3）spark [n.火花] & & we have chemistry
+> 1) so spark really has this kind of romantic idea. It's just connection between two people.because you can't have a fire without a spark. Spark is just that little little hot light burning and it's the thing that starts the fire.so often when we talk about relationships, you can say that they met, you know, they hit it off and sparks flew.Not all relationships spark, in the same way, we can use this as a verb as well as a noun。
 
-> 3)"Leave behind" can also mean "increase the distance" by which one is ahead of someone or something else. We see this a lot when we talk about the economy: Some people succeed, and others get left behind.
+> 2)There's another phrase we use, that is "We have chemistry."So that one is like more often used for romantic relationships. so chemistry here I'm not talking about mixing chemicals exactly. I'm talking about this feeling that you have between two people.if you meet someone for the first time. 
 
-> 4)You will likely not encounter the phrase "to leave over" in its infinitive or present form. it is often seen in the passive form "be left over/get left over". In this case, it means that something was not used or consumed, as in "there was a lot of wine left over from the party". Probably the most common way that you will see this word though is as an adjective, "leftover", which would allow you to say the phrase above as "there was a lot of leftover wine after the party".
+## 4）you guys would really click [v.合得来] 
+> Click" is a word we use a lot. It means get along well.especially with romantic couples,It could be a friend maybe, like "My friend and I didn't click,"  But maybe if you meet someone at the bar, you might just click.
+
+## 5)fell in love [phr.陷入热恋] & fall out of love [phr.失恋]
+> 1）fall in love is a chunk here.There aren't very many ways to say like start to love.we really just say fall in love. They often say that the way to a man's heart is through his stomach.
+
+> 2)For example if you, you know, you're in a relationship for a long time. And you just stopped loving each other than you just fall out of love.
+
+# 2.grew on you & on paper [phr.理论上]
+> It's a great expression that just kind of means at first it was sort of, um, not so great or just ok. And now, it's wonderful!so you come to like something. Maybe you have great chemistry right away. You hit it off but not always with everybody, sometimes this relationship needs to develop. And in that case sometimes it needs to kind of grow on you, sometimes this relationship needs to develop.
+
+- 1. The idea of working from home is really starting to grow on me.
+
+- 2. I used to think that Todd was such a weird guy, but then his personality really started to grow on me.
+
+- 3. It took a long time for coffee to grow on me, but now I can’t live without it.
+
+> 2)"on paper," it means in theory or the idea. It should be fine but maybe it's not.When you actually do something, it doesn't always work out the way you thought, or the way it was on paper.you can also think about your dating profiles.And maybe when you look at their profile, hey, it looks like we're going to be a good match, we are a good match on paper. But when you actually meet the person, it's not the same.
+
+> 3)If you're talking about a job interview,I might say he looks good on paper but we'll see how he does in the job interview. So when I say he looks good on paper, I mean his resume looks good.maybe he has a great resume, but he's really awkward and he is not very good with people.
+
+# 3.set sb up on/go on a blind date [phr.安排和别人约会] & set sb up with a job/friends
+> 1)So a blind date is just a date with someone that you haven't met before or you haven't spoken to before.It doesn't really mean that the date is blind, that she or he cannot see anything. We often use blind like if the sun is really bright and it's shining in your eyes, we say "Oh, the sun was blinding. I can't see."But a blind date is different from online dating, Because with online dating, you usually talk to the person before.And you can at least see a picture.
+
+> 2)to set sb up,this means to arrange a meeting,so usually we say "go on a date" or "set someone up on a date."You can set someone up with, but that is used in different situations.I could set you up with my friend.Or you can set somebody up with a job.So "with" can be used for people or jobs, but we use "on" with the word "date."
+
+# 4.personality
+## 1）I have a type [phr.有自己喜欢的类型]
+> So if you say "I have a type," it means there is a specific kind of person that you like. I mean you could say "Oh, she's totally his type" or "He's totally her type."
+
+## 2）picky [adj.挑剔的] 
+> So if you're picky, there's like a lot of people or a lot of things you just don't like. For example, I could say he's picky about food. He doesn't eat seafood and vegetable.maybe like, when I go shopping for clothes, I'm a little picky, cause some clothes just don't look good on me.
+
+## 3）easygoing [adj.随和的]
+> when someone's easygoing, they don't get mad easily. They don't get stressed out easily.If you're someone that always says, "Don't worry about it, and it's okay. No problem." then maybe you're easygoing.But we only use easygoing for people.We can't use it for things like I can't say "I went on an easygoing date."It's really just for personalities exactly.
+
+## 4）bias [n. & v.] & prejudice
+> 1)it's kind of the prejudice. It's how you, like personal ideas maybe affect your thinking.so bias could be a noun, I have a bias against. I'm sure a lot of things or could be a verb, I am biased against something. Many people, their biases are very mean. like, oh, you have a different color skin than me. Therefore you are not as good as me.
+
+## 5)brainy /'breni/ [adj.有头脑的]
+> So, as you can imagine, the word brainy means intelligent. It means you have lots of brains.super smart, right. there's a little bit of truth behind Auntie's opinion here. Like guys, don't tend to like to marry, you know, like girls that are smarter than them. It makes them feel very small.
+
+# 5.seeing [v.交往] & Are you seeing anyone? & looking to [phr.想要]
+> 1) This word here "seeing," it's another way to say "dating,"Usually in the early part of the relationship before it gets really serious.and we usually use this in the progressive, like "Have you been seeing anyone?" "Are you seeing anyone?"We don't say "Do you see anyone?"
+
+> 2) So this word "seeing" goes really well with "lately" or "recently," seeing anyone lately, seeing anyone recently.And you can use this in a question too, Like, "How long has she been seeing him?"she's been seeing him for a couple weeks.
+
+> 3) Are you seeing anyone actually refers to are you dating anyone.are you in a relationship with anyone?are you dating?
+
+> 4)looking to: it just means that want to.So someone might say I'm not looking to get a new job right now.Or some people might even say like I'm not looking to cause any trouble, not looking to start a fight.
+
+- 1. I'm not looking to make a million dollars here. I'm just looking to do something more meaningful with my time.
+
+- 2. She's looking to make a big career change after Chinese New Year.
+
+- 3. We're looking to buy our first home, but we're just not sure that it's the right time.
+
+# 6.a sense of sth sight / smell /taste /direction
+> 1)Sense.It really just means feeling or in this case ability almost,ike ability to understand,and we often use this phrase "a sense of something." Like, we all have a sense of sight or smell or taste. 
+
+> 2)But it could also be humor is like an ability, so it could be a sense of direction.So if you have no sense of direction, it means you can't understand directions and you often get lost. If you get lost a lot, maybe you don't have a good sense of direction, maybe you need your smartphone.
+
+# 7.from the get-go [phr.从一开始]
+> 1)Get-go means from the beginning basically.anytime you want to talk about the way I've done it from the beginning, from the start, you can also say from the get-go.
+
+> 2)So for example someone might be teaching you how to do something at work, but you say I've actually been doing that from the get-go.means I've always been doing that.
+
+> 3)I could also say, hey, like Adam's always been ready from the get-go. You're always ready for everything.
+
+# 8.left behind [n.剩女; 留下; 遗留] & to be /get left over & the clock is ticking [phr.时间在流逝]
+> 1) Chinese culture does have the concept of "women who are left behind", and it's not exactly positive.We don't really have that concept in English,you don't want to say that to someone. It could be a little bit offensive.
+
+> 2) When you "leave something behind", it means to go somewhere and not bring a certain thing with you. It could be something serious like leaving behind family members, or something less serious like forgetting your keys at home.
+
+> 3)"Leave behind" can also mean "increase the distance" by which one is ahead of someone or something else.I think about like soldiers, like no man gets left behind. We see this a lot when we talk about the economy: Some people succeed, and others get left behind.So maybe your friends are really successful and you feel like you've been left behind.
+
+> 4)  If something is leftover, like I tend to think it's food.like leftover turkey after Thanksgiving. Maybe leftover dumplings after Chinese New year.sIn this case, it means that something was not used or consumed, as in "there was a lot of wine left over from the party". Probably the most common way that you will see this word though is as an adjective, "leftover", which would allow you to say the phrase above as "there was a lot of leftover wine after the party".
 
 - 1. My favorite part of Thanksgiving is all the leftover turkey!
 
@@ -68,48 +146,28 @@
 
 - 4. These refugees /'rɛfjʊdʒi/ [n.避难者;难民] had to leave everything behind in order to find safety and freedom.
 
-# 3.set sb up on/go on a blind date [phr.安排和别人约会] & set sb up with a job/friends
-> 1)So a blind date is just a date with someone that you haven't met before or you haven't spoken to before.It doesn't really mean that the date is blind, that she or he cannot see anything. We often use blind like if the sun is really bright and it's shining in your eyes, we say "Oh, the sun was blinding. I can't see."But a blind date is different from online dating, Because with online dating, you usually talk to the person before.And you can at least see a picture.
+> 5)it just means that, you know, time continues to march on. you're not getting any younger.so this clock she's talking about is the biological clock.
 
-> 2)to set sb up,this means to arrange a meeting,so usually we say "go on a date" or "set someone up on a date."You can set someone up with, but that is used in different situations.I could set you up with my friend.Or you can set somebody up with a job.So "with" can be used for people or jobs, but we use "on" with the word "date."
-
-# 4.picky [adj.挑剔的] & I have a type [phr.有自己喜欢的类型]
-> 1)So if you're picky, there's like a lot of people or a lot of things you just don't like. For example, I could say he's picky about food. He doesn't eat seafood and vegetable.maybe like, when I go shopping for clothes, I'm a little picky, cause some clothes just don't look good on me.
-
-> 2)So if you say "I have a type," it means there is a specific kind of person that you like. I mean you could say "Oh, she's totally his type" or "He's totally her type."
-
-# 5.easygoing [adj.随和的]
-> when someone's easygoing, they don't get mad easily. They don't get stressed out easily.If you're someone that always says, "Don't worry about it, and it's okay. No problem." then maybe you're easygoing.But we only use easygoing for people.We can't use it for things like I can't say "I went on an easygoing date."It's really just for personalities exactly.
-
-# 6.a sense of sth sight / smell /taste /direction
-> 1)Sense.It really just means feeling or in this case ability almost,ike ability to understand,and we often use this phrase "a sense of something." Like, we all have a sense of sight or smell or taste. 
-
-> 2)But it could also be humor is like an ability, so it could be a sense of direction.So if you have no sense of direction, it means you can't understand directions and you often get lost. If you get lost a lot, maybe you don't have a good sense of direction, maybe you need your smartphone.
-
-# 7.on paper [phr.理论上]
-> 1)"on paper," it means in theory or the idea. It should be fine but maybe it's not.When you actually do something, it doesn't always work out the way you thought, or the way it was on paper.you can also think about your dating profiles.And maybe when you look at their profile, hey, it looks like we're going to be a good match, we are a good match on paper. But when you actually meet the person, it's not the same.
-
-> 2)If you're talking about a job interview,I might say he looks good on paper but we'll see how he does in the job interview. So when I say he looks good on paper, I mean his resume looks good.maybe he has a great resume, but he's really awkward and he is not very good with people.
-
-# 8.you guys would really click [v.合得来] & we have chemistry
-> 1)Click" is a word we use a lot. It means get along well.especially with romantic couples,It could be a friend maybe, like "My friend and I didn't click,"  But maybe if you meet someone at the bar, you might just click.
-
-> 2)There's another phrase we use, that is "We have chemistry."So that one is like more often used for romantic relationships.
-
-# 9.commit to goals/job [v.承诺] & commitment [n.]
+# 9.commit to goals/job [v.承诺] & commitment [n.] & ease up on sth [减轻,放松]
 > 1)So here she's talking about committing to a relationship, and that means to promise to be with that person."Commit" really just means promise. When you do something that's hard to do, like, losing weight or staying healthy and eating, it's hard to commit to those goals.It's hard to promise to do them and continue to do them. Now you can also commit to a job, and that is when you promise to stay with this job, like maybe for a long time and work hard.
 
 > 2)the noun of this word "commit" is "commitment." For example, getting a dog or a pet is a big commitment.Or getting married is a big commitment.
 
-# 10.to give/have a shot [phr.试试看]
+- 1. My doctor told me that I should ease up on the drinking and smoking.
+
+- 2. As a parent, I know that I need to ease up on my children. But I'm so worried that if I do, they won't be successful!
+
+- 3. If you ease up on the golf club a bit, you will have a better swing.[握杆稍微放松一些，你的挥杆就会更好]
+
+# 10.to give/ have a shot [phr.试试看]
 > 1)to "give it a shot," this just means to try it.I think of like sports, like, he shoots, he scores or maybe he didn't score. When you shoot, when you give it a shot, you're just trying.So you might try to shoot in that sense.
 
 > 2)You can sometimes say "have a shot," like "I had a shot at it but it didn't work."
 
-# 11.seeing [v.交往]
-> 1)This word here "seeing," it's another way to say "dating,"Usually in the early part of the relationship before it gets really serious.and we usually use this in the progressive, like "Have you been seeing anyone?" "Are you seeing anyone?"We don't say "Do you see anyone?"
+# 11.far-fetched [adj.牵强的]
+> 1)Far-fetched, This is one of those words that my parents use a lot, specifically my dad uses a lot. Far-fetched means it's kind of crazy.That's actually a really good way to put it. It's just not believable, Like when we lie, we tried to tell good lies, like I was late because traffic, not I was late because aliens came and they destroyed the car. I had to walk and then more aliens came.That's kind of far-fetched.No one is gonna to believe it.
 
-> 2)So this word "seeing" goes really well with "lately" or "recently," seeing anyone lately, seeing anyone recently.And you can use this in a question too, Like, "How long has she been seeing him?"she's been seeing him for a couple weeks.
+> 2)so far-fetched we can use for ideas, we can use for stories. But we could also use for things like plans, like if someone has a plan. That's not really good, you could probably say, that's a bit far-fetched.
 
 # 12.scene [n.景色、场合] & dating scene [n.约会场合]
 > 1)Now the word "scene," you might have seen in the phrase "movie scene."There are lots of scenes there. Like you said a part of a movie, it could be a view like a gorgeous scene on the mountain.
@@ -118,23 +176,12 @@
 
 > 3)maybe if you just broke up with someone, you might want to get back into the dating scene.
 
-# 13.looking to
+# 13.attraction [n.吸引] & attractive [adj.]
+> 1)so attraction is kind of liking someone.
 
-- 1. I'm not looking to make a million dollars here. I'm just looking to do something more meaningful with my time.
+> 2)And attractive is the adjective and when you find someone attractive, you think that they are good looking or have a good personality.not everyone feels these kinds of instant attractions with their partners. Maybe the first time you see your partner, sure, if they are attractive, that's great you will probably feel an attraction. But may be for example this person is very, very intelligent or very very caring, it's really hard to see that on the surface.so there's many different ways that people could be attracted to others.And that also leads to a person growing on you as well.
 
-- 2. She's looking to make a big career change after Chinese New Year.
-
-- 3. We're looking to buy our first home, but we're just not sure that it's the right time.
-
-# 14. ease up on sth [减轻，放松]
-
-- 1. My doctor told me that I should ease up on the drinking and smoking.
-
-- 2. As a parent, I know that I need to ease up on my children. But I'm so worried that if I do, they won't be successful!
-
-- 3. If you ease up on the golf club a bit, you will have a better swing.[握杆稍微放松一些，你的挥杆就会更好]
-
-# 15.have sb back
+# 14.have sb back
 
 - 1. Before you get into a difficult situation, you need to ask yourself "who has my back?"
 
@@ -142,16 +189,10 @@
 
 - 3. Even though they might not always get along, brothers should always have each other's backs.
 
-# 16.grew on me
+# 15.instant [adj.立即的] & instant coffee/rice/noodles/attraction
+> 1)Instant is an adjective and it just means right away, like so for example we have instant coffee, instant rice, and these things are just things that will cook right away.You don't have to wait, But of course we're not talking about coffee or noodles here, we're talking about this attraction, this idea of two things coming together, or one thing going to another thing. But in love we would like to think about it as two things coming together.
 
-- 1. The idea of working from home is really starting to grow on me.
-
-- 2. I used to think that Todd was such a weird guy, but then his personality really started to grow on me.
-
-- 3. It took a long time for coffee to grow on me, but now I can’t live without it.
-
-# 17.
-
+> 2)And it's hard to have an instant attraction to something like. Yeah, intelligence or some kind of deeper, not as outside sort of traits, mean it would be nice if you could like them from the get-go, but that just doesn't always happen all the time.but of course if you guys are in a long-term relationship, you will probably look back at your earlier times together. you might remember them kind of differently, you might think that oh, they were so beautiful and wonderful and you might forget about the fights in the the games that you play on text messaging and stuff like that.
 
 # V.pattern
 ***Hey, Peter. Have you been seeing anyone lately?***
@@ -231,6 +272,14 @@
 ***Sorry, that came out wrong. Personally, I think it’s great what you’re doing. As long as you follow your heart, your old uncle will always have your back.***
 
 ***Thanks a million, Uncle!***
+
+
+
+
+
+
+
+
 
 
 
