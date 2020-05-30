@@ -148,10 +148,12 @@
 
 > 5)it just means that, you know, time continues to march on. you're not getting any younger.so this clock she's talking about is the biological clock.
 
-# 9.commit to goals/job [v.承诺] & commitment [n.] & ease up on sth [减轻,放松]
+# 9.commit to goals/job [v.承诺] & commitment [n.] & ease up on sth [phr.减轻、放松]
 > 1)So here she's talking about committing to a relationship, and that means to promise to be with that person."Commit" really just means promise. When you do something that's hard to do, like, losing weight or staying healthy and eating, it's hard to commit to those goals.It's hard to promise to do them and continue to do them. Now you can also commit to a job, and that is when you promise to stay with this job, like maybe for a long time and work hard.
 
 > 2)the noun of this word "commit" is "commitment." For example, getting a dog or a pet is a big commitment.Or getting married is a big commitment.
+
+> 3)ease up on someone, kind of means don't be such a jerk to them, just, just relax when you're around them.
 
 - 1. My doctor told me that I should ease up on the drinking and smoking.
 
@@ -159,10 +161,12 @@
 
 - 3. If you ease up on the golf club a bit, you will have a better swing.[握杆稍微放松一些，你的挥杆就会更好]
 
-# 10.to give/ have a shot [phr.试试看]
+# 10.to give/ have a shot [phr.试试看] & see where it goes from there [phr.看看怎么样]
 > 1)to "give it a shot," this just means to try it.I think of like sports, like, he shoots, he scores or maybe he didn't score. When you shoot, when you give it a shot, you're just trying.So you might try to shoot in that sense.
 
 > 2)You can sometimes say "have a shot," like "I had a shot at it but it didn't work."
+
+> 3)see where it goes, it could go anywhere, right? I mean they could fall in love, they could be love at first sight.or it could go horrendously /hɔˈrɛndəs/ [adv.可怕的,恐怖的] downhill."see where it goes from there" and this is kind of something like, really kind of encouraging that people tell you when they want you to, just like try something. cause it could be great, You see where it goes. And one phrase I always use is play it by ear. And they're not exactly the same, but you can see how they are kind of related. It's just you're not making a plan, you're just going to kind of see, just see how it goes.
 
 # 11.far-fetched [adj.牵强的]
 > 1)Far-fetched, This is one of those words that my parents use a lot, specifically my dad uses a lot. Far-fetched means it's kind of crazy.That's actually a really good way to put it. It's just not believable, Like when we lie, we tried to tell good lies, like I was late because traffic, not I was late because aliens came and they destroyed the car. I had to walk and then more aliens came.That's kind of far-fetched.No one is gonna to believe it.
@@ -193,6 +197,30 @@
 > 1)Instant is an adjective and it just means right away, like so for example we have instant coffee, instant rice, and these things are just things that will cook right away.You don't have to wait, But of course we're not talking about coffee or noodles here, we're talking about this attraction, this idea of two things coming together, or one thing going to another thing. But in love we would like to think about it as two things coming together.
 
 > 2)And it's hard to have an instant attraction to something like. Yeah, intelligence or some kind of deeper, not as outside sort of traits, mean it would be nice if you could like them from the get-go, but that just doesn't always happen all the time.but of course if you guys are in a long-term relationship, you will probably look back at your earlier times together. you might remember them kind of differently, you might think that oh, they were so beautiful and wonderful and you might forget about the fights in the the games that you play on text messaging and stuff like that.
+
+# 16.a little much [phr.多一点]
+> 1)A little much. this kind of sounds like from a grammatical point of view. It might sound a little strange, but just try to think about this as a chunk. Something or someone, usually someone is a little much.
+
+> 2)So, this word is generally a little bit negative and it's kind of got the same meaning as too much. So, here the Auntie is little too eager. One of the thing that I would think of is like difficult to get along with, or even hard to handle, is a phrase that comes to mind. Just, just kind of difficult people.
+
+# 17.opened / narrow minded [adj.目光短浅的] 
+> 1）so we all know about open-minded. That's great. you're open to new ideas, you're open to new ways. 
+
+> 2)Narrow-minded is kind of the opposite, so narrow-minded means that maybe you can only see something a certain way. You're a little bit stubborn and you can't really, how should I say put yourself in other people shoes.
+
+# 18.wired [adj.热衷的，兴奋的]
+> 1)Wired. I love this one because I always hear about like, the way men are wired or the way women are wired. And it kind of just means like the way that something or someone is designed or put together. So, here it could refer to the way that he was brought up just basically his education and what he was taught to think or believe. And it's really hard, especially you know the older you get to kind of change those, those beliefs or those thought patterns.
+
+> 2)So, Auntie and uncle here are kind of wired to think that marriage, or having a romantic partner is the most important thing.Actually makes me think about like a, like an old computer, right? Like we have this distinction between hardware and software. Everything these days is software, software, software. But way back in the day, everything was hardware, like, if you wanted to computer to do something, you, you actually had to, you know like connect a wire to another thing, to another thing. So you can almost imagine like this old computer like, "Are you married? Are you married?" It's the only thing that it can do.
+
+# 19.came out wrong [phr.说错了]
+> so maybe you have something that you want to say or communicate and maybe you get the idea across. But the problem here is, it might come out a little bit rude.
+
+# 20.have/got your back [phr.支持你、做你的后盾]
+> one of the thing to pay attention to hear is that, like other times in English you can always switch the word got for have, So, got your back is kind of a little bit more casual, maybe a little bit more friendly.
+
+# 21.thanks a million
+> it just means thanks a lot. but it's like really emphasize here, right? Because it's not just a lot, it's thanks a million.
 
 # V.pattern
 ***Hey, Peter. Have you been seeing anyone lately?***
