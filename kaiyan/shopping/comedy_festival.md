@@ -11,6 +11,11 @@
 # 3.Seattle International Comedy Competition
 > The Seattle International Comedy Competition dubs itself [自称] the “real Last Comic Standing.[《喜剧之王》]” It happens over 26 days[历时26天], includes 22 shows, and features more than 30 international comedians.
 
+# 4.Monty Python [n.巨蟒剧团] & hit and miss [碰巧的；偶然随意]
+> Monty python, so like, just like very classic British humor first came out in the 60s.but very famous and very influential, even now. We still talk about Monty python, it was one of the original sketch shows.
+
+> Which is like short little funny, like, scenes and yeah since then, everyone sort of says this was a big influence on that comedy.some people are really big fans of it, other people think just like it wasn't that great.we say it's hit and miss. So when it was good it was very good and then other times you just watching it and thinking why is this funny?This isn't funny.
+
 # II.humor
 > Every country has its own brand of jokes and humor. The British are known for sarcasm, irony, and jokes on dark topics. Americans enjoy this type of humor too, but American humor has its own flavor.
 
@@ -48,7 +53,12 @@
 
 > 2)like when someone dies at a funeral,now obviously, someone dying is not funny, but dying at a funeral, isn't an irony in there?Which makes it funny, we're not laughing at the guy who dead, we're laughing at the situation.Dark humor done well is very funny. But some people just go that a little bit too far.Sometimes and it's just not funny, it's actually offensive.
 
-# 7.American humor & British comedy
+# 7.absurd /əb'sɝd/ comdey [n.荒诞作品] & absurd [adj.荒诞的]
+> 1)sometimes it's like so ridiculous, it makes no sense and you're just like that is not funny.that's not funny anymore since it's absurd, but here absurd actually is a side of British comedy, there's actually many different types, there's many different facets, sides of British comedy and absurd comedy is one of them,and Monty python for the most part fits into that category.
+
+> 2)absurd :basically it just means something really ridiculous.something so out of the ordinary, so against normality.It's kind of almost hard to believe.like if a guy proposes to the woman he wants to be his wife at a funeral.that's like a really absurd time to propose for marriage.here we give like one more kind of like real world example here, the increase in the price of gas lately has just been absurd.Meaning it's just like such a huge increase, it's crazy, it's ridiculous.we don't understand why the gas company can charge this amount of money.
+
+# 8.American humor & British comedy
 > 1)so humor, it's like you have a sense of humor, so your sense of humor tells you what you think or feel is funny. it's like your idea of what is funny.
 
 > 2)So comedy is just like a funny show.So comedy is more like the attempt to make you laugh, comedy has humor in it, but they're not quite the same thing. So comedy is humorous /'hjumərəs/ [adj.富幽默感的].
@@ -123,6 +133,7 @@
 # 4.punchline [n.梗]
 > so like punchline is kind of like a phrase, like sums up the joke.it's like the last part, so you're telling a joke and the last part of the joke, when it makes everybody laugh, that's the punchline.most jokes especially when you tell somebody a joke, like comedy on TV might be different, but like if you're like telling somebody a joke: Hey! I've got a joke for you. That joke has to have a punchline. Or it's not gonna funny.
 
+> 
 
 # 4.adj related
 ## 1)witty /'wɪti/ [adj.诙谐的;富于机智的] & wit [n.] & dry wit [n.冷幽默] & subdued [adj.有节制的、低调的]

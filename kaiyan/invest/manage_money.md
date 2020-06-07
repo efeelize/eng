@@ -30,27 +30,29 @@
 
 > 2)a bond is basically usually with the government and it's like a certificate of money, that you are lending the government your money. So it kind of goes into a big government bank account that generates a lot of interest. And then after a fixed term, so usually five years or ten years, you are allowed to get your money back. And the risk with these are kind of moderates, because the government doesn't want to lose its money.But it's basically, you're lending money to the government for a fixed period of time.
 
-# 3.Mutual funds & to fund sth
-> 1)Rather than buying a single stock, mutual funds enable you to buy a basket of stocks in one purchase.This is when your financial adviser or some expert takes your money and invests it in a lot of different companies.we should say that mutual funds, most mutual funds invest heavily in the stock market. You don't own only one company. You own many companies. Often these funds have pretty high fee.# 4. Savings accounts
+# 3.Mutual funds & to fund sth 
+> 1)Rather than buying a single stock, mutual funds enable you to buy a basket of stocks in one purchase.This is when your financial adviser or some expert takes your money and invests it in a lot of different companies.we should say that mutual funds, it's kind of an investment where someone or many people will put money into the same fund and buy shares and stocks together.most mutual funds invest heavily in the stock market. You don't own only one company. You own many companies. Often these funds have pretty high fee.# 4. Savings accounts
 
-> 2) a mutual fund, it's kind of an investment where someone or many people will put money into the same fund and buy shares and stocks together.
+> 2) a fund is like a sum or amount of money that you're saving for a purpose, which is also, is related but different than the verb, it can be a verb as well.
 
-> 3)a fund is like a sum or amount of money that you're saving for a purpose, which is also, is related but different than the verb, it can be a verb as well.
-
-> 4)to fund sth means to pay for sth,support sth.
+> 3)to fund sth means to pay for sth,support sth.
 
 # 5.Physical commodities
 > Physical commodities are investments that you physically own, such as gold or silver. These physical commodities often serve as a safeguard against hard economic times.
 
 # 6.bonds [n.债券]
-> bonds," this idea is much older. This is basically an idea of I'm going to pay you now and you are going to give me a set price at some time in the future. the key difference here is with the bond you don't own any part of the company.you own a promise. The promise is that they are going to pay you back. Again it's set in stone, right at the beginning, this much, at that time.
+> 1)this is basically an idea of I'm going to pay you now and you are going to give me a set price at some time in the future. the key difference here is with the bond you don't own any part of the company.you own a promise. The promise is that they are going to pay you back. 
 
-# 7.real estate [n.房地产] & realtor/real estate agents.
-> 1)Real estate, of course, are things that you can touch, like buildings.land,property,house and apartment. so those are all examples of real estate. 
+> 2)a bond is basically usually with the government and it's like a certificate of money, that you are lending the government your money. So it kind of goes into a big government bank account that generates a lot of interest. And then after a fixed term, so usually five years or ten years, you are allowed to get your money back. And the risk with these are kind of moderates, because the government doesn't want to lose its money.
 
-> 2)A person who works in the real estate industry is called a realtor.
+# 7.property/real estate [n.房地产] & property [n.财产] & real estate agents/realtor /ˈriəltɚ/ /realetor
+> 1)Real estate are things that you can touch, like buildings.land,property,house and apartment. so those are all examples of real estate. we're talking about real estate, essentially like a condo, a house, some sort of physical thing that you live in. real estate, so this is basically the whole major category of buying and selling property, and owing property.so it's like property but this is more specific to land or buildings.
 
-> 3)the verb we normally used for real estate - quick turnover is flipping.like if you buy a house, a cheap house.And then fix it up.and usually in a short period of time, so same concept to start stock market - You usually buy and sell for short periods of time, and for real estate, it's the same. But we call it flipping instead.
+> 2)But property, you can use any, like object, it can even be like a ring or necklace.Anything that belongs to you.something real tangible asset, something that's real.So you may see this if you go to a train station, for example, there may be a sign saying "Lost Property Office". So someone has lost their stuff.and you could even say: "Oh, this's mine. " You could say: "This is my property."
+
+> 3)and the person who helps you buy and sell would be a real estate agent.A person who works in the real estate industry is called a realtor.in some places they call "realtor", even in America some places they say realetor. It's really funny.
+
+> 4)the verb we normally used for real estate - quick turnover is flipping.like if you buy a house, a cheap house.And then fix it up.and usually in a short period of time, so same concept to start stock market - You usually buy and sell for short periods of time, and for real estate, it's the same. But we call it flipping instead.
 
 # 8.VC/ venture capital
 > the VC stage of funding, the venture capital. These guys are the multi-billionaires. They have so much money that doesn't really matter. They can just put a little bit of money into new companies. If one turns into Uber...Amazing. And if one doesn't turn into Uber, man, no problem!
@@ -58,12 +60,14 @@
 # 9.RRSP/registered retirement savings plan on programs
 > in the U.S, people mostly invest through things like retirement programs instead of directly investing. So like RRSP.that's a way to save your money for when you get old.and they're tax-free so you get a tax credit at the end of the year.So even though it's not investing in a company, you're still investing in your future.
 
-# 10.savings account [n.存款账户] & checking account [n.支票账户] 
+# 10.savings account [n.存款账户] & checking account [n.支票账户] & put away savings [phr.存钱] builds interest [phr.获得利息]
 > 1)so usually you have two types of accounts, you have your checking account and your savings account.the checking account is a type of bank account that you use a lot for buying things.the checking account is the one that you use for day-to-day banking.if you have insufficient funds, then you probably need to check the balance on your checking account.
 
 > 2)the money you make we call it interest. And savings accounts, they're so safe that there is low interest. And if something with… their less safe, there's a higher interest rate usually. So the savings account is for saving money.you put the money, you want to save for when you retire and go live on the beach.
 
-> 3)depreciate: They say don't buy a brand new car because it'll depreciate as soon as you drive it off the lot.As soon as you buy it and drive it away it goes down in 5,000 dollars.So buy a year-old car.
+> 3)put away is kind of a similar idea like when your teacher tells you to put away your phone in class. You put it somewhere safe, you're gonna use it later.
+
+> 4)So interest is just that small percentage of money that you get, that you gain when you keep your money in an account in like a bank or an investment.The point is it doesn't matter if it's a low-risk investment, a medium risk or a high-risk one. They're all going to build a certain amount of interest.
 
 # 11.debts & credit card debt & student debt & Disposable income/money
 > 1)so debt is moneythat you owe to anybody, even if I do somebody a favor, if I help someone, we say: "Oh, thank you. I'm in your debt."if you need to help move or something like that.
@@ -73,6 +77,18 @@
 > 3)student debt.So the government gave me money so I could study in university, now I have to pay them back.with a decent interest rate.it's a low interest rate. So this is a huge problem in the USA right now, Canada is a little bit safer.We have kind of government subsidized debts, student loans, But in the USA, it's the largest portion of student debt, because the interest rates are really high.the whole problem with this is when you are just trying to pay your bills, and you're not making that much more money or disposable income, you can't really put any money aside for your future.
 
 > 4)Disposable income or money that I make that I can use for something different.For play time, yes. So the students, they graduate, they have to pay the money, but they can't. They're stuck.so there's no hope in planning for your future. It's living in the here and now you're just surviving.
+
+# 12.mortgage /'mɔrɡɪdʒ/ [n.按揭] & payments [n.付款] & add up (to) [phr.累积]
+> 1）mortgage is a special kind of loan from the bank,and it's really only for a house,we don't use it for school,it really is only for that house,the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.
+
+> 2)So "add up" is just when you want to calculate the total of something.We use this a lot at the restaurant. When we're looking at the bill, what do our meals add up to?Exactly. In fact, I mean you could even get rid of the "to".You could just say like something adds up, like "Oh, all of those coffees every day."
+
+# 13.fintech [n.金融科技] & bitcoin & angel financing & Wechat wallet & Alipay 
+> 1)financial technology,so tech companies basically.Fintech is the one you want to remember if you're interested in exploring the new ways of investing.New technologies. And the great thing is, with these you can often invest on your mobile phone, it's very very convenient.
+
+> 2)any kind of technology used for finance or financial purposes like peer-to-peer lending, or P2P lending. Bitcoins, a big one. maybe even sometimes, angel financing, you're coming to play here.
+
+> 3)bitcoin:it's basically online money,It's like an open source, it's independent, not owned by anyone. It's just like a new form of money, it's all on the internet.so there's actually Bitcoin machine, so I put in my bank card or cash, and I get a Bitcoin but I just got a piece of paper that says: "I have a Bitcoin."So there's no physical money in my hands, it's all online.
 
 # IV.grammar
 # 1.comes down to
@@ -99,10 +115,28 @@
 
 - 3. We took off our shoes so as to avoid getting the new carpet dirty.
 
-# 3.put away savings [phr.存钱] builds interest [phr.获得利息]
-> 1)put away is kind of a similar idea like when your teacher tells you to put away your phone in class. You put it somewhere safe, you're gonna use it later.
+# 3.return related
+## 1）the return on your investment & Ponzi/pyramid /'pɪrəmɪd/ schemes 
+> 1)"the return on your investment", means the money you get back.it's used as a noun here. So you put like $20,000 in, if the business is successful, you're gonna get more than $20,000 back.sometimes that promise of a high return can be too good to be true.sounds so good that's because it's not true, it's fake.People like to exaggerate how much return other investors will get sometimes.
 
-> 2)So interest is just that small percentage of money that you get, that you gain when you keep your money in an account in like a bank or an investment.The point is it doesn't matter if it's a low-risk investment, a medium risk or a high-risk one. They're all going to build a certain amount of interest.
+> 2)Ponzi schemes，named after Charles Ponzi who died in 1949. And he did one of these schemes, he created it.basically the idea is that you're promising lots of success, you're promising it like instant-soon financial success, but it's really not that.
+
+> 3)a scheme is used for a plan, but it's kind of tricky, maybe not so honest.It's often used in negative way like a bad thing, like a trick.So if a person, like a thief is planning something, they are schemer or they're scheming.
+
+## 2)depreciate [v.贬值] & appreciate [v.增值] & go up/down 
+> 1)depreciate: They say don't buy a brand new car because it'll depreciate as soon as you drive it off the lot.As soon as you buy it and drive it away it goes down in 5,000 dollars.So buy a year-old car.so my condo for the past five years has actually been depreciating in value, but in this year it actually appreciated or went up by like 20% of value, so it's pretty sweet. 
+
+> 2)depreciate is "go down" and appreciate is "go up".
+
+## 3）lucrative /'lukrətɪv/ [adj.盈利好的，能赚钱的] & a lucrative job/career/deal/business
+> 1)it is just high chance for profit.so real estate is definitely lucrative when the property values go up, stock market can also be lucrative.
+
+> 2)we can say "a lucrative job", "a lucrative career","a lucrative deal".or a lucrative business, anything, any type of project that's making money.
+
+## 4）made a killing in/of sth [phr.赚大钱]
+> 1)so basically you are making a lot of money of investments, then we could say make a killing.it's just made a lot of money,they are very successful in a very short time. Pretty lucky, but also you got to be smart to make a killing. So like obviously, Mark Zuckerberg's Facebook, he made a killing of his Facebook.
+
+> 2) we can use "in", make a killing in real estate or you can say make a killing "of", of something.
 
 # 4.appetite & appetite for sth [n.偏好] 
 ## 1)high/low-risk & high/low-reward 
@@ -121,6 +155,9 @@
 ## 4)shift into/to 
 > 4)when you're driving a car, the difference between first gear and second gear is not big. So shifting from first gear into second gear is not like a crazy different thing.Or at your job, maybe you don't quit your job, but maybe you can shift into a different position.so we often say "shift into." You'll also hear "shift to."So here we're talking about shifting into low-risk investments.
 
+## 5)muddle up [phr.迷糊，不清楚]
+> so if you're muddled, it means there's too much going on in your brain.so with Bitcoin, it confuses him, just like the stock market muddles me up.
+
 # 5.wants [n.想要的东西] & necessities [n.必需品] & essentials [n.& adj.必需品、必须做的事]
 > 1）"wants"this is not a verb, this is a noun.you could say like, "Well, I want to buy a new TV but it's just a want."
 
@@ -130,8 +167,8 @@
 
 > 4）"essential" does have that meaning of basic, but also necessary,Like you can't have an event without food, you can't have an event without... Well I guess you could have it without food, people wouldn't be happy; but you couldn't have an event without a venue or staff.like if we're thinking about say, a car for example, the essentials on a car are the wheels, the engine.The steering /'stɪrɪŋ/ wheel. But everything else is just an accessory /ək'sɛsəri/ [n.配件]. like the Bluetooth stereo /ˈstɛriˌo/.The leather seats. You don't need to have those in order to have a car.
 
-# 6.depreciate [v.贬值] & go up/down 
-> so my condo for the past five years has actually been depreciating in value, but in this year it actually appreciated or went up by like 20% of value, so it's pretty sweet. So the two terms would be: depreciate is "go down" and appreciate is "go up".
+# 6.market & marketing
+> “market ”the activity or the job,try not to confuse the word "market" for "marketing," marketing is about advertising.it's a different thing, so we never really say "stock marketing." that's not even a thing. 
 
 # 7.budget [v.做预算] & planning ahead [phr.提前规划]
 > 1)I usually try to budget, especially when I am traveling. So maybe on my next trip, I will budget, maybe two thousand or three thousand dollars.
@@ -149,10 +186,10 @@
 
 > 3)we don't say live without your means. We just say he's not living within his means.It's kind of a formal expression but it's pretty important.It's good financial advice.It doesn't matter how much money, I mean, if you are a really rich guy.But you spend money as if you were a richer guy, you're not living within your means.
 
-# 9.mortgage /'mɔrɡɪdʒ/ [n.按揭] & payments [n.付款] & add up (to) [phr.累积]
-> 1）mortgage is a special kind of loan from the bank,and it's really only for a house,we don't use it for school,it really is only for that house,the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.the day you take out a mortgage, it may be a happy day, but you have a long road ahead of paying down that mortgage.
+# 9.don’t put all of your eggs into one basket & "nest egg" 
+> 1)So eggs are important. They're precious, but they can break easily.so you don't want to keep them all in one place, because what if they all break at the same time. You have no eggs.you have to spread them out into many baskets so that if one breaks, it's okay. I've got these other ones, and one of those might be your nest egg.
 
-> 2)So "add up" is just when you want to calculate the total of something.We use this a lot at the restaurant. When we're looking at the bill, what do our meals add up to?Exactly. In fact, I mean you could even get rid of the "to".You could just say like something adds up, like "Oh, all of those coffees every day."
+> 2) "nest egg" is another phrase and it's kind of the big investment that you have for when you retire, when you get older.You can think about the nest here as being your home. And the egg that is inside is the most valuable thing, the thing that you are protecting above all else, at all cost.So it's usually a home.
 
 # 10.put in my two cents [phr.发表我的观点] & make your money work for you [phr.让你的钱为你工作] & it's a journey of a thousand miles begins with one step [phr.千里之行始于足下] 
 > 1)here's a great phrase. Well, it's not really related to money at all.It's about giving advice.and you usually say it just like this, "If I can put in my two cents..." it's a little more polite that way actually.
@@ -170,13 +207,13 @@
 
 > 4)"Keep some high-risk ones so as to balance your portfolio." this idea of radically changing something, changing it completely. If you go from having all these really high-risk, high-reward things to having low-risk, low-reward, you're going to find that you're not going to make as much money. You still want to make a little bit of money.or your kids need to go to college, whatever happens, as you get older. The key here is that you want to "balance your portfolio."
 
-# 12.don’t put all of your eggs into one basket & "nest egg" 
-> 1)So eggs are important. They're precious, but they can break easily.so you don't want to keep them all in one place, because what if they all break at the same time. You have no eggs.you have to spread them out into many baskets so that if one breaks, it's okay. I've got these other ones, and one of those might be your nest egg.
+# 12.crackdown [n.强制取缔] & drug trafficking /'træfɪk/ [n.非法交易]
+> so if there's a problem with something, then government will often create new laws, for the police to enforce.so this could be like drug trafficking.so if that's increasing, there's a crackdown on drug traffickers, meaning that's where the law enforcement is focusing their attention
 
-> 2) "nest egg" is another phrase and it's kind of the big investment that you have for when you retire, when you get older.You can think about the nest here as being your home. And the egg that is inside is the most valuable thing, the thing that you are protecting above all else, at all cost.So it's usually a home.
+# 13.
 
-# 13.market & marketing
-> “market ”the activity or the job,try not to confuse the word "market" for "marketing," marketing is about advertising.it's a different thing, so we never really say "stock marketing." that's not even a thing. 
+# 14
+
 
 # V.pattern
 ***Hey Peter, did you do any shopping over Chinese New Year?***
