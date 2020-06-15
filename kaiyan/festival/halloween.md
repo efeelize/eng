@@ -1,9 +1,10 @@
 # Halloween
-# I.
+# I.alloween spending
+> Halloween has become a billion-dollar industry [价值数十亿美元] in the United States. Americans are estimated to spend $9 billion [90亿] on Halloween-related items and activities in 2018, down from $9.1 billion [91亿美元] in 2017, according to the National Retail Federation's annual survey.
 
+> While more than 175 million [1.75亿] Americans are expected to partake /pɑr'tek/ [vi.参与;分享] in Halloween festivities, the population that spends the most on the celebration is not evenly distributed throughout the country [在全国各地分布不均]. States in the South and Northeast are estimated to spend the most on costumes, candy, decorations, and greeting cards [贺卡上] combined than states in the Midwest and West. For example, those living in the South are estimated to spend, on average, $90.35 per person on these items in 2018. This is much greater than the average estimated expenditure on Halloween items in the Midwest [中西部] of $78.91.
 
-
-
+> According to the NRF [美国零售联合], Americans who celebrate Halloween intend to spend an average of $86.79 each in 2018 ($3.2 billion [32亿] will be spent on costumes, $2.7 billion [27亿] on decorations, $2.6 billion [26亿] on candy, and $400 million [4亿美元] on greeting cards).
 
 # II.grammar
 # 1.I don't blame sb
@@ -47,6 +48,9 @@
 # 8.excessive /ɪkˈsesɪv/ [过分的；过度的；过多的] & excess /ˈekses/ [过分；过量；过度]
 
 # 9.origins & roots [起源] 
+
+
+
 
 
 
