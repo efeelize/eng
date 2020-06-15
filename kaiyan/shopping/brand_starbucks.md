@@ -1,9 +1,10 @@
 # brand_starbucks
-# I。
+# I.The Starbucks logo
+> Even if you’ve never had a cup of their coffee, the Starbucks logo is still likely burned somewhere into your brain. But have you ever stopped to think about the image itself or what it contains? It’s a mermaid /'mɝmed/ [美人鱼], a mythical /'mɪθɪkl/ [adj.神话的；虚构的] creature with the body of a woman and the tail of a fish [人身鱼尾]. 
 
+> The original design borrowed heavily from Norse imagery /'ɪmɪdʒəri/ [n.比喻；意象] and depicted /dɪ'pɪkt/ [vt.描绘;描画] a mermaid with two tails. One other thing the image contained: two large bare breasts. This was fine until Starbucks started to expand and needed to put the logo on their trucks. Suddenly the image, originally meant to be as seductive /sɪ'dʌktɪv/ [adj.诱惑的,诱人的] as the coffee itself, became problematic /'prɑblə'mætɪk/ [adj.成问题的;有疑问的]. 
 
-
-
+> How did Starbucks solve the problem? They did so by changing the mermaid’s hairstyle so that her hair covered her chest, a solution that is still employed today. It's amazing that Starbucks sells millions of coffee per day. It's even more amazing that they do so with a naked mermaid printed on every single one of them.
 
 # II.brand stories
 > The first Starbucks opened in Seattle in 1971 in Seattle's historic Pike Place Market.The name, inspired by Moby Dick, evoked the romance of the seafaring tradition of early coffee traders.
@@ -48,6 +49,8 @@
 
 > 2)it is a pretty specialized. In fact, the only other word I can think that follows the same pattern is space faring, wow, which doesn't really even exist.I've never even heard of that, but cool, I like that spacefaring you know. 
 
+> 3)this is a great word when you start an activity with a special focus or an aim, a goal, Like you set out to win the championship if you're an athlete.
+
 # 3.evoke emotion/feeling/memories [激起、激发]
 > this character Starbuck was a sailor and so that was meant to, to bring about, or to make somebody feel an emotion. And that's what this word evoke mean.It's come up in terms of evoke a feeling, something smells often evoke memories.like smells often evoke memories of your childhood when you were young. seeing something or hearing something. When I hear music that I listen to when I was in high school, they evoke emotions of high school which weren't my favorite days.
 
@@ -76,19 +79,18 @@ when I think captivated I think captive, which means held prisoner, or you held 
 
 > 2)So in Canada we have something called French immersion schools. And basically just it's taught in French.your entire schooling, when you're young, is in a different language and it's great. People here in Canada can learn to speak French fluently, so they have two languages.
 
-# 6.phony /ˈfoʊni/ [假的] & authentic /ɔˈθen·tɪk/ [正宗的]
+# 6.phony /ˈfoʊni/ [假的] & authentic /ɔˈθen·tɪk/ [正宗的] & devoted /dɪˈvoʊtəd/ [虔诚的、忠实的]
 > 1)Someone is not an authentic person, we can also call them a fake person, they are phony, something like that. They're just always smiling or something like that. They just don't seem real or genuine.
 
-> 2)real, genuine. Yeah you can use authentic for talking about food like authentic Chinese food.Or you can even say authentic person.
+> 2)real, genuine. you can use authentic for talking about food like authentic Chinese food.Or you can even say authentic person.
 
-# 7.devoted /dɪˈvoʊtəd/ [虔诚的、忠实的] & epiphany /ɪˈpɪfəni/ [对事物真谛的顿悟] & Eureka! /jʊˈrikə!/ moment [我发现了，我找到了]
-> 1)
+# 7.epiphany /ɪˈpɪfəni/ [对事物真谛的顿悟] & Eureka! /jʊˈrikə!/ moment [我发现了，我找到了]
+> 1)so this epiphany is just that moment of great clarity or understanding.so one of those like, aha, a lightbulb goes off above your head.like if you've ever seen movies where there's like a hero trying to solve a problem. a scientist or something, then randomly he sees some, some object or he sees his son playing with. like string, or something random. And suddenly he realizes he has the understanding of how to solve the problem.
 
-> 2)so this epiphany is just that moment of great clarity or understanding.so one of those like, aha, a lightbulb goes off above your head.like if you've ever seen movies where there's like a hero trying to solve a problem. a scientist or something, then randomly he sees some, some object or he sees his son playing with. like string, or something random. And suddenly he realizes he has the understanding of how to solve the problem.
+> 2)a "Eureka moment".so now we say Eureka moment or epiphany, just for that sudden feeling of understanding. Basically there's a story of Euripides /juə'ripidi:z/ [n.欧里庇得斯]. one of the Greek philosophers. in his bathtub.Figured out how to calculate the volume because the water came out of the bathtub.
 
-> 3)a "Eureka moment".so now we say Eureka moment or epiphany, just for that sudden feeling of understanding. Basically there's a story of Euripides /juə'ripidi:z/ [n.欧里庇得斯]. one of the Greek philosophers. in his bathtub.Figured out how to calculate the volume because the water came out of the bathtub.
-
-# 8.camaraderie /ˌkɑməˈrɑdəri/ [默契]
+# 8.camaraderie /ˌkɑməˈrɑdəri/ [默契] & sense of connection/community/belonging 
+> so sense of connection，it just means like feeling of connection with other people. You could say sense of community,sense of belonging.
 
 # 9.it's your fate to do sth & finality [n.结尾、定局] & destiny 
 > 1)so this word fate, the fate of Starbucks is kind of like destiny. it can have a negative connotation /ˌkɑnə'teʃən/ [n.内涵；含蓄] and negative feeling towards it, but it has the sense of you know finality, its finalist the end.
@@ -97,12 +99,6 @@ when I think captivated I think captive, which means held prisoner, or you held 
 
 # 10.Moby Dick [n.白鲸记]
 > So Moby Dick was one of the most famous books I've ever read I think. In 1851, about a giant whale.And Captain Ahabe was the captain of the ship and his chief mate, his, his one of his sailors on this boat was called Starbuck.so that's where the name came from.
-
-# 11.
-
-
-
-
 
 
 
