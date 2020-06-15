@@ -58,8 +58,26 @@
 
 - 4. Minimalists believe the less you own, the better.
 
-# 3.
+# 3.shall & should
+> 1)"Shall" is super super formal so Samantha probably works in an environment where she's got a lot of really rich people, probably fairly important people and she's probably expected to be very formal. a lot of times when someone says "shall we do this" or "shall we do that", you can respond by saying "we shall".
 
+# 4.resort [n.度假区]
+> it's not a hotel. When I think about a hotel I think some people are there for fun, some people are there because they have to be there, but not everybody is there to have a good time .There are tired business people, there are families that you know maybe I'm visiting my family in a different city. A resort makes me think about like Disney World like we're all staying at this hotel in the middle of Disney World.That's right so obviously there are many other resorts than just the Disney resort.But most popular beaches you know around the world or the nicer beaches anyway usually have resorts. 
+
+# 6.marvelous [adj.棒极了] & luxury [n.豪华型] & fine-dining [n.高级餐饮] & hoity-toity [adj.傲慢的,装腔作势]
+> 1)So marvelous here just means like wonderful or amazing or excellent.It's all of those things and it can be used with pretty much all of the same words: marvelous food, marvelous weather, marvelous view.a marvelous time, I had such a marvelous time at the resort.
+
+> 2)So luxury just means like really fine.it is a great word to use if you are at a resort where you have to pay a lot of money because a lot of these resorts really aren't cheap, the reason for that being that these are luxury resorts. luxury resorts are very luxurious. well fine in the sense of expensive, very expensive.Luxury cars that's the first thing that comes to my mind.
+
+> 3)fine-dining which just usually means expensive, you know it's hoity-toity.
+
+# 7.suites /swi:t/ [n.套房]
+> so speaking of pronunciation "suite" is kind of a funny-looking word but it's the same pronunciation as sweet like candy or sweets like a bag of candy. you know I mean you're you're learning your own mother language and I remember like seeing a hotel in my town and they advertised suites but when I first saw the word as a kid I thought it was suits.just like a suit that you wear to work or to a business meeting or whatever. So guys here even though it looks a lot like suits it's not suit, it's suite.
+
+# 8.award-winning [adj.获奖的]
+> so award-winning well we've won awards.For being an awesome podcast.Award-winning I mean really there are lots of awards in the world and there's almost so many awards that everyone probably has won an award at this point but usually these awards are pretty important.so basically you just like kind of like you know recognition.
+
+# 9.
 
 
 
