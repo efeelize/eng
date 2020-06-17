@@ -83,14 +83,6 @@
 
 
 
-
-
-
-
-
-
-
-
 # IV.pattern
 ***Mr. Addington, since this is your first time staying with us, shall I give you a tour of the resort before showing you to your room?***
 

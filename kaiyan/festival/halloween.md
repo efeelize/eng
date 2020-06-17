@@ -54,19 +54,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # III.pattern
 ***Hey James, you bought your Halloween stuff yet?***
 
