@@ -20,8 +20,8 @@
 > Many resorts will have a pick-up service available [接送服务], where they can arrange for a driver to meet you at the airport and transport you and your luggage to the resort.At the end of your stay, they can arrange for a driver to return you to the airport.
 
 # III.grammar
-# 1.(after) having + pp
-> 1)it is known as the perfect participle clause. This clause is used for the following reasons:
+# 1.过去分词从句 (after) having + 过去分词
+> 1) So basically this means like once something has happened,it basically means like "since".it is known as the perfect participle clause. This clause is used for the following reasons:
 
 - 1. It clearly shows that one action happens before another and expresses a reason for a second action or thought.
 
@@ -40,7 +40,7 @@
 - 3. I got a sunburn after having spent too much time in the sun.
 
 # 2.the sth is better/worse than sth...
-> 1)it is often used to emphasize favorable and unfavorable outcomes that result from the increase or decrease of a particular factor in a situation, thing or phenomenon.
+> 1)it is often used to emphasize favorable and unfavorable outcomes that result from the increase or decrease of a particular factor in a situation, thing or phenomenon.We might also say it doesn't always have to be used for things that are good, it could be used for things that aren't good, and a lot of times you could, like maybe say the cheaper the product is, the worst the quality is.
 
 > 2)The + comparative adjective (+ clause) + the + comparative adjective (+ clause).
 
@@ -77,25 +77,91 @@
 ## 4）award-winning [adj.获奖的]
 > so award-winning well we've won awards.For being an awesome podcast.Award-winning I mean really there are lots of awards in the world and there's almost so many awards that everyone probably has won an award at this point but usually these awards are pretty important.so basically you just like kind of like you know recognition.makes me think about like award-winning directors or an award-winnning moive.
 
-# 7.facilities
-## 1）suites /swi:t/ [n.套房]
+## 5)stunning [adj.迷人的]
+> so "stunning" is a great word here, basically when I think about being stunned I think about like "I can't move, I'm just so captured by this beauty or by this surprise or by this something that I can't move".so basically when you find something stunning, you are really impressed, you might say you're in awe, you might say wow... You think something is so amazing, so beautiful, so marvelous.
+
+## 6)mountain view suites/apartment [adj.山景]
+> if something is like mountain view, it is put in a place where you can just see the mountains.We basically use it as an adjective like our mountain view suites or a mountain view apartment, something like that.
+
+# 7.amenities
+## 1)features [n.功能、特点]
+> Features can be anything, it's the most general word here, a dish could have a feature, a city could have a feature, it's just the special thing about it.we pretty much all have cell phones these days, and you'll you'll hear about what features your cell phone might have or your computer might have right?
+
+## 2)amenities [n.便利设施] 
+> amenities, something that is often very specific to a hotel or to a resort.it is kind of the thing that is meant to be enjoyed,  now often when I think about amenities, the first thing that comes into my mind is swimming pool.so like the amenities could be like kind of part of the features but you're right, the amenities are more specific like maybe this hotel has this kind of shampoo but this resort has this other kind of shampoo and it's their special kind of amenity.It's their special shampoo that only they have.that could be both a feature and an amenity,
+
+## 3）facility /fə'sɪləti/ [n.设施]
+> 1)amenities are meant to be enjoyed and facilities are more kind of practical and they are like a tool.They're meant to be used.when I think about a facility I'm thinking more about the pipes. Like in order to make that swimming pool warm or that hot tub hot, there needs to be you know a giant room full of pipes and a guy working on those pipes right? That is part of the facilities, part of the equipment.So like a spa can be an amenity or also a facility.
+
+> 2)and sometimes we even jokingly say we we call the bathroom the facility.The facilities means the bathroom, and it's the same thing that is a room where you will find a lot of pipes, very very useful pipes.
+
+## 4）equipment [n.] & equipped with sth [v.]
+> 1)that's probably the way I've heard the word the most is the car is equipped with blah blah blah, of course, you can also have like the new iPhone is equipped with blah blah blah.
+
+> 2)we can use this word to describe like people and what they have like their capabilities, so you could say like I don't think he's equipped for such a job.
+
+## 5）lounge /laʊndʒ/ [n.休息室]
+> so a lounge is just like a usually a pretty comfy place that you can relax and maybe listen to some relaxing music and drink some you know cocktails and eat some food.
+
+## 6）suites /swi:t/ [n.套房] & oceanfront suites [n.海景套房]
 > so speaking of pronunciation "suite" is kind of a funny-looking word but it's the same pronunciation as sweet like candy or sweets like a bag of candy. you know I mean you're you're learning your own mother language and I remember like seeing a hotel in my town and they advertised suites but when I first saw the word as a kid I thought it was suits.just like a suit that you wear to work or to a business meeting or whatever. So guys here even though it looks a lot like suits it's not suit, it's suite.
 
-## 2）spa [n.水疗]
+## 7）spa [n.水疗]
 > So spa services here would just be all the different things you can do at a spa a lot of Chinese people use this word when speaking Chinese, you know it's a place where you might get like massages or a facial. I really like getting massages at the spa.
 
-## 3）concierge  /kɔn'sjɛrʒ/ [n.旅馆服务台人员] & 24-hour front desk [n.前台]
+## 8）concierge  /kɔn'sjɛrʒ/ [n.旅馆服务台人员] & 24-hour front desk [n.前台]
 > 1)"concierge" and "front desk" because in some places these are two very different ideas, two very different concepts, often very different people as well but in other places they can refer to the same thing.it depends on how luxurious the place you're staying is.
 
 > 2)like concierge in my mind should be a person who is there to take care of you.they basically at a place like a resort, they might help you arrange you know certain activities and services, maybe you need to get a car to take you somewhere, they can arrange that, maybe you want to go out for a night on the town or go on a tour, the concierge could help with that.
 
 > 3)front desk is there to take care of you sure, but really they're just giving you your room key. Taking your credit card and giving you the key, but they're not really going to help you beyond that.so you wouldn't want to call the 24-hour front desk at 3 in the morning to say like "I want to go to the club, where is the club, get me a car". The front desk is not as concerned with that part of your stay.
 
-## 4）room service [n.客房服务，客房送餐] 
+## 9)room service [n.客房服务，客房送餐] 
 > You can stay in your room and order food which is room service.
 
-## 5）lounge /laʊndʒ/ [n.休息室]
-> so a lounge is just like a usually a pretty comfy place that you can relax and maybe listen to some relaxing music and drink some you know cocktails and eat some food.
+## 10)safe-deposit box / safe / deposit box [n.保险箱]
+> so safe deposit box this actually you will hear just safe by itself a lot, you will hear deposit box a lot by itself and you'll also hear safety deposit box.so this is just kind of like a box or sometimes a bit bigger than a just a regular box that you can lock your stuff into.
+
+## 11)lagoon /lə'gʊn/ pool [n.潟湖泳池] 
+> so lagoon pool is like a more naturally shaped kind of pool，kind of more like naturally shaped, it's just a kind of whatever shape.it's usually kind of like rounding.basically a lagoon is usually like some sort of lake or body of water you might find in a forest somewhere or maybe even next to the ocean but not you know connected to the ocean.it's either next to ocean or a lake and it's connected but not really，It's a rock, so there's some sand and something is kind of blocking so it's a part of the ocean and a part of the lake but at the same time not really.
+
+## 12）infinity pool [n.无边际泳池]
+> finite which basically means to have an end to have a limit but if it's infinite, then it just has no limit.
+
+## 13)tennis/basketball courts [n.网球场]
+> for sports like tennis, basketball yet mainly tennis and basketball we say court.
+
+## 14)golf course [n.高尔夫球场]
+> we use court for tennis but we use course for golf.
+
+# 8.units
+## 1)estate [n.土地，区域]
+> usually when I think of estate, I think of like a big fancy house on a lot of land.it also makes me think about, you know a big old castle or something, but when you die you also have an estate, when you sadly leaves the world you will have an estate, it's all the things that you has ever owned all of your assets all of you dead, everything will be there in his estate.usually we divide up the estate and give it to our loved ones after we pass away.
+
+## 2)acre /'eɪkɚ/ [n.英亩]
+> So acre is just a type of way that we measure the size of land in the west, usually in the US.
+
+- 1. this beautiful building is the oldest on our 300 acre estate.
+
+- 2. I grew up on a hundred-acre farm and then we moved to half-acre property.
+
+## 3) hectare /'hektɑ:/ [n.公顷] 
+
+## 4)square meters [n.平方米] /square feet [n.平方英尺] 
+> 1)so square meters like three and a half square feet roughly,times three and a half, so three and a half times three and a half times thirty basically.
+
+> 2)feet are smaller than meters, roughly a little over three feet in one meter,
+
+# 9.n+side 
+## 1)poolside bar [n.泳池边吧台] 
+> Poolside bar, at a lot of these places the staff at the poolside bar, they're really nice, this pool is obviously not an indoor pool, it's an outdoor pool and it's a nice day I can enjoy a nice drink, so poolside just means it's now one word instead of saying on this side of the pool.
+
+## 2)beachside bar [n.海滩边吧台]
+
+## 3)oceanside
+
+## 4)moutainside 
+>  that sounds like you're on a mountain and the home or the property is on the side of a mountain and that sounds like if I were a real estate agent, I would use that word to kind of try to sell my property like, oh, it's mountainside, oceanside, beachside.
 
 # 10.on site [phr.在现场] & off site 
 > 1)so "on site" just means like "at the resort". the site is the location. In fact we often use the word "site" to mean location right? Like "the job site", where your job is or where a job is.or you might think of the word "website". it's a location on the web.
@@ -105,8 +171,24 @@
 # 11.overlooks [v.俯瞰，俯视]
 > if something overlooks something it just basically means kind of looks down.it doesn't mean to like look down on somebody or something, it just means to actually be over like above something.so you know luckily actually, some months ago I stayed in a really nice place which overlooked the Pacific Ocean and it was beautiful. so basically overlook just means to be over something and then from there you can look out at it, so maybe like you climb a mountain and it overlooks the city.of course you could be on a mountain and you could be overlooking the valley, You could have a home on top of the mountain and wake up every day and think "Hmm it's so marvelous how I every day overlook the valley.
 
-# 12.access 
-> 
+# 12.access /'æksɛs/ & to be able to access sth,& accessible [adj.] & be accessible to everyone / handicap accessible 
+> 1)"Access" can be like a noun but it can also be like a verb.the thing is it's usually people think of it as a verb first, like access this or access that, access the file, access the information, but here yeah it is a noun like you can have access to a place.
+
+> 2)having access basically means you have permission, you're allowed to go into this lounge, you're allowed to look at these files.
+
+- 1.we have after hours access to the club house.
+
+- 2.I can't access that information because I don't have access to the files.
+
+> 3)so basically if something is accessible then you have access to it.Or you can access it, so basically accessible would just be the adjective form of this word.
+
+> 4)be accessible to everyone meaning maybe I would make a hotel and it would have lots of stairs lots of steps but that's not really accessible if you were in a wheelchair.so these kind of places we might say they're like handicap accessible.And I think even now the trend is to drop the handicapped or drop the wheelchair and just say accessible and then just kind of expand the meaning of this word.accessible to everyone.
+
+# 13.undergone [v.经历，经受]
+> so to have undergone means to just have done something，in life we usually undergo many changes.or we can all say you know at the end of our lives you know "well we have all undergone many changes".
+
+# 14.unwind 
+
 
 
 
