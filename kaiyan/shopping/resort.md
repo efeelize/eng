@@ -59,25 +59,58 @@
 - 4. Minimalists believe the less you own, the better.
 
 # 3.shall & should
-> 1)"Shall" is super super formal so Samantha probably works in an environment where she's got a lot of really rich people, probably fairly important people and she's probably expected to be very formal. a lot of times when someone says "shall we do this" or "shall we do that", you can respond by saying "we shall".
+> 1)"Sh all" is super super formal so Samantha probably works in an environment where she's got a lot of really rich people, probably fairly important people and she's probably expected to be very formal. a lot of times when someone says "shall we do this" or "shall we do that", you can respond by saying "we shall".
 
 # 4.resort [n.度假区]
 > it's not a hotel. When I think about a hotel I think some people are there for fun, some people are there because they have to be there, but not everybody is there to have a good time .There are tired business people, there are families that you know maybe I'm visiting my family in a different city. A resort makes me think about like Disney World like we're all staying at this hotel in the middle of Disney World.That's right so obviously there are many other resorts than just the Disney resort.But most popular beaches you know around the world or the nicer beaches anyway usually have resorts. 
 
-# 6.marvelous [adj.棒极了] & luxury [n.豪华型] & fine-dining [n.高级餐饮] & hoity-toity [adj.傲慢的,装腔作势]
-> 1)So marvelous here just means like wonderful or amazing or excellent.It's all of those things and it can be used with pretty much all of the same words: marvelous food, marvelous weather, marvelous view.a marvelous time, I had such a marvelous time at the resort.
+# 6.adj
+## 1)marvelous [adj.棒极了] 
+> So marvelous here just means like wonderful or amazing or excellent.It's all of those things and it can be used with pretty much all of the same words: marvelous food, marvelous weather, marvelous view.a marvelous time, I had such a marvelous time at the resort.
 
-> 2)So luxury just means like really fine.it is a great word to use if you are at a resort where you have to pay a lot of money because a lot of these resorts really aren't cheap, the reason for that being that these are luxury resorts. luxury resorts are very luxurious. well fine in the sense of expensive, very expensive.Luxury cars that's the first thing that comes to my mind.
+## 2)uxury [n.豪华型] 
+> So luxury just means like really fine.it is a great word to use if you are at a resort where you have to pay a lot of money because a lot of these resorts really aren't cheap, the reason for that being that these are luxury resorts. luxury resorts are very luxurious. well fine in the sense of expensive, very expensive.Luxury cars that's the first thing that comes to my mind.
 
-> 3)fine-dining which just usually means expensive, you know it's hoity-toity.
+## 3)& fine-dining [n.高级餐饮] & hoity-toity [adj.傲慢的,装腔作势]
+> fine-dining which just usually means expensive, you know it's hoity-toity.this "fine" is not the... like "fine thanks and you" kind of fine, this is like the you know I'm spending hundreds and hundreds of dollars on this meal and it'd better be very fine. I actually I'm not a big fan of fine-dining I feel like, maybe I'm just too poor but, every time I've ever eaten what's supposed to be fine-dining is super-expensive and super-small. we both kind of eat for nutrition that is sort of the way that we enjoy eating a good meal for us, a fine meal for me would be one that is, you know doesn't have to be too cheap but it has lots of nutrients.it's gotta be filling but I find that fine-dining will be really small and I spend all this money and I'm like "man I'm still hungry".
 
-# 7.suites /swi:t/ [n.套房]
+## 4）award-winning [adj.获奖的]
+> so award-winning well we've won awards.For being an awesome podcast.Award-winning I mean really there are lots of awards in the world and there's almost so many awards that everyone probably has won an award at this point but usually these awards are pretty important.so basically you just like kind of like you know recognition.makes me think about like award-winning directors or an award-winnning moive.
+
+# 7.facilities
+## 1）suites /swi:t/ [n.套房]
 > so speaking of pronunciation "suite" is kind of a funny-looking word but it's the same pronunciation as sweet like candy or sweets like a bag of candy. you know I mean you're you're learning your own mother language and I remember like seeing a hotel in my town and they advertised suites but when I first saw the word as a kid I thought it was suits.just like a suit that you wear to work or to a business meeting or whatever. So guys here even though it looks a lot like suits it's not suit, it's suite.
 
-# 8.award-winning [adj.获奖的]
-> so award-winning well we've won awards.For being an awesome podcast.Award-winning I mean really there are lots of awards in the world and there's almost so many awards that everyone probably has won an award at this point but usually these awards are pretty important.so basically you just like kind of like you know recognition.
+## 2）spa [n.水疗]
+> So spa services here would just be all the different things you can do at a spa a lot of Chinese people use this word when speaking Chinese, you know it's a place where you might get like massages or a facial. I really like getting massages at the spa.
 
-# 9.
+## 3）concierge  /kɔn'sjɛrʒ/ [n.旅馆服务台人员] & 24-hour front desk [n.前台]
+> 1)"concierge" and "front desk" because in some places these are two very different ideas, two very different concepts, often very different people as well but in other places they can refer to the same thing.it depends on how luxurious the place you're staying is.
+
+> 2)like concierge in my mind should be a person who is there to take care of you.they basically at a place like a resort, they might help you arrange you know certain activities and services, maybe you need to get a car to take you somewhere, they can arrange that, maybe you want to go out for a night on the town or go on a tour, the concierge could help with that.
+
+> 3)front desk is there to take care of you sure, but really they're just giving you your room key. Taking your credit card and giving you the key, but they're not really going to help you beyond that.so you wouldn't want to call the 24-hour front desk at 3 in the morning to say like "I want to go to the club, where is the club, get me a car". The front desk is not as concerned with that part of your stay.
+
+## 4）room service [n.客房服务，客房送餐] 
+> You can stay in your room and order food which is room service.
+
+## 5）lounge /laʊndʒ/ [n.休息室]
+> so a lounge is just like a usually a pretty comfy place that you can relax and maybe listen to some relaxing music and drink some you know cocktails and eat some food.
+
+
+
+
+
+
+# 10.on site [phr.在现场] & off site 
+> 1)so "on site" just means like "at the resort". the site is the location. In fact we often use the word "site" to mean location right? Like "the job site", where your job is or where a job is.or you might think of the word "website". it's a location on the web.
+
+> 2)There is an "off site". So here they're talking about vacation activities on site but also a lot of resorts they will offer activities off site, It might be a club night or something like everyone gets into a bus and goes to a club in the city something like that.or maybe they organize like rock climbing or zip lining or something like that in the nearby forest or something like that you know.so there're always activities on site but there're also always activities off site as well.
+
+# 11.overlooks [v.俯瞰，俯视]
+> if something overlooks something it just basically means kind of looks down.it doesn't mean to like look down on somebody or something, it just means to actually be over like above something.so you know luckily actually, some months ago I stayed in a really nice place which overlooked the Pacific Ocean and it was beautiful. so basically overlook just means to be over something and then from there you can look out at it, so maybe like you climb a mountain and it overlooks the city.of course you could be on a mountain and you could be overlooking the valley, You could have a home on top of the mountain and wake up every day and think "Hmm it's so marvelous how I every day overlook the valley.
+
+
 
 
 

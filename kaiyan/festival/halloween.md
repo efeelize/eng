@@ -7,47 +7,6 @@
 > According to the NRF [美国零售联合], Americans who celebrate Halloween intend to spend an average of $86.79 each in 2018 ($3.2 billion [32亿] will be spent on costumes, $2.7 billion [27亿] on decorations, $2.6 billion [26亿] on candy, and $400 million [4亿美元] on greeting cards).
 
 # II.grammar
-# 1.I don't blame sb
-> We say “I don't blame someone” to show you understand or agree with someone's decision or opinion.
-
-- 1. “But I don't blame people for wanting to have fun. [但我能理解人们想找点乐子的心情]
-
-- 2. It's too bad that they fired him, but I don't blame the bosses [但我理解老板]. They had to do it.
-
-- 3. I don't blame myself for doing that.[我不怪自己那样做]
-
-- 4. I don't blame you for wanting to move somewhere warmer.[我能理解你想搬到更暖和的地方的心情]
-
-# 2. preoccupied /ˌpriːˈɑːkjəpaɪd/ [全神贯注的；心事重重的]
-- 1. He seemed a bit preoccupied.
-
-- 2. I was too preoccupied with work to pay my taxes.
-
-- 3. She's been really preoccupied recently because her dad is sick.
-
-# 3.cut down on [削减] & raked in [轻易赚（很多钱）；赚大钱]
-- 1. She works in finance, so she rakes in over $200,000 a year [一年赚20多万美元].
-
-- 2. Apple is really raking it in with their new iPhone.[苹果公司凭借新推出的iPhone大赚了一笔]
-
-- 3. A lot of computer programmers really rake in the money.[许多计算机程序员确实赚的很多]
-
-# 4.consumerist /kənˈsuːmɚɪst/ [消费主义的] & commercialized /kəˈmɝːʃəlaɪzd/ [商业化的] & splurge /splɝːdʒ/ [挥霍、花大笔钱]
-- 1. Allen just turned 50, so he splurged on a new Corvette.[Allen刚满50岁，所以他挥霍了一笔钱买了辆新科尔维特跑车]
-
-- 2. Parents have no problem splurging on their kids' education.[父母无疑会大力投资孩子的教育]
-
-- 3. I always splurge on fancy restaurants when I go on vacation.[我去度假时总是把钱挥霍在高级餐厅上]
-
-# 5.scrambling /ˈskræmblɪŋ/ [仓促地做某事]
-
-# 6.thrift/secondhand  store [旧货商店、二手商店] & retailers /ˈriːteɪlɚz/ [零售商] 
-
-# 7.trending away [远离] & growing trend [日益增长的趋势]
-
-# 8.excessive /ɪkˈsesɪv/ [过分的；过度的；过多的] & excess /ˈekses/ [过分；过量；过度]
-
-# 9.origins & roots [起源] 
 
 
 
