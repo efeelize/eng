@@ -1,8 +1,14 @@
 # Annual_checkup
-# I.
+# I.Is the annual physical necessary?
+> For many people, scheduling the annual checkup is a natural necessity of life [自然而然的需求]. Recent research suggests that annual checkups may be doing more harm than good [弊大于利]. Here are some of the reasons.
 
+> Annual physicals don’t make you healthier. Often doctors order unnecessary tests and patients aren’t less likely to die from serious diseases [病人死于严重疾病的可能性也不会降低].
 
+> Unnecessary costs. The US health care system spends $300 million a year on unnecessary tests [不必要的检查] ordered by doctors during physicals.
 
+> Tests and screenings can cause problems. A common problem of tests is false-positive results [假阳性], which can cause anxiety [焦虑] and unnecessary follow-up treatments [后续治疗].
+
+> False sense of security [虚假的安全感]. Patients who don’t receive any negative results from a physical may feel that they are invincible, leading to more unhealthy diets [不注意饮食] and lifestyles [生活方式].
 
 # II.grammar
 # 1.give it to me straight [phr.有话请直说] & don't sugar coat it [phr.别掩饰、实话实说]

@@ -97,11 +97,6 @@
 ## 5）lounge /laʊndʒ/ [n.休息室]
 > so a lounge is just like a usually a pretty comfy place that you can relax and maybe listen to some relaxing music and drink some you know cocktails and eat some food.
 
-
-
-
-
-
 # 10.on site [phr.在现场] & off site 
 > 1)so "on site" just means like "at the resort". the site is the location. In fact we often use the word "site" to mean location right? Like "the job site", where your job is or where a job is.or you might think of the word "website". it's a location on the web.
 
@@ -110,6 +105,8 @@
 # 11.overlooks [v.俯瞰，俯视]
 > if something overlooks something it just basically means kind of looks down.it doesn't mean to like look down on somebody or something, it just means to actually be over like above something.so you know luckily actually, some months ago I stayed in a really nice place which overlooked the Pacific Ocean and it was beautiful. so basically overlook just means to be over something and then from there you can look out at it, so maybe like you climb a mountain and it overlooks the city.of course you could be on a mountain and you could be overlooking the valley, You could have a home on top of the mountain and wake up every day and think "Hmm it's so marvelous how I every day overlook the valley.
 
+# 12.access 
+> 
 
 
 
