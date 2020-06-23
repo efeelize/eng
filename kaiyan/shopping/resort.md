@@ -134,6 +134,18 @@
 ## 14)golf course [n.高尔夫球场]
 > we use court for tennis but we use course for golf.
 
+## 15)watersports [n.水上运动]
+> so water sports is just kind of sports in the water.All the things you do. And even like the idea of sports.Like water polo [水球] is a good example, but I think that like just driving a boat around or going water skiing I think that also counts as water sports, or surfing or something like that.
+
+## 16)kayaks /'kaɪæk/ [n.皮划艇] 
+> so kayaking can include water sport.a kayak it's covered so it has a hole and you have to actually put your body in the hole and then you sort of paddle this boat.
+
+## 17)canoes /kə'nu:/ [n.独木舟]
+> so a canoe is basically like it's a small boat that you're kind of maneuvered /mə'nʊvɚ/ [v.掌控] by yourself, and, but it has a opened top，You just sit in this boat.
+
+## 18)paddleboard /ˈpædlˌbɔrd/ [n.冲浪板] & paddling [v.用桨划]
+> we have the paddleboard here which is kind of like a surfboard but you stand on top of it and you push with the paddle.It's the most simple, because it is just a board so you're not actually in something, you are just on something.so if anything you know happens, you can always just jump off
+
 # 8.units
 ## 1)estate [n.土地，区域]
 > usually when I think of estate, I think of like a big fancy house on a lot of land.it also makes me think about, you know a big old castle or something, but when you die you also have an estate, when you sadly leaves the world you will have an estate, it's all the things that you has ever owned all of your assets all of you dead, everything will be there in his estate.usually we divide up the estate and give it to our loved ones after we pass away.
@@ -187,13 +199,19 @@
 # 13.undergone [v.经历，经受]
 > so to have undergone means to just have done something，in life we usually undergo many changes.or we can all say you know at the end of our lives you know "well we have all undergone many changes".
 
-# 14.unwind 
+# 14.unwind /ˌʌn'waɪnd/ [v.放松，轻松]
+> So basically unwind just means to relax.you're taking away all of those things that were bothering you before and you're just relaxing.
 
+# 15.all-inclusive [adj.费用全包的]
+> so basically if something is all inclusive, you just don't have to pay any more money for it, but we also use this in places that are not necessarily vacations, like for example my apartment, that I'm in is an all inclusive apartment meaning I don't pay the water bill or the power bill, it's just all inclusive.
 
+# 16.good eye [phr.好眼力]
+> we try really hard not to make mistakes, but of course we are human and we do make mistakes especially typos /'taɪpo/ [n.打字错误], typos are really hard sometimes to avoid and so if someone does catch one of our mistakes, I do often say good eye.so it's just: Hey, thanks for seeing that error. I didn't even see that myself.
 
+# 17.I'll see you to your room/  I'll take you to your room  [phr.带您去您的房间]
+> 1)you will commonly hear this and hotels and we say the service industry, hospitality, so here I'll see you to your room, it's just kind of like a more fancy way of saying I'll take you to your room.
 
-
-
+> 2)so in my building there are lots of elevators and to take the elevators and so if I have friends that come to visit me, when they're leaving, I'll say like: Oh, I'll see you to the elevator or I'll see you downstairs or I'll see you to your car or something depending on the person of course. 
 
 # IV.pattern
 ***Mr. Addington, since this is your first time staying with us, shall I give you a tour of the resort before showing you to your room?***
