@@ -18,50 +18,140 @@
 
 - 3. Don't you feel like your life lacks balance if you just work day in, day out? 
 
-# 2.9 to 5 [phr.朝九晚五] & soul-sucking [adj.令人心力交瘁的]
-> 1)9 to 5 means 9:00 A.M., so 9:00 in the morning to 5:00 P.M. in the evening.now sometimes you might have a different schedule, so we could also say it like 10 to 6, you know, or 8 to 4.
+# 2.By all means
+> 1) “By all means” is an expression that can be used to say “go ahead” or “without hesitation.”[“继续（做）”“别犹豫] It is frequently used as an invitation to do an action and can be said on its own or in a complete sentence.
 
-> 2)soul-sucking. So this just means it makes you miserable.You hate it. So basically it makes you feel like you have no soul, you know, life is meaningless.Yeah, so we can also say this job takes the life out of me.
+> 2)“by all means” can mean "absolutely" or “without a doubt.”
 
-# 3.generous 
-> 1) So generous, you can use this word to describe somebody who is very, we say giving. 
+> 3) “by all means” may also be used to say “without fail” or “at all costs.” In this context “means” is a synonym of the word “way” but the two words cannot be interchanged in this set expression.
 
-> 2)But generous can also be used to describe something, like you go to a restaurant and you, you order some food and what they bring to the table is actually really big.so it's a generous portion.Yeah, it's a generous amount of food. Maybe your pay is really good and you earn a generous amount of money.
+- 1. By all means help yourself to the wine![随便喝点酒吧] There's plenty to go around.
 
-# 4.monotony /mə'nɑtəni/ [n.单调] & monotone /'mɑnəton/ [adj.单调的 & n.单音调] & monotonous /mə'nɑtənəs/ [adj.无变化的]
-> 1) let's break down this word here as I'd like to. So we have 'mono', which means one. So monotony just actually kind of means like one thing. Or like the same thing over and over again.
+- 2. The army was expected to prevent an attack by all means necessary.[一切必要的手段]
 
-> 2)monotone:so someone has a very monotone voice, they talk like this. It puts you to sleep. It's boring.
+- 3. It was by all means the most difficult interview he had ever experienced.[这绝对是他经历过的最困难的一次面试].
 
-> 3)monotonous:if something is monotonous, you're always doing the same thing over and over again.maybe your job is just to, like answer phones and that's it. You could say oh, my job is very monotonous. I just answered the phone, that's it.
+# 3.work
+## 1)9 to 5 [phr.朝九晚五] 
+> 9 to 5 means 9:00 A.M., so 9:00 in the morning to 5:00 P.M. in the evening.now sometimes you might have a different schedule, so we could also say it like 10 to 6, or 8 to 4.
 
-# 5.best years [n.大好年华]
-> Basically the prime of your life. This is when you have kind of the ability and youth to do many different things.That's right. So what you might think are your best years, I might not think are my best years. But usually, you know, we could say best years are probably from like your 20s to your 40s. Something like that.
+## 2)flextime [n.弹性工作制]
+> it's a shortened version of flexible time.So it means flexible work hours, flexible work schedule.so maybe, you can come in late, leave late or maybe, you can work from home instead.or come in early leave early, something like flexible work hours. 
 
-# 6.on someone else's time [phr.由别人安排时间] & on company time & sb is on my time & on my boss's time & time is on your side [phr.有可支配的时间]
-> 1)And that just means that you don't have control over the time. You have to do things within the time that people give you.So basically if you feel your time is being controlled by someone or something else, you can say you are on that thing's time.
+## 3)on someone else's time [phr.由别人安排时间] 
+> that just means that you don't have control over the time. You have to do things within the time that people give you.So basically if you feel your time is being controlled by someone or something else, you can say you are on that thing's time.
 
-> 2)you don't have to just say on someone else's time. You could say on company time, on, I'm on Lisa's time, Lisa is on my time.or on my boss's time. I'm sick of doing all the work on my boss's time, I'd like to do it on my own time.
+## 4)on company time & sb is on my time & on my boss's time 
+> you don't have to just say on someone else's time. You could say on company time, on, I'm on Lisa's time, Lisa is on my time.or on my boss's time. I'm sick of doing all the work on my boss's time, I'd like to do it on my own time.
 
+## 5)time is on your side [phr.有可支配的时间]
 > 3)So it just basically means you're young, you still have time,you're young, you have your whole life ahead of you, you got a big future, so use that time wisely.
 
-# 7.flextime [n.弹性工作制]
-> And it's a shortened version of flexible time.So it means flexible work hours, flexible work schedule.so maybe, you know, you can come in late, leave late or maybe, you know, you can work from home instead.or come in early leave early, you know, something like that. Like you said flexible time, flexible work hours. 
-
-# 8.craft [n.手艺、技能] & freelancing /'fri:'la:ns/
-> 1)a craft is basically what you use your skills to do.So kind of like what you make, what you're able to create, probably. so if you have a like a designer, her craft might be making advertisements or beautiful images and she would need her skills, like her computer skills, her photography skills to make this happen.
-
-> 2)so freelancing, you basically work for yourself, mainly contract jobs or maybe you become an entrepreneur basically.so you probably have some sort of craft or maybe a few crafts that you're really good at and you use those crafts and your own ability to find customers, you know, to make money, basically.And it's really common with, like I say, graphic designers. They usually do freelance work.
-
-# 9.busywork [n.琐碎的工作]
+## 6)busywork [n.琐碎的工作]
 >  it's kind of like meaningless work. It just keeps you busy, you're not using your brain and you don't feel like it's rewarding.it doesn't require, you don't need a high level of skill to answer phones, I guess really. Or you know, maybe even like receive emails. Stuff like that.
 
-# 10.pursue [v.追求] & go after & follow & foregoing [v.放弃]
-> 1)so when you pursue them you go after them. You tried to achieve these things.it's kind of like following.yeah it's a little bit more formal though. You might actually hear this like when you're watching the news and there's a car chase with police. They might be pursuing a criminal.they're in hot pursuit.
+## 7)freelancing /'fri:'la:ns/ & craft [n.手艺、技能] 
+> 1)so freelancing, you basically work for yourself, mainly contract jobs or maybe you become an entrepreneur basically.so you probably have some sort of craft or maybe a few crafts that you're really good at and you use those crafts and your own ability to find customers, you know, to make money, basically.And it's really common with, like I say, graphic designers. They usually do freelance work.
 
-> 2)So here he says pursue my passions. He could also say follow his passions. People say follow their dreams. They also say pursue their dreams.you can also like pursue a life of happiness.
+> 2)a craft is basically what you use your skills to do.So kind of like what you make, what you're able to create, probably. so if you have a like a designer, her craft might be making advertisements or beautiful images and she would need her skills, like her computer skills, her photography skills to make this happen.
 
-> 3)So foregoing, this means like to, like give up or decline.so you could say something like I'm going to forgo [v.放弃] college and go right into the work world.Or maybe, you know, when you're at a meeting, you're really busy and maybe you forgo the introduction, right? And you just start the meeting without introducing yourself.
+## 8)side projects /saɪd ˈprɑʤɛkts/ 副业
+
+
+## 9)monotony /mə'nɑtəni/ [n.单调] 
+> So we have 'mono', which means one. So monotony just actually kind of means like one thing. Or like the same thing over and over again.
+
+## 10)monotone /'mɑnəton/ [adj.单调的 & n.单音调] 
+> monotone:so someone has a very monotone voice, they talk like this. It puts you to sleep. It's boring.
+
+## 11)monotonous /mə'nɑtənəs/ [adj.无变化的]
+> monotonous:if something is monotonous, you're always doing the same thing over and over again.maybe your job is just to, like answer phones and that's it. You could say oh, my job is very monotonous. I just answered the phone, that's it.
+
+
+## 12)get down to work /gɛt daʊn tu wɜrk/ 开始工作、埋头苦干
+
+## 13)in progress /ɪn ˈprɑˌgrɛs/ 还在进行中
+
+# 4.
+## 1)soul-sucking [adj.令人心力交瘁的]
+> So this just means it makes you miserable.You hate it. So basically it makes you feel like you have no soul, life is meaningless.so we can also say this job takes the life out of me.
+
+## 2)worse for wear /wɜrs fɔr wɛr/ 疲惫不堪的、状态不好
+
+
+## 3)on the go  忙个不停、奔波
+
+## 4)run off my feet 忙得不可开交
+
+## 5)worn out /wɔrn/ 疲乏、劳累
+
+## 6)loosen up 放松
+
+## 7)juggle  应付复杂的局面
+
+## 8)keep it together 维持安定、井井有条
+
+
+
+
+# 5.life
+## 1)best years [n.大好年华] & 20-somethings 20多岁的人
+> Basically the prime of your life. This is when you have kind of the ability and youth to do many different things.That's right. So what you might think are your best years, I might not think are my best years. But usually, you know, we could say best years are probably from like your 20s to your 40s. Something like that.
+
+## 2)pursue [v.追求] 
+> so when you pursue them you go after them. You tried to achieve these things.it's kind of like following.yeah it's a little bit more formal though. You might actually hear this like when you're watching the news and there's a car chase with police. They might be pursuing a criminal.they're in hot pursuit.
+
+## 3)go after & follow 
+> So here he says pursue my passions. He could also say follow his passions. People say follow their dreams. They also say pursue their dreams.you can also like pursue a life of happiness.
+
+## 4)covet /ˈkʌvət/ 渴望、饥渴
+
+
+
+## 5)catch up  赶上、追赶
+
+## 6)holding up  维持、保持、应付
+
+- 1. He looks like he's been holding up ok but it's hard to tell.
+
+- 2. There was a hold up on Highway 56 because of a collision between two semi-trucks.[两辆小型卡车相撞导致56号公路堵车了]
+
+- 3. She made a scene [大吵大闹] and held up the line until security came to kindly escort her out.[保安来护送她出去]
+
+## 5)go for it  放手一搏、去拼搏吧
+
+## 6)throw in the towel /ˈtaʊəl/ 认输、放弃、退休
+
+## 8)foregoing [v.放弃]
+> So foregoing, this means like to, like give up or decline.so you could say something like I'm going to forgo [v.放弃] college and go right into the work world.Or maybe, you know, when you're at a meeting, you're really busy and maybe you forgo the introduction, right? And you just start the meeting without introducing yourself.
+
+## 9)take a step back  退后一步、退居二线
+
+## 10)no promises 不敢保证
+
+
+
+
+# 6.cutthroat /ˈkʌtˌθroʊt/ 残酷的 & drastically /ˈdræstɪkli/ 强烈地、大幅地
+
+# 7.generous 
+> 1) So generous, you can use this word to describe somebody who is very, we say giving. 
+
+> 2)But generous can also be used to describe something, like you go to a restaurant and you, you order some food and what they bring to the table is actually really big.so it's a generous portion.it's a generous amount of food. Maybe your pay is really good and you earn a generous amount of money.
+
+# 8.overhaul /ˈoʊvərˌhɔl/ 彻底革新、大调整
+
+- 1. Due to the most recent system overhaul [系统检修], the company has had to re-input everyone's banking information [重新输入每个人的银行信息].
+
+- 2. She's planning on overhauling [翻修] her kitchen this summer.
+
+- 3. Much to her surprise, he completely overhauled the project overnight.[一夜之间彻底修改了这个项目]
+
+
+
+# 9.lend me a hand  帮我一把 & I owe you one 欠你一个人情、你帮了我大忙
+
+# 10.dropping the ball 关键时刻出差错
 
 # 11.join the club [phr.加入团体]
 > join the club just means that do the same thing that other people are doing.And it's a good phrase because we can often use it in like a joking way as well.so he's going to join the club of people who are foregoing or no longer working and living the 9 to 5 lifestyle.
@@ -71,7 +161,7 @@
 
 > 2)Or we mentioned earlier, life of happiness, you could say, ah, life of happiness here I come. Okay, cool. Let's go ahead and listen to the dialogue again.
 
-# III.pattern
+# IV.pattern
 ***Carol, I think I've had enough of this whole 9 to 5 thing. It's so soul-sucking[让人心力交瘁啦]!***
 
 ***Oh come on, Dean, it's not all that bad. There are so many perks to this job -- generous annual leave, retirement and health care.***
@@ -87,5 +177,23 @@
 ***Looks like I'll be next to join the club. Freelancing, here I come!***
 
 
+# IV.pattern
+***Hey Brooke, can you lend me a hand? I’ve got to catch up on some work and overhaul this project tonight but I’d really like to go home on time.***
+
+***Sure, Owen. But, you’ve been looking a little worse for wear lately. Have you been holding up ok?***
+
+***Yeah, work hasn’t been half-bad but I’m having a hard time balancing my work and private life. Honestly, I have a few side projects on the go so my girlfriend feels a little ignored.***
+
+***Hmm...Yeah, sometimes you just have to realize that you can’t have it all and something’s got to give. That’s how it was for me when my kids were born. I was run off my feet with competing demands.***
+
+***I can only imagine how hard it must be for a mother. I should probably take a step back once I have kids, but I’m not ready to throw in the towel just yet. It’s a cutthroat world out there and those 20-somethings are eyeing our positions.***
+
+***Hey, if you think you can juggle it all without dropping the ball, then by all means go for it.***
+
+***Yea, no promises there! But, you know what they say! “No pain! No gain!”***
+
+***Hahaha! I can’t say that I share your enthusiasm. But let’s get down to work so we can get you out of here at a decent hour.***
+
+***Thanks, Brooke! I owe you one.***
 
 
