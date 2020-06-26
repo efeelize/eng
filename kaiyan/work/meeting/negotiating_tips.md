@@ -125,6 +125,14 @@
 
 ## 15)rephrase /ˌriːˈfreɪz/ [重新措辞]
 
+## 16)compromise
+
+- 1. We’re both gentlemen, I’m sure we can reach a compromise.
+
+- 2. You can’t let it compromise your core beliefs.
+
+- 3. That woman just won’t compromise!
+
 # 4.bad sides
 ## 1)adversarial /ˌædvɚˈseriəl/ [adj.对抗的，抗辩式的] & adversary [n.对手]
 > adversarial comes from the word "adversary".which means like opponent or your enemy,like politics a lot,everyone is like against each other,kind of on the opposing side.Also though in business.
@@ -164,20 +172,56 @@
 ## 9)confrontational
 > if you're adversarial,you are confrontational.you're looking for a confrontation which is just like picking a fight.
 
-# 5.cloud your judgment [phr.影响你的判断] 
-> So cloud your judgment. If your judgment is clouded, it just means your judgment isn't clear. You're not thinking clearly, and you probably won't make the best decisions when your judgment is clouded.Just like when a day is cloudy. The sky is not clear. Well basically you can't see the nice blue sky.You're essentially confused. You can't think straight. So you could use this to talk about, you know, your thinking your judgment. You could also say like, "Well, I got drunk last night and my memories all clouded over."So drinking can definitely cloud your judgment and mess with your senses there.
+## 10）raided /ˈreɪdɪd/ [掠夺] 
 
-# 6.equivalent /ɪˈkwɪvələnt/ [等值的，等同的] 
-> equivalent, that means something has the same value or the same amount.
+- 1. Don’t let the babysitter raid the fridge again! She ate all of the good cheese.
 
-- 1. My friend does the equivalent job at a different company.
+- 2. Vikings were known for raiding coastal areas [劫掠附近的沿海地区] of neighboring countries.
 
-- 2. One hundred American dollars is equivalent to about 700 RMB.
+- 3. In the event of an air raid [空袭], you need to know where to seek shelter.
 
-- 3. There is no English equivalent for many Chinese phrases.
+## 11）jeopardizing /ˈʤɛpərˌdaɪzɪŋ/ [危害、危及]
 
-# 7.simultaneous /saɪməlˈteɪniəs/ [同时的]
-> it means at the same  time.
+## 12)pissing match [斗气] 
+
+# 5.congress
+## 1)speaker's  [议长] 
+
+## 2)Congress [国会] & Senate [参议院]
+
+## 3)House of Representatives [众议院] 
+
+## 4)Majority / Minority Leader [多数党/ 少数党领袖]
+
+## 5)United Nations Security Council [联合国安理会]
+
+# 6.bill [法案] 
+## 1)override /ˈoʊvərˌraɪd/ [推翻] 
+
+- 1. This place is overridden with insects![这个地方全是虫子！]
+
+- 2. “Quick, switch to ‘Manual Override [手动过载]’!” the Captain ordered.
+
+- 3. Economic concerns always override environmental ones.[经济考虑总是优于环境考虑]
+
+## 2)fraction /ˈfrækʃən/ [小部分] 
+
+## 3）veto /ˈvitoʊ/ [否决]
+
+## 4）strings attached [有条件的、附加条件]
+
+# 7.no matter what & under any circumstances
+> 1) “No matter what”, on the other hand, can be both positive and negative: something could happen, or something could not happen.“
+
+> 2)“under any circumstances” is a little more formal than “no matter what”.and it is almost always connected to something that will not happen.
+
+- 1. I’ll love you no matter what happens to us.
+
+- 2. You are not under any circumstances to discuss this with anybody. Do you understand?
+
+- 3. No matter what consequences I may have to face, I know this is something that I have to do.
+
+- 4. I won’t go into that creepy old house under any circumstances!
 
 # 8.sth is contingent /kənˈtɪnʤənt/ on it & depends on sth/based on sth [依情况而定的]
 > it's a fancy word just means it depends on something.it based upon something.So you can say "something is contingent on it." That means depends on that, or in this case, it's just an adjective. It's a contingent contract. It depends on something.you could even say maybe like, success in life is contingent upon one's happiness.
@@ -194,6 +238,42 @@
 > 2)"Penalize" here comes from the noun "penalty." You punish someone if they break a rule.If you are penalized, you have to face the penalty.That could be in sports, too. Like a soccer player, if he punches somebody, he's gonna be penalized with a red card probably.
 
 - set terms [n.条款] that penalize or reward them.
+
+# 10.cloud your judgment [phr.影响你的判断] 
+> So cloud your judgment. If your judgment is clouded, it just means your judgment isn't clear. You're not thinking clearly, and you probably won't make the best decisions when your judgment is clouded.Just like when a day is cloudy. The sky is not clear. Well basically you can't see the nice blue sky.You're essentially confused. You can't think straight. So you could use this to talk about, you know, your thinking your judgment. You could also say like, "Well, I got drunk last night and my memories all clouded over."So drinking can definitely cloud your judgment and mess with your senses there.
+
+# 11.replenished /riˈplɛnɪʃt/ [重新填满、补充]
+
+- 1. Try new, replenishing Shampoo: available in a store near you!
+
+- 2. I replenished the fridge [把冰箱装满] before I left, don’t worry.
+
+- 3. The captain decided to take the ship to Bangkok [曼谷] to replenish supplies.
+
+# 12.beneficiaries /ˌbɛnəˈfɪʃiˌɛriz/ [受益人]
+
+
+# 13.under any circumstances [无论如何] 
+
+# 14.stepped up [挺身而出] & overstepped [越界、过分、跨越职务范围]
+
+- 1. Isn’t it time you stepped up to a challenge?
+
+- 2. I’ve never stepped up before. I’ve always played it safe.
+
+- 3. It’s really refreshing to see her stepping up to this challenge.
+
+# 15.simultaneous /saɪməlˈteɪniəs/ [同时的] & equivalent /ɪˈkwɪvələnt/ [等值的，等同的] 
+> 1)it means at the same  time.
+
+> 2)equivalent, that means something has the same value or the same amount.
+
+- 1. My friend does the equivalent job at a different company.
+
+- 2. One hundred American dollars is equivalent to about 700 RMB.
+
+- 3. There is no English equivalent for many Chinese phrases.
+
 
 # IV.pattern
 ***Hey Taylor, I have a business deal coming up and could use some help with negotiating***
@@ -241,11 +321,40 @@
 
 ***Wow, thanks. Can I take you to the meeting?***
 
+# IV.House of Cards
+***Gentlemen, the hurricane. I need the DRF replenished.The speaker's calling for an emergency session tonight.We're prepared to allocate 10 billion.***
 
+***I was only gonna ask for 8.***
 
+***You sign the bill, you'll get the 10 billion. But no FEMA money or any other agency funds can be used for your jobs program again under any circumstances.***
 
+***Don't politicize this. America Works and the hurricane are two separate issues.***
 
+***Excuse me, Mr. President, but you're the one that raided the DRF for political purposes. We're correcting a wrong.And jeopardizing the entire Eastern seaboard.***
 
+***That's on the White House, not on us.We're supplying the funds. The money you took illegally.If you choose not to sign the bill, we can't be blamed. We stepped up.***
+
+***I thought you might try to make this about America Works. And look, I admit I may have overstepped. But let me show you something. Every day I asked the office to give me profiles of 10 AmWork's beneficiaries. These are success stories. These are just the fraction of the 40,000 people that we've put back to work.***
+
+***With money that's not appropriated for that purpose.***
+
+***You don't get to break the piggy bank and ask us to glue it together and put in more pennies.***
+
+***I've got over 50 Democrats and Republicans in both Houses that have publicly supported American Works since its introduction. The tide is turning. Your own people are getting behind the program.***
+
+***Then where are they now? Why aren't we getting calls? Why do they all support this emergency bill?***
+
+***If you pass it, I'll veto it. But there's no reason we have to turn this into a pissing match.***
+
+***You know that we have the votes to override your veto. The only question is whether you’re going to sign it before the hurricane hits or watch it become law after thousands have died.***
+
+***Henry, I sat with Hector dozens of times at this very table. And we were always able to work out our differences, to negotiate.***
+
+***This isn't Hector’s office anymore, or his table.***
+
+***Gentlemen, is there no room for a compromise?***
+
+***None, Mr. President.***
 
 
 
