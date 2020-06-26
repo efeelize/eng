@@ -1,8 +1,12 @@
 # generation's frustration
-# I.
+# I.What "OK boomer" is really about
+> Teens understand that the "OK, boomer" meme is driven [内在驱动] both by their generation's deep economic and environmental anxiety [这一代人对经济和环境深深的焦虑], and by progressive values [进步性价值观] that are growing firmer over time [随着时间的推移越来越坚定]. Younger generations are more diverse, less religious, and more directly impacted by economic inequality [经济不平等] than their forebears /'fɔrbɛr/ [n.祖先,祖宗].
 
+> "Ok, Boomer, millennials actually earn 20 percent less than you did," GQ declared in mid-November [GQ杂志在11月中旬]. Millennials who value work culture [重视工作文化], advancement possibilities [晋升机会], and quality of work over quantity [重视工作质量] are finding their paths to promotions blocked by baby boomers [被婴儿潮一代所阻碍] — but when they change jobs or careers in search of these things [追寻这些], they find themselves branded with the false stereotype of being disloyal job-hoppers [打上了不忠诚的跳槽者这一错误的刻板印象].
 
+> All the while [一直以来], student debt remains high, and the economic scandals [经济丑闻] of the 2000s have led to millennials being more cynical /'sɪnɪkl/ [adj.愤世嫉俗的] than their elders about the benevolence /bə'nɛvələns/ [n.仁慈,善心,善意] of corporate overlords /'ovɚlɔrd/ [企业霸主].[本世纪初的经济丑闻使得千禧一代比老一辈对待企业霸主的仁慈更加抱有讽刺态度]
 
+> But many of those offended by "OK boomer" seem to understand very little of this. They're instead sticking to their guns about the workplace [他们在工作场所坚持己见], at least according to the teens who don't trust them. "I feel as if they aren’t changing with the times," Lepera told Vox News. "They believe that how they did everything when they were younger, we should do as well."[我觉得他们好像没有随着时代的变化而改变。他们认为，我们应该沿用他们年轻时的做事方式。]
 
 # II.grammar
 # 1.in which / where 
@@ -60,10 +64,6 @@
 - 3. The final act of the play was riddled with [充满了] layers upon layers of irony [多重的讽刺].
 
 # 13.sociology /,sosɪ'ɑlədʒi/ 社会学；群体生态学 & socioeconomic /ˌsoʊsioʊˌiːkəˈnɑːmɪk/ 社会经济的
-
-
-
-
 
 # III.pattern
 ***Eddie, what is this "OK, boomer" meme all about?***
