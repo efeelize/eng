@@ -1,5 +1,4 @@
 # Argue_professionally
-
 # I.How to disagree at work
 > Here is our pick of the top eight ways to handle a disagreement in the workplace:
 
