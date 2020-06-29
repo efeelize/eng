@@ -6,7 +6,25 @@
 
 > While technology is the main enabler[推动因素], another major force is hiring pain [招聘的痛苦] and huge talent shortages[巨大的人才短缺]. The most talented professionals are increasingly used to being able to call the shots [做主] and shape their lives [塑造自己的生活] as they want to live them rather than as traditional 9-to-5 work requires. This means companies who want access to them need to allow remote work.
 
-# II.grammar 
+# II.Tips for a better work-life balance
+> Finding it hard to get a healthy balance between work and life? Here are some tips to help you manage your week.
+
+# 1) Build in the downtime 
+> When you’re planning out your week, try to set aside one day [留出一天] to relax and kick back with family or friends. Building downtime into your week [把休息时间安排进你的一周计划里] can help to decrease your stress and ready you for the work to come.
+
+# 2) Plan out your errands or consider outsourcing them [把琐事也计划进去，或者考虑外包]
+> If you haven’t got time to do your chores and errands [琐事], you may want to consider hiring a third party to take care of them for you. However, if your budget is stretching a little too thin [预算很紧], make sure that you are grouping your errands effectively [分配好] so that you don’t end up backtracking unnecessarily.[重复操作]
+
+# 3)Don’t get sucked into [沉迷于] social media
+> Many people have the habit of checking their social media accounts repeatedly throughout the day. As a result, the amount of time spent on social media can add up make your workday longer at the end of the day [不得不加班].
+
+# 4)Avoid taking work home 
+> Taking work home can cause unnecessary strain on yourself as well as your relationships. The best way to make sure that the stress doesn’t spill over [外溢] is therefore to make that line between work and home clear.
+
+# 5)Get some exercise
+> Studies show that getting exercise can improve your alertness [机敏度] and help you stay on top of your work [从工作中跳脱出来]. Although it may take up some extra time, the cognitive /'kɑɡnətɪv/ [认知] and emotional benefits will go a long way.
+
+# III.grammar 
 # 1.day in, day out [phr.日复一日]
 > 1)This phrase is used to describe something that is continuously or repeatedly performed over a long period of time. it's like every day and it's usually used to describe like something that, you know, it's the same thing every day.
 
@@ -55,8 +73,8 @@
 
 > 2)a craft is basically what you use your skills to do.So kind of like what you make, what you're able to create, probably. so if you have a like a designer, her craft might be making advertisements or beautiful images and she would need her skills, like her computer skills, her photography skills to make this happen.
 
-## 8)side projects /saɪd ˈprɑʤɛkts/ 副业
-
+## 8)side projects  [n.副业]
+> side projects could be artistic, could be money making, something else that he is doing.if you're an engineer or something like that, maybe you have a website on the side.some small start up company, lemonade stands.If you are a statistics, you could possibly also have a band on the side.
 
 ## 9)monotony /mə'nɑtəni/ [n.单调] 
 > So we have 'mono', which means one. So monotony just actually kind of means like one thing. Or like the same thing over and over again.
@@ -67,36 +85,41 @@
 ## 11)monotonous /mə'nɑtənəs/ [adj.无变化的]
 > monotonous:if something is monotonous, you're always doing the same thing over and over again.maybe your job is just to, like answer phones and that's it. You could say oh, my job is very monotonous. I just answered the phone, that's it.
 
+## 12)get down to work  [开始工作、埋头苦干]
 
-## 12)get down to work /gɛt daʊn tu wɜrk/ 开始工作、埋头苦干
+## 13)in progress[还在进行中]
 
-## 13)in progress /ɪn ˈprɑˌgrɛs/ 还在进行中
-
-# 4.
+# 4.status
 ## 1)soul-sucking [adj.令人心力交瘁的]
 > So this just means it makes you miserable.You hate it. So basically it makes you feel like you have no soul, life is meaningless.so we can also say this job takes the life out of me.
 
-## 2)worse for wear /wɜrs fɔr wɛr/ 疲惫不堪的、状态不好
+## 2)worse for wear [phr.疲惫不堪的、状态不好]
+> so worse for wear, you can kind of think of this as being a little bit worn out.Basically, you look tired, and you look like you are not in good shape.this could be used to talk about people, but not only people.
 
+> 2)you could use it for objects as well, I think we use it a lot for like cars. car's looking a little worse for wear.especially maybe if you took it for a road trip.
 
-## 3)on the go  忙个不停、奔波
+## 3)on the go  [phr.忙个不停、奔波]
+> so on the go, kind of could also mean that, you're constantly busy and doing things. it kind of means that you're kind of doing them now, they're in progress. this is one thing they always use on TV, like, he lives on the go, but he needs to have a healthy breakfast, so here's a way you can have a healthy breakfast on the go.
 
-## 4)run off my feet 忙得不可开交
+## 4)run off my/your feet [phr.忙得不可开交] & swept off your feet [phr.神魂颠倒]
+> if you're run off your feet, you can kind of imagine that you're running around all day to trying to just complete tasks.So much to do.that’s a little bit more negative,it sounds like a very tired mother.
 
-## 5)worn out /wɔrn/ 疲乏、劳累
+> 2) if you're swept off your feet, then it kind of means that you're kind of amazed or like just carried away with some kind of, like emotion.
 
-## 6)loosen up 放松
+## 5)worn out /wɔrn/ [疲乏、劳累]
 
-## 7)juggle  应付复杂的局面
+## 6)loosen up [放松]
 
-## 8)keep it together 维持安定、井井有条
+## 7)cutthroat /cut-throat/ cut throat /ˈkʌtˌθroʊt/ [残酷的] & cutthroat business practices
+> 1)we often see this word as two words, cut throat. But it will also be one word, and other time it will be a hyphenated word. But you can obviously get the meaning of cutthroat like, competition is so fierce that I am going to cut your throat to get this job, or wife, or house, or something.Cutthroat is kind of competitive, when you're constantly worried about losing your job, or being fired.
 
-
-
+> 2) And you'll probably have heard this being used for, some notorious companies, like Amazon. Amazon's quite cutthroat.cutthroat business practices. You always hear about cutthroat competition, or like a cutthroat world. 
 
 # 5.life
-## 1)best years [n.大好年华] & 20-somethings 20多岁的人
-> Basically the prime of your life. This is when you have kind of the ability and youth to do many different things.That's right. So what you might think are your best years, I might not think are my best years. But usually, you know, we could say best years are probably from like your 20s to your 40s. Something like that.
+## 1)best years [n.大好年华] & 20-somethings [20多岁的人]
+> 1)Basically the prime of your life. This is when you have kind of the ability and youth to do many different things.That's right. So what you might think are your best years, I might not think are my best years. But usually, you know, we could say best years are probably from like your 20s to your 40s. Something like that.
+
+> 2)twenty-somethings,it just bascially means people in their twenties.you also can say thirty-somethings,forty-somethings.But if you are ten,wo don’t really say ten-somethings,we normally say teens.
 
 ## 2)pursue [v.追求] 
 > so when you pursue them you go after them. You tried to achieve these things.it's kind of like following.yeah it's a little bit more formal though. You might actually hear this like when you're watching the news and there's a car chase with police. They might be pursuing a criminal.they're in hot pursuit.
@@ -104,13 +127,16 @@
 ## 3)go after & follow 
 > So here he says pursue my passions. He could also say follow his passions. People say follow their dreams. They also say pursue their dreams.you can also like pursue a life of happiness.
 
-## 4)covet /ˈkʌvət/ 渴望、饥渴
+## 4)covet /ˈkʌvət/ [渴望、饥渴]
+> here’s a word from the Bible,you’re coveting.it’s probably even more negative,like you really want it,somebody has it,you want it,and that’s the way you’re looking at it.
 
+## 5)catch up on sth  [v.赶上、追赶]
+> it means that you are behind.so it means that you have a lot of work that you still need to do. catching up on sleep, this means that you need to basically sleep more.
 
+## 6)holding up  [phr.维持、保持、应付] & keep it together [phr.维持安定、井井有条] 
+> 1)we could use this whenever we're tired, or maybe when we're having a hard time. So for example, maybe someone recently broke up with their boyfriend or girlfriend.so you might ask the ex or the girlfriend, have you been holding up? Are you holding up ok? and you can use it for an answer to... like, I've been holding up fine.
 
-## 5)catch up  赶上、追赶
-
-## 6)holding up  维持、保持、应付
+> 2)holding up here also makes me think of another phrase, keeping things together. if he's keeping things together, maybe he's keeping his emotions together.he's not breaking down,  Because when we're pushed too far, or the pressure is too big than, we might break down, which is of course the opposite of hold up.
 
 - 1. He looks like he's been holding up ok but it's hard to tell.
 
@@ -118,28 +144,39 @@
 
 - 3. She made a scene [大吵大闹] and held up the line until security came to kindly escort her out.[保安来护送她出去]
 
-## 5)go for it  放手一搏、去拼搏吧
+## 5)go for it  [放手一搏、去拼搏吧]
 
-## 6)throw in the towel /ˈtaʊəl/ 认输、放弃、退休
+## 6)throw in the towel /ˈtaʊəl/ [认输、放弃、退休]
+> I believe this comes from sports, Maybe from boxing. if you just throw in the towel, that's kind of the signal for the fact that you are done.The fight is over. you can use this for lots of different situations, like work, or maybe if you are fighting with your wife.
 
 ## 8)foregoing [v.放弃]
 > So foregoing, this means like to, like give up or decline.so you could say something like I'm going to forgo [v.放弃] college and go right into the work world.Or maybe, you know, when you're at a meeting, you're really busy and maybe you forgo the introduction, right? And you just start the meeting without introducing yourself.
 
-## 9)take a step back  退后一步、退居二线
+## 9)take a step back  [退后一步、退居二线]
+> take a step back means kind of, doesn't mean give up everything, it kind of just means give up some things, or it could just mean give yourself some extra time.
 
-## 10)no promises 不敢保证
+## 10)no promises [不敢保证]
+> when somebody asks me if I want to do something that I don’t really what to do,as I might say”Hey,you’d better come.”No promises,I’ll try,but no promises.
 
+# 11) juggle 应付复杂的局面 & drop the ball [phr.关键时候出错]
+> 1)juggle,it is the actual thing that you do, like clowns will do at the circus, Have three balls, and you throw them in the air, and catch them.and you can kind of think about this as the things, or the balls that you are throwing are basically different parts of your life. your kids, your job, your relationship, your side projects,you have to keep all them balanced, if you're not able to juggle them all, if you're not able to balance them, then you drop the ball.
 
+> 2)it basically means that you don't perform as well as you normally do, or perhaps you even fail at something. And you can see that because if I tried to juggle, I would definitely drop the literal ball, and then I would probably just drop the ball more figuratively.
 
+# 6. have it all & something’s gotta give/something’s got to give
+> 1) It's usually when you want, let's say everything in life, you want the money, you want the job, you want the relationship, something's got to give.
 
-# 6.cutthroat /ˈkʌtˌθroʊt/ 残酷的 & drastically /ˈdræstɪkli/ 强烈地、大幅地
+> 2)Something's got to give.you can imagine someone just wound up so tightly, just doing everything, and everything so perfect, and blah blah blah. But then, one day, this is the theme of so many movies, The perfect person with the perfect house, in the perfect life and then something happens.usually they have to give up something.
+
+> 3)so give here isn't necessarily like give someone a handshake or give someone a compliment, it almost means kind of like let up.you're trying to have like a tight hold on everything, you're trying to control everything. You have to give, you kind of have to release something,for most of us, what we end up giving up is our free time,
 
 # 7.generous 
 > 1) So generous, you can use this word to describe somebody who is very, we say giving. 
 
 > 2)But generous can also be used to describe something, like you go to a restaurant and you, you order some food and what they bring to the table is actually really big.so it's a generous portion.it's a generous amount of food. Maybe your pay is really good and you earn a generous amount of money.
 
-# 8.overhaul /ˈoʊvərˌhɔl/ 彻底革新、大调整
+# 8.overhaul /ˈoʊvərˌhɔl/ [n. & v.彻底革新、大调整] & drastically /ˈdræstɪk l..ɪ/ & radically /'rædɪkli/ 
+> It just basically means to change something, kind of drastically,or radically. A huge change.One thing about overhaul is that, it can be both a noun and verb, so you could overhaul a project, it could be your home, it could be an organization, but you would call that an overhaul.
 
 - 1. Due to the most recent system overhaul [系统检修], the company has had to re-input everyone's banking information [重新输入每个人的银行信息].
 
@@ -147,11 +184,11 @@
 
 - 3. Much to her surprise, he completely overhauled the project overnight.[一夜之间彻底修改了这个项目]
 
+# 9.lend me a hand  [帮我一把] & I owe you one [欠你一个人情、你帮了我大忙]
+> this is a really good expression for when you owe someone a favor.
 
-
-# 9.lend me a hand  帮我一把 & I owe you one 欠你一个人情、你帮了我大忙
-
-# 10.dropping the ball 关键时刻出差错
+# 10.half-bad
+> it’s means not bad,not great.it's kind of in the middle, but I think the main point for me is that it's not as bad as you expect it to be. iBecause when I was a kid, there used to be something on TV when they would say, well, that wasn't half bad, it wasn't half good, either.
 
 # 11.join the club [phr.加入团体]
 > join the club just means that do the same thing that other people are doing.And it's a good phrase because we can often use it in like a joking way as well.so he's going to join the club of people who are foregoing or no longer working and living the 9 to 5 lifestyle.
@@ -160,6 +197,9 @@
 > 1) frequently people use this maybe when they're making a career change like here. So maybe you decide that, I don't know, you're going to go into teaching. Teaching, here I come.
 
 > 2)Or we mentioned earlier, life of happiness, you could say, ah, life of happiness here I come. Okay, cool. Let's go ahead and listen to the dialogue again.
+
+# 13.decent hour 
+> a decent hour just means like, maybe like a good hour, you know, you're not working like overtime, you're not going to home at like 11 p.m. at night.decent hour would be, 9 to 5 is decent.nine to five is normal. I'd say like 10, 10 to 5 is decent.You might also talk about getting up at a decent hour.so I keep getting up ridiculously early, so stupidly early, and I would love to just be able to get up at a decent hour like 7.
 
 # IV.pattern
 ***Carol, I think I've had enough of this whole 9 to 5 thing. It's so soul-sucking[让人心力交瘁啦]!***
