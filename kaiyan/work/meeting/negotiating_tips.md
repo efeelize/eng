@@ -126,6 +126,7 @@
 ## 15)rephrase /ˌriːˈfreɪz/ [重新措辞]
 
 ## 16)compromise
+> It's a very common expression here. It's all a game of give and take.this is a certain way of working out your differences. But this is more about the end results, If we are negotiating and I want this and Chris wants that but we both can't have this or that. We need to find some kind of middle position.so I give something and you give something up and then you give something and I give something up.
 
 - 1. We’re both gentlemen, I’m sure we can reach a compromise.
 
@@ -172,7 +173,8 @@
 ## 9)confrontational
 > if you're adversarial,you are confrontational.you're looking for a confrontation which is just like picking a fight.
 
-## 10）raided /ˈreɪdɪd/ [掠夺] 
+## 10)raided /ˈreɪdɪd/ [掠夺] & stealing
+> 1)raid is a stronger word but it does mean to take something almost forcefully.
 
 - 1. Don’t let the babysitter raid the fridge again! She ate all of the good cheese.
 
@@ -180,12 +182,18 @@
 
 - 3. In the event of an air raid [空袭], you need to know where to seek shelter.
 
-## 11）jeopardizing /ˈʤɛpərˌdaɪzɪŋ/ [危害、危及]
+> 2)Stealing could be sneaky.
+
+## 11)jeopardizing /ˈʤɛpərˌdaɪzɪŋ/ [v.危害、危及] & to jeopardy /'dʒɛpɚdi/ [n.]
+> jeopardizing here means putting at risk.Putting in jeopardy.So to jeopardize means to make something dangerous or risky.
 
 ## 12)pissing match [斗气] 
+> 1) it's slang for going to the bathroom, for peeing.this is an informal language, Even though the president of the United States is speaking it. He says, we don't have to turn it into a pissing match. you can imagine a couple of guys having a, having a competition to see who could piss farther?so who can be the farthest, it's sort of kind childish game or competition of all, who can pee farther. 
+
+> 2)So it's a way of saying we don't need to turn this into some petty childish game that who is more powerful or who's winning. Let's not turn this into a pissing match.
 
 # 5.congress
-## 1)speaker's  [议长] 
+## 1)speaker's [议长] 
 
 ## 2)Congress [国会] & Senate [参议院]
 
@@ -197,6 +205,9 @@
 
 # 6.bill [法案] 
 ## 1)override /ˈoʊvərˌraɪd/ [推翻] 
+> 1）It's informal. If you're in a position of authority, that person might say that's not very nice language all the time. so let's not turn this into a pissing match and the Senate leader comes back and says, you know that we have the votes to override your veto.
+
+> 2)if the two houses of the American Congress send the bill to the president, the president can veto it.Cancel it. But if they have enough votes within those houses, within those chambers, then they can override his veto. But if they have enough votes within those houses, within those chambers, then they can override his veto.So this is what we call checks and balances in the US government,so they say, we have the votes to override, literally, to cancel your veto, to cancel your cancellation.
 
 - 1. This place is overridden with insects![这个地方全是虫子！]
 
@@ -204,16 +215,17 @@
 
 - 3. Economic concerns always override environmental ones.[经济考虑总是优于环境考虑]
 
-## 2)fraction /ˈfrækʃən/ [小部分] 
+## 2) fraction /ˈfrækʃən/ [小部分] 
 
-## 3）veto /ˈvitoʊ/ [否决]
+## 3)veto /ˈvitoʊ/ [否决]
+> Veto is a very specific political term. It means basically cancel. What a president can do is they can just say no. so in the US government, the Senate and the Congress or House of Representatives, you can call it, they both, if they both pass a law then it literally goes to the president.
 
-## 4）strings attached [有条件的、附加条件]
+## 4)strings attached [有条件的、附加条件]
 
-# 7.no matter what & under any circumstances
+# 7.no matter what & under any circumstances [phr.无论如何]
 > 1) “No matter what”, on the other hand, can be both positive and negative: something could happen, or something could not happen.“
 
-> 2)“under any circumstances” is a little more formal than “no matter what”.and it is almost always connected to something that will not happen.
+> 2)“under any circumstances” is a little more formal than “no matter what”.and it is almost always connected to something that will not happen.it means no exception.
 
 - 1. I’ll love you no matter what happens to us.
 
@@ -242,7 +254,8 @@
 # 10.cloud your judgment [phr.影响你的判断] 
 > So cloud your judgment. If your judgment is clouded, it just means your judgment isn't clear. You're not thinking clearly, and you probably won't make the best decisions when your judgment is clouded.Just like when a day is cloudy. The sky is not clear. Well basically you can't see the nice blue sky.You're essentially confused. You can't think straight. So you could use this to talk about, you know, your thinking your judgment. You could also say like, "Well, I got drunk last night and my memories all clouded over."So drinking can definitely cloud your judgment and mess with your senses there.
 
-# 11.replenished /riˈplɛnɪʃt/ [重新填满、补充]
+# 11.replenished /riˈplɛnɪʃt/ [v.重新填满、补充]
+> it means fill up again.
 
 - 1. Try new, replenishing Shampoo: available in a store near you!
 
@@ -251,20 +264,10 @@
 - 3. The captain decided to take the ship to Bangkok [曼谷] to replenish supplies.
 
 # 12.beneficiaries /ˌbɛnəˈfɪʃiˌɛriz/ [受益人]
+> it is the person that receives the benefits, the money.So this word "benefit" is in the word "beneficiaries". besides government programs, you also see this in insurance companies.often in legal contracts or forms you have to name someone who is a beneficiary.Someone who the benefits or something will be passed onto, should you die, frankly.
 
-
-# 13.under any circumstances [无论如何] 
-
-# 14.stepped up [挺身而出] & overstepped [越界、过分、跨越职务范围]
-
-- 1. Isn’t it time you stepped up to a challenge?
-
-- 2. I’ve never stepped up before. I’ve always played it safe.
-
-- 3. It’s really refreshing to see her stepping up to this challenge.
-
-# 15.simultaneous /saɪməlˈteɪniəs/ [同时的] & equivalent /ɪˈkwɪvələnt/ [等值的，等同的] 
-> 1)it means at the same  time.
+# 13.simultaneous /saɪməlˈteɪniəs/ [同时的] & equivalent /ɪˈkwɪvələnt/ [等值的，等同的] 
+> 1)it means at the same time.
 
 > 2)equivalent, that means something has the same value or the same amount.
 
@@ -274,6 +277,22 @@
 
 - 3. There is no English equivalent for many Chinese phrases.
 
+# 14.stepped up [挺身而出] & overstepped [越界、过分、跨越职务范围]
+> 1)They stepped up, they made themselves available to the challenge. They, they are taking responsibility.
+
+> 2)So this overstepped usually talks about someone's right or their authority. So they did something they didn't have kind of the right or the, the authority that to do.And it always talks about going over their authority too far, too much.they shouldn't have done it, maybe.So they did something they didn't have kind of the right or the authority that to do. Actually you've heard this a lot in the last two administrations of Obama and Bush before him. they don't want to necessarily accuse the president of he broke the law, although some people say that. But they just say they're using their authority beyond what it should be used for.
+
+- 1. Isn’t it time you stepped up to a challenge?
+
+- 2. I’ve never stepped up before. I’ve always played it safe.
+
+- 3. It’s really refreshing to see her stepping up to this challenge.
+
+# 15.politicize sth [v.政治化]
+> Politicize something means take any sort of event or tragedy or occurrence and make it political.in America you will always hear about shootings, massive shootings.This is something that all of the parties like to politicize.Use it for their own political purposes.And usually it kind of means, the implication is you take two things that are kind of not related and you force a relationship for political purposes or gains.
+
+# 16.the tide is changing
+> so it just means there’s some kind of change coming and tide of course is the ocean.The ocean rises and falls, according to the moon but just means something is changing. It could be good, could be bad.and the Senate leaders, of course they say, the tide's changing.
 
 # IV.pattern
 ***Hey Taylor, I have a business deal coming up and could use some help with negotiating***
