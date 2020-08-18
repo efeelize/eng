@@ -1,13 +1,32 @@
 # Conference_call
-# I.
+# I.5 tips for being awesome at conference calls
+# 1.smile
+> The way you deliver information is the key to capturing your audience's attention. How you talk on the phone is no different than how you present yourself on stage when presenting to an audience. In reality, your conference call is very similar to being on stage where the lights are so bright you can't see anyone's faces. Smile while you speak and your positive energy will come through - the people on the other end of the phone will be able to sense and feel your smile. Try it.
 
+# 2.energy
+> The energy you put into [投入] the call is directly related to the energy you'll get back [收获]. What is a great result in a conference call? Everyone enjoying the call. By bringing energy to the call you'll lift everyone up, maybe even create laughter and ultimately better rapport /ræ'pɔː/ [最终建立良好的关系]. Get excited about the items you care about [对你关心的事物保持兴奋]. Tell stories that bring out your passion [讲述能激发你热情的故事]. At the very least, speak clearly and with sufficient volume so everyone can understand and hear your words.
 
+# 3.be yourself
+> Conference calls are like emails - it's too easy to lack emotion, interpret things wrong, and to dismiss [忽视] the opportunity to build relationships. Since you saved so much time by not travelling, why not use some of the conference call time to build rapport and get to know people? [为什么不利用通话的时间来建立融洽的关系并结识更多人呢？] It can be as simple as asking everyone for an introduction and as meaningful as talking about family and life at the beginning and end of the calls [要求每个人进行介绍，在电话的开头和结尾谈论一下家庭和生活]. Do what you'd normally do if you were in person for the first few minutes - say hello, check in with each other, and ask questions not related to the call topic. Be a person, not a robot at the end of the phone.
 
+# 4.focus
+> Focus your time and energy on the topic, the people, and the overall meeting [整体会议]. Eliminate /ɪ'lɪmɪneɪt/ [v.消除] distractions by hiding your phone, turning off email, and taking notes the old-fashioned way: pen and paper. If you're easily distracted when you're not talking, taking notes will help you stay engaged. It's also a great way to capture questions you want to ask when appropriate.
 
-# II.
+# 5.technology
+> Know your tech. There's nothing worse than a presenter who has never used the conference call technology and wastes the first ten to fifteen minutes getting setup [这样会议前10到15分钟都可能被白白浪费]. Dial in early. [尽早拨打电话] Setup and test the service well before you meet [在开始前安装并测试好]. Download the software ahead of time [提前下载软件]. Most conference calls are very short, and nobody wants to sit around wasting that valuable time on bad technology or users who aren't prepared.[...来解决技术问题，或是等待没有准备好的参会者]
 
+# II.4 widely used video call platforms in the US
+# 1.Skype
+> The first big video call platform on the scene. Skype was founded in 2003. By 2010, Skype's user base grew to over 600 million users worldwide. Skype uses what it referred to as a "freemium" business model [“免费增值”商业模式]: while downloading the Skype platform to contact other users is free, other services, such as calling landline /'lændlaɪn/ [固定电话] or cellphone numbers [手机号码], require buying Skype Credit [购买Skype点数].
 
+# 2.zoom
+> Founded in 2011, San Jose, California based Zoom has become the video conferencing choice for many companies in recent years. The software's special features, like the ability to hold conference calls with literally hundreds of participants at once [该软件较为特别的功能在于能容纳数百名参与者同时在线], is what sets Zoom apart from it's competitors.[这使Zoom有别于其竞争对手]
 
+# 3.Google Hangouts
+> A communication platform available to Gmail users, Google Hangouts is a common conference call goto, despite having mixed reviews online.[网上对其褒贬不一]
+
+# 4.Facebook Messenger
+> More commonly used for personal video calls among friends looking to catch up with one another [更常用于朋友之间的个人视频通话], Facebook Messenger offers texting, calling and video calling functions offers to Facebook users.
 
 # III.grammar
 # 1.next...over...
@@ -86,9 +105,6 @@
 
 - 3. Their plan to expand into new markets was perfectly executed. 他们扩展到新市场的计划得到了很好的执行。
 
-
-
-
 ## 1)iron out /ˈaɪərn aʊt/ 决定；确定
 
 ## 2)conduct /kɑnˈdʌkt/ 实施
@@ -111,20 +127,44 @@
 
 - 3. Do you really make a living off of capturing wild animals? 你真的以捕捉野生动物为生吗？
 
-# 6.numbers
-## 1)ramp up /ræmp ʌp/ 增加 
+## 7)ROI 投资回报率
 
-## 2)geographically /ˌʤiəˈgræfɪkəli/ 地理上、地域上地
+## 8)fiscal year /ˈfɪskəl/ 财政年度 
 
-## 3)demographic /ˌdeməˈɡræfɪk/ 人口群体
 
-## 4)segments /ˈsegmənts/ 部分、群体 
 
-## 5)diversify /dɪˈvɝːsəfaɪ/ 多样化 
+# 6.verbs used with research and studies
+## 1)ramp up /ræmp/ 增加 
 
-## 6)fiscal year /ˈfɪskəl jɪr/ 财政年度 
 
-## 7)ROI /ɑːr oʊ aɪ/ 投资回报率
+## 2)sth are found to be... & sth are proving ... & sth show that... & sth have been shown...
+> In fact, these terms and phrases all mean "show," and you can also use words such as "demonstrate," "indicate," or "illustrate."
+
+- 1. People who consistently volunteer or simply are for others are found to be...
+
+- 2. many studies are proving...
+
+- 3. studies in the field of positive psychology show that...
+
+- 4. grateful people have been shown...
+
+- 5. The latest findings indicate that young adults are getting married much later than previous generations. 最新研究结果表明，现在的年轻人结婚比老一辈晚多了。 
+
+- 6. Practicing gratitude has been shown to increase your well-being in every aspect of life. 研究表明训练感激心理可以全面提升生活的幸福感。 
+
+- 7. These studies illustrate just how important both quantity and quality of sleep is to our health. 这些研究表明睡眠的质量和时间对健康有重要的影响。 
+
+- 8. Not a single scientific study has found a link between vaccines and autism. 没有科学研究发现疫苗和自闭症之间有关联。
+
+# 7.geographically /ˌʤiəˈgræfɪkəli/ 地理上、地域上地 & demographic /ˌdeməˈɡræfɪk/ 人口群体 & segments /ˈsegmənts/ 部分、群体 
+
+
+
+
+
+
+
+
 
 # IV.pattern
 ***So it looks like we're all on, but can you guys hear me? I just want to make sure we have a stable connection before we get started. Cassandra, Randy, we all good?***
