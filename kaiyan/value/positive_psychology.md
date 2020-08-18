@@ -9,8 +9,24 @@
 
 > Often, there are things in life, which are not the way we want them to be. And that could create challenges and frustrations. But a small change in perception and approach could lead to a positive change in how we see and deal with challenges in the future. Morning is a wonderful time to create a new approach on how we see the world.It's like New Year's Day each morning: the ability to think anew /ə'nʊ/ [adv.再,重新].So start every day with positive and grateful thoughts.
 
-# III.grammar
-# 1. positive
+# III.5 habits of happy people
+# 1.Acts of kindness
+> People who consistently volunteer or simply care for others are found to be happier. You don't need to volunteer in an organization. It can be as simple as reaching out to a coworker or friend who needs a helping hand.
+
+# 2.Exercise and physical well-being
+> Many studies are proving the ancient adage, "sound body, sound mind" to be true.Regular exercise can improve mental well-being and help combat depression.
+
+# 3.Find your flow
+>  If we are deeply involved in an activity that’s challenging but well-suited to our skills, we experience a joyful state called "flow."Many kinds of activities, such as sports and learning can produce the experience of flow where you are so deeply immersed in the experience that you forget about everything else.
+
+# 4.Strengths and virtues
+>  Studies in the field of positive psychology show that the happiest people are those that have discovered their unique strengths and virtues and use them for a purpose that’s greater than their own personal goals.
+
+# 5.Positive mindset
+> Optimism, mindfulness and gratitude. Of all these areas, gratitude has perhaps received the most attention in positive psychology.Grateful people have been shown to have greater positive emotion, a greater sense of belonging, and lower incidence of depression and stress.
+
+# IV.grammar
+# 1. positive & positive psychology [phr.正向心理学、积极心理学] & depression /dɪˈpreʃən/ [抑郁]
 > 1) It contains the Latin root, "posit," which means "placed,"[安置] so it originally referred to laws as being "laid down" firmly without question[毫无疑义], leading to the eventual /ɪˈvɛntʃuəl/ [adj.(事件)最终发生的] meaning of "very sure." So, if someone asks you, "Are you sure?", you can reply, "Positive."
 
 > 2)positive : mean "good" and "optimistic."
@@ -23,8 +39,10 @@
 
 - 4. After our client gave us positive feedback, we began building the prototype /'protə'taɪp/ [n.原型]. 
 
+> 3)
+
 # 2.conscious [adj.意识到，有意识的] & unconscious /ʌn'kɑnʃəs/ [adj.失去知觉的] & subconscious /ˌsʌb'kɑnʃəs/ [adj.下意识、潜意识的] & consciously [adv.]
-> 1)Conscious means that you're actually aware or you are actually, you know, doing something on purpose.basically "conscious" means that, yeah, like you said, aware.
+> 1)conscious means that you're actually aware or you are actually, you know, doing something on purpose.basically "conscious" means that, yeah, like you said, aware.
 
 > 2)unconscious is asleep[adj.睡着的、麻木的].or like being knocked out.If you're in a boxing match. Someone hits you in the head too many times.
 
@@ -40,20 +58,62 @@
 
 > 2)"anew" is just an adverb that we use to say, you know, start thinking in a new way.have fresh new wonderful thoughts.And even just going back to that New Year's idea, like the idea, that on January 1st. You can begin life anew.
 
-# 5.gratitude [n.] & grateful [adj.] & appreciate & unfulfilled [adj.没有成就感的] & unappreciate [adj.不被赏识的] & appreciative [adj.感恩的、珍惜的] & grateful [adj.感激的]
-> 1)so gratitude has a close relative, which is "grateful." You can say, "I am grateful," "she is grateful," "we are all grateful." But the noun "gratitude," like Johnny says, we usually show it or express it.
+# 5.verbs realted thankful
+## 1)gratitude /ˈɡrætətuːd/ [感恩] 
+> 1)But the noun "gratitude," we usually show it or express it. 
 
-> 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress, though, is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
+> 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
-> 3)unappreciated, it just means that you feel like nobody has given you any recognition.
+## 2）grateful [adj.感激的] 
+> "grateful" is more like for some bigger things.You can say, "I am grateful," "she is grateful," "we are all grateful." For example, you could say I was really grateful for the way my parents raised me.I think maybe "grateful" is a little more appreciative than "appreciative".but it wouldn't be something you would say, like to someone, like if Spencer helped me at work. I wouldn't say I'm grateful. it would sound kind of strange.
 
-> 4)unfulfilled, yeah, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be, a lot, lot of different things could leave you feeling unfulfilled.
+## 3)appreciate & appreciative [adj.感恩的、珍惜的] 
+>  it's much more common to use it in another form, "appreciate". Like if you're actually telling something, for example, Spencer wasn't supposed to come in today, he did come in today. hopefully, someone says: "Thanks man, I appreciate it."
 
-> 5)To be appreciative, grateful or thankful.Of course we use this word but it's much more common to use it in another form, "appreciate". Like if you're actually telling something, like, for example, Spencer wasn't supposed to come in today, he did come in today. So, hopefully, someone says: "Thanks man, I appreciate it."
+## 4)unappreciate [adj.不被赏识的]
+> it just means that you feel like nobody has given you any recognition.
 
-> 6)I think maybe "grateful" is a little more appreciative than "appreciative".but it wouldn't be something you would say, like to someone, like if, you know, Spencer helped me at work. I wouldn't say I'm grateful. You know, it would sound kind of strange."grateful" is more like for some bigger things.So for example, the one we just used, you could say "oh, I'm appreciative", you know, "I appreciate that you came in for work today". But you could say, you know, I was really grateful for the way my parents raised me.
+## 5)unfulfilled [adj.没有成就感的]
+> unfulfilled, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be a of different things could leave you feeling unfulfilled.
+
+# 6.volunteer 
+## 1)reaching out 关怀 
+
+## 2)well-being 健康；安乐 
+
+## 3）sound /saʊnd/ 健康的、良好的
 
 
+## 4)virtues /ˈvɝːtʃuːz/ 美德; 优点
+- 1. The value of specific virtues vary depending on where in the world you are. 不同美德的价值有所差异，要取决于你在世界什么地方。
+
+- 2. Patience, kindness, compassion, and humility are just a few of the many virtues. 耐心、善心、同情心和谦虚只是很多美德中的几个。
+
+- 3. Mother Teresa was a charitable and virtuous person, devoting her life to helping the poor. 特蕾莎修女仁慈、善良，将自己的一生都奉献给帮助穷人上。
+
+
+## 5)consistently 
+
+## 6)mindfulness /ˈmaɪndfəlnəs/ 留心、有意识
+- 1. If you practice mindfulness, you will witness so many moments that often go unnoticed. 如果你训练自己留意生活，你会经历很多平时被忽略的美好瞬间。 
+
+- 2. This is a natural underground cave, so be mindful of your head. 这是一个地下洞穴，小心别碰头。 
+
+- 3. Living mindfully requires awareness of your surroundings and being present. 用心生活需要你留意周围、感受当下。
+
+## 7)adage /ˈædəʤ/ 谚语，格言 
+
+# 7.combat /kəmˈbæt/ 抵抗、做斗争  
+- 1. Every war in history has resulted in countless soldiers killed in combat. 历史上所有的战争最终都导致战场上的无数死伤。 
+
+- 2. My grandfather was a soldier in WWII, but because he was an engineer, he never saw combat. 我祖父参加过二战，但因为他是工程师，所以从来没见过战地。 
+
+- 3. How can we better combat political corruption? 我们如何能更好地与政治腐败作斗争？
+
+
+# 8.immersed /ɪˈmɜrst/ 沉浸  
+
+# 9.incidence /ˈɪnsədəns/ 发生率
 
 
 
