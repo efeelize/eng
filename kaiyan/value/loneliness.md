@@ -1,8 +1,18 @@
 # loneliness
-# I.
+# I.4 tips for how to deal with lonliness
+> Have you ever felt all alone in the world? When you're going through a difficult time and feel that there's no one to turn to for support, it's hard to know what to do. Below are some suggested methods to deal with loneliness:
 
+# 1.accpet that loneliness is normal
+> If you're looking for an answer on how to cure loneliness in your own life, just realize there are millions of others feeling the same way. 
 
+# 2.recognize the effects of loneliness so you can combat them
+> Loneliness can be felt. Studies show that being lonely can make you feel colder than those around you, can increase cholesterol and blood pressure [会导致胆固醇和血压升高], and can even stop your immune system from functioning properly [让你的免疫系统无法正常运行]. 
 
+# 3.seek professional help
+> Meeting with a mental health professional is one of the most helpful steps you can take. A therapist can help you explore the factors behind your feelings. 
+
+# 4.nurture existing relationships
+> By nurturing the relationships you already have [增进已经拥有的关系], you can put yourself on a path to overcoming loneliness [你可以逐渐克服孤独]. here are some ideas for connecting again:Schedule time each day (or week) to call or visit a friend;Invite someone out for lunch.
 
 # II.grammar
 # 1.how do you/I even begin to...  & I don't even know where to start...
@@ -31,7 +41,7 @@
 
 # 5.quantify /ˈkwɑːntəfaɪ/ 量化 
 
-# 6.takes a toll /teɪks ə toʊl/ 造成损失、造成伤害 
+# 6.takes a toll /toʊl/ 造成损失、造成伤害 
 
 
 # 7.accelerated /əkˈselɚeɪtɪd/ 加速的；加快的 

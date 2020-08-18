@@ -4,6 +4,12 @@
 
 > There have been countless studies[无数科学研究证明了] showing the many benefits of practising gratitude on mental health[感恩的心态]. It improves the emotional, social, health, personality, and even career aspects of our lives. 
 
+> As we mentioned in the lesson, positive psychology is the newest branch in the broad field of psychology, and it's receiving so much attention in the media lately perhaps because it focuses on the opposite of what psychology traditionally concerned itself with [它的关注方面跟传统心理学完全相反]. Positive psychology concentrates on the positive aspects of life, like happiness and well-being, and personal growth, such as increasing one's potential, rather than eliminating shortcomings [克服缺点].
+
+> Of course, it has its fair share of critics. Some think it lacks credibility due to its relative infancy [刚诞生]. Others think it's all about "happyology" and thinking positively [幸福学和积极思考], like a self-help book [鸡汤励志书] backed by some pseudo-science. Of course positive psychology isn't just about increasing happiness, although that is what attracts a lot of people to the subject [不全是提升幸福感，尽管这方面吸引了很多人。]. The findings cited in papers are based on actual studies [基于科学研究和实验的结果] that were conducted in scientific and measurable ways; they're not just a collection of anecdotal evidence.[不仅是一些奇闻轶事]
+
+> Either way, gratitude has been identified in study after study as providing a host of benefits to every aspect of one's life [感激心理对生活的很多方面都有好处]. Practicing gratitude improves your health, your relationships, your emotional well-being, your personality, and your career. As with any habit, cultivating it takes time [培养感激需要时间], but all you have to do is set out five minutes of your day [花五分钟] and dedicate it to writing down what you are thankful for.[把自己认为需要感谢的人和事写下来] 
+
 # II.Start your day with a positive mind
 > When we wake up each morning, we often start our day without much conscious /'kɑnʃəs/ [adj.神志清醒的] thought about how we are feeling and what our intentions are for the day.What if, instead, we took a few minutes to consciously think about the day ahead of us? Start the day by being appreciative and grateful for what the world has to offer and what we have in our own lives.
 
