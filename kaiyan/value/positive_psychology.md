@@ -32,10 +32,12 @@
 > Optimism, mindfulness and gratitude. Of all these areas, gratitude has perhaps received the most attention in positive psychology.Grateful people have been shown to have greater positive emotion, a greater sense of belonging, and lower incidence of depression and stress.
 
 # IV.grammar
-# 1. positive & positive psychology [phr.正向心理学、积极心理学] & depression /dɪˈpreʃən/ [抑郁]
-> 1) It contains the Latin root, "posit," which means "placed,"[安置] so it originally referred to laws as being "laid down" firmly without question[毫无疑义], leading to the eventual /ɪˈvɛntʃuəl/ [adj.(事件)最终发生的] meaning of "very sure." So, if someone asks you, "Are you sure?", you can reply, "Positive."
+# 1. positive psychology [phr.正向心理学、积极心理学] & depression /dɪˈpreʃən/ [抑郁]
+> 1) "positive" contains the Latin root, "posit," which means "placed,"[安置] so it originally referred to laws as being "laid down" firmly without question[毫无疑义], leading to the eventual /ɪˈvɛntʃuəl/ [adj.(事件)最终发生的] meaning of "very sure." So, if someone asks you, "Are you sure?", you can reply, "Positive."
 
-> 2)positive : mean "good" and "optimistic."
+> 2)positive : mean "good" and "optimistic."So positive psychology is one branch within the whole huge of science of psychology. And basically what it is is that you focus on enhancing your life. So you focus on the positive aspects versus all the mental illnesses that people associate with psychology.
+
+> 3)clinical depression is pretty serious.It is a condition that you can be diagnosed with. And if it's serious enough, then you might even be prescribed drugs.
 
 - 1. Are you positive [确定] you wired /waɪrd/ [转账] the landlord [房东] the security deposit [押金] last week? 
 
@@ -56,8 +58,10 @@
 
 > 4)consciously is when you're conscious about something, you're consciously thinking about something. You pretty much.that's doing something on purpose.
 
-# 3.perception [n.看法、概念]
-> Perception is how you see or hear or...To have perception or, you know, how you see something is also how you perceive /pɚ'siv/ [vt.察觉,感觉] something.
+# 3.perception [n.看法、概念] & mindset [n.心态，倾向]
+> 1）Perception is how you see or hear or...To have perception or, you know, how you see something is also how you perceive /pɚ'siv/ [vt.察觉,感觉] something.
+
+> 2)so a mindset is basically your set of beliefs and attitudes.you could have a positive or negative mindset.
 
 # 4.turn over a new leaf [重新开始] & anew [adv.重新]
 > 1）turn over a new leaf means to, basically, make a change for the better.
@@ -66,12 +70,14 @@
 
 # 5.verbs realted thankful
 ## 1)gratitude /ˈɡrætətuːd/ [感恩] 
-> 1)But the noun "gratitude," we usually show it or express it. 
+> 1)the noun "gratitude," we usually show it or express it. 
 
 > 2)if you show gratitude, you're showing that person how happy, how appreciative you are.One thing we really want to stress is that when you're saying this, you need to say what you are so appreciative of. So you can't just say, "I appreciate." You need to say either, "I appreciate the bonus. I appreciate your generosity" or just simply, "I appreciate it."
 
 ## 2）grateful [adj.感激的] 
-> "grateful" is more like for some bigger things.You can say, "I am grateful," "she is grateful," "we are all grateful." For example, you could say I was really grateful for the way my parents raised me.I think maybe "grateful" is a little more appreciative than "appreciative".but it wouldn't be something you would say, like to someone, like if Spencer helped me at work. I wouldn't say I'm grateful. it would sound kind of strange.
+> 1)"grateful" is more like for some bigger things.You can say, "I am grateful," "she is grateful," "we are all grateful." For example, you could say I was really grateful for the way my parents raised me.I think maybe "grateful" is a little more appreciative than "appreciative".but it wouldn't be something you would say, like to someone, like if Spencer helped me at work. I wouldn't say I'm grateful. it would sound kind of strange.
+
+> 2)So grateful people, they've been shown to have greater positive emotion, a greater sense of belonging and, perhaps, most importantly, a lower incidence of depression and stress.
 
 ## 3)appreciate & appreciative [adj.感恩的、珍惜的] 
 >  it's much more common to use it in another form, "appreciate". Like if you're actually telling something, for example, Spencer wasn't supposed to come in today, he did come in today. hopefully, someone says: "Thanks man, I appreciate it."
@@ -83,43 +89,67 @@
 > unfulfilled, you just feel like you're not getting enough of something. So this could be recognition, could be free time, could be a of different things could leave you feeling unfulfilled.
 
 # 6.volunteer 
-## 1)reaching out 关怀 
+## 1)reaching out [phr.关怀]
+> So when you're reaching out, you can imagine, you know, like putting your hand out and just helping somebody.The thing about these people is they might not be the people who are asking for help.
 
 ## 2)well-being 健康；安乐 
+> so basically it is your state of being well.
 
 ## 3）sound /saʊnd/ 健康的、良好的
 
+## 4)virtues /ˈvɝːtʃuːz/ [n.美德; 优点] & virtuous [adj.善良的，有道德的]
+> 1）so a virtue is generally agreed upon good quality.it's going to depend on where you live. Now some of the virtues I tend to think of are patience, kindness, compassion,humility [n.谦虚].
 
-## 4)virtues /ˈvɝːtʃuːz/ 美德; 优点
+> 2)I think many people will think of one person in particular when they think of a very virtuous person. For example, I think of Mother Teresa.she helped a lot of people, charity is a virtue, patience is a virtue.to me,she is like the epitome /ɪ'pɪtəmi/ [n.象征] of a virtuous person.
+
 - 1. The value of specific virtues vary depending on where in the world you are. 不同美德的价值有所差异，要取决于你在世界什么地方。
 
 - 2. Patience, kindness, compassion, and humility are just a few of the many virtues. 耐心、善心、同情心和谦虚只是很多美德中的几个。
 
 - 3. Mother Teresa was a charitable and virtuous person, devoting her life to helping the poor. 特蕾莎修女仁慈、善良，将自己的一生都奉献给帮助穷人上。
 
+## 5)consistently [adv.坚持、持续]
+> Consistently" usually kind of means like there's some kind of routine or it's like a schedule.
 
-## 5)consistently 
+## 6)mindfulness /ˈmaɪndfəlnəs/ [n.留心、有意识] & mindful [adj.] & thoughtful [adj.深思的，体贴的]
+> 1）so mindfulness is being aware and also living in the present moment.
 
-## 6)mindfulness /ˈmaɪndfəlnəs/ 留心、有意识
 - 1. If you practice mindfulness, you will witness so many moments that often go unnoticed. 如果你训练自己留意生活，你会经历很多平时被忽略的美好瞬间。 
 
 - 2. This is a natural underground cave, so be mindful of your head. 这是一个地下洞穴，小心别碰头。 
 
 - 3. Living mindfully requires awareness of your surroundings and being present. 用心生活需要你留意周围、感受当下。
 
-## 7)adage /ˈædəʤ/ 谚语，格言 
+> 2)And just being aware that there're other people around and there's a planet that you live on, you just need to be, you can show mindfulness, you can have mindfulness, of course, you can show mindfulness or just be mindful.
 
-# 7.combat /kəmˈbæt/ 抵抗、做斗争  
+> 3)thoughtful is a little bit more like considerate.
+
+## 7)adage /ˈædəʤ/ & proverb /'prɑvɝb/ [谚语，格言]
+> 1)so an adage is basically an old saying,like truth about sth,maybe a proverb.they are not based on science,or any kind of religious experience,it's just things that used to say a long time ago.
+
+> 2)one more thing to note about an adage is that it's usually short,and it's so short that sometimes it's not even a complete sentence on its own."Sound body,sound mind " is knid of a pharse.
+
+# 7.combat /kəmˈbæt/ [v.抵抗、做斗争]
+> 1)So the first thing I think of when I see this word is war. for example, the soldiers were killed in combat.you usually say "in combat". you might even say like "seeing combat". 
+
+> 2)Now other times we use this as a synonym for fight, but in a more like a serious way.it's usually government programs. Like, they always use this, you know, like war language, "We're gonna combat poverty. ", "We're gonna combat aids. ".we're gonna combat obesity.
+
 - 1. Every war in history has resulted in countless soldiers killed in combat. 历史上所有的战争最终都导致战场上的无数死伤。 
 
 - 2. My grandfather was a soldier in WWII, but because he was an engineer, he never saw combat. 我祖父参加过二战，但因为他是工程师，所以从来没见过战地。 
 
 - 3. How can we better combat political corruption? 我们如何能更好地与政治腐败作斗争？
 
+# 8.immersed /ɪˈmɜrst/ [v.沉浸]
+> It's just kind of like completely inside something.cmpletely surrounded by,So in this case, you are running or you are painting, or playing the violin and you just got the flow. And then you just forget, you know, about everything else. All those bad things.
 
-# 8.immersed /ɪˈmɜrst/ 沉浸  
+# 9.incidence of sth /ˈɪnsədəns/ [n.发生率] & occurrences of & incidents /'ɪnsɪd(ə)nt/ [n.事件]
+> 1）it basically like how often it happens.this is a rate.
 
-# 9.incidence /ˈɪnsədəns/ 发生率
+> 2)incidence, incidents, the pronunciation is exactly the same. But usually we'd say, like an incident. Like something happened, or you could say, you know, many incidents. 
+
+# 10.find your flow 
+> so flow here is basically a state you are in when you are totally in the zone.
 
 
 
