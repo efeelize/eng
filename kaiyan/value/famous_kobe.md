@@ -1,8 +1,14 @@
 # famous_people_Kobe Bryant
-# I.
+# I.A look at Kobe's life on and off the court
+> Kobe Bryant, the six-foot-six [6英尺6英寸（约1.98米）] shooting guard [得分后卫] was one of the most dominant players on the court in NBA history, racking up [狂揽] five NBA titles [NBA总冠军], a record 18 straight All-Star Game [全明星阵容] selections and four All-Star Game MVP Awards [四次全明星赛MVP].
 
+> Bryant was born in 1978 in Philadelphia but spent much of his childhood in Italy, where his father, Joe "Jellybean" Bryant, played professional basketball. He entered the NBA Draft straight from high school at 17 years old [17岁的科比还在上高中，就直接进入了NBA选秀], at the time only the second player to make the jump over the previous 20 years [成为此前二十年间，第二位完成这种跨越的球员], joining Kevin Garnett.
 
+> A 21-year-old Bryant landed on [登上] the cover of Forbes in 2000, armed with [签署了] a new six-year, $71 million playing contract and endorsement /ɪn'dɔrsmənt/ [代言] deals with Adidas, Mattel, Sprite, Spalding and Giorgio Armani.
 
+> Bryant retired in 2016 with $680 million in total earnings from playing salary [球队薪水] and endorsements [代言]. It was the highest total ever recorded by a team athlete during their playing career.
+
+> Bryant regularly talked about his love of storytelling and relished /'rɛlɪʃ/ [] that role in his post-NBA career, with ad campaigns for BodyArmor, a series of young adult books [青少年系列书籍] and his animated short film Dear Basketball[《亲爱的篮球》], which won an Oscar in 2018.
 
 # II.grammar
 # 1.given enough time
@@ -13,8 +19,6 @@
 - 2. Given enough resources, I'm sure the team will come up with a solution. [如果有足够的资源，我肯定这个团队可以想出解决方案] 
 
 - 3. Given enough education and opportunity, I'm sure they will succeed. [如果他们可以受到充分的教育，获得足够的机会，我肯定他们会成功]
-
-
 
 # 2.basketball
 ## 1)shooting guard /ˈʃuːtɪŋ ɡɑːrd/ 得分后卫 

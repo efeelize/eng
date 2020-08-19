@@ -1,7 +1,20 @@
 # workout_mistake
-# I.
+# I.Optimal work-out routines for Newbies
+> Since it's the beginning of the year, many of us are trying to get into shape and pick up some new exercise habits. We talked to our very own Spencer about what makes an optimal workout routine for those of us who are just getting started.
 
+# 1.Workout do's
+> First and foremost, its important that you are working out more days in the week than not. This isn't always easy, but it will help you see results faster.
 
+> Try to do something different everytime you go, which will allow your muscles to rest.
+
+> Within no time, you'll find that you've developed a routine.
+
+# 2.Workout don'ts
+> Two things you really want to avoid are overexerting yourself and imbalances [用力过度、不均衡]. You don't have to lift the heaviest weight in order to get a good workout. If you're too tired, you won't be able to exercise at all!
+
+> Along similar lines, make sure that you are always balancing the different muscle groups [肌肉群]. One muscle group might get strong, but because you don't exercise the other, that one will remain weak. This kind of imbalances will more likely lead to injuries or looking strange.
+
+> In addition, our muscles are also connected. Exercising other muscle groups will also help you achieve the optimal results. 
 
 # II.top 5 workout mistakes
 # 1. Doing cardio the wrong way
@@ -19,7 +32,6 @@
 # 5. Relying on a scale to track your progress
 >  Don't get obsessed with weight. Did you know that muscle weighs more than fat?Women also fluctuate up to 10 pounds of water weight.Body fat measurements and waist size are more reliable signs of fat loss.
 
-
 # III.grammar
 # 1.when it comes to/regarding/as to [phr.提及、谈到]
 > 1)“when it comes to” is another way of saying “regarding”, or “as to” something. 
@@ -34,8 +46,6 @@
 
 - 3. When it comes to renting or buying, you'll spend about the same amount. [说到租房或买房，好像付出的钱差不多]
  
-
-
 
 
 # 2.workout
