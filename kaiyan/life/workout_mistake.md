@@ -59,7 +59,10 @@
 > The opposite of cardio is like anaerobic. 
 
 # 3.body
-## 1)tone /toʊn/ [肌肉线条]
+## 1)tone /toʊn/ [n.肌肉线条,音调,语气]
+> 1）if you want to lose weight or build muscle tone, running won't help you as much. Instead, focus more on weight training.muscle tone is kind of like the lines.it means that your muscles are clearly visible.f you have low body fat and define big muscles, you have a lot of muscle tone.
+
+> 2)tone here can also be the tones in the Chinese language. It's a different tone, that's like a musical tone. 
 
 ## 2)ripped /rɪpt/ [壮实] 
 
@@ -67,8 +70,7 @@
 
 ## 4)joints /ʤɔɪnts/ [关节]
 
-
-# 4.impact /ˈɪmpækt/ 影响、效果 
+# 4.impact /ˈɪmpækt/ [n & v.影响、效果] 
 ## 1)optimal /ˈɑptəməl/ [adj.最佳的] & optimize [v.]
 > 1)Optimal so you might think about like economists always think about an optimal price for something, an optimal body fat percentage,an optimal weight, like a doctor will tell you what your optimal weight will be.
 
@@ -80,7 +82,8 @@
 
 > 2)Usually optimize as a verb. economics, it comes up a lot and it might also come up in electronics. You need to optimize, your system in some way.
 
-## 2)fluctuate /ˈflʌkʧəˌweɪt/ [波动] & delicate /ˈdɛləkət/ [微妙的]
+## 2)fluctuate /ˈflʌkʧəˌweɪt/ [v.波动] & fluctuation [n.]
+> Up and down but not in any select sort of orderly sense, Kind of randomly, irregularly.so the economy/price/population/profit can fluctuate.
 
 - 1. In general terms, the income of the workers will fluctuate with the profits of the company. [通常来讲，员工收入会随着公司利润波动] 
 
@@ -88,28 +91,49 @@
 
 - 3. You shouldn't get angry with your daughter. Extreme fluctuations in mood are normal for teenagers. [你别跟你女儿生气。青少年情绪极度波动是正常的]
 
-## 3)exert /ɪgˈzɜrt/ [尽力、竭尽所能]
+## 3)exert yourself.[v.尽力、竭尽所能] & exert force/control over sb & overexert
+> 1)when we're talking about exerting yourself, it's almost always about exercise.Push yourself, force yourself..it's kind like push exhausts /ɪɡ'zɔst/. exert yourself is use energy on yourself.
 
-- 1. Why do so many people have such a strong need to exert control over others? [为什么那么多人特别想对别人施加控制呢？] 
+> 2)but we're usually talking about things like control. Exert control over someone, exert force over someone, exert authority. 
+
+> 3)overexert:it could be learning something to like you spend a lot of time work, at work, at school, taking care of a family that you have a lot of stuff. You say, oh man, he's really overexerting himself.
+
+- 1. Why do so many people have such a strong need to exert control over others? [为什么那么多人特别想对别人施加控制呢？]
 
 - 2. When I first started teaching, one of the hardest things for me was learning how to exert authority over the class. [我刚开始当老师的时候，最难的事情之一就是学会如何在学生面前树立威信] 
 
 - 3. I'm really worried about my husband: He's been overexerting himself so much lately. [我真的很担心我的丈夫：他最近太拼了]
 
-## 4)reps /rɛps/ [重复次数] & repetitions /ˌrɛpəˈtɪʃənz/ [重复]
+## 4)reps /rɛps/ [n.重复] & repetitions /ˌrɛpəˈtɪʃənz/ [n.] & repetitive [adj.]
+> usually you do a set.a set of however many reps.5 reps,10 reps,20 reps.
 
 ## 5)overtrain [训练过度] & overindulge [放纵、享受过度]
+> 1）overtrain：Sometimes you can't do too much and it's not going to provide the results that you want for your body. So you don't want to overtrain.if you overtrain, your body will lock up and not allow you to burn fat. You want to train enough to blast fat and not hit a plateau.
 
-## 6)plateau /plæˈtoʊ/ [瓶颈期；停滞期]
+## 6)hit/break a plateau /plæˈtoʊ/ [瓶颈期；停滞期] & bottleneck 
+> 1)so plateau means like you go up you go up, and then you get to a place where even though you're high, you're not getting any higher. You just flat. It's just flat, so it actually comes from the term like a mountain plateau, So you can climb a mountain and then you find this place on the mountain where, "Hey it's really flat. We're high up. We're not getting any higher."
 
-## 7)blast /blæst/ [攻击、轰炸]
+> 2)so this plateau here basically means you've made a lot of progress, but you're not making any more, yeah. So it's kind of hard to break through plateaus sometime. 
 
-## 8)scale /skeɪl/ [磅秤]
+> 3)We usually talk about it in terms of language learning.Like I mean and you guys in Chinese you always want to say a bottleneck. We don't really use this phrase bottleneck so much as we used hit a plateau.
+
+## 7)blast /blæst/ [v.攻击、轰炸]
+> usually we talk about like burning fat. What's probably the most common is this exercise burns calories, it burns fat, but we like talking about blast because it sounds like a gun.like you're really getting rid of it.
+
+## 8)scale /skeɪl/ [n.磅秤]
 
 ## 9)indicator /ˈɪndəˌkeɪtər/ [指标]
 
+## 10）fit & fitness [n.健康，适当性]
+> if you are fit,you have a high fitness level.it's in shape,we could also say.
 
-# 5. rhyme or reason [phr.逻辑 (俚语）]
+# 5.rhyme /raɪm/ or reason [phr.逻辑 (俚语）]
+> when I first started, I didn't necessarily have rhyme or reason to what I was doing. I just did what I wanted to do and it wasn't necessarily  the most effective.I eventually learned what was better for me and I'm still learning, you know, you learn all the time.it's nice to have someone guide you, but just be careful of who is guiding you. Because I've met a lot of trainers that just want to make some money and they're really not good trainers.
+
+# 6.be/get obsessed with sth & sb have/has an obsession with st. & OCD
+> OCD is Obsessive Compulsive Disorders.
+
+
 
 
 
