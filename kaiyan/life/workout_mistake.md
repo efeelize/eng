@@ -46,15 +46,17 @@
 
 - 3. When it comes to renting or buying, you'll spend about the same amount. [说到租房或买房，好像付出的钱差不多]
  
-
-
 # 2.workout
-## 1)cardio /ˈkɑrdioʊ/ [有氧运动] & aerobic /ɛˈroʊbɪk/ [有氧的]
+## 1)cardio /ˈkɑrdioʊ/ [有氧运动] / cardiovascular /ˌkɑrdioʊˈvæskjələr/ [心血管的]
+> 1)cardio is short for cardiovascular.cardio is usually an exercise that you do for, somewhat extended period of time.
 
-## 2)anaerobic /ˌænəˈroʊbɪk/ [无氧的]
+> 2)cardiovascular exercise. This to a lot of you people is running, biking, swimming,jump rope...it's things that get your heart beating.
 
-## 3)cardiovascular /ˌkɑrdioʊˈvæskjələr/ [心血管的]
+## 2）aerobic /ɛˈroʊbɪk/ [有氧的]
+> Cardio is also called aerobic. so anaerobic would would be things like weight lifting where you do it for short period of time.
 
+## 3)anaerobic /ˌænəˈroʊbɪk/ [无氧的]
+> The opposite of cardio is like anaerobic. 
 
 # 3.body
 ## 1)tone /toʊn/ [肌肉线条]
@@ -67,13 +69,16 @@
 
 
 # 4.impact /ˈɪmpækt/ 影响、效果 
-## 1)optimal /ˈɑptəməl/ [最佳的] 
+## 1)optimal /ˈɑptəməl/ [adj.最佳的] & optimize [v.]
+> 1)Optimal so you might think about like economists always think about an optimal price for something, an optimal body fat percentage,an optimal weight, like a doctor will tell you what your optimal weight will be.
 
 - 1. She has been doing research into the optimal temperature for marathons. [她一直在研究马拉松赛跑的最佳气温]
 
 - 2. I think the website still looks good, but you might want to consider optimizing it for mobile. [我觉得网站看起来不错，但你可能要考虑如何为移动端优化] 
 
 - 3. My doctor told me that I have the optimal blood pressure for a guy my age. [医生告诉我对我这个年龄的人来说，我的血压处于最健康的水平]
+
+> 2)Usually optimize as a verb. economics, it comes up a lot and it might also come up in electronics. You need to optimize, your system in some way.
 
 ## 2)fluctuate /ˈflʌkʧəˌweɪt/ [波动] & delicate /ˈdɛləkət/ [微妙的]
 
