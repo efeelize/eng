@@ -1,13 +1,31 @@
-# streaming_service
-# I.
+# Streaming_service & podcast
 
+# I.the best podcasts to listen to right now.
+# 1.News & Politics
+> Opinion columnists [专栏作家] David Leonhardt, Michelle Goldberg and Ross Douthat debate every week on a different, timely topic [当下话题]. Though some stances /stɑ:ns/ [观点] will surely infuriate /ɪn'fjʊrɪet/ [激怒] listeners, everyone will learn how the other side thinks.
 
+# 2.Interview
+> The premise is simple: Comedian Chris Gethard talks on the phone to an anonymous listener for one hour. In each episode, Gethard offers a master class in empathy [展现强大的共情能力]. He subtly encourages callers to share more details about their lives while remaining respectful of their privacy. 
 
+# 3.Culture
+> If you care about the Oscars, you should probably be listening to Little Gold Men. The podcast runs throughout the year [全年无休], recording dispatches /dɪ'spætʃ/ from film festivals [各大电影节的报道] and focusing on television during Emmy season [艾美奖颁奖季]. 
 
-# II.
+# 4.History
+> Journalists Michael Hobbes and Sarah Marshall revisit major moments [重要时刻] in history and in a conversational tone [对话的形式], dispel /dɪ'spɛl/ [vt.驱散,赶跑] misinformation surrounding those figures and events. Each episode alternates between who does the research and who plays the layperson peppering the other host with questions. 
 
+# II.the streaming media wars:a win for consumers
+# 1.More Content Than Ever Before
+> Over-the-top (OTT) streaming [OTT传输] and all those binge-watching sessions are only possible because of advancements in the transcoding /træns'kəud/ [内容转码], delivery and playback of content [回放]. Consumers are generally no longer forced to pay sky-high [高昂] cable prices [有线电视费用] for preset programming schedules. Ultimately, people can now choose the types of services that are right for them [适合自己] and prioritize [优先选择] the content they care about based on their budget.
 
+# 2.More Ad-Free And Ad-Supported Options 
+> There is more brilliant original ad-free programming [更多精彩的原创无广告节目] than ever before, as each content house works to produce quality entertainment [高质量娱乐节目], giving us all something to get excited about.
 
+> This is great for consumers, but ad-supported content [广告支持内容] is a win for content providers [内容提供商] and advertisers as well, enabling them to better target consumers with relevant ads [投放相关广告] provided by measurable access to demographic criteria [定量统计的人口指标].
+
+# 3.The Experience Is Getting Better, Too
+> Even hardware makers [硬件制造商] are playing a role in improving the consumer entertainment experience, with companies like Roku, NVIDIA, Apple, Amazon and more working to bring consumers an elegant new media experience through living room devices [客厅设备] that make accessing each service easier. 
+
+> While other advancements like data aggregation [数据聚合] or transcoding [转码] and delivery [传输] are behind the scenes [隐藏于幕后], it's this type of technology innovation that continues to make the overall streaming experience shine [更加出众] in the living room.
 
 # III.grammar
 # 1.compound adjectives [复合形容词]
@@ -18,7 +36,6 @@
 ## 2)youth-focused 以青少年为主的 
 
 ## 3)data-driven 数据驱动的 
-
 
 - We're looking to create a youth-focused, skill-based app. [我们正在计划开发一款以青少年为主的、基于技能的应用软件。]
 

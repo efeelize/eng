@@ -1,7 +1,16 @@
-# Be_funny
-# I.
+# Be_funny_at_a_presentation
 
+# I.how to spice up a presentation
+> If you want to be remembered and actually get people engaged, you need to make your presentation fun and enjoyable. Let’s look at some important aspects of giving a memorable and fun presentation.
 
+# 1. Open up with a good ice-breaker
+> To get some emotional response out of the audience right at the beginning, you can make a small, self-deprecating comment. You can also use sarcasm, open up with a short childhood story that taught you a lesson, quote a famous person and elaborate on it from personal experience [根据个人经历加以阐述]. 
+
+# 2. Use a healthy dose of humor
+> Some of the best speeches and presentations in the world all feature plenty of humor. No matter the subject, a great speaker will use natural charisma [n.魅力], humor and beautiful language [华丽辞藻] to convey their points and get the crowd [听众] excited about what they are saying. 
+
+# 3. Engage the audience by making them relate [引起观众共鸣]
+> Make comparisons to events from everyday life that most people are familiar with. In this way, you can help the audience understand the subject better and also draw a connection between you and your audience.[拉近你和观众之间的距离]
 
 # II.grammar
 # 1.while you're at it/“while you're doing that & doing that/it.
@@ -9,15 +18,11 @@
 
 > 2)“At it” can also be used on its own to simply say, “doing that/it.” For example, “I’ve been working on this paragraph for an hour and I’m still at it.”
 
-
 - 1. Maybe you could make a joke about a mistake that you made. And while you're at it, talk about how it inspired you to come up with this new idea. [或许你可以拿你犯的一个错误开个玩笑。这样做的时候，可以谈一下这件事是如何启发你想出这个新想法的] 
 
 - 2. Could you grab some beer from the basement? Oh, and while you're at it, could you get the wine too? [你能从地库拿点啤酒来吗？对了，拿的时候，能也顺便带些红酒过来吗?] 
 
 - 3. I thought it would take him 10 minutes to fix the problem, but he was at it for over an hour! [我原以为他只需要花10分钟来解决这个问题，但他却弄了一个多小时!]
-
-
-
 
 # 2.humor
 ## 1)spice up [phr.增添趣味]
