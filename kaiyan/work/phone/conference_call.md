@@ -30,16 +30,16 @@
 > More commonly used for personal video calls among friends looking to catch up with one another [更常用于朋友之间的个人视频通话], Facebook Messenger offers texting, calling and video calling functions offers to Facebook users.
 
 # III.grammar
-# 1.next...over...
-> The next...over grammatical pattern is commonly used in colloquial English to refer to a person, place or thing, that is adjacent, or relatively close, to something else.
+# 1.next...over... & next room over [n.旁边房间]
+> it is commonly used in colloquial English to refer to a person, place or thing, that is adjacent, or relatively close, to something else.
 
-- 1. I'm sorry, I didn't realize my seat was the next one over. 抱歉，我的座位应该是旁边那个。 
+- 1. I'm sorry, I didn't realize my seat was the next one over. [抱歉，我的座位应该是旁边那个] 
 
-- 2. The nearest hospital is in the next town over. 最近的医院在隔壁那个小镇。 
+- 2. The nearest hospital is in the next town over. [最近的医院在隔壁那个小镇]
 
-- 3. This bathroom stall is out of order, please use the next one over. 这个厕所间停用了，请用旁边那间吧。 
+- 3. This bathroom stall is out of order, please use the next one over. [这个厕所间停用了，请用旁边那间吧]
 
-- 4. When heading west, Guangxi is the next province over from Guangdong. 广东省西面的省份就是广西省。
+- 4. When heading west, Guangxi is the next province over from Guangdong. [广东省西面的省份就是广西省]
 
 
 # 2.I take it 
@@ -53,35 +53,50 @@
 
 
 # 3.connect
-## 1)router /ˈrutər/ 路由器 
+## 1)router /'raʊtə/ /ˈrutər/ [n.路由器] & signal [n.信号]
+> 1）the router sends out the signal.
 
-## 2)stable connection /ˈsteɪbəl kəˈnɛkʃən/ 连接稳定、信号稳定 
+> 2)here's the internet signal,cell phone signal,televison signal.
 
-## 3)crystal clear /ˈkrɪstəl klɪr/ 非常清楚的、非常清晰的
+## 2)stable connection [n.连接稳定、信号稳定]
+> it just means there's no problems with the connection,it's not gonna cut out,that not gonna stop.
 
-## 4)we all good [phr.我们都准备好了] & we're all on 
-> 1)
+## 3)we all good [phr.我们都准备好了] & we're all on 
+> 1)it's a very colloquial spoken english.
 
-> 2)
+> 2)it just means ,we're all on the phone,we can all see each other basically.he's looking at a computer screen,but he wants to make sure that they have a stable connection.
 
-## 5)next room over [旁边房间]
+## 4)crystal clear on my end  [adj.非常清楚的、非常清晰的]
+> it just means the clearest it could be.she says "crystal clear on my end."on this end of the phone, this end of the connection.so on my end, like so, my end of the video call, where I am basically. 
 
-## 6)choppy /ˈʧɑpi/ 断断续续的 
+## 5)lagging [adj.卡顿]
+> 1）it means to be like slow.slower tahn expected,or slower than other things around you.so slower than something else basically. So here, he says the video seems to be lagging, meaning the video is slower than the audio, the speech.
 
-## 7)situated /ˈsɪʧuˌeɪtɪd/ 安顿
+> 2)it could be used for a lot of other things,like online games,If you're playing, and you find you can't quite play the game properly, you're lagging. So to you and everyone else, you can't move as fast.so you might be lagging in a computer game that you're playing. Or what about this one, your son is lagging behind other children at school.
+
+## 6)choppy /ˈʧɑpi/ [adj.断断续续的]
+> 1)so choppy, this word originally was used to describe like rough waters. Yeah, like if you're on a boat, and you're in the ocean.It's really rough, it's choppy. 
+
+> 2)But now it's used to like describe video.just meaning that it's kind of not clear, it's blocky.It becomes very square. People's faces become square.So, if I'm looking at your face on the screen, it looks and it's choppy, it looks like your face is a bunch of little blocks,like pixelated [adj.像素的].
+
+## 7)situated [adj.安顿]
+> so situated basically means to get ready. take your time, Randy, we'll wait for you to get ready, and Trevor goes ahead and starts this concall today.
+
 
 # 4. surveying 
-## 1)elaborate /iˈlæbəreɪt/ 阐述、详细说明
+## 1)elaborate /iˈlæbəreɪt/ [v.阐述、详细说明]
+
 
 ## 2)thorough /ˈθɝːoʊ/ 详细的、细致的
 
-## 3)do our homework /du ˈaʊər ˈhoʊmˌwɜrk/ 做功课
+## 3)do our homework 做功课
 
 
-## 4)identify /aɪˈdentəfaɪ/ 识别、认定
+## 4)identify  识别、认定
 
 
-## 5)point of view /pɔɪnt ʌv vju/ 观点 
+## 5)from my point of view  [n.我的观点]
+> this is basically it's my opinion,from where I'm standing,the way I see things.
 
 ## 6)intuitive /ɪnˈtuːɪtɪv/ 直观的、简单明了的
 - 1. The success of your product will depend on how intuitive it appears to the average person. 你的产品成功与否，取决于它对于普通人而言是否足够直观。 
@@ -90,13 +105,21 @@
 
 - 3. How can you say this software has an intuitive design? It's so difficult to use. 你居然说这个软件的设计很直观？ 明明很难用。
 
-## 7)enticing /ɛnˈtaɪsɪŋ/ 吸引人的
+## 7)enticing /ɛnˈtaɪsɪŋ/ [adj.吸引人的] & sth appeals to sb 
+> 1)this just means like to sound great,appealing,interesting.
+
+> 2)not only can something sound enticing, but something can also look enticing.like a job offer. And they're gonna offer you a lot of money, you know, like wow it sounds pretty enticing.or you go to a restaurant, and you're looking at the menu, and Mike says, "Wow, this steak on the menu looks really enticing." Yes, it does. I think I might get that.
+
+> 3)if sth appeals to you ,you probably find it enticing,you can't say enticed to,but you can appeal to.
 
 ## 8)penetrating /ˈpɛnəˌtreɪtɪŋ/ 深入、渗透
 
 ## 9)good old fashioned [phr.经典的，传统的]
 
+## 10)propose [v.提议，求婚]
+> 1)how do you propose we do that,here it just means suggest.
 
+> 2)but propose can also be to ask someone to marry you.
 
 # 5.execution /ˌek.sɪˈkjuː.ʃən/ 
 - 1. How can you ensure the execution of a plan without making the necessary preparations? 如何在不做必要准备的情况下确保计划的执行？ 
@@ -105,7 +128,7 @@
 
 - 3. Their plan to expand into new markets was perfectly executed. 他们扩展到新市场的计划得到了很好的执行。
 
-## 1)iron out /ˈaɪərn aʊt/ 决定；确定
+## 1)ROI 投资回报率
 
 ## 2)conduct /kɑnˈdʌkt/ 实施
 
@@ -127,15 +150,9 @@
 
 - 3. Do you really make a living off of capturing wild animals? 你真的以捕捉野生动物为生吗？
 
-## 7)ROI 投资回报率
-
-## 8)fiscal year /ˈfɪskəl/ 财政年度 
-
-
-
 # 6.verbs used with research and studies
-## 1)ramp up /ræmp/ 增加 
-
+## 1)ramp /ræmp/ up  [phr.增加]
+> it was just increase.
 
 ## 2)sth are found to be... & sth are proving ... & sth show that... & sth have been shown...
 > In fact, these terms and phrases all mean "show," and you can also use words such as "demonstrate," "indicate," or "illustrate."
@@ -156,15 +173,38 @@
 
 - 8. Not a single scientific study has found a link between vaccines and autism. 没有科学研究发现疫苗和自闭症之间有关联。
 
-# 7.geographically /ˌʤiəˈgræfɪkəli/ 地理上、地域上地 & demographic /ˌdeməˈɡræfɪk/ 人口群体 & segments /ˈsegmənts/ 部分、群体 
+# 7.territory [n.地区;领域]
+> 1)territory can be a place. so territory, in a lot of times, we talk about a place, like geographically. So we know they're talking about countries or continents.
 
+> 2)Perhaps also, if it's in terms of a job, you can say, "Oh, yeah, I don't really know how to do that. That's not my territory."it's not your area. It could be may be a new industry, a new actual place.
 
+## 1）geographically /ˌʤiəˈgræfɪkəli/ [adv.地理上、地域上地] 
+> So geographically would just be like actual places.
 
+## 2)demographic /ˌdeməˈɡræfɪk/ [n.人口群体]
+> So demographic is like a specific group of people,could be big, or quite small.so you could say younger / older demographic.or the Asian demographic. 
 
+## 3)segments /ˈsegmənts/ [n.部分、群体] & to segment sth /seg’mənts/ sth [v.]
+> 1)so segment is like a piece of sth.you can use this for pretty much, anything.here they're talking about the market, for whatever business they are in. So new customer segments, basically new people that are part of a market that they haven't,
 
+> 2)it could be a segment of a song, segment of a movie, segment of a show.Like, I really like that segment of the movie we saw last night, the first segment was great, but the rest was terrible.
 
+> 3)as a verb,the stress is different,so to segment sth would be to break it into pieces.
 
+# 8.busispesk / biz speak / business speak
+> we called busispeak, a lot of these words. You just don't hear them in common English everyday, and a conference call is basically just like a meeting over the phone.it's just like words that people in business use with each other a lot.
 
+## 1)concall / conference call
+
+## 2)iron out [phr.决定；确定] & iron out the wrinkles.
+> 1)this is another busispeak term,it really just means to determine.to figure out ,to decide.It comes from the phrase,iron out the wrinkles [n.褶皱].So the wrinkles are like small problems, and the iron takes those small problems away. So we're trying to iron out these problems.
+
+> 2)those are cool metaphors. But like you could just say determine, it's a spoken language thing.
+
+# 9.fiscal /ˈfɪskəl/  year [n.财政年度]
+> 1)And the fiscal year is just like used by governments, to basically measure, you know, how much money companies made, it's just basically the business related year, and it's different from country to country, basically.
+
+> 2)so in the UK, for example, obviously we have normal years, which run from January to December, like everyone else. But our financial year our fiscal year runs from April to April, and that's when companies must submit their tax returns by the end of April.
 
 # IV.pattern
 ***So it looks like we're all on, but can you guys hear me? I just want to make sure we have a stable connection before we get started. Cassandra, Randy, we all good?***
