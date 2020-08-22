@@ -1,4 +1,5 @@
 # Conference_call
+
 # I.5 tips for being awesome at conference calls
 # 1.smile
 > The way you deliver information is the key to capturing your audience's attention. How you talk on the phone is no different than how you present yourself on stage when presenting to an audience. In reality, your conference call is very similar to being on stage where the lights are so bright you can't see anyone's faces. Smile while you speak and your positive energy will come through - the people on the other end of the phone will be able to sense and feel your smile. Try it.
@@ -51,10 +52,6 @@
 - 3. I take it you will be late to the meeting then? 我猜你开会会迟到吧？
 
 
-
-
-
-
 # 3.connect
 ## 1)router /ˈrutər/ 路由器 
 
@@ -62,9 +59,12 @@
 
 ## 3)crystal clear /ˈkrɪstəl klɪr/ 非常清楚的、非常清晰的
 
-## 4)we all good /wi ɔl gʊd/ 我们都准备好了
+## 4)we all good [phr.我们都准备好了] & we're all on 
+> 1)
 
-## 5)next room over /nɛkst rum ˈoʊvər/ 旁边房间
+> 2)
+
+## 5)next room over [旁边房间]
 
 ## 6)choppy /ˈʧɑpi/ 断断续续的 
 
