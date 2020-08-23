@@ -62,58 +62,77 @@
 
 # 3.market
 ## 1)subscribe /səbˈskraɪb/ 订阅 & subscriptions /səbˈskrɪpʃənz/ 订阅
+> 1)
 
-## 2)pay-for-knowledge /peɪ fɔːr ˈnɑːlɪdʒ/ 知识付费的
+> 2)So if you are like a member of something, you pretty much have a subscription. Except for things like, if you go to the gym, you wouldn't say you have a gym subscription.It is usually for media or content that you can consume, not necessarily a place that you go.In that case, you probably just be a member. But here, more and more people are going for the streaming services subscriptions and "is causing the film industry to restructure."
 
-## 3)monetization /ˌmʌnətaɪˈzeɪʃən/ 赚钱方法
+## 2)pay-for-knowledge [知识付费的]
+> 
 
-## 4)a piece of the pie /ə piːs əv ðə paɪ/ 可得到的一份钱财（或货物等）
+## 3)monetization /ˌmʌnətaɪˈzeɪʃən/ [赚钱方法]
 
-## 5)market penetration /ˈmɑːrkɪt ˌpenəˈtreɪʃən/ 市场渗透
+## 4)a piece of the pie [phr.可得到的一份钱财（或货物等）]
+> so the "pie" here just kind of means the market, the money. So they want to get a piece of it. They don't want Netflix and Hulu getting all the money for themselves.
 
-## 6)streaming service /ˈstriːmɪŋ ˈsɝːvɪs/ 流媒体服务
+## 5)market penetration [n.市场渗透]
+> so "penetration" basically means to insert something into something else.
+
+## 6)streaming service [n.流媒体服务]
 
 ## 7)podcast
 
-## 8)original series /əˈrɪdʒənəl ˈsɪriːz/ 原创剧集 & exclusive /ɪkˈskluːsɪv/ 特定的，专属的，专享的
+## 8)original series [n.原创剧集] & exclusive /ɪkˈskluːsɪv/ 特定的，专属的，专享的
+> 1)so basically,who made it originally.
 
-- 1. Coming up next, an HBO exclusive. 接下来为您带来，HBO独家节目。 
+> 2)exclusie means you can only find it like one place,so often when things are exclusice,it means that other places don't have it,or other people can't have it.some places can be exclusive or the services can be exclusive,or people can and can't be exclusive.
 
-- 2. I have an exclusive membership at that club.我有这家俱乐部的高级会员。 
+- 1. Coming up next, an HBO exclusive. [接下来为您带来，HBO独家节目]
 
-- 3. The company deals exclusively with foreign buyers. 这家公司只和外国买家做生意。
+- 2. I have an exclusive membership at that club.[我有这家俱乐部的高级会员]
 
-## 9)telecom /ˈtelɪkɑːm/ 电信 & telecommunication /ˌtelɪkəmjuːnɪˈkeɪʃən/ 远程通信
+- 3. The company deals exclusively with foreign buyers. [这家公司只和外国买家做生意]
 
-## 10)cord-cutting /kɔːrd-ˈkʌtɪŋ/ 断线（引申为观众不再看有线电视）
+## 9)telecom /ˈtelɪkɑːm/ /telecommunication /ˌtelɪkəmjuːnɪˈkeɪʃən/ [n.远程通信]
+> so telecom is short for telecommunication.
+
+## 10)cable subscriptions
+> A cable subscription would come to your TV through a cable, a physical thing, which is also called a cord. 
+
+## 11）cord-cutting [断线（引申为观众不再看有线电视）]
+> But cord-cutting, that started at least ten or twenty years ago when people just got tired of these really expensive cable packages.So they started cutting the cord, meaning they were getting rid of their cable subscriptions. And then this's led to like I said some "drastic shifts" in the market.
 
 
 
 
 # 4.streaming
-## 1)hopping on the bandwagon /ˈbændˌwæɡən/ 顺应潮流；跟风 
+## 1)hopping on the bandwagon /ˈbændˌwæɡən/ [phr.顺应潮流；跟风]
+> 1)this basically means other people trying to do what someone else was already doing.it becomes popular and then they just wanna join in on the popularity.and then I say, "You know what, I guess I agree, too." And I hop on the bandwagon with them.
 
-## 2)opting out /ɑːptɪŋ aʊt/ 选择不做某事
+> 2)it can also be like people all  agree about something,
 
-## 3)pioneer /ˌpaɪəˈnɪr/ 先驱
+## 2)opt in/out [phr.选择做/不做某事] & to opt （not） to do sth 
+> to opt means to choose,
 
-## 4)gained traction /ɡeɪnd ˈtrækʃən/ 获得关注，越来越受欢迎 
+## 3)pioneer /ˌpaɪəˈnɪr/ [n.先驱]
+> 
+
+## 4)gained traction /ˈtrækʃən/ 获得关注，越来越受欢迎 
 
 ## 5)appealing /əˈpiːlɪŋ/ 吸引
 
-- 1. I know that it's a popular podcast, but I don't understand the appeal. 我知道这个播客很受欢迎，但我不明白它的吸引力在哪里。 
+- 1. I know that it's a popular podcast, but I don't understand the appeal. [我知道这个播客很受欢迎，但我不明白它的吸引力在哪里]
 
-- 2. We need to appeal to a younger audience if we want to remain relevant. 如果我们想与时俱进，就需要吸引更年轻的观众。 
+- 2. We need to appeal to a younger audience if we want to remain relevant. [如果我们想与时俱进，就需要吸引更年轻的观众]
 
-- 3. A lot of listeners in their mid-thirties tend to find business-oriented podcasts more appealing. 许多35岁左右的听众往往觉得商务播客更有吸引力。
+- 3. A lot of listeners in their mid-thirties tend to find business-oriented podcasts more appealing. [许多35岁左右的听众往往觉得商务播客更有吸引力]
 
 ## 6)spurred /spɝd/ 促进，加速
 
-- 1. The spurs dug into the horse's sides, urging the horse to move forward. 马刺轻压马的身体两侧，促使其向前奔跑。 
+- 1. The spurs dug into the horse's sides, urging the horse to move forward. [马刺轻压马的身体两侧，促使其向前奔跑]
 
-- 2. The development of a railroad and a new factory spurred the town's economic growth. 铁路和新工厂的发展促进了该镇的经济增长。 
+- 2. The development of a railroad and a new factory spurred the town's economic growth. [铁路和新工厂的发展促进了该镇的经济增长]
 
-- 3. The ever present need to remain competitive has spurred the growth of China's pay-for-knowledge model. 保持竞争力的迫切需求推动了中国知识付费模式的发展。
+- 3. The ever present need to remain competitive has spurred the growth of China's pay-for-knowledge model. [保持竞争力的迫切需求推动了中国知识付费模式的发展]
 
 ## 7)spawned /spɑːnd/ （使）产生，（使）突然增长
 
@@ -123,6 +142,11 @@
 
 ## 10)amateur /ˈæmətʃɚ/ 业余爱好的，非职业的 
 
+## 11）drastic [adj.剧烈的、彻底的] & drastic improvement 
+> 1)it basically means very very intense,it's kind of like extreme.This is a very common phrase you might hear, "Drastic times call for drastic measures."so when things are bad out there, you might have to do bad things in order to survive.
+
+> 2)you can also use this positively,like a drastic improvement,maybe"he started exercising and he saw a drastic improvement in his health."
+
 # 5.esoteric /ˌesəˈterɪk/ 只有少数人（尤指内行）才懂的，难懂的 & accessible /əkˈsesəbəl/ 可以理解的；易懂的
 
 
@@ -130,21 +154,25 @@
 # 6.exhaustive /ɪɡˈzɑːstɪv/ 详尽无遗的，全面的 & alternative /ɑːlˈtɝːnətɪv/ 可替代的，可供选择的 
 
 
-- 1. Netflix has an exhaustive list of movies. Netflix有详尽的电影列表。 
+- 1. Netflix has an exhaustive list of movies. [Netflix有详尽的电影列表]
 
-- 2. He handed in an exhaustive report on the weaknesses of our current policy. 针对我们当前政策的不足之处，他提交了一份详尽的报告。 
+- 2. He handed in an exhaustive report on the weaknesses of our current policy. [针对我们当前政策的不足之处，他提交了一份详尽的报告]
 
-- 3. I think we've exhausted all our options. I'm not sure who else we can go to for help. 我认为我们已经没有别的选择了。我不确定我们还能向谁求助。
+- 3. I think we've exhausted all our options. I'm not sure who else we can go to for help. [我认为我们已经没有别的选择了。我不确定我们还能向谁求助]
 
 # 7.intimate /ˈɪntəmət/ 亲密的，密切关系的 & intimacy /ˈɪntəməsi/ 亲密，密切
 
-# 8.let alone
-- 1. He isn't even handsome, let alone nice. 他甚至算不上帅，更谈不上漂亮了。 
+# 8.let alone [phr.更不用说]
+- 1. He isn't even handsome, let alone nice. [他甚至算不上帅，更谈不上漂亮了]
 
-- 2. I won't even get coffee with you, let alone spend the whole weekend with you. 我连咖啡都不会和你一起喝，更不用说一起度过整个周末了。 
+- 2. I won't even get coffee with you, let alone spend the whole weekend with you. [我连咖啡都不会和你一起喝，更不用说一起度过整个周末了]
 
-- 3. He's so out of shape he can't even jog around the block, let alone run a marathon. 他身体不好，都没法绕着街区慢跑，更别说跑马拉松了。
+- 3. He's so out of shape he can't even jog around the block, let alone run a marathon. [他身体不好，都没法绕着街区慢跑，更别说跑马拉松了]
 
+# 9.to restructure [v.重新建构] & cosmetic change
+> 1)so "to restructure" basically means to change.like change the nature of something, the shape.So this is not just some small change. We can say . It's a fundamental change.it's a really big change basically. You can think about it like this, for years and years and years, people have been watching TV through their cable subscriptions, but now the whole game is changing. It is "restructuring" because of the streaming services.
+
+> 2)One more thing about "restructuring." They love to use this word at work. If the company is restructuring, it basically means that a bunch of people are getting fired.
 
 
 # IV.pattern

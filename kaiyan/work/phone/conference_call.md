@@ -45,11 +45,11 @@
 # 2.I take it 
 > The phrase "I take it" is used to check with someone that what you believe to be the case, or what you understand them to mean, is in fact the case, or is in fact what they mean. The phrase is often used to ask a question, but it can also be used just to make a statement about what you believe to be true.
 
-- 1. From the sound of your tone, I take it you don't want olives on the pizza. 从你的语气来判断，我觉得你应该不想要披萨上的橄榄。 
+- 1. From the sound of your tone, I take it you don't want olives on the pizza. [从你的语气来判断，我觉得你应该不想要披萨上的橄榄]
 
-- 2. You don't like horror movies, I take it? 我猜你不喜欢恐怖片吧? 
+- 2. You don't like horror movies, I take it? [我猜你不喜欢恐怖片吧?]
 
-- 3. I take it you will be late to the meeting then? 我猜你开会会迟到吧？
+- 3. I take it you will be late to the meeting then? [我猜你开会会迟到吧?]
 
 
 # 3.connect
@@ -99,11 +99,11 @@
 > this is basically it's my opinion,from where I'm standing,the way I see things.
 
 ## 6)intuitive /ɪnˈtuːɪtɪv/ 直观的、简单明了的
-- 1. The success of your product will depend on how intuitive it appears to the average person. 你的产品成功与否，取决于它对于普通人而言是否足够直观。 
+- 1. The success of your product will depend on how intuitive it appears to the average person. [你的产品成功与否，取决于它对于普通人而言是否足够直观]
 
-- 2. Do you believe men are less intuitive than women? 你相信女人比男人直觉更强吗？ 
+- 2. Do you believe men are less intuitive than women? [你相信女人比男人直觉更强吗？]
 
-- 3. How can you say this software has an intuitive design? It's so difficult to use. 你居然说这个软件的设计很直观？ 明明很难用。
+- 3. How can you say this software has an intuitive design? It's so difficult to use. [你居然说这个软件的设计很直观？明明很难用]
 
 ## 7)enticing /ɛnˈtaɪsɪŋ/ [adj.吸引人的] & sth appeals to sb 
 > 1)this just means like to sound great,appealing,interesting.
@@ -122,33 +122,33 @@
 > 2)but propose can also be to ask someone to marry you.
 
 # 5.execution /ˌek.sɪˈkjuː.ʃən/ 
-- 1. How can you ensure the execution of a plan without making the necessary preparations? 如何在不做必要准备的情况下确保计划的执行？ 
+- 1. How can you ensure the execution of a plan without making the necessary preparations? [如何在不做必要准备的情况下确保计划的执行？]
 
-- 2. England failed to execute in the World Cup semi-final game against Croatia. 英格兰未能在对阵克罗地亚的世界杯半决赛中胜出。 
+- 2. England failed to execute in the World Cup semi-final game against Croatia. [英格兰未能在对阵克罗地亚的世界杯半决赛中胜出]
 
-- 3. Their plan to expand into new markets was perfectly executed. 他们扩展到新市场的计划得到了很好的执行。
+- 3. Their plan to expand into new markets was perfectly executed. [他们扩展到新市场的计划得到了很好的执行]
 
 ## 1)ROI 投资回报率
 
 ## 2)conduct /kɑnˈdʌkt/ 实施
 
 ## 3)committing /kəˈmɪtɪŋ/ 调拨
-- 1. I am not committing any more time to this project. 我不会再在这个项目上费时间了。 
+- 1. I am not committing any more time to this project. [我不会再在这个项目上费时间了]
 
-- 2. Marriage is all about fully committing yourself to the one you love. 婚姻就是把自己全身心交给自己爱的人。 
+- 2. Marriage is all about fully committing yourself to the one you love. [婚姻就是把自己全身心交给自己爱的人]
 
-- 3. He is totally committed to his profession. 他对自己的职业全身心投入。
+- 3. He is totally committed to his profession. [他对自己的职业全身心投入]
 
 ## 4)get down to business [phr.开始着手做]
 
 ## 5)once that is all said and done [phr.一旦完成]
 
 ## 6)capturing /ˈkæpʧərɪŋ/ 捕捉
-- 1. I hope to capture the attention of today's youth with my message. 我希望我的话可以引起当下年轻人的注意。 
+- 1. I hope to capture the attention of today's youth with my message. [我希望我的话可以引起当下年轻人的注意]
 
-- 2. The soldiers were captured by enemy forces. 这些士兵被敌军俘虏了。
+- 2. The soldiers were captured by enemy forces. [这些士兵被敌军俘虏了]
 
-- 3. Do you really make a living off of capturing wild animals? 你真的以捕捉野生动物为生吗？
+- 3. Do you really make a living off of capturing wild animals? [你真的以捕捉野生动物为生吗?]
 
 # 6.verbs used with research and studies
 ## 1)ramp /ræmp/ up  [phr.增加]
@@ -165,13 +165,13 @@
 
 - 4. grateful people have been shown...
 
-- 5. The latest findings indicate that young adults are getting married much later than previous generations. 最新研究结果表明，现在的年轻人结婚比老一辈晚多了。 
+- 5. The latest findings indicate that young adults are getting married much later than previous generations. [最新研究结果表明，现在的年轻人结婚比老一辈晚多了]
 
-- 6. Practicing gratitude has been shown to increase your well-being in every aspect of life. 研究表明训练感激心理可以全面提升生活的幸福感。 
+- 6. Practicing gratitude has been shown to increase your well-being in every aspect of life. [研究表明训练感激心理可以全面提升生活的幸福感]
 
-- 7. These studies illustrate just how important both quantity and quality of sleep is to our health. 这些研究表明睡眠的质量和时间对健康有重要的影响。 
+- 7. These studies illustrate just how important both quantity and quality of sleep is to our health. [这些研究表明睡眠的质量和时间对健康有重要的影响]
 
-- 8. Not a single scientific study has found a link between vaccines and autism. 没有科学研究发现疫苗和自闭症之间有关联。
+- 8. Not a single scientific study has found a link between vaccines and autism. [没有科学研究发现疫苗和自闭症之间有关联]
 
 # 7.territory [n.地区;领域]
 > 1)territory can be a place. so territory, in a lot of times, we talk about a place, like geographically. So we know they're talking about countries or continents.
@@ -195,6 +195,7 @@
 > we called busispeak, a lot of these words. You just don't hear them in common English everyday, and a conference call is basically just like a meeting over the phone.it's just like words that people in business use with each other a lot.
 
 ## 1)concall / conference call
+
 
 ## 2)iron out [phr.决定；确定] & iron out the wrinkles.
 > 1)this is another busispeak term,it really just means to determine.to figure out ,to decide.It comes from the phrase,iron out the wrinkles [n.褶皱].So the wrinkles are like small problems, and the iron takes those small problems away. So we're trying to iron out these problems.
