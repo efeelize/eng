@@ -31,20 +31,20 @@
 # 1.compound adjectives [复合形容词]
 > these adjectives were formed by combining a noun with a participle adjective [分词形容词]. Participle adjectives typically end in -en, -ed, or -ing.[分词形容词通常以“-en”，“-ed”或“-ing”结尾]
 
-## 1)customer-oriented 以顾客为中心的 
+## 1)customer-oriented [以顾客为中心的] 
 
-## 2)youth-focused 以青少年为主的 
+## 2)youth-focused [以青少年为主的]
 
-## 3)data-driven 数据驱动的 
+## 3)data-driven [数据驱动的]
 
 - We're looking to create a youth-focused, skill-based app. [我们正在计划开发一款以青少年为主的、基于技能的应用软件。]
 
-## 4)entertainment-geared 娱乐导向的 
+## 4)entertainment-geared/driven [娱乐导向的] 
 
-## 5)thought-provoking 发人深省的
+## 5)thought-provoking [发人深省的]
 - I've been listening to Malcom Gladwell's book "Talking to Strangers." I have to say, it's quite thought- provoking. 我一直在听Malcom Gladwell的书《与陌生人交谈》。不得不说，这本书很发人深省。
 
-## 6)ad-driven 广告驱动模式
+## 6)ad-driven [广告驱动模式]
 - We need to look beyond our ad-driven model to find other ways to monetize our products. [我们要超越广告驱动模式，找到其他方法使我们的产品获利]
 
 # 2.Appositives clauses [同位语从句]
@@ -61,15 +61,18 @@
 - 3. The knowledge that the earth is round is not something that anyone is born with. [人不是生来就知道地球是圆的]
 
 # 3.market
-## 1)subscribe /səbˈskraɪb/ 订阅 & subscriptions /səbˈskrɪpʃənz/ 订阅
-> 1)
+## 1)subscribe /səbˈskraɪb/ [v.订阅] & subscriptions /səbˈskrɪpʃənz/ 订阅
+> 1)you can just hit subscribe and it will give you every single update.And one thing we want to say about this word "subscribe" because you probably heard it before in the sense of "subscribe to media," is we often use it to mean like "believe."like you could subscribe to a specific idea.so you could say, "I subscribe to the idea of free healthcare for everybody."
 
 > 2)So if you are like a member of something, you pretty much have a subscription. Except for things like, if you go to the gym, you wouldn't say you have a gym subscription.It is usually for media or content that you can consume, not necessarily a place that you go.In that case, you probably just be a member. But here, more and more people are going for the streaming services subscriptions and "is causing the film industry to restructure."
+
+- I subscribe to the idea of free healthcare for everybody.
 
 ## 2)pay-for-knowledge [知识付费的]
 > 
 
-## 3)monetization /ˌmʌnətaɪˈzeɪʃən/ [赚钱方法]
+## 3)monetization /ˌmʌnətaɪˈzeɪʃən/ [n.赚钱方法] & to monetize it [v.] 
+> monetize is the verb.
 
 ## 4)a piece of the pie [phr.可得到的一份钱财（或货物等）]
 > so the "pie" here just kind of means the market, the money. So they want to get a piece of it. They don't want Netflix and Hulu getting all the money for themselves.
@@ -79,9 +82,7 @@
 
 ## 6)streaming service [n.流媒体服务]
 
-## 7)podcast
-
-## 8)original series [n.原创剧集] & exclusive /ɪkˈskluːsɪv/ 特定的，专属的，专享的
+## 7)original series [n.原创剧集] & exclusive /ɪkˈskluːsɪv/ [adj.特定的，专属的，专享的]
 > 1)so basically,who made it originally.
 
 > 2)exclusie means you can only find it like one place,so often when things are exclusice,it means that other places don't have it,or other people can't have it.some places can be exclusive or the services can be exclusive,or people can and can't be exclusive.
@@ -92,17 +93,14 @@
 
 - 3. The company deals exclusively with foreign buyers. [这家公司只和外国买家做生意]
 
-## 9)telecom /ˈtelɪkɑːm/ /telecommunication /ˌtelɪkəmjuːnɪˈkeɪʃən/ [n.远程通信]
+## 8)telecom /ˈtelɪkɑːm/ /telecommunication /ˌtelɪkəmjuːnɪˈkeɪʃən/ [n.远程通信]
 > so telecom is short for telecommunication.
 
-## 10)cable subscriptions
+## 9)cable subscriptions
 > A cable subscription would come to your TV through a cable, a physical thing, which is also called a cord. 
 
-## 11）cord-cutting [断线（引申为观众不再看有线电视）]
+## 10）cord-cutting [断线（引申为观众不再看有线电视）]
 > But cord-cutting, that started at least ten or twenty years ago when people just got tired of these really expensive cable packages.So they started cutting the cord, meaning they were getting rid of their cable subscriptions. And then this's led to like I said some "drastic shifts" in the market.
-
-
-
 
 # 4.streaming
 ## 1)hopping on the bandwagon /ˈbændˌwæɡən/ [phr.顺应潮流；跟风]
@@ -114,11 +112,16 @@
 > to opt means to choose,
 
 ## 3)pioneer /ˌpaɪəˈnɪr/ [n.先驱]
-> 
 
-## 4)gained traction /ˈtrækʃən/ 获得关注，越来越受欢迎 
+## 4)gained traction /ˈtrækʃən/ [phr.获得关注，越来越受欢迎]
+> 1)it means that they started to become more popular here,So "gain"is just to get something. "Traction" is when you don't slip. You can actually move forward or up or the direction that you want to move in.So you can kind of imagine that someone is trying to climb a very like muddy or slippery hill. So when you gain traction, you're moving upwards and you're not going back anymore.
 
-## 5)appealing /əˈpiːlɪŋ/ 吸引
+> 2)we can use this when we're talking about a product being introduced to the market. Maybe, not a lot of people like it at first, but eventually it starts to gain traction. Or in this case, a podcast gains listeners.
+
+## 5)appealing [v.吸引] & attract 
+> 1)When I think of "appeal," I think of like the senses. Maybe it appeals to my sight. It looks really good,the colors are pretty.
+
+> 2)"attract" you can use in the sense for sure, but you can also use it in a scientific or physical sense.like a magnet could attract metal.
 
 - 1. I know that it's a popular podcast, but I don't understand the appeal. [我知道这个播客很受欢迎，但我不明白它的吸引力在哪里]
 
@@ -126,7 +129,10 @@
 
 - 3. A lot of listeners in their mid-thirties tend to find business-oriented podcasts more appealing. [许多35岁左右的听众往往觉得商务播客更有吸引力]
 
-## 6)spurred /spɝd/ 促进，加速
+## 6)spurred /spɝd/ [v.促进，加速] &  sparked /spɑ:rkt/ [v.引发，催生] & to spur sth 
+> 1)we could almost replace this word here with "sparked" too,but "spur" here's cool because it makes me think about cowboys.Because the spur is on their boot and they kicked the horse with that.it's a piece of metal that's on their boot. So you kick the horse and the horse goes faster. That's called spurring the horse.
+
+> 2)To spur something means to make it move forward quickly. In this case, we're talking about the explosion, the spread.
 
 - 1. The spurs dug into the horse's sides, urging the horse to move forward. [马刺轻压马的身体两侧，促使其向前奔跑]
 
@@ -134,25 +140,26 @@
 
 - 3. The ever present need to remain competitive has spurred the growth of China's pay-for-knowledge model. [保持竞争力的迫切需求推动了中国知识付费模式的发展]
 
-## 7)spawned /spɑːnd/ （使）产生，（使）突然增长
+## 7)spawned /spɑːnd/ [v.（使）产生，（使）突然增长]
+> 1)spawned basically means to give birth,to procreate,but it's not really a word that we use with humans very much.we mostly use this with like fish,turtles.so we wouldn't want to say,like my spawn.unless you're joking.
 
-## 8)sparked /spɑ:rkt/ 引发，催生 
+> 2)frequently,we use it for non-human things,for example,a business,an idea,or a podcast.
 
-## 9)plethora /ˈpleθɚə/ 过多
-
-## 10)amateur /ˈæmətʃɚ/ 业余爱好的，非职业的 
-
-## 11）drastic [adj.剧烈的、彻底的] & drastic improvement 
+## 8)drastic [adj.剧烈的、彻底的] & drastic improvement 
 > 1)it basically means very very intense,it's kind of like extreme.This is a very common phrase you might hear, "Drastic times call for drastic measures."so when things are bad out there, you might have to do bad things in order to survive.
 
 > 2)you can also use this positively,like a drastic improvement,maybe"he started exercising and he saw a drastic improvement in his health."
 
-# 5.esoteric /ˌesəˈterɪk/ 只有少数人（尤指内行）才懂的，难懂的 & accessible /əkˈsesəbəl/ 可以理解的；易懂的
+## 9)plethora /ˈpleθɚə/ [n.过多]
+> it means a lot.
 
+# 5.esoteric /ˌesəˈterɪk/ [adj.只有少数人（尤指内行）才懂的，难懂的] & accessible /əkˈsesəbəl/ 可以理解的；易懂的
+> 1)Esoteric," this means that it was not very accessible, because it is mostly made by geeks for geeks.let's imagine that for a second. Geeks are really good at knowing things that most people don't know.So they have a lot of esoteric knowledge. That's one way you can use this word, and if something is esoteric, it's really not accessible to the public.people could be esoteric,or the language that they use could be esoteric.
 
+# 6.exhaustive /ɪɡˈzɑːstɪv/ [adj.详尽无遗的，全面的] & exhausting / ɪɡˈzɔstɪŋ/ [adj.精疲力尽的]
+> 1)so they're really complete,they include everything.but exhaustive itself is not negative.
 
-# 6.exhaustive /ɪɡˈzɑːstɪv/ 详尽无遗的，全面的 & alternative /ɑːlˈtɝːnətɪv/ 可替代的，可供选择的 
-
+> 2)It also kind of looks similar to "exhausting." So you could imagine if you were to go through every single point, it will be a little bit exhausting.
 
 - 1. Netflix has an exhaustive list of movies. [Netflix有详尽的电影列表]
 
@@ -173,7 +180,6 @@
 > 1)so "to restructure" basically means to change.like change the nature of something, the shape.So this is not just some small change. We can say . It's a fundamental change.it's a really big change basically. You can think about it like this, for years and years and years, people have been watching TV through their cable subscriptions, but now the whole game is changing. It is "restructuring" because of the streaming services.
 
 > 2)One more thing about "restructuring." They love to use this word at work. If the company is restructuring, it basically means that a bunch of people are getting fired.
-
 
 # IV.pattern
 ***It seems like there's a podcast for everything these days from journalism to amateur reviews.***
