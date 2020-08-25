@@ -42,15 +42,16 @@
 - 4. When heading west, Guangxi is the next province over from Guangdong. [广东省西面的省份就是广西省]
 
 
-# 2.I take it 
-> The phrase "I take it" is used to check with someone that what you believe to be the case, or what you understand them to mean, is in fact the case, or is in fact what they mean. The phrase is often used to ask a question, but it can also be used just to make a statement about what you believe to be true.
+# 2.I take it [phr.我猜...]
+> 1)it is used to check with someone that what you believe to be the case, or what you understand them to mean, is in fact the case, or is in fact what they mean. The phrase is often used to ask a question, but it can also be used just to make a statement about what you believe to be true.
+
+> 2)this can be at the beginning, the middle or the end of a sentence. And it basically just means "I assume".
 
 - 1. From the sound of your tone, I take it you don't want olives on the pizza. [从你的语气来判断，我觉得你应该不想要披萨上的橄榄]
 
 - 2. You don't like horror movies, I take it? [我猜你不喜欢恐怖片吧?]
 
 - 3. I take it you will be late to the meeting then? [我猜你开会会迟到吧?]
-
 
 # 3.connect
 ## 1)router /'raʊtə/ /ˈrutər/ [n.路由器] & signal [n.信号]
@@ -82,28 +83,36 @@
 ## 7)situated [adj.安顿]
 > so situated basically means to get ready. take your time, Randy, we'll wait for you to get ready, and Trevor goes ahead and starts this concall today.
 
-
 # 4. surveying 
-## 1)elaborate /iˈlæbəreɪt/ [v.阐述、详细说明]
+## 1)elaborate /iˈlæbəreɪt/ [v.阐述、详细说明] & /ɪ'læbəret/ [adj.]
+> 1)to elaborate is a verb,it means to give details on what you're talking about.
 
+> 2)so if sth is elaborate,it means that's very detailed.you can also have an elaborate plan,which would mean it's more complicated.when it is an adjective,it's pronounced slightly, differently. It's [ɪ'læbəret].
 
-## 2)thorough /ˈθɝːoʊ/ 详细的、细致的
+## 2)thorough /ˈθɝːoʊ/ [adj.详细的、细致的]
+> this just means like full,complete,might also say "comprehensive."
 
-## 3)do our homework 做功课
+## 3)do our homework [phr.做功课]
+> so kind like do research.it means kind of like "get ready,prepare".
 
-
-## 4)identify  识别、认定
-
+## 4)to identify  [v.识别、认定]
+> So "identify" is like to say what is different or show what is different between two things.So kind of like "to distinguish", but we often use here like "to identify people", so "to identify" would mean to say what somebody's identity is, who they are.
 
 ## 5)from my point of view  [n.我的观点]
 > this is basically it's my opinion,from where I'm standing,the way I see things.
 
-## 6)intuitive /ɪnˈtuːɪtɪv/ 直观的、简单明了的
+## 6)intuitive /ɪnˈtuːɪtɪv/ [adj.直观的、简单明了的]
+> 1)it means that sth is easy to understand,it's easy to use.So basically, something that's intuitive, it's based on feelings not on facts.for example here, he's saying "What all of these things that you're saying, it just sounds like no-brainer." So basically, if you're not using your brain, you might just be using like gut feelings, gut instinct,So he feels like "Oh, this is a no-brainer, it sounds pretty intuitive, sounds instinctual almost...",and somethings might be more intuitive to other people than...
+
+> 2)whether something is intuitive or not is partly down to the way it's designed, but is also down to your own natural capabilities.So it depends on the design, but it also depends on the person and how they kind of interact with that design.like my mother. Everyone would say the iPhone is very intuitive, my mother might disagree. She still has a lot of trouble with using.
+
 - 1. The success of your product will depend on how intuitive it appears to the average person. [你的产品成功与否，取决于它对于普通人而言是否足够直观]
 
 - 2. Do you believe men are less intuitive than women? [你相信女人比男人直觉更强吗？]
 
 - 3. How can you say this software has an intuitive design? It's so difficult to use. [你居然说这个软件的设计很直观？明明很难用]
+
+- 4. when it came to instruments, playing the drums, felt very intuitive to me.
 
 ## 7)enticing /ɛnˈtaɪsɪŋ/ [adj.吸引人的] & sth appeals to sb 
 > 1)this just means like to sound great,appealing,interesting.
@@ -112,27 +121,38 @@
 
 > 3)if sth appeals to you ,you probably find it enticing,you can't say enticed to,but you can appeal to.
 
-## 8)penetrating /ˈpɛnəˌtreɪtɪŋ/ 深入、渗透
+## 8)penetrating /ˈpɛnəˌtreɪtɪŋ/ [v.深入、渗透]
+> penetrate" means to like "go into something else", or to like "put something into something else".So what's "penetrate" deeper meaning, maybe to focus more on specific customers by giving them more services and different products,they want to know what their current customers want more of.
 
-## 9)good old fashioned [phr.经典的，传统的]
+## 9)good old fashioned [adj.经典的，传统的]
+> this means like "it's been done for a while."this is something that we have done this way for a long time, everybody understands what it is, it doesn't necessarily have to be good.good old fashioned" just basically means "it's something that's well known, it's proven whether it's good or bad, but it's been around for a long time, and it works one way or the other. 
 
 ## 10)propose [v.提议，求婚]
 > 1)how do you propose we do that,here it just means suggest.
 
 > 2)but propose can also be to ask someone to marry you.
 
-# 5.execution /ˌek.sɪˈkjuː.ʃən/ 
+## 11)price points
+> it just how much people willing to pay.
+
+# 5.execution /ˌek.sɪˈkjuː.ʃən/ [n.]
+> so "execution" means to "like to do, to carry out, to kind of finish".
+
 - 1. How can you ensure the execution of a plan without making the necessary preparations? [如何在不做必要准备的情况下确保计划的执行？]
 
 - 2. England failed to execute in the World Cup semi-final game against Croatia. [英格兰未能在对阵克罗地亚的世界杯半决赛中胜出]
 
 - 3. Their plan to expand into new markets was perfectly executed. [他们扩展到新市场的计划得到了很好的执行]
 
-## 1)ROI 投资回报率
+## 1)ROI/return on investment [n.投资回报率]
+> it could be the money you make off of the money that you invested,also when talking about the return on investment,you can maybe talk about time that you've invested in sth,and maybe the money ou received in return isn't enough for the time you feel you spent.It is almost like you're thinking about the risk, how much I'm putting in to how much I'm gonna get back.
 
-## 2)conduct /kɑnˈdʌkt/ 实施
+## 2)conduct /kɑnˈdʌkt/ [v.实施]
+> you can conduct a research usually,or conduct a survey.
 
-## 3)committing /kəˈmɪtɪŋ/ 调拨
+## 3)committing /kəˈmɪtɪŋ/ [v.调拨]
+>  So it means that you agree to do something, like a hundred percent. We're committed, we're gonna do this.So you can commit time, energy, money. You can commit to a relationship.you can commit to a career,You can commit to a lot of things, that really just require some sort of investment. 
+
 - 1. I am not committing any more time to this project. [我不会再在这个项目上费时间了]
 
 - 2. Marriage is all about fully committing yourself to the one you love. [婚姻就是把自己全身心交给自己爱的人]
@@ -140,10 +160,14 @@
 - 3. He is totally committed to his profession. [他对自己的职业全身心投入]
 
 ## 4)get down to business [phr.开始着手做]
+> Now this can be used in the business world, but it can also be used outside of the business world,You can have your friends round, you're gonna go out or play a game or something, and then everyone is there. Ok, everybody ready, let's get down to business.
 
 ## 5)once that is all said and done [phr.一旦完成]
+> this is very useful phrase here,just kind of means like "once it's been executed".once it's been finished,once it's over,like "as soon as".
 
-## 6)capturing /ˈkæpʧərɪŋ/ 捕捉
+## 6)capturing /ˈkæpʧərɪŋ/ [v.捕捉]
+> Capturing" means "to get something or to hold something".So we're not like capturing them against their will, they're not prisoners.we're not trapping them or jailing them.We want to grab their attention.
+
 - 1. I hope to capture the attention of today's youth with my message. [我希望我的话可以引起当下年轻人的注意]
 
 - 2. The soldiers were captured by enemy forces. [这些士兵被敌军俘虏了]
@@ -195,7 +219,6 @@
 > we called busispeak, a lot of these words. You just don't hear them in common English everyday, and a conference call is basically just like a meeting over the phone.it's just like words that people in business use with each other a lot.
 
 ## 1)concall / conference call
-
 
 ## 2)iron out [phr.决定；确定] & iron out the wrinkles.
 > 1)this is another busispeak term,it really just means to determine.to figure out ,to decide.It comes from the phrase,iron out the wrinkles [n.褶皱].So the wrinkles are like small problems, and the iron takes those small problems away. So we're trying to iron out these problems.
