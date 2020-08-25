@@ -1,7 +1,16 @@
 # midlife_crises
-# I.
+# I.how to deal with a midlife crises
+# 1.Check your hormone levels [激素水平]
+> At your next physical exam, ask the doctor to include a hormone test in your lab work and see what is going on. There are good treatments for unbalanced hormone levels [激素不平衡] that might make a difference.
 
+# 2.Evaluate your approach to diet and fitness
+> As we age, we tend to become a bit more sedentary [坐着的时间更长], and as metabolism slows [新陈代谢放缓], we can begin to feel our youthful vigor slipping away [年轻的活力正在消失]. A healthy and balanced diet and a regular exercise regimen can help alleviate [缓解] many of the symptoms of midlife crisis .
 
+# 3.Write a new mission statement [新的目标宣言]
+> A midlife crisis can be a good time [良好时机] to evaluate life in a new phase. Rethinking your mission statement and refocusing your energies can help better establish key priorities.[优先事项]
+
+# 4.Communicate your needs
+> Keeping the midlife crisis feelings bottled up [憋在心里] can cause a lot of stress. Talk to a trusted friend or mentor. Share appropriate feelings with your spouse or partner. Then listen to the good advice from the people who care about you.
 
 # II.grammar
 # 1.this...that...
