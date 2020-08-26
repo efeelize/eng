@@ -1,13 +1,15 @@
 # PHD_MAB
-# I.
+# I.most valuable PHDs.
+> For PhD students, their degree represents both a tremendous amount of work as well as a potentially high future salary. However, at the end of the day, not every PhD will guarantee the same income or stability down the road. When it comes to the earning potential of various subjects, STEM (Science, Technology, Engineering, Mathematics) always reigns supreme [代表卓越]. In fact, computer engineering is one of the highest-paying PhD out there: workers with a PhD in electrical and computer engineering enjoy six-figure salaries after gaining 10 years of experience. Three of the next highest-earning majors (computer engineering, chemical engineering and biomedical engineering), also pay in the six-figure range. If science or tech isn't your cup of tea, a PhD in economics will open its own fair share of doors.
 
+> Of course, not everyone pursues PhDs for financial reward. Adam had a lot of fun in today's lesson teasing Humanities students, because their subjects consistently rank at the bottom of these kinds of lists, both for early career salary and mid-career salary. Now with that said, many of these students are keenly aware that they are doing their degree for the love of the subject, and not the love of money. Money isn't everything, and knowledge can be a powerful motivator.
 
+# II.make the MBA degree a wise investment
+> Though it’s true that the investment on an MBA degree from the best business schools can seem like a huge expense, the outlook is fairly appealing[前景非常诱人]. It affords unmatched [无与伦比的] networking opportunities, confers invaluable credibility that can unlock professional doors, and boosts [提高] lifetime earning power [终身赚钱的能力] for most graduates. Getting an MBA might be one of the smartest career decisions you ever make.
 
-# II.
+> However, the choice of business school is perhaps more crucial. Lisa Bevill, IE’s director of admissions, notes the advantages of studying at a top-ranked business school: A key part of your learning will come from your classmates. High-quality alumni network [校友网络] has a huge impact on your future career; top ranked schools will also be audited [认可] by rankings and are more likely to be recognized by world leading accreditation bodies.
 
-
-
-
+> Whether the school is the right "fit" is equally important. Liz Wagoner, assistant director of admissions at Boston University's School of Management, says: "Students should look at their career goals and which program is the best to help them achieve those goals. We encourage candidates to consider the resources and the network that they’ll have access to."
 
 # III.grammar
 # 1.not (all) that great of a
@@ -22,14 +24,11 @@
 # 2. -wise
 > The suffix “-wise” can be added onto many nouns, verbs and adjectives, and it makes the word into an adverb meaning “relating to this subject” or “referring to.” It’s used mainly in spoken English, and not usually in highly formal contexts.
 
-- 1. A: How are we doing time-wise? B: We have about 10 minutes left. A: 我们还有多少时间？B: 我们还剩大约10分钟。 
+- 1. A: How are we doing time-wise? B: We have about 10 minutes left. [A:我们还有多少时间？B:我们还剩大约10分钟]
 
-- 2. Money-wise, I'm not doing so well. I need to take out another loan. 在金钱方面，我做得不是很好。我需要再申请一笔贷款。 
+- 2. Money-wise, I'm not doing so well. I need to take out another loan. [在金钱方面，我做得不是很好。我需要再申请一笔贷款]
 
-- 3. We had a few hiccups, but weather-wise, it was a fantastic day. 我们遭遇了一些小问题，但就天气而言，这是美妙的一天。
-
-
-
+- 3. We had a few hiccups, but weather-wise, it was a fantastic day. [我们遭遇了一些小问题，但就天气而言，这是美妙的一天]
 
 # 3.degree
 ## 1)undergraduate /ˌʌn.dəˈɡrædʒ.u.ət/ 大学本科 & bachelor's degree /ˈbæʧələrz dɪˈgri/ 本科学位s
@@ -59,20 +58,20 @@
 
 
 # 8.take up /teɪk ʌp/ 占据   
-- 1. Mom took up lots of interesting hobbies after she retired. 老妈在退休以后培养了很多兴趣爱好。 
+- 1. Mom took up lots of interesting hobbies after she retired. [老妈在退休以后培养了很多兴趣爱好] 
 
-- 2. I've been thinking about taking up yoga for a while now, but I'm not really sure how to start. 我打算开始练瑜伽了，但我不知道怎么开始。 
+- 2. I've been thinking about taking up yoga for a while now, but I'm not really sure how to start. [我打算开始练瑜伽了，但我不知道怎么开始]
 
-- 3. She took up smoking as a way to fit in with her new colleagues. 她以抽烟的方式融入了新同事当中。
+- 3. She took up smoking as a way to fit in with her new colleagues. [她以抽烟的方式融入了新同事当中]
 
 # 9.public speaker /ˈpʌblɪk ˈspikər/ 公共演说者 
 
 # 10.putting on /ˈpʌtɪŋ ɑn/ 增加 
-- 1. Since the last fundraiser was so successful, we've decided to put on another one this year. 上次的筹资会太成功了，我们已经决定今年再办一次。 
+- 1. Since the last fundraiser was so successful, we've decided to put on another one this year. [上次的筹资会太成功了，我们已经决定今年再办一次]
 
-- 2. My son's band is putting on a concert in the park this weekend. He's worked so hard on it! 儿子的乐队这个星期会要在公园里开音乐会。他为此准备地很努力！ 
+- 2. My son's band is putting on a concert in the park this weekend. He's worked so hard on it! [儿子的乐队这个星期会要在公园里开音乐会。他为此准备地很努力!]
 
-- 3. The event will be put on by an assortment of local charity groups. 该活动是由当地几个慈善团体共同举办的。
+- 3. The event will be put on by an assortment of local charity groups. [该活动是由当地几个慈善团体共同举办的]
 
 # 11.fruitful /ˈfrutfəl/ 有收获的
 
@@ -86,11 +85,11 @@
 # 14.know-how /ˈnoʊ-haʊ/ 实际知识；专门技能； 诀窍 
 
 # 15.analytical /ˌænəˈlɪtɪkəl/ 善于分析的 
-- 1. Don't be so analytical. Just go with your gut! 别分析来分析去的了。跟着你的直觉走就好！ 
+- 1. Don't be so analytical. Just go with your gut! [别分析来分析去的了。跟着你的直觉走就好!]
 
-- 2. These days, social media platforms give users detailed analytics about the reach of their content. 如今，社交媒体平台可以为用户提供其涉猎内容的详细分析。 
+- 2. These days, social media platforms give users detailed analytics about the reach of their content. [如今，社交媒体平台可以为用户提供其涉猎内容的详细分析]
 
-- 3. We need a more analytical approach to this project. 我们需要对这个项目采取更缜密的方法。
+- 3. We need a more analytical approach to this project. [我们需要对这个项目采取更缜密的方法]
 
 # 16.on the front lines /ɑːn ðə frʌnt laɪnz/ 重要岗位，前线 
 
@@ -98,11 +97,11 @@
 # 17.juggle /ˈdʒʌɡəl/ 兼顾，尽力同时应付 
 
 # 18.demanding /dɪˈmændɪŋ/ 艰难的，艰巨的 
-- 1. Children can be very demanding. 小孩儿可能会非常难满足。 
+- 1. Children can be very demanding. [小孩儿可能会非常难满足]
 
-- 2. Being a professor is a very intellectually demanding job. 当教授是一份对智力要求很高的工作。 
+- 2. Being a professor is a very intellectually demanding job. [当教授是一份对智力要求很高的工作]
 
-- 3. Studying another language is a very demanding pursuit. 学习另一种语言是个要求很高的爱好。
+- 3. Studying another language is a very demanding pursuit. [学习另一种语言是个要求很高的爱好]
 
 
 # 19.prestigious /preˈstɪʤəs/ 有声望的、有名誉的 
