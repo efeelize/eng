@@ -1,4 +1,5 @@
-# spring_festival
+# Spring_festival
+
 # I.the origin of the term "calligraphy"
 > Calligraphy is the art of beautiful handwriting. The term may derive from the Greek words for “beauty” (kallos) and “to write” (graphein). It implies a sure knowledge of the correct form of letters along with the skill to make and properly order the various parts and proportions harmoniously.[将正确的字母书写形式和书写技巧结合起来，可以使各个部分顺序合适、比例和谐] However, calligraphic work, as art, need not be legible in the usual sense of the word.
 
@@ -53,81 +54,97 @@
 
 - 3. The poems in his latest book are sad yet beautiful. 他最近出版的那本书里的诗既伤感又优美。
 
+# 2.书法
+## 1) calligraphy /kəˈlɪgrəfi/  & calligrapher /kəˈlɪgrəfər/ [n.书法家]
+> 1)A calligraphy is the sort of ancient art, essentially writing beautiful letters."Like we would often see it in old books like old Bibles.usually the first letter on the page is really big and really beautiful golden and it's painted with, like brushes.And there's different kinds of strokes in different sizes.we would also see calligraphy in a more modern context when we look at something like, a wedding invitation.
 
-# 2.calligraphy /kəˈlɪgrəfi/ & calligrapher /kəˈlɪgrəfər/ 书法家 & penmanship /ˈpenmənʃɪp/ 书法 & artisanship /ˈɑ:rtɪzənʃɪp/ 手艺
+> 2)calligrapher.the person who does calligraphy.
 
+## 2）handwriting [n.书写，手写] 
+> handwriting is so general,like it's just kind of refers to the way that you write.it's often used as a synonym for "cursive".when we were in school, we had to learn how to write. basically I had to learn how to print [n.印刷体], which is just writing words that look like they do on a computer or in a book, and then write in cursive [n.手写体] which is really loopy and fluid.
 
-# 3.the Four Treasures 文房四宝
+## 3）penmanship /ˈpenmənʃɪp/ [n.书法] 
+> if you were good at handwriting, then the teacher would say, "Oh，you have such great penmanship!"
 
-## 1)study 书房 
+## 4）artisanship /ˈɑ:rtɪzənʃɪp/ [n.手艺] 
+> 4)the "ship" here it's kind of like a skill.like a workmanship,or artisanship.
 
+# 3.工具
+## 1）gear [n.工具] & equipment 
+> 1)it's like the equipment,but the gear is generally for just smaller things.like guitars and amolifiers /'æmplɪfaɪɚ/ [n.扬声器].you can carry at least.
 
-## 2)gear 工具 
+> 2)equipment can also be really big,like teeter-totter/'ti:tə,tɔtə/.[n.跷跷板]
 
-## 3)ink 墨水 
+## 2)the Four Treasures [n.文房四宝]
 
-## 4)brushes 毛笔 
+## 3)ink [n.墨水]
+> like the ink, that is inside of a pen or any kind of marker. even though it's a different substance. It's still ink,even on the printer.
 
-## 5)inkstone 砚台
+## 4)brushes [n.毛笔]
 
+## 5)inkstone [n.砚台]
+> so this is like, it's a stone. And when you mix water on it with your brush, it becomes ink.
 
-# 3.handwriting /ˈhændˌraɪ.tɪŋ/ 书写；手写
-## 1）strokes /stroʊks/ 笔触；笔画 
+## 6)study [n.书房]
+> this is something that modern houses, you know they have, but you got to have some extra money to buy a big house.because the study, it's like, it's not really an office. Now a lot of people have offices where there might be a computer, a printer and other things like that. But the study is really where you keep your books.you do some studying in the study.
 
+# 3.笔画
+## 1）strokes /stroʊks/ [n.笔触;划桨] 
+> it means a movement,But we also use this in kind of a more abstract sense to mean like, the movement of the pen, as sort of like the tool of the powerful, like with the stroke of a pen, the law was changed.
 
-## 2）stroke order 笔画顺序 
+## 2）stroke order [笔画顺序] 
 
-## 3）movement /ˈmu:vmənt/ 运转 
+## 3）movement [n.运转]
 
+## 4)fluid /ˈfluː.ɪd/ [adj.流畅的、流动的]
 
-## 4)fluid /ˈfluː.ɪd/ 流畅的、流动的
+# 4.adj
+## 1）graceful /ˈgreɪsfəl/ [adj.优雅的]
+> this word "graceful" is really nice because it kind of means smooth and elegant and even attractive.it's like a "gift from God",Like some kind of beauty, or some kind of very fluid movement, if you are a ballet dancer.
 
+## 2）be refined & refinement /rɪˈfaɪnmənt/ [n.文雅；高雅]
+> if you look at a person who is refined, which basically means is educated, has good taste, a gentlemen.Probably has a pretty good ability to concentrate on things.
 
+## 3）aesthetic /esˈθet.ɪk/ [adj.美学的]
+> basically a very old word for the study of beauty.sometimes you might even see an 's' on the end like aesthetics.a kind of the study of.like this is a branch of philosophy or of arts. But you also do see it like at a, like a nail salon.
 
-# 4.rhythm /ˈrɪðəm/ 韵律
-## 1）graceful /ˈgreɪsfəl/ 优雅的 
+- 1. You might not know it, but my husband has great aesthetic taste. [你可能不了解，但我丈夫审美一流]
 
-## 2）refinement /rɪˈfaɪnmənt/ 文雅；高雅
+- 2. Chinese aesthetics are different in many ways from Western ones. [中国美学在许多方面与西方美学不同]
 
-## 3）aesthetic /esˈθet.ɪk/ 美学的
+- 3. The house on the beach isn't worth very much money, but its aesthetic value is high. [海边的房子不值多少钱，但它的审美价值很高]
 
-- 1. You might not know it, but my husband has great aesthetic taste. 你可能不了解，但我丈夫审美一流。 
+## 4）chaotic [adj.混乱的] & chaos [n.]
+> so "chaotic", this is the adjective. The noun is "chaos". It means like total confusion and just disorder.like if you go to the train station during spring festival, it's chaos!or if you're at work and the phones are ringing off the hook, it could be chaos at work.
 
-- 2. Chinese aesthetics are different in many ways from Western ones. 中国美学在许多方面与西方美学不同。 
+## 5）masculine /ˈmæskjələn/ [阳性的] & feminine /ˈfemənən/ [阴性的]
 
-- 3. The house on the beach isn't worth very much money, but its aesthetic value is high. 海边的房子不值多少钱，但它的审美价值很高。
+## 6)rhythm /ˈrɪðəm/ [n.韵律]
+> there is a rhythm in the way people write, in the way that they loop around or you know, make different strokes.so it's kind of a beat, just like music in that way. And even in other hobbies like you've mentioned, there was a skateboarder that just walked by, even though I used to skateboard. And if you can get into a rhythm, you kind of get a good feel or a good sense for and you can do it better.
 
-## 4）chaotic /keɪˈɑtɪk/ 混乱的 
+# 5.be essential to sth [adj.必要的；必不可少的] & invaluable /ɪnˈvæljəbəl/ [极有用的；宝贵的]
+> we often see this prefix in- and it means whatever comes after it, the meaning should be flipped, it should be the opposite.Incomplete means not complete.I think it's like the word "priceless". It's so valuable that there is no price.
 
-## 5）balance /ˈbæləns/ 平衡  
+- 1. His advice about choosing my career path was invaluable to me. [他在我职业选择方面所给出的建议对我而言非常宝贵]
 
-## 6)masculine /ˈmæskjələn/ 阳性的 
+- 2. This book should be invaluable for anyone who seriously loves history. [这本书对任何一个真正热爱历史的人来说都是极为有用的]
 
-## 7)feminine /ˈfemənən/ 阴性的
+- 3. She was invaluable in helping the local police solve the crime. [她在帮助当地警方破案方面起了不可估量的作用]
 
+# 6.meditation /ˌmed.ɪˈteɪ.ʃən/ [冥想；沉思] & concentration [n.专注]
+> Because anything that you need to focus on, you can basically meditate on or with. I mean you can meditate by yourself, just sitting in a room.so it's often used for like reducing stress for sure.I'm sure calligraphy is a great way to forget the outside world that stresses of life, and just enjoy the beauty of the writing.
 
-# 5.essential /ɪˈsenʃəl/ 必要的；必不可少的 & invaluable /ɪnˈvæljəbəl/ 极有用的；宝贵的
+# 7.nail salon [美甲店]  & esthetician /ˌesθə'tɪʃən/ [美容师]
+> the person who does your nails is called an "esthetician".
 
-- 1. His advice about choosing my career path was invaluable to me. 他在我职业选择方面所给出的建议对我而言非常宝贵。 
+# 8.on the wane /weɪn/ & on the decline [逐渐衰落]
+> it was basically means decreasing.it's kind of slowly,gradually fading away.
 
-- 2. This book should be invaluable for anyone who seriously loves history. 这本书对任何一个真正热爱历史的人来说都是极为有用的。 
+- 1. After being on the wane for years, will martial arts make a comeback with Chinese youth? [在经历了多年的衰落之后，武术会在中国年轻人中卷土重来吗？]
 
-- 3. She was invaluable in helping the local police solve the crime. 她在帮助当地警方破案方面起了不可估量的作用。
+- 2. I could see that her patience was waning, so I got to the point. [我看得出她渐渐没耐心了，所以我就直接进入重点]
 
-# 6.meditation /ˌmed.ɪˈteɪ.ʃən/ 冥想；沉思 & concentration /ˌkɑnsənˈtreɪʃən/ 专注 
-
-
-# 7.nail salon /neɪl səˈlɑn/ 美甲店  & esthetician /ˌesθə'tɪʃən/ 美容师
-
-
-
-# 8.on the wane /ɑn ðə weɪn/ 逐渐衰落
-- 1. After being on the wane for years, will martial arts make a comeback with Chinese youth? 在经历了多年的衰落之后，武术会在中国年轻人中卷土重来吗？ 
-
-- 2. I could see that her patience was waning, so I got to the point. 我看得出她渐渐没耐心了，所以我就直接进入重点。 
-
-- 3. Although she is still respected, her influence is clearly on the wane. 虽然她仍然受人尊敬，但影响力显然在减弱。
-
+- 3. Although she is still respected, her influence is clearly on the wane. [虽然她仍然受人尊敬，但影响力显然在减弱]
 
 # IV.pattern
 ***Okay, and the last stop on our tour is the study.***
