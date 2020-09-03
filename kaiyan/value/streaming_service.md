@@ -27,7 +27,22 @@
 
 > While other advancements like data aggregation [数据聚合] or transcoding [转码] and delivery [传输] are behind the scenes [隐藏于幕后], it's this type of technology innovation that continues to make the overall streaming experience shine [更加出众] in the living room.
 
-# III.grammar
+# III.popular mobile live streaming apps
+# 1.facebook live
+> As we are all aware of Facebook is more than [不仅仅是] a social networking platform, so its service is not only limited to social networking. At the initial phase, facebook live streaming services were made available only to popular actors and performers.
+
+> But that's not the case anymore as every fb user can use the live streaming services. When you open the screen at the bottom you can see the viewer comments. Live streams on Facebook Live can be watched on the web as well as on the official Facebook app. 
+
+> Sharing live videos with all your friends or specific group is also possible. All you have to do is just tap the Live button under the status update to start the broadcast. After tapping the first thing you'll see is sharing video with yourself, but you can quickly change it to public or specific group of friends.[快速将其改为公开或特定朋友可见]
+
+# 2.instagram live stories 
+> Instagram launched the Live Stories feature in late 2016, but it was only this year that it saw a global roll-out [全球范围内普及]. The Live Stories feature comes baked into the default Instagram app[实时故事功能内置于Instagram应用程序中]. To broadcast [播放] a live video, just swipe over to the right in Instagram and tap on "Live" option.
+
+> If you don't see it, you should update to the latest version. While watching a broadcast, you can like and comment on your friend's live streams.
+
+> When you start a live video, Instagram sends a notification to some of your followers. Others can see a "Live" tag on your Instagram story and watch the broadcast. You can share live videos for as long as one hour and they become unavailable as soon as the broadcast ends.[你可以分享直播视频长达一小时，直播一结束分享就会失效]
+
+# IV.grammar
 # 1.compound adjectives [复合形容词]
 > these adjectives were formed by combining a noun with a participle adjective [分词形容词]. Participle adjectives typically end in -en, -ed, or -ing.[分词形容词通常以“-en”，“-ed”或“-ing”结尾]
 
@@ -181,7 +196,7 @@
 
 > 2)One more thing about "restructuring." They love to use this word at work. If the company is restructuring, it basically means that a bunch of people are getting fired.
 
-# IV.pattern
+# V.pattern
 ***It seems like there's a podcast for everything these days from journalism to amateur reviews.***
 
 ***Tell me about it. The lists are exhaustive. When it started in the early 2000s, it was super geeky and esoteric.***
