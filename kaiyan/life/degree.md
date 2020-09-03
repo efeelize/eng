@@ -12,17 +12,23 @@
 > Whether the school is the right "fit" is equally important. Liz Wagoner, assistant director of admissions at Boston University's School of Management, says: "Students should look at their career goals and which program is the best to help them achieve those goals. We encourage candidates to consider the resources and the network that they’ll have access to."
 
 # III.grammar
-# 1.not (all) that great of a
-- 1. It's really not that big of a deal. We can sort it out tomorrow. 那个问题真的没什么。我们明天就可以解决掉。
+# 1.not (all) that great of a...
+> 1)he says"I'm not that great of a public speaker."the way he phrased it is basically saying that he's not a great speaker.but he was also not trying to put himself down very much.he's not saying like "Oh,I'm a terrible speaker."
 
-- 2. It wasn't all that great of a movie, but it had some pretty funny moments. 那个电影不算好，但是确实有一些镜头还不错。 
+> 2)especially if you're talking about other people or other things, right? You watched a movie and it wasn't the best. You can say, you know, it wasn't that great of a movie.
 
-- 3. Thanks for helping me with my report. I'm really not all that great of a writer! 非常感谢你帮我完成报告。我真的不是很擅长写作。 
+- 1. It's really not that big of a deal. We can sort it out tomorrow. [那个问题真的没什么。我们明天就可以解决]
 
-- 4. We weren't that impressed by the hotel, but the weather outside was great! 旅馆没给我们留下什么印象，但是外面的天气真的很不错。 
+- 2. It wasn't all that great of a movie, but it had some pretty funny moments. [那个电影不算好，但是确实有一些镜头还不错]
 
-# 2. -wise
-> The suffix “-wise” can be added onto many nouns, verbs and adjectives, and it makes the word into an adverb meaning “relating to this subject” or “referring to.” It’s used mainly in spoken English, and not usually in highly formal contexts.
+- 3. Thanks for helping me with my report. I'm really not all that great of a writer! [非常感谢你帮我完成报告。我真的不是很擅长写作]
+
+- 4. We weren't that impressed by the hotel, but the weather outside was great! [旅馆没给我们留下什么印象，但是外面的天气真的很不错]
+
+# 2. -wise  & career/money/family/clock/time -wise [adv.从...角度来看]
+> 1)The suffix “-wise” can be added onto many nouns, verbs and adjectives, and it makes the word into an adverb meaning “relating to this subject” or “referring to.” It’s used mainly in spoken English, and not usually in highly formal contexts.
+
+> 2）it's just a really good way to add some adverbial flavor into your sentence.it means regarding that...
 
 - 1. A: How are we doing time-wise? B: We have about 10 minutes left. [A:我们还有多少时间？B:我们还剩大约10分钟]
 
@@ -31,89 +37,146 @@
 - 3. We had a few hiccups, but weather-wise, it was a fantastic day. [我们遭遇了一些小问题，但就天气而言，这是美妙的一天]
 
 # 3.degree
-## 1)undergraduate /ˌʌn.dəˈɡrædʒ.u.ət/ 大学本科 & bachelor's degree /ˈbæʧələrz dɪˈgri/ 本科学位s
+## 1)undergraduate [n.大学本科] &  bachelor's degree  [本科学位]
+> generally speaking,an undergraduate is what we call a student who is studying for their bachelor degree.
 
+## 2)grad student/graduate student [n.研究生] & Masters [n.硕士] 
+> On the other hand, if you have graduated with a bachelor's degree and you continue for a Master's or PhD, then you are considered a grad student.Or more formally a graduate student. But every body just says grad student.
 
-## 2)Masters /ˈmæstərz/ 硕士
+## 3)do a PhD [phr.攻读博士学位] & Doctor of Philosophy 哲学博士(学术研究型博士) & doctorate /ˈdɑktərət/ [n.博士学位]
+> 1)do a PhD actually is pretty common though.it basically means to start on it.that's the common way to say this,like we don't say study or read an PhD.you can pursue  a degree or an advanced degree.but nine times of ten,it's do.
 
-## 3)do a PhD /du ə PhD/ 攻读博士学位 & Doctor of Philosophy 哲学博士(学术研究型博士) & doctorate /ˈdɑktərət/ 博士学位
+- why do you want to do a PhD?
 
-## 4)supervisor /ˈsupərˌvaɪzər/ 论文导师
+- I did my PhD at Stanford.
 
-## 5)the Humanities /ðə hjuˈmænɪtiz/ 人文科学
+> 2)so it's kind of weird because it's a little bit backwards,it actually means doctor of philosophy.the reason why it's backwards is because it comes from Latin.
 
-## 6)The Academy /ði əˈkædəmi/ 学院
+## 4)supervisor [论文导师]
 
-## 7)academically /ˌækəˈdɛmɪkli/ 学术上地 
+## 5)the Humanities [人文科]
 
-# 4. put himself down /pʊt hɪmˈsɛlf daʊn/ 自嘲，自我贬低 
+## 6)The Academy [学院] & academically [adv.学术上地] & academic [n.]
+> 1)academy is a fancy word for university.
 
+> 2)academically basically means related to the academy.
 
-# 5.speak to a lot of people /spik tu ə lɑt ʌv ˈpipəl/ 引起很多人的共鸣  
+- How are you doing academically?/How are your grades?
 
+> 3)generally an academic works at the university,so they are basically involved in research and education.Lots of people work at universities,they're not all academics.
 
-# 6.hedging our bets /ˈhɛʤɪŋ ˈaʊər bɛts/ 为防止损失两面下注 
+## 7)prestigious [adj.] school & prestige [n.]
+> 1)so prestigious school is America would be one like Harvard or Yale,Ivy League schools. one other thing about this word, this adjective can either be /preˈstējəs/or /preˈstijəs/.
 
-# 7.inspired /ɪnˈspaɪərd/ 启发、鼓舞 & impact /ˈɪmpækt/ 影响
+> 2)so prestige is like honor,admiration.just basically famous.
 
+# 4. pros 
+## 1)inspired [v.] & inspiration [n.] & have no/a huge impact on sb/sth [v.& n.] & be impacted by sth
+> 1)inspired is always going to motivate you to do something.maybe you want to do it,but you don't know how.Or you just can't make yourself do it.Something will inspire you. I mean it can be a person. It could be a a beautiful sunset.Or it could be an experience.
 
-# 8.take up /teɪk ʌp/ 占据   
+> 2）impact,it really influenced or affected you.
+
+- 1. the hippie era of the sixties had a huge impact all over the world,and it had a huge impact on American culture.
+
+- 2. I was really impacted by the speech.
+
+- 3. I was really impacted by that moiving story of the children.
+
+## 2)take up [v.占据]
+> 1)take up basically means begin.And in fact this useful phrase can be used for anything that you want to start.like take up a hobby,or anything that you are starting to learn or to do,you can use take up.
+
+> 2)it doesn't always need to be like good things.like for example you could take up smoking.or bad habits.
+
 - 1. Mom took up lots of interesting hobbies after she retired. [老妈在退休以后培养了很多兴趣爱好] 
 
 - 2. I've been thinking about taking up yoga for a while now, but I'm not really sure how to start. [我打算开始练瑜伽了，但我不知道怎么开始]
 
 - 3. She took up smoking as a way to fit in with her new colleagues. [她以抽烟的方式融入了新同事当中]
 
-# 9.public speaker /ˈpʌblɪk ˈspikər/ 公共演说者 
+## 3)putting on [phr.增加,筹办] & put on a show/exhibition/concert & sth be put on by sb 
+> 1)it could be sth very simple,like putting on clothes,putting on makeup...
 
-# 10.putting on /ˈpʌtɪŋ ɑn/ 增加 
+> 2)in this case it kind of means more like hold an even.instead of saying hold,you can always use this,it's a little bit more colloquial,but it just sounds very nice.
+
 - 1. Since the last fundraiser was so successful, we've decided to put on another one this year. [上次的筹资会太成功了，我们已经决定今年再办一次]
 
 - 2. My son's band is putting on a concert in the park this weekend. He's worked so hard on it! [儿子的乐队这个星期会要在公园里开音乐会。他为此准备地很努力!]
 
 - 3. The event will be put on by an assortment of local charity groups. [该活动是由当地几个慈善团体共同举办的]
 
-# 11.fruitful /ˈfrutfəl/ 有收获的
+- 4. the educational events will be put on by Tyler.
 
+## 4)inquiry /ɪn'kwaɪri/ [n.探究，调查，质询] & lines of inquiry
+> 1)inquiry basically means research.
 
+> 2)lines of inquiry suppose to mean you're coming at it from a new angle,it's a new way of researching this topic.
 
-# 12.credibility /ˌkredəˈbɪləti/ 可信度 
+- I feel my project can open up new lines of inquiry.
 
+## 5)fruitful /ˈfrutfəl/ [adj.有收获的] & a fruitful research career
+> so basically fruitful here means successful,always a good result,
 
-# 13.the corporate ladder /ðə ˈkɔːrpɚət ˈlædɚ/ 职业阶梯 
+## 6）credibility [n.可信度] & be credible [adj.]
+> 1)credibility is basically "can I trust you?"
 
-# 14.know-how /ˈnoʊ-haʊ/ 实际知识；专门技能； 诀窍 
+> 2)a person can be credible,that means you can trust this person,and if you're working for a big company and you want to get promotions,you need this.
 
-# 15.analytical /ˌænəˈlɪtɪkəl/ 善于分析的 
+## 7)know-how [n.实际知识；专门技能；s诀窍]
+> 1)so that something that an MBA will help equip you with, the know-how, it's really just knowing how to do things.practical knowledge.
+
+> 2)it could be a lot of different ways or fields.it really doesn't matter there's a lot of know-how that would happen at home, in like a homemaking type role in anything. We often say "the know-how," you don't need to say "the," but just in terms of what we normally say it, it's often "do you have the know-how?"
+
+## 8)analytical skills [adj.] & analyze [v] & analysis [n.]
+> analytical comes from analyze,which just means to look carefully at sth.
+
 - 1. Don't be so analytical. Just go with your gut! [别分析来分析去的了。跟着你的直觉走就好!]
 
 - 2. These days, social media platforms give users detailed analytics about the reach of their content. [如今，社交媒体平台可以为用户提供其涉猎内容的详细分析]
 
 - 3. We need a more analytical approach to this project. [我们需要对这个项目采取更缜密的方法]
 
-# 16.on the front lines /ɑːn ðə frʌnt laɪnz/ 重要岗位，前线 
+# 5.cons
+## 1)hedging /ˈhɛʤɪŋ/ our bets [phr.为防止损失两面下注]
+> Meaning that you know like "Oh, the result could be this or it could be that, so I'll bet on both".
 
+## 2)sth comes at a cost 
+> it means that it will be costly,and maybe money,but not just money,but can also be time or energy.
 
-# 17.juggle /ˈdʒʌɡəl/ 兼顾，尽力同时应付 
+## 3)juggle [v.兼顾，尽力同时应付] & juggler [n.]
+> sb who juggling is a juggler,but often we use this in situations where sb has competing interests or responsibilities,like a job.there's too many activities that they can't handle, like I got only two hands, I can't manage four things.
 
-# 18.demanding /dɪˈmændɪŋ/ 艰难的，艰巨的 
+## 4)demanding [adj.艰难的，艰巨的] 
+> 1)it means it needs a lot of time and attention.so this word can be used to talke about a person,like he or she is very demanding.that will probably mean that they make lots of demands.
+
+> 2)it can also be sth that takes up a lot of time.reising children is demanding.
+
 - 1. Children can be very demanding. [小孩儿可能会非常难满足]
 
 - 2. Being a professor is a very intellectually demanding job. [当教授是一份对智力要求很高的工作]
 
 - 3. Studying another language is a very demanding pursuit. [学习另一种语言是个要求很高的爱好]
 
+## 5)a dime a dozen [phr.不稀罕的，皆是的]
+> So if something is a dime a dozen, well a dime is ten cents, and a dozen is twelve. but this phrase basically just means they are plentiful everywhere.so when I think of this phrase "a dime a dozen," I think Starbucks.they're everywhere.
 
-# 19.prestigious /preˈstɪʤəs/ 有声望的、有名誉的 
+# 6. carrer
+## 1)public speaker & speak to a lot of people [引起很多人的共鸣] & put himself down [自嘲，自我贬低] 
+> usually this is not just talking. It's probably making a speech,like TED.So it's going to be anything where you are speaking to a large group.
 
-# 20.career-wise /kəˈrɪr-waɪz/ 从职业角度来看 
+## 2)the corporate ladder [n.职业阶梯]
+> so a ladder, that helps you go from a position that's very very low to one that is a little bit higher, that position can be a physical position like from the ground to the top of the tree, or it could be in a corporation.You start at the bottom and you work up the ladder to who knows managerial positions or maybe the CEO.
 
-# 21.ROI /ɑːr oʊ aɪ/ 投资回报 
+## 3）on the front lines ]phr.重要岗位，前线]
+> So if you're like a programmer at a company, you're probably on the front lines dealing with all the programming stuff.and it could be in any field. You are a lawyer, you might be on the front lines of justice.
 
+## 4）ROI/return on investment [投资回报]
+> You're paying all that money for the tuition, but you are expecting to get a higher salary in the future.these are expensive programs, but if you can get a very high paying job afterwards, then that is a great ROI.
 
-# 22.a dime a dozen /ə daɪm ə ˈdʌzən/ 不稀罕的，皆是的
+## 5)relevant [adj.] & related [adj.] & have no/high relevance to sb [n.]
+> 1)relevant is always going to be related.but sth that's realted might not be relevant.Like for example, I could ask Diana about her baking.You know like "Hey, how's the baking", or maybe like "What's your favourite recipe".And then Diana can say something like "Pre-heating the oven to 450 degrees is essential to baking".So that's clearly related to baking, but it has nothing to do with what Adam just asked me.
+
+> 2)So something that is high in relevance is probably going to speak to a lot of people.And something could have no relevance.That has no relevance to me, whatsoever.
  
-
 # IV.pattern
 ***Alright Tyler, why don't you tell me a little about yourself? Why do you want to do a PhD?***
 

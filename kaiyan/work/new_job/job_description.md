@@ -1,81 +1,75 @@
 # Job_description
-# I.
+# I.perfect job description
+> There's a lot of competition for talent in the top positions. Writing a good job description is an essential step toward attracting the right people to join your company.
 
+> Not all job descriptions are created equal. The perfect job description shouldn’t be too descriptive or too vague. Clear language and an honest representation of the culture of the company are also very important. Formatting strategies can also improve your company's job descriptions:
 
+# 1.Bullet Point When Possible
+> Make your job description easier to skim by using bullet points within the responsibilities and qualifications sections and anywhere else that makes sense.
 
+# 2.Be Specific
+> While conciseness is appreciated, it's also important to be as specific and transparent as possible in your job description. Vague descriptions can make it difficult for potential applicants to imagine themselves in a role and decide whether they are qualified.
+
+# 3.Use Direct Language
+> It's important to give potential applicants a clear idea of the responsibilities and qualifications necessary for the job. Avoid words such as "sometimes" or "often" when describing duties. Instead, organize job responsibilities by hours or percentage of time spent on each.
 
 # II.grammar
 # 1.tag questions for opinions/反义疑问句
 > Tag questions are used when we expect someone to agree with us or when we are asking for confirmation.We use tag questions when we think someone will agree with us or if we are asking for confirmation. When a statement is affirmative, the tag question is negative, and vice versa.
 
-- Health insurance is really expensive, isn’t it? (健康保险通常都很贵，不是吗？) 
+- Health insurance is really expensive, isn’t it? [健康保险通常都很贵，不是吗？]
 
-- A new car isn’t cheap, is it? (新车都不便宜，是吗？)
+- A new car isn’t cheap, is it? [新车都不便宜，是吗？]
 
 > When ‘be’ is the main verb, ‘be’ is also used in the tag question. We do the same with modals in the main clause and tag too (e.g., should, would, could) All other simple present and past verbs use the auxiliary verb “do” in the tag.
 
-- New paint makes every house look much nicer, doesn’t it? (新的画让每个家都看起来更漂亮，不是吗？) 
+- New paint makes every house look much nicer, doesn’t it? [新的画让每个家都看起来更漂亮，不是吗？]
 
-- You found affordable child care, didn’t you? (你找到付得起的儿童保育所了，对吗？)
+- You found affordable child care, didn’t you? [你找到付得起的儿童保育所了，对吗？]
 
 > Remember: ‘be’ and ‘do’ change with the subjects and with the tenses accordingly.
 
-- 1. There aren’t enough policemen, are there? 警力不够，是吗？ 
+- 1. There aren’t enough policemen, are there? [警力不够，是吗?]
 
-- 2. People don’t care about our city, do they? 人们不在乎我们的城市，是吗？ 
+- 2. People don’t care about our city, do they? [人们不在乎我们的城市，是吗？]
 
-- 3. Universities should provide day care, shouldn’t they? 大学应该提供日托服务，是吗？ 
+- 3. Universities should provide day care, shouldn’t they? [大学应该提供日托服务，是吗？]
 
-- 4. My new haircut makes me look pretty, doesn’t it? 我的新发型让我看起来很漂亮，是吗？
+- 4. My new haircut makes me look pretty, doesn’t it? [我的新发型让我看起来很漂亮，是吗?]
 
-# 2.pointers /ˈpɔɪntɚz/ 指南 
+# 2.pointers [n.指南] & overview [n.概括，总结] & summarized [v.概述]
+> 2)the overview is just a quick summary,just a couple of sentences that would describe the main responsibilities of this position.
 
-# 3.overview /ˈoʊvərˌvju/ 概括，总结 
-- 1. The annual report gives investors a financial overview. 年度报告给了投资者一个金融概况。 
+- 1. The annual report gives investors a financial overview. [年度报告给了投资者一个金融概况]
 
-- 2. Read the instruction manual to get an overview of the job. 看看说明手册了解一下职位概况。 
+- 2. Read the instruction manual to get an overview of the job. [看看说明手册了解一下职位概况]
 
-- 3. In the third paragraph she provides a more detailed overview of her research. 在第三段中她举出了更详细的调查概况。
+- 3. In the third paragraph she provides a more detailed overview of her research. [在第三段中她举出了更详细的调查概况]
 
-# 4.summarized /ˈsʌməˌraɪzd/ 概述
+# 3.competitive [adj.] salary & candidates [n.]
+> this just means that the salary that they offer,should compete with other companies who are posting for the same position or a similar position.
 
+- 1. The media's control over presidential debates can really affect a candidate. [媒体控制总统辩论真的可以影响到候选人的支持率]
 
-# qualifications /ˌkwɑləfəˈkeɪʃənz/ 资格，条件 
-- 1. Experience was considered an important qualification for the job. 经验对申请职位来说是很重要的。 
+- 2. The job ad tells you exactly what the committee wants in a candidate. [职位广告准确的告诉你委员会想要候选人拥有什么资质]
 
-- 2. He believes a professional license could still be a useful qualification even if it was not a requirement for all managers. 他相信专业执照仍是非常有用的，及时不是所有经理都要求到。 
+- 3. We had a candidate send the department a fruit basket after an interview. [我们有个候选人在面试后给部门寄了一个水果篮]
 
-- 3. The minimum qualification should be a degree in physics at least. 最低要求是至少有个物理学学位证书。
+# 4.qualifications [n.资格，条件] & certifications [n.证书]
+> So qualifications are things you need to do the job, so sometimes it's education.can be previous experience.years of experience or type of experience.there are the things that help them determine if you are capable.
 
+- 1. Experience was considered an important qualification for the job. [经验对申请职位来说是很重要的]
 
-minimum /ˈmɪnɪməm/ 最低程度的 
+- 2. He believes a professional license could still be a useful qualification even if it was not a requirement for all managers. [他相信专业执照仍是非常有用的，及时不是所有经理都要求到] 
 
+- 3. The minimum qualification should be a degree in physics at least. [最低要求是至少有个物理学学位证书]
 
-certifications /ˌsɜrtəfəˈkeɪʃənz/ 证书 
+# 5.specialized [adj. & flexibility [n.灵活度] 
+- 1. Such specialized crops are possible because researchers are mastering the science of breeding. [这种特殊的农作物是可行的，因为研究人员已经掌握育种的科学]
 
-specialized /ˈspɛʃəˌlaɪzd/ 专门的 
-- 1. Such specialized crops are possible because researchers are mastering the science of breeding. 这种特殊的农作物是可行的，因为研究人员已经掌握育种的科学。 
+- 2. Each industry has specialized talent, but the corporations lack a common vision. [各行各业都有专门的天赋，但公司往往缺乏洞察力]
 
-- 2. Each industry has specialized talent, but the corporations lack a common vision. 各行各业都有专门的天赋，但公司往往缺乏洞察力。 
-
-- 3. Many businesses continue to rely on specialized software. 许多业务都依靠专业的软件。
-
-competitive /kəmˈpetətɪv/ 竞争的 
-
-
-flexibility /ˌfleksəˈbɪləti/ 灵活度 
-
-
-candidates /ˈkændədeɪts/ 候选人
-- 1. The media's control over presidential debates can really affect a candidate. 媒体控制总统辩论真的可以影响到候选人的支持率。 
-
-- 2. The job ad tells you exactly what the committee wants in a candidate. 职位广告准确的告诉你委员会想要候选人拥有什么资质。 
-
-- 3. We had a candidate send the department a fruit basket after an interview. 我们有个候选人在面试后给部门寄了一个水果篮。
-
-
-
-
+- 3. Many businesses continue to rely on specialized software. [许多业务都依靠专业的软件]
 
 # III.pattern
 ***Hey Katie, I have a question. I have an open position in my department that I got approval to fill. Can you give me some pointers on writing a job description so I can get this posted? I figured, as HR Manager, you're my best bet!***
