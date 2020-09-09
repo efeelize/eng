@@ -290,9 +290,9 @@
 # 13.even if it were /虚拟语气
 > 1)This is a perfect example of the subjunctive mood in English: the verb form that is used to express a wish, a suggestion, a command, or a condition that is contrary to fact.[用动词不同的时态来表达愿望、建议、命令或者和事实相反的条件]
 
-> 2)In this case, the subjunctive is formed by using "were" with the 1st and 3rd person singular, in place of the normal past form was, which is why the phrase is "even if it were", not "even if it was". Although we can call this the "past subjunctive", it is not necessarily connected to any period in time.[用“were”替换了第一人称和第三人称单数常见的be动词过去式“was”，构成虚拟语气，这就是为什么写作“even if it were”，而不是“even if it was”的原因。虽然我们可以称之为过去虚拟语气，但是它不一定和什么时间点相关。]
+> 2)In this case, the subjunctive is formed by using "were" with the 1st and 3rd person singular, in place of the normal past form was, which is why the phrase is "even if it were", not "even if it was". Although we can call this the "past subjunctive", it is not necessarily connected to any period in time.[用“were”替换了第一人称和第三人称单数常见的be动词过去式“was”，构成虚拟语气，这就是为什么写作“even if it were”，而不是“even if it was"的原因。虽然我们可以称之为过去虚拟语气，但是它不一定和什么时间点相关。]
 
-> 3)what if you want to say "even if it was"? Would that be grammatically incorrect? That really depends who you ask. The subjunctive mood is quite formal and academic, so if you are writing, try to stick to it. In daily speech, the subjunctive is used much less, so you will hear phrases like "even if it was". [那如果你要说“even if it was”呢？这句话语法上是错误的吗？这就取决于你问谁了。虚拟语气是非常正式和学术的，如果你是在写作中用到，那就要严格按照规则来。在日常口语中虚拟语气用得很少，所以你会听到“even if it was”这样的表达]
+> 3)what if you want to say "even if it was"? Would that be grammatically incorrect? That really depends who you ask. The subjunctive mood is quite formal and academic, so if you are writing, try to stick to it.In daily speech, the subjunctive is used much less, so you will hear phrases like "even if it was". [取决于你问谁了。虚拟语气是非常正式和学术的，如果你是在写作中用到，那就要严格按照规则来。在日常口语中虚拟语气用得很少，所以你会听到“even if it was”这样的表达]
 
 - 1. Even if the tickets were free, I still wouldn't go to such a mindless show.[即使票是免费的，我也不会去看这种无聊的演出]
 
