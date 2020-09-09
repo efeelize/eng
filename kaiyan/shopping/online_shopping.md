@@ -46,7 +46,12 @@
 
 > 2)"trumps". so like we do often use this phrase, like we often say like "it beats something". Like for example, maybe Diana can see me, you know, lying on a beach, somewhere. "What are you doing?" "Well that sure beats working."
 
-## 4)run-of-the-mill [普通的] innovative [创新的，新颖的]
+## 4)run-of-the-mill [普通的] innovative [adj.创新的，新颖的] & innovating [n.&v.] & innovation [n.]
+> 1)so it just means ordinary,I guess at one point, you know, the mill was probably a pretty important place that's where we make flour for bread. And so running that mill probably wasn't all that special.
+
+- It was just a run-of-the-mill day until I won the lottery.
+
+> 2)this is the word of the day, Everything is about innovating or innovation.
 
 ## 5)revitalized [v.重振]
 > it means refresh,we use this word a lot.
@@ -94,14 +99,16 @@
 ## 6)democratize /dɪˈmɑkrəˌtaɪz/ [v.使大众化]
 > 1)we heard this word a lot since the dawn of the internet. Because the internet has really been a democratizing force in society.before it is the regular person had no voice to share with the world, but now because the Internet like any regular average Joe can make their voice heard through social media.and enforce that social media but other like industries like like the music industry
 
-> 2)for example, before if you wanted to be a superstar, there really weren't that many roads to go down, You had to kind of get the agent, you had to get the manager, you had to go to the big record label. But now you could just sit at home and just kind of,make your own songs.
+> 2)for example, before if you wanted to be a superstar, there really weren't that many roads to go down, You had to kind of get the agent, you had to get the manager, you had to go to the big record label. But now you could just sit at home and just kind of,make your own songs.that's what this is doing for shopping as well if I have an idea for a brand, I don't need to pay all that overhead, I can just start an online store.
 
-## 7)perks 特别待遇 & exclusives 独家特卖 
+## 7)perks [n.特别待遇] 
+> I think about perks as being something that's related to your job.like perks and benefits.
 
-## 8)pamper /ˈpæmpər/ 纵容，呵护
+## 8)to be pampered /ˈpæmpər/ [v.纵容，呵护]
+> it means give sb a special treatment.
 
-
-
+## 9)exclusives [n.独家特卖]
+> Whereas exclusive is a deal or an offer, something that you buy or purchase.so this probably came originally from exclusive deals.But again we're lazy, so we just don't say the word deal here and just say exclusive, we're gonna give you this special deal, the special offer.
 
 # 4.product
 ## 1)gadgets /gæ,dʒets/ [n.小型、新颖的电子产品]
@@ -130,7 +137,6 @@
 
 ## 7）big-ticket items [n.昂贵的物品]
 > it's kind of pretty literal /'lɪtərəl/ [adj.字面的]. If you think of ticket as price, so big-ticket items are going to be just really expensive things, such as the TV that he wants.Yes, certain furniture is quite expensive. And as well as a lot of household[adj.家庭的，日常的] appliances /ə'plaɪəns/ [n.电器工具]，washing machine,the refrigerator.
-
 
 # 5.price
 ## 1)insanely low  [adv.疯狂的，极度的]
@@ -169,7 +175,8 @@
 ## 4)what have you[phr.诸如此类]
 > they are very hot nowadays. And another little phrase here, "what have you".what have you and son on,etc.
 
-## 5)worth your while [值得]
+## 5)worth your while [phr.值得]
+> so this phrase is like you said, it has the same meaning as worth it, just a different way.and we often use it when we're trying to convince someone who like, maybe like I don't really want to go.
 
 # 7.regret (not)doing sth [v.] & regrets[n.] & be regretful about sth [adj.]
 > 1)This is basically feeling sorry that you didn't do something earlier differently.Or you did do something and wish you didn't do it.so either way, you're always kind of wishing you had done things differently, whether it's doing something or not doing something.Or even you could say, here's an example. I regret not doing more. So you did something but you just, maybe you didn't do enough. 
