@@ -1,7 +1,12 @@
 # student_loans
-# I.
+# I.what do you need to know about America's student loans
+> Going to university in the US is expensive – costing an average of over $34,000 a year in tuition and fees at private universities – which means for most Americans, the only way of viably pursuing higher education is to take out a student loan.
 
+> The two main options for prospective students are a government-funded federal loan or a private loan from a provider such as a bank, university or state agency [州立机构]. Both are paid back with interest (interest on federal loans is fixed [利息是固定的] and normally lower than on private loans, which can be expensive and risky and comprise [占] just 14% of student loans).
 
+> Federal loans come in various forms – including direct subsidized [补贴直接贷款], direct unsubsidized [无补贴直接贷款] and direct plus [plus直接贷款] for graduates and professionals. There’s also Direct Plus for parents [家长PLUS直接贷款], where, as the name suggests, the student’s guardians take the full burden.
+
+> Depending on year [学年] and dependency status, undergrads can borrow between $5,500 and $12,500 a year in federal loans; professionals and graduate students have access to up to $20,500 a year. Federal loan repayments are monthly [按月偿还] and start six months after graduation – usually continuing for 10-25 years.
 
 # II.grammar
 # 1.to factor sth in/into 考虑进去，算上 
@@ -13,9 +18,8 @@
 
 - 3. We forgot to factor that in when doing our calculations. 我们计算时忘了把那个算进去了。
 
-
 # 2.debt
-## 1)student loan debt 学生贷款债务  & graduate school/grad school 研究生院
+## 1)student loan debt [学生贷款债务]  & graduate school/grad school [研究生院]
 
 ## 2)outstanding debt 未偿债务 
 

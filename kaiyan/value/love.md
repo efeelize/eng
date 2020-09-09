@@ -1,4 +1,4 @@
-# love
+# Love
 
 # I.Quick facts on dating culture in the US 
 # 1.Marriage is not (always) the ultimate goal
@@ -36,13 +36,14 @@
 
 > There is another sneaky [adj.狡猾的] tactic that is often used by both nosy relatives and regular people (both men and women) looking for dates. Just assume that the person does have a significant other [先假定有另一半], and then ask something about that supposed relationship. For example, you could ask "what did your boyfriend get you for Valentine's Day/your birthday/Christmas". If the person is seeing someone, then they can tell you about the gift and, indirectly, their boyfriend. If they aren't seeing anyone or don't want to tell you, then this gives them the opportunity to answer in the way they so choose.
 
-# I.
+# I.why do we fall in love
+> Love, as the song says, is a many-splendored thing [非常美妙]. So, when we find it, we're keen to enjoy the spoils [尽情享受胜利的果实]. But what is it about humans that makes us long for love in the first place? It turns out the most inherent reason is also probably the least romantic.
 
+> Generally speaking, human 'pair bonding' [‘成双结对’] is a drive to keep the species in existence,[物种得以持续存在的驱动力]" explains Dr. Nicki Nance, licensed psychotherapist [持证心理医疗师] and professor at Beacon College in Leesburg, Florida in an email interview [邮件采访]. Over time, the tendency to find a love connection evolved from relationships built on need to those of enjoyment.[从寻找基于需求的亲密关系进化为寻找基于快乐的亲密关系] 
 
+> "Today, falling in love is socially defined. If we didn't have love stories to establish the expectation of falling in love, we might not do it. We would still bond, though," she says, noting that contemporary love is more successful when key components like passion, companionship [陪伴] and commitment [承诺] are present.
 
-
-
-
+> "When we are in the company of the loved one, the brain produces more serotonin [血清素], which gives a sense of well-being, more endorphins [内啡肽], which are natural pain killers, and more dopamine [多巴胺], which increases pleasure. The good feeling is a reward that makes us want more," Nance explains.
 
 # II.grammar
 # 1.一见钟情
@@ -204,22 +205,6 @@
 
 ## 10)fix （一剂）让人满足的东西 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 6.a sense of sth sight / smell /taste /direction
 > 1)Sense.It really just means feeling or in this case ability almost,ike ability to understand,and we often use this phrase "a sense of something." Like, we all have a sense of sight or smell or taste. 
 
@@ -302,6 +287,8 @@
 
 # 14.come again 什么（再说一遍）
 
+
+# 15.therapists /ˈθɛrəpɪsts/ 心理咨询师 & psychiatrist /səˈkaɪətrəst/ 心理医生
 
 
  

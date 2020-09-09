@@ -34,31 +34,14 @@
 
 > 2)what the Mamba mentality became was this constant trying to be the best version of yourself. Like on the court, that might be someone who is aggressive and going for the ball, but it means different things off the court as well.
 
-## 4)striving to be one's best 全力争取
-> 1)to strive means to work really hard to do this.if you want to be a doctor, you have to strive to be a doctor. It takes a long time and a lot of grit.All of us strive to achieve our dreams. 
+## 4)buff /bʌf/ 体形健美的
 
-> 2)And if you're a celebrity, maybe you might strive to find a balance between your public life and your private life.
+# 3.devastated /ˈdevəsteɪtɪd/ [adj.& v.极度震惊的；极为烦乱的]
+> 1) when we use it as an adjective. it's just sort of when you do a lot of damage to something.it means really really really sad and depressed.There's so much damage to my feelings.So you hear this a lot when we talk about death. "She was devastated by his death."
 
-- 1. He strove to find a balance between his public life and private life. 
+> 2)we can use it as a verb, too. So during war, a lot of cities are devastated.
 
-- 2. As a company, we strive to be the change we want to see. [我们公司努力改变自身，以期达到自身期望] 
-
-- 3. To her, striving to the best means striving to be creative and profound.[对她而言，努力做到最好，就是努力变得富有创造力，变得知识渊博]
-
-## 5) altar /ˈɑːltɚ/ [n.圣坛]
-
-# 3.person
-## 1) to butted /ˈbʌtɪd/ heads  [phr.矛盾重重]
-> 1)when two people are the stars or they think they're the leaders, they're the strong one, they can "butt heads."and it happens a lot in sports,any time when you need to cooperate,but you just can't.
-
-> 2)now "to butt heads" means to hit heads, So you can imagine that these two people are just disagreeing. They're always fighting.And it's usually because they're both too stubborn.
-
-## 2)grit /grɪt/ [n.勇气，毅力] & gritty [adj.勇敢的]
-> It means that you've got courage and determination to keep going, To persevere.And grit is just important for everything. Even for students, if you have grit, then you're more likely to keep going and keep learning and eventually get your goal.When I think of grit, I think of like the old cowboy western days. Those guys had grit. they're dirty. They're walking through the desert. They got the horses and they're tough and they persevere.but these days we often think of grit as being related to those CEOs.
-
-> 2)The adjective form of grit is gritty.so you can be gritty.
-
-## 3)revered /rɪˈvɪrd/ [ptcp.尊敬；崇敬] & to show reverence for sb 
+# 4.revered /rɪˈvɪrd/ [ptcp.尊敬；崇敬] & to show reverence for sb 
 > 1)revere is a lot stronger than respect. It's like respect like they are a god.And when you're "revered," you're respected and you're looked up to.so celebrities are revered. It kind of has this feeling like they're gods.we all know they're not. They're just people. They're just humans, and they worked really hard.
 
 - 1. Roger Federer is widely revered for his humble nature and athletic versatility. [罗杰·费德勒天性谦逊，运动场上灵活多变，备受众人尊重]
@@ -67,38 +50,16 @@
 
 - 3. Her eyes shone with reverence as he signed her jersey. [他给她的运动服签名时，她的眼睛闪闪发亮，充满敬意]
 
-> 2)to show reverence for someone means to show respect, but we do think of that godlike situation,So when I say "show reverence," I imagine people bowing or praying at an altar.
+> 2)to show reverence for someone means to show respect, but we do think of that godlike situation,So when I say "show reverence," I imagine people bowing or praying at an altar.  
 
-## 4)unrivaled /ʌnˈraɪvəld/ [adj.所向披靡的] & sb could rival sb 
-> 1)so when you're unrivaled,it means that you have no competitors.so it's nice to be unrivaled in sports,but we can also say this word in other areas,too.
-
-- 1. When it comes to soccer, Lionel Messi unrivaled on the field. [说到足球，里奥·梅西在球场上所向披靡] 
-
-- 2. He's got a free throw that could rival Michael Jordan's. [他投的罚球可以和迈克尔·乔丹的媲美] 
-
-- 3. There's nothing wrong with a little friendly rivalry. [有一点友好的竞争，没什么不对的]
-
-> 2）a rival is a competitor at the same level as you.we can also actually say that someone could rival someone, and this means that they are strong enough to be a good competition.
-
-## 5)divisive /dɪˈvaɪsɪv/ [adj.充满争议的]
-> so divisive means that he caused a lot of disagreement.
-
-## 6)devastated /ˈdevəsteɪtɪd/ [adj.& v.极度震惊的；极为烦乱的]
-> 1) when we use it as an adjective. it's just sort of when you do a lot of damage to something.it means really really really sad and depressed.There's so much damage to my feelings.So you hear this a lot when we talk about death. "She was devastated by his death."
-
-> 2)we can use it as a verb, too. So during war, a lot of cities are devastated.
-
-## 7)Renaissance /ˈrenəsɑːns/ man  [n.多才多艺的人]
-> 1)renaissance, first of all, was this period in the 1500s like when Da Vinci was alive. And we all know that Da Vinci could do so many different things.
-
-> 2)So we have this term "renaissance man," and it just means someone who is very talented and someone who can do a lot of different things.
-
-> 3)we usually say /ˈrenəsɑːns/, but some people say /rɪˈneɪsns/. It's a French word, but if you're in America, I would say /ˈrenəsɑːns/.
-
-# 4. public/private life [n.公共/私人生活]  
-
-# 5.leave legacy /ˈleɡəsi/ [n.遗产] & preserve/honor sb's legacy.
+# 5.leave legacy /ˈleɡəsi/ [n.遗产] & preserve/honor sb's legacy.& modern history 现代历史
 > a legacy is just what you leave behind. This could be your history, your accomplishments, your money, your property.
+
+- 1. Many ideals lived on in their legacy. [许多理想、理念在后世继续流传]
+
+- 2. The war left a legacy of pain and suffering. [战争留下了苦痛]
+
+- 3. His legacy left a lasting impact. [他的遗产留下了深远的影响]
 
 # III.pattern
 ***I can't believe Kobe is gone. He was the greatest player of his generation.***
