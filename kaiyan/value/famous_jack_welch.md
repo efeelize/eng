@@ -1,7 +1,12 @@
 # Famous_people_Jack_Welch
-# I.
+# I.Jack Welch in retrospect
+> Tributes are pouring in after the death of Jack Welch, the legendary CEO of General Electric from 1981 to 2001. But these tributes largely miss the deeper story of Welch's legacy.
 
+> The prevailing wisdom was that soft [松散的] Americans couldn't compete with highly disciplined Asian factory workers, but they could make money in other ways. Welch fought back hard, reversing the unintended defeatist culture [无意中建立的失败主义文化] of his predecessor, Reginald Jones. 
 
+> In three waves of culture change [企业文化变革], he pushed his executives to get aggressive [敦促高管积极进取], not to give up. His goal of "be number one or number two in your market [成为所属市场的第一第二]" was partly a way to raise expectations, to get people to believe they should succeed, and take risks. His "speed, simplicity, and self-confidence" program fought bureaucracy. Welch dared to believe that Americans could fully compete in global and non-oligopolistic markets [非寡头垄断市场中]. And his "rank or yank" [“不进则退”] program dismissed [解雇] 10% of the workforce each year, to combat complacency.
+
+> His spirited attack led the American turn around against foreign competition, albeit partly by offshoring production to cheaper labor markets [将生产外包到更廉价的劳动市场]. "GE University" at Crotonville [克罗顿维尔] trained his executives in his philosophy, and many of them went on to improve operations throughout the American economy. 
 
 # II.grammar
 # 1.what/why/where/how-cleft sentences [分裂句]

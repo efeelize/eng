@@ -1,8 +1,10 @@
 # famous_people_Jack_Ma
-# I.
+# I.How Jack Ma overcame his greatest failures to become the richest man in China
+> A little boy once believed that everything was possible, as long as you tried your best for it [只要功夫深，铁杵磨成针]. Growing up, he faced a series of closed doors, be it when he was attempting to pass college or when he was turned down for 30 different jobs. Refusing to be dissuaded [打败], he adopted a new and more practical mantra [座右铭]–persistence is key.
 
+> This little boy grew up to be none other than Jack Ma, Founder of Alibaba. While Jack Ma's incredible story of earning $12 a month to becoming a multibillionaire is a definitive rags to riches tale [穷小子变大富豪], he attributes his sparkling success to relentless effort. And today, the almost stubborn persistence [坚持不懈几近固执] of a young man who refused to bend down to fate has finally paid off.
 
-
+> For Ma, this success today has come at the price of his youth in a way, where he stepped one foot into quicksand more times than he can count today. However, this also taught him to keep one foot on the ground and pull his way back onto safe land and watch his step in the future.[脚踏实地的同时，仰望星空]
 
 # II.grammar
 # 1. alliteration [头韵] or assonance [类韵]

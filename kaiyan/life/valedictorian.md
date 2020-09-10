@@ -22,15 +22,15 @@
 # 1.sense
 > Sense is the ability to understand, value or react to something, especially regarding sight, smell, taste, touch, hearing. It's also used to talk about general feelings or understanding that we have.
 
-- 1. Peter has a great sense of humor for just a 10-year-old boy. 对于一个十岁的孩子来说，Peter很有幽默感。 
+- 1. Peter has a great sense of humor for just a 10-year-old boy. [对于一个十岁的孩子来说，Peter很有幽默感]
 
-- 2. A sense of danger filled the room as they heard the loud noise. 当他们听到一时巨响之后，危险感充满了整间房间。 
+- 2. A sense of danger filled the room as they heard the loud noise. [当他们听到一时巨响之后，危险感充满了整间房间]
 
-- 3. It's important to have a sense of self in order to understand your identity. 要了解自己的人格必须要有自我意识。
+- 3. It's important to have a sense of self in order to understand your identity. [要了解自己的人格必须要有自我意识]
 
-- 4. Colleen has great fashion sense. She always wears the latest trends. Colleen很有时尚嗅觉。她的穿着总是很新潮。 
+- 4. Colleen has great fashion sense. She always wears the latest trends. [Colleen很有时尚嗅觉。她的穿着总是很新潮]
 
-- 5. Dogs have a far better sense of smell than humans. 狗比人类的嗅觉灵敏多了。
+- 5. Dogs have a far better sense of smell than humans. [狗比人类的嗅觉灵敏多了]
 
 
 # 2.make it
@@ -38,18 +38,18 @@
 
 > It can also mean "to arrive", as in "John, you made it!". "made it" means that you have succeeded,. After all, not everyone can succeed, so you can think about those who do as having made it.
 
-- 1. She made it big during the Tech Boom in the 90s, but soon lost everything she had. 她在90年代科技大爆炸的时候取得了巨大成功，不过很快就一无所有了。 
+- 1. She made it big during the Tech Boom in the 90s, but soon lost everything she had. [她在90年代科技大爆炸的时候取得了巨大成功，不过很快就一无所有了]
 
-- 2. They all said that we'd never make it; that we were fools to try. Well, just look at us now! 他们都说我们永远不会成功；我们是傻瓜，才会去尝试。但是看看我们现在！
+- 2. They all said that we'd never make it; that we were fools to try. Well, just look at us now! [他们都说我们永远不会成功；我们是傻瓜，才会去尝试。但是看看我们现在!]
 
 
 
 # 3.commencement /kəˈmɛnsmənt/ 毕业典礼、开端、开始
-- 1. The commencement ceremony will begin at 10:00 a.m. 毕业典礼将在上午十点开始。 
+- 1. The commencement ceremony will begin at 10:00 a.m. [毕业典礼将在上午十点开始]
 
-- 2. The board meeting commenced 10 minutes late. 董事会会议延迟了十分钟。 
+- 2. The board meeting commenced 10 minutes late. [董事会会议延迟了十分钟]
 
-- 3. Construction of the new tower commences tomorrow. 新大楼的建造从明天开始。
+- 3. Construction of the new tower commences tomorrow. [新大楼的建造从明天开始]
 
 
 # 3.school
@@ -71,27 +71,27 @@
 ## 7)millennials /mɪˈlɛniəlz/ 千禧一代(指美国80年代到2000年出生的人）
 
 ## 8）era
-- 1. The post-war era in North America was a Golden Age of growth and prosperity. 北美的战后时代是发展和繁荣的黄金时代。 
+- 1. The post-war era in North America was a Golden Age of growth and prosperity. [北美的战后时代是发展和繁荣的黄金时代]
 
-- 2. Serious historians generally don't refer to the Medieval Era as the Dark Ages. 严肃的历史学家们一般不会把中世纪称作黑暗时代。 
+- 2. Serious historians generally don't refer to the Medieval Era as the Dark Ages. [严肃的历史学家们一般不会把中世纪称作黑暗时代]
 
-- 3. Who would have thought at the beginning of the Internet Era just how much this technology would affect our lives? 互联网时代刚开始时，谁能想到它能给我们的生活带来如此大的影响？
+- 3. Who would have thought at the beginning of the Internet Era just how much this technology would affect our lives? [互联网时代刚开始时，谁能想到它能给我们的生活带来如此大的影响?]
 
 # 4.launched /lɑːntʃt/ 开启 & moving forward /ˈmuvɪŋ ˈfɔrwərd/ 前进，推进
 
-- 1. The new startup launch will be held next week. 新公司的启动仪式将在下周进行。 
+- 1. The new startup launch will be held next week. [新公司的启动仪式将在下周进行]
 
-- 2. The system has had so many glitches since its launch. 从发布以来，系统就一直小问题不断。 
+- 2. The system has had so many glitches since its launch. [从发布以来，系统就一直小问题不断]
 
-- 3. Experts believe that Facebook launching its new service will increase profits. 专家认为Facebook新发布的服务会提高其利润。
+- 3. Experts believe that Facebook launching its new service will increase profits. [专家认为Facebook新发布的服务会提高其利润]
 
 # 5.occurred /əˈkɜrd/ 发生、出现
 
-- 1. An accident occurred last night on the highway. 昨晚公路上发生了一起意外事故。
+- 1. An accident occurred last night on the highway. [昨晚公路上发生了一起意外事故]
 
-- 2. Hurricane occurrences have increased due to climate change 由于气候变化飓风出现的可能性也增加了。 
+- 2. Hurricane occurrences have increased due to climate change [由于气候变化飓风出现的可能性也增加了]
 
-- 3. It suddenly occurred to me that I had left my keys at home. 我突然想起我把钥匙落在家里了。
+- 3. It suddenly occurred to me that I had left my keys at home. [我突然想起我把钥匙落在家里了]
 
 # 6.ironic /aɪˈrɑːnɪk/ 讽刺的 & deceitful /dəˈsitfəl/ 虚伪的、带有欺骗性的 cynical /ˈsɪnɪkəl/ 愤世嫉俗的、冷嘲热讽的
 
@@ -102,11 +102,11 @@
 
 # 8.identity /aɪˈdɛntəti/ 身份 & character /ˈkɛrɪktər/ 性格、角色 & defining /dɪˈfaɪnɪŋ/ 起决定性作用的、最能代表的
 
-- 1. His actions lately really say a lot about his character, don't they? 他最近的行为真的很能反映他的人品，不是吗？ 
+- 1. His actions lately really say a lot about his character, don't they? [他最近的行为真的很能反映他的人品，不是吗？]
 
-- 2. Her character in the film is a troubled young woman who finds hope in an unlikely place. 她在电影中的角色是一个年轻的问题女性，在一个不太可能的地方找到了希望。 
+- 2. Her character in the film is a troubled young woman who finds hope in an unlikely place. [她在电影中的角色是一个年轻的问题女性，在一个不太可能的地方找到了希望]
 
-- 3. I'm having trouble finding my motivation for this character. I think I need to ask the director. 我找对于这个角色的动力有困难。我觉得我要去问问导演。
+- 3. I'm having trouble finding my motivation for this character. I think I need to ask the director. [我找对于这个角色的动力有困难。我觉得我要去问问导演]
 
 # 9.entitlement /ɛnˈtaɪtəlmənt/ 认为理所当然 & instinctively /ɪnˈstɪŋktɪvli/ 本能地
 
