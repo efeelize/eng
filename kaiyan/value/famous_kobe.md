@@ -52,7 +52,9 @@
 
 > 2)to show reverence for someone means to show respect, but we do think of that godlike situation,So when I say "show reverence," I imagine people bowing or praying at an altar.  
 
-# 5.leave legacy /ˈleɡəsi/ [n.遗产] & preserve/honor sb's legacy.& modern history 现代历史
+# 5.leave legacy /ˈleɡəsi/ [n.遗产] & preserve/honor sb's legacy.& modern history [现代历史]
+> legacy can actually be your assets.so it could be an actual physical thing, but can also be kind of a spiritual thing like your name in your children.So it's kind of like the impact that you have made.
+
 > a legacy is just what you leave behind. This could be your history, your accomplishments, your money, your property.
 
 - 1. Many ideals lived on in their legacy. [许多理想、理念在后世继续流传]
