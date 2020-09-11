@@ -18,7 +18,15 @@
 
 > Often, a university will have famous alumni [知名校友] to give commencement speeches when possible. Some of the most famous commencement speeches have come from Harry Potter author J.K. Rowling at Harvard University in 2008, Apple's Steve Jobs at Stanford University in 2005, and President John F. Kennedy at American University in 1963.
 
-# I.
+# I.Following your passion is dead-here's what to replace it with
+# 1. Identify needs in the market that are currently not being well met
+> In this step, be critical[谨慎]: Is there really demand there or am I deluding myself[自欺欺人] ? The absence of an app that alerts you when to cut your fingernails [提醒剪指甲的应用] is not a surefire sign that you've uncovered a lucrative niche [利基市场]. So as you're starting out, be conservative and identify certain niches that definitely exist and are growing. 
+
+# 2. Assess your strengths
+> Are you good or can you develop skills in something that can meet that demand? This is where passion, talent, your interests do play a role. The cardinal sin [最大原罪] of the passion principle [激情原则] is that it only considers this point, without ever taking Step 1 and 3. 
+
+# 3. Match up these two in a constantly iterative process [迭代的过程]
+> Unfortunately, work's not done after 1&2 [只完成第一步和第二步事情还没有结束]. You'll have to eat humble pie [吃苦受累], start at the very bottom of the hierarchy and through a constant cycle of getting smarter, building experience and trying out different business models [武装大脑，积累经验] — Should you be an employee? An independent contractor[合同工]? Or is there even a startup opportunity [创业机会] you can raise investment for? For most of us mere mortals [凡人], this process takes many years if not decades, and may contain many late nights battling fear and anxiety — so buckle up.[做好准备]
 
 # II.grammar
 # 1.sense

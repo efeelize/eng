@@ -14,9 +14,21 @@
 
 - 3)Limited growth. [有限升值空间]You’ll miss out on the long-term impact of your work with the company. 
 
-# I.
+# I.Ways to step out of your comfort zone
+# 1. Become aware of what's outside of your comfort zone
+> What are the things that you believe are worth doing but, are afraid of doing because of the potential for disappointment or failure? Draw a circle and write those things down outside the circle. This process will not only allow you to clearly identify your discomforts but your comforts.
 
+# 2.Get comfortable with discomfort
+> One way to get outside of your comfort zone is to literally expand it. Make it a goal to avoid running away from discomfort.
 
+# 3. See failure as a teacher
+> Begin to treat failure as a teacher. What did you learn from the experience? How can you take that lesson to your next adventure to increase your chance of success?
+
+# 4. Take baby steps
+> Take small steps toward the fear you are trying to overcome. If you want to do public speaking, start by taking every opportunity to speak to small groups of people. 
+
+# 5. Focus on the fun
+> Enjoy the process of stepping outside your safe boundaries. Enjoy the fun of discovering things about yourself that you may not have been aware of previously.
 
 # II.grammar
 # 1.Have/give  the/an edge over/on sb
