@@ -42,7 +42,6 @@
 
 - 5. Dogs have a far better sense of smell than humans. [狗比人类的嗅觉灵敏多了]
 
-
 # 2.make it
 >  It can mean, quite literally, to make something, as in to create or build. 
 
@@ -51,7 +50,6 @@
 - 1. She made it big during the Tech Boom in the 90s, but soon lost everything she had. [她在90年代科技大爆炸的时候取得了巨大成功，不过很快就一无所有了]
 
 - 2. They all said that we'd never make it; that we were fools to try. Well, just look at us now! [他们都说我们永远不会成功；我们是傻瓜，才会去尝试。但是看看我们现在!]
-
 
 # 3.宾语前置
 >  "that I can agree with" instead of "I can agree with that." In English, the object can be inverted and placed in front of the subject when the speaker wishes to emphasize it. Often this is used to compare the object to something else.
@@ -72,7 +70,7 @@
 
 - 3. Construction of the new tower commences tomorrow. [新大楼的建造从明天开始]
 
-## 2）dropped out /drɑpt aʊt/ 辍学 & graduates /ˈɡrædʒuəts/ 毕业生 
+## 2)dropped out /drɑpt aʊt/ 辍学 & graduates /ˈɡrædʒuəts/ 毕业生 
 
 ## 3)alumni /əˈlʌmˌnaɪ/ 校友（复数） alumnus /əˈlʌmnəs/ 校友（单数）
 
@@ -97,27 +95,35 @@
 ## 1)inspire /ɪnˈspaɪr/ 激发，鼓舞 & inspirational /ˌɪnspəˈreɪʃənəl/ 鼓舞人心的
 
 
-## 2)cultivated /ˈkʌltəveɪtɪd/ 培养
+## 2)cultivated [v.培养]
+> "Cultivated" basically means to grow something.now the thing with "cultivate" is that it's always something good.you usually cultivate things like a good character or a relationship.
 
-## 3)fulfilling /fʊlˈfɪlɪŋ/ 令人愉快满足的
+- 1. You cultivate strawberries on your farm.
 
-## 4)resilience /rɪˈzɪljəns/ 坚韧 
+- 2. you could cultivate a sense of belonging in the company.
 
-## 5)grit /grɪt/ 决心，勇气
+## 3)fulfilling [adj.令人愉快满足的] & rewarding [adj.]
+> 1)fulfilling just means fills you up with good feelings.We can just use it for anything that we feel good about, like your job could be really filling. You know, teaching is filling. The advice here is to find something fulfilling.
 
-## 6)resilience /rɪˈzɪljəns/ 坚韧 
+> 2)fulfilling is very similar with rewarding.
 
+## 4)resilience /rɪˈzɪljəns/ [n.坚韧] & resilient [adj.有弹性的]
+> 1)so "resilience" is more about the ability to withstand or endure something.
 
+> 2)resilient fabric.or a disease can be very resilient.it will fight medicine.
 
-## 7)identity /aɪˈdɛntəti/ 身份 
+## 5)grit /grɪt/ [n.决心，勇气]
+> A person with grit would be doing something proactively. They would be going beyond, just standing there, fighting whatever's coming towards.so someone who has grit also usually has ambition to move forward,this person has courage and determination.That's why we always use this word with entrepreneurs because they do have the courage to build businesses and go forward.
 
-## 8)character /ˈkɛrɪktər/ 性格、角色 
+## 6)character /ˈkɛrɪktər/ 性格、角色 
 
 - 1. His actions lately really say a lot about his character, don't they? [他最近的行为真的很能反映他的人品，不是吗？]
 
 - 2. Her character in the film is a troubled young woman who finds hope in an unlikely place. [她在电影中的角色是一个年轻的问题女性，在一个不太可能的地方找到了希望]
 
-- 3. I'm having trouble finding my motivation for this character. I think I need to ask the director. [我找对于这个角色的动力有困难。我觉得我要去问问导演]
+- 3. I'm having trouble finding my motivation for this character. I think I need to ask the director. [我找对于这个角色的动力有困难。我觉得我要去问问导演] 
+
+## 7)identity /aɪˈdɛntəti/ 身份 
 
 # 6.cons
 ## 1)ironic /aɪˈrɑːnɪk/ 讽刺的 
@@ -127,20 +133,25 @@
 
 ## 3)cynical /ˈsɪnɪkəl/ 愤世嫉俗的、冷嘲热讽的
 
-## 4)dissatisfied /ˌdɪsˈsætəsfaɪd/ 不满意的 
+## 4)dissatisfied with sth [adj.不满意]
+> People who chase their passion or pursue their passion, they often feel dissatisfied, and tend to give up easily because well, passion does wane after all.
 
-## 5)wane /weɪn/ 衰退，衰落
+## 5)wane /weɪn/ [v.衰退，衰落]
+> "wane" means "to go down." we use this a lot for emotions, so your anger can wane over time. I often think about rulers or people in power, because their power can wane, but it is also definitely true that passion does wane.I think a lot of people think that, you know, passion will keep you going. It'll drive you through, but that doesn't always happen. You do get bored. You do find other passions.
 
-## 6)dilemma /dɪˈlemə/ 矛盾、两难
-- 1. Currently, her dilemma is whether she should quit her job to continue her studies or not. 目前，是否应该辞职继续学业，让她陷入两难. 
+## 6)have/face/go through a dilemma [n.矛盾、两难]
+> it means a difficult choice between two things.
 
-- 2. Her boss placed her in a very awkward dilemma when he asked her to pick sides. 老板让她选择立场，她陷入非常尴尬的两难境地。 
+- 1. Currently, her dilemma is whether she should quit her job to continue her studies or not. [目前，是否应该辞职继续学业，让她陷入两难]
 
-- 3. Max faced an ethical dilemma when his boss asked him to do something that he knew was morally wrong. 老板让Max去做一些他自知是违反道德的事情，Max陷入道德上的两难境地。
+- 2. Her boss placed her in a very awkward dilemma when he asked her to pick sides. [老板让她选择立场，她陷入非常尴尬的两难境地] 
 
-## 7)doomed /duːmd/ 注定的
+- 3. Max faced an ethical dilemma when his boss asked him to do something that he knew was morally wrong. [老板让Max去做一些他自知是违反道德的事情，Max陷入道德上的两难境地]
 
-## 8)entitlement /ɛnˈtaɪtəlmənt/ 认为理所当然 
+## 7)doomed /duːmd/ [adj.注定的]
+> “Being doomed," this means that you're in a situation where the bad situation just can't be avoided. Something bad will happen.It makes me think about the word "fate" because it is this idea that you are fated to do something, and it's always bad.We usually say "doomed to repeat history," So it's always a little bit dramatic.
+
+## 8)entitlement /ɛnˈtaɪtəlmənt/ [认为理所当然]
 
 ## 9)instinctively /ɪnˈstɪŋktɪvli/ 本能地
 
@@ -148,31 +159,43 @@
 
 
 # 7.theory
-## 1)rationale /ˌræʃəˈnæl/ 基本原理
-- 1. I can't say that I agree with his rationale. 我不能说我认同他这么做的理由。 
+## 1)rationale /ˌræʃəˈnæl/ [n.基本原理]
+> "Rationale," this is a really great word that basically means "reason for this thing."Even though it's like "reason," it's actually more like the word "reasoning."because it focuses on the process of thinking.
 
-- 2. The rationale behind her decision to hire older employees was that they have more experience. 她决定聘用老员工的原因是老员工经验丰富。
+- 1. I can't say that I agree with his rationale. [我不能说我认同他这么做的理由]
 
-- 3. She rationalized the cost of the new outfit by saying that she needed it for her interview. 她买了一件新套装，解释说是参加面试需要。
+- 2. The rationale behind her decision to hire older employees was that they have more experience. [她决定聘用老员工的原因是老员工经验丰富]
+
+- 3. She rationalized the cost of the new outfit by saying that she needed it for her interview. [她买了一件新套装，解释说是参加面试需要]
 
 ## 2)the thing is [问题是；最重要的是] 
 
 
 ## 3)harken back /ˈhɑrkən bæk/ 回到主题 
 
-## 4)align /əˈlaɪn/ 对齐、一致 
-- 1. My opinions don't always align with those of the company's. 我的观点并不总是与公司的一致。 
+## 4)to align /əˈlaɪn/ [v.对齐、一致] & match
+> Align is always more about values or standards,to align means to line up.
 
-- 2. It's important that you find a job that aligns with your own unique set of values. 找到符合自己独特价值观的工作很重要。 
+- 1. My opinions don't always align with those of the company's. [我的观点并不总是与公司的一致] 
 
-- 3. We need to realign our products so that they better fit the needs of our customers. 我们需要重新调整我们的产品，以便更好地满足客户的需求。
+- 2. It's important that you find a job that aligns with your own unique set of values. [找到符合自己独特价值观的工作很重要]
+
+- 3. We need to realign our products so that they better fit the needs of our customers. [我们需要重新调整我们的产品，以便更好地满足客户的需求]
+
+- 4. what's the difference between align and match?
+
+> 2)"match" is just putting two similar things together. "Oh, look. Your shirt and your pants match."
 
 ## 5)defining /dɪˈfaɪnɪŋ/ 起决定性作用的、最能代表的
 
 # 8.action
-## 1)quit your day job 辞去现在的工作（意思是辞去稳定的工作，去做不赚钱却心向往之的事 情）
+## 1)quit your day job 辞掉社畜的工作
+> 1)if you quit your day job, you're probably going to chase your passion.
 
-## 2)avenues /ˈævənuːz/ 途径
+> 2)we could also use it like "don't quit your day job,just keep working."It could be little mean,so usually we only use that with our friends.
+
+## 2)avenues [n.途径]
+> It's just a different way to say "way." we also use it to talk about a path in life or just different ways. For example at work, maybe you try one method, it doesn't work, so you need to seek out different avenues. 
 
 ## 3)occurred /əˈkɜrd/ 发生、出现 
 - 1. An accident occurred last night on the highway. [昨晚公路上发生了一起意外事故]
@@ -191,7 +214,8 @@
 
 ## 5)moving forward /ˈmuvɪŋ ˈfɔrwərd/ 前进，推进
 
-## 6)go about /goʊ əˈbaʊt/ 着手做，处理 
+## 6)go about [phr.着手做，处理]
+> "Go about" basically means "do." Continue doing what you normally do.It does mean how do I do that, but it gives you a greater sense that this person really doesn't know how to even start.And we use this phrase a lot when we are faced with or when we encounter these buzz words. When someone tells you, "You got to think outside of the box.""How do I go about doing that?"
 
 ## 7)turns out /tɜrnz aʊt/ 最终的结果
 

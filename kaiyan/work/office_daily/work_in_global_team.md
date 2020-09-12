@@ -56,9 +56,9 @@
 ## 1)downsides [缺点]
 
 ## 2)cultural barriers & language barrier & obstacle [障碍] 
-> 1)A barrier just means like a wall essentially/ɪ'sɛnʃəli/ [adv.本质上;根本上] , So it's something that is blocking you from connecting to the other person.that’s just lke a general term for a wall or a fence.So we could think of it as ,like an obstacle,something that you need to go over.When there's construction on the road, there are road barriers. When there are huge cultural differences that prevent you from, like sort of understanding each other, that's called a cultural barrier.
+> 1)A barrier just means like a wall essentially/ɪ'sɛnʃəli/ [adv.本质上;根本上] , So it's something that is blocking you from connecting to the other person.that’s just lke a general term for a wall or a fence.
 
-> 2)sometimes there's a language barrier between generations.So like a lot of those slang words that younger people use is really confusing to the older generation.
+> 2)So we could think of it like an obstacle,something that you need to go over.When there's construction on the road, there are road barriers. When there are huge cultural differences that prevent you from, like sort of understanding each other, that's called a cultural barrier.sometimes there's a language barrier between generations.So like a lot of those slang words that younger people use is really confusing to the older generation.
 
 ## 3)linguistic /lɪŋˈgwɪstɪk/ [语言的] & linguist & lingua franca /ˈlɪŋgwə ˈfræŋkə/ [n.通用语]
 > 1)So linguistic here, relating to language.the linguistic and cultural barriers.

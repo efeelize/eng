@@ -40,7 +40,7 @@
 
 - 3. Peter has the edge over his ESL classmates because his girlfriend is a native speaker, so she can help him. 
 
-# 2.It's time (that) + subject + past subjunctive verb [过去虚拟动词]
+# 2.It's (about/high) time (that) + subject + past subjunctive verb [过去虚拟动词]
 > 1)Native English speakers love to use "it's time" to refer to actions that should happen now, or should have already happened. A relative "that" clause follows the phrase, but "that" is often omitted.We can use it to express regret, or to criticize someone for doing something late.
 
 > 2)We can also say "It's about time" to make it more polite and softer, and we can say "It's high time" for added emphasis.
@@ -51,27 +51,42 @@
 
 - 3. I think it's about time you switched professions for one with a higher salary. [我想你差不多该换个高薪的工作]
 
+- 4.It's time you started living a healthy lifestyle.
+
 # 3.pros 
 ## 1)career path [phr.职业路线] & navigating [v.驾驭] & navigator /'nævɪɡetɚ/ [n. (船或飞机的)领航员]
 > 1) "Nobody said navigating a career path was easy." so when I see "navigating", it makes me think about, you know, five hundred years ago, big ships from Europe going all the way around the globe, the great navigators.it's from that idea, but it's yeah again, it's like a metaphorical sense here.they are just finding a way.
 
 > 2)Navigator is the like the person who navigate, which is in the car. So usually there is the driver and you know, way back when a long time ago before we had GPS, we just had big maps. And you can't drive a car and look at the map at the same time.But any case, the person who is beside you in the car, they are usually the navigator. They are the ones that will look at the map. And I suppose now I mean it's there probably the ones that are putting in the address on the phone so that you can you can listen to the GPS say, "Turn right on cornor street."
 
-## 2)conquered /ˈkɑːŋkɚd/ 征服 & acquire /əˈkwaɪɚ/ 获取 
+## 2)conquer [v.征服] & conqueror [n.] & acquire [v.获取]
+> 1)so conquer is a great word. It's originally used to talk about the old conquerors in history, you know, France took over this country; the Romans conquered the world.But in today's lesson, we're not talking about conquering people or countries. We're talking about conquering the barriers and our fears.we can conquer ourselves, our own insecurities, things that we don't like about ourselves. 
 
-## 3)newfound /ˈnuːfaʊnd/ 新获得的 & embrace
-- 1. Everyone is starting to embrace mobile payments as cash is being phased out. 每个人都开始乐意使用移动支付，现金逐渐被淘汰。 
+- I need to conquer my laziness and start exercising more, so you know I can look better.
 
-- 2. Teachers are using traditional methods but also embracing new technology. 教师们在使用传统方法的同时也采纳了新技术。 
+> 2)acquire is really just a fancy word, like if a company buys another company, we say, "It acquired the company."
 
-- 3. He held her in a loving embrace before they went their separate ways.在他们分道扬镳之前，他深情地拥抱了她。
+## 3)newfound /ˈnuːfaʊnd/ [adj.新获得的] & embrace [v]
+> 1)newfound  just means like newly found or newly discovered or just new.
 
-## 4)initiate /ɪˈnɪʃieɪt/ 发起，开始
-- 1. The bank plans to initiate a new training program for interns. 银行计划启动一项新的实习生培训计划。 
+> 2)embrace originally means hug, like a loving embrace from your, from your mother or father. But again we're using this figuratively, like embrace things in our lives or you know a society needs to embrace new technology.
 
-- 2. It can be hard to initiate a conversation about marital problems with your spouse. 与你的配偶谈论婚姻问题是很困难的。 
+- 1. Everyone is starting to embrace mobile payments as cash is being phased out. [每个人都开始乐意使用移动支付，现金逐渐被淘汰]
 
-- 3. Each culture has a special ritual to initiate boys into manhood. 每种文化都有特殊的仪式让男孩进入成年。
+- 2. Teachers are using traditional methods but also embracing new technology. [教师们在使用传统方法的同时也采纳了新技术]
+
+- 3. He held her in a loving embrace before they went their separate ways.[在他们分道扬镳之前，他深情地拥抱了她]
+
+## 4)initiate [v.发起，开始]
+> 1)"initiate" here means to, to start something, to cause something to begin.it's usually big important things, like a country might initiate new laws or new policy.
+
+> 2)We also use it in relationships, like if a couple is having problems, maybe one of them needs to initiate the discussion, so this is a great thing to do at work. It's great to take initiative to show your boss that you know you're a good worker.or even like, on a first date, who initiated the first kiss?
+
+- 1. The bank plans to initiate a new training program for interns. [银行计划启动一项新的实习生培训计划]
+
+- 2. It can be hard to initiate a conversation about marital problems with your spouse. [与你的配偶谈论婚姻问题是很困难的]
+
+- 3. Each culture has a special ritual to initiate boys into manhood. [每种文化都有特殊的仪式让男孩进入成年]
 
 ## 5)Pay bumps [phr.加薪]
 > This is when you get an increase in your salary.a bump is usually an increase.you get bumped up like on an airplane.bump up to first class.
@@ -92,19 +107,22 @@
 > 2)"mix things up"."shake things up" is a fundamental change, or like "mix things up," If you exercise every morning by jogging, maybe you'll mix it up by, you know, grabbing your bicycling and going for a bike ride.
 
 # 4.cons
-## 1)discontent /ˌdɪskənˈtent/ 不满 
+## 1)be discontent about/with sth [n.不满] & unsatisfied [adj.]
+> it means unsatisfied,but depper than that.
 
+- I feel very discontent about my boring job.
 
 ## 2)barriers /ˈberiɚz/ 障碍，阻碍 
-- 1. You have to break through the mental barriers that hold you back in life. 你必须突破生活中让你停滞不前的心理障碍。 
+- 1. You have to break through the mental barriers that hold you back in life. [你必须突破生活中让你停滞不前的心理障碍]
 
-- 2. It's difficult to travel in Japan because of the language barrier. 由于语言障碍，在日本旅行有些困难。 
+- 2. It's difficult to travel in Japan because of the language barrier. [由于语言障碍，在日本旅行有些困难]
 
-- 3. There's a concrete barrier separating the two sides of the highway. 一道混凝土路障把公路分隔成两边。
+- 3. There's a concrete barrier separating the two sides of the highway. [一道混凝土路障把公路分隔成两边]
 
+## 3)stagnant /ˈstægnənt/ [adj.停滞的，不发展的] & stagnation [n.]
+> 1)Stagnant is an adjective that we usually used to talk about water. Water, that's not flowing, it's not moving and gets really dirty and gross, but we use it figuratively to mean something is not growing or changing or developing.stagnant economy, so that's an economy that's you know not growing, people aren't becoming more wealthy.so a stagnant life would be a life without a lot of change, not a lot of growth. It's not very dynamic.
 
-## 3)stagnant /ˈstægnənt/ 停滞的，不发展的 
-
+> 2)the noun form is "stagnation."
 
 ## 4)antsy /'æntsi/ [adj.烦躁，坐立不安的]
 >  So it's like you, you're getting worried, nervous, you got to move, you have to do something.it's kind of nervousness too. It just, you gotta move, or kind of rigidity /rɪ'dʒɪdəti/ [n.僵硬] about something.What are you going to do, if suddenly you guys discover you have lots of little bugs inside of your pants? Do you think you could sit still?While they're all crawling /'krɔ:liŋ/ [爬] all over you?
@@ -128,11 +146,12 @@
 
 > 2)autonomy:so we use this for people too, now. It's like when you just don't need any outside help.I don't need any help, and I also have the power to kind of go my own way, or one can go one's own way.
 
-## 4)
+## 4)ultimatedly [adv.] & finally [adv.]
+> 1)ultimately. we're talking about the future and also the most important thing, if all of your co-workers are discussing and arguing what to do, one of them might say, "You know it doesn't matter how much we discuss this. Ultimately the boss will decide what to do."
 
+> 2)"Finally" we usually use it when we talk about the past, because finally means like we're waiting and waiting and waiting and finally, we get something.so if you're at a restaurant you'd be like, "Oh finally, my food came."
 
-
-# 6.sth is peppered with sth  /'pepəd/ [v.掺杂着]
+# 6.sth is peppered with sth [v.掺杂着]
 > 1)When something is peppered with something else, it means there's lots of something.If you sprinkle pepper on something, right?like little bits everywhere.[到处都有一点]
 
 > 2)So you were saying if an employer sees a resume peppered with these different jobs, it looks like that person doesn't have any loyalty."peppered with" in this dialogue does sound kind of negative, right? He's using it in a negative sense.
@@ -151,6 +170,9 @@
 > 2)that's a really good phrase, "vested interest in something". I mean often times when people at the executive level, get a new job, they often get stock options, and that gives them a vested interest in the, you know, the success of the company.
 
 > 3)you'll think about the word "invest", right? They're obviously, they are related.
+
+# 10.easier said than done [phr.说起来容易做起来难]
+> so we use this phrase when we're talking about something that's you know really difficult to do, but you know some people might make it look easy. Or some people might just explain it like it's easy to do, but we really know that it's ultimately difficult to do.like when you get a new job, all the people working there, they're really good at it. They make it look easy, but actually it's easier said than done. 
 
 # III.patttern
 ***Hey, Chris, I’m thinking of quitting my job to find something more flexible.***
