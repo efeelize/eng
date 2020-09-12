@@ -55,6 +55,11 @@
 
 > Well, when I was invited to a barbecue or barbecue to a lot of meats, like sausage or hamburgers, on the invitation it said BYOM.Meat, yes yes yes, so you can change it to anything, bring your own girlfriend.
 
+# 8.cold one [n.冰镇啤酒] & pitcher /'pɪtʃɚ/ [n.装啤酒的壶]
+> 1）A cold one, this is another way to say beer.Oh yeah. Just a cold beer. I mean you could say, it's something other cold thing, but generally this just means cold beer.
+
+> 2)So 'a pitcher' is just a big jug /dʒʌɡ/ [n.大壶]. I like that word, "jug, jug." It's like a container. It's not a bottle because there's no top on it, but it's big. You know, there's handle and you grab it and you pour the beer out of it.
+
 # III.Cocktails
 # 1.classic cocktails
 ## 1)Bloody Mary
