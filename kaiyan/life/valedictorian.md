@@ -63,28 +63,29 @@
 - 4. Alex's reaction I understand. Anna's reaction I don't understand.
 
 # 4.school
-## 1）commencement /kəˈmɛnsmənt/ 毕业典礼、开端、开始
+## 1）commencement /kəˈmɛnsmənt/ [毕业典礼、开端、开始] & commence [v.开始，着手]
+> commence:this word is really formal,it means start,but you just don't hear it in that many different contexts.The first one I think about is like a wedding ceremony that you can commence a ceremony.Ceremony will commence at three o'clock.
+
 - 1. The commencement ceremony will begin at 10:00 a.m. [毕业典礼将在上午十点开始]
 
 - 2. The board meeting commenced 10 minutes late. [董事会会议延迟了十分钟]
 
 - 3. Construction of the new tower commences tomorrow. [新大楼的建造从明天开始]
 
-## 2)dropped out /drɑpt aʊt/ 辍学 & graduates /ˈɡrædʒuəts/ 毕业生 
+## 2)dropped out [phr.辍学] & expel [开除] & graduates [n.毕业生]
+> Drop out, it means you, it's deliberate. It's intentional. You, you decide to quit school.
 
-## 3)alumni /əˈlʌmˌnaɪ/ 校友（复数） alumnus /əˈlʌmnəs/ 校友（单数）
+## 3)alumnus /əˈlʌmnəs/ [校友（单数）] & alumni /əˈlʌmˌnaɪ/ [pl] 
 
-## 4)expel /ɪkˈspɛl/ 开除，驱逐
+## 4)millennials /mɪˈlɛniəlz/ [n.千禧一代(指美国80年代到2000年出生的人）]
+> If you were born between the 1980 to 2000.one thing about millenniums is we're obsessed with finding meaning and purpose in our lives.
 
-## 5)Greek Life /grik laɪf/ 社团生活（因为兄弟会、姐妹会都以希腊语命名，所以也叫Greek Life)
+## 5)Greek Life [社团生活（因为兄弟会、姐妹会都以希腊语命名)] & fraternity /frəˈtɜrnəti/ [兄弟会] & sorority /səˈrɔrəti/ [姐妹会]
+> so Greek life is the term where basically in American universities we have fraternities and sororities and this is where people kind of pay to be a part of a group, and all these, each fraternity and each sorority has like Greek letters assigned to it.
 
+## 6）era [n.时代]
+> It is like a very important time.period of time.
 
-## 6)fraternity /frəˈtɜrnəti/ 兄弟会 sorority /səˈrɔrəti/ 姐妹会
-
-
-## 7)millennials /mɪˈlɛniəlz/ 千禧一代(指美国80年代到2000年出生的人）
-
-## 8）era
 - 1. The post-war era in North America was a Golden Age of growth and prosperity. [北美的战后时代是发展和繁荣的黄金时代]
 
 - 2. Serious historians generally don't refer to the Medieval Era as the Dark Ages. [严肃的历史学家们一般不会把中世纪称作黑暗时代]
@@ -92,8 +93,7 @@
 - 3. Who would have thought at the beginning of the Internet Era just how much this technology would affect our lives? [互联网时代刚开始时，谁能想到它能给我们的生活带来如此大的影响?]
 
 # 5.pros
-## 1)inspire /ɪnˈspaɪr/ 激发，鼓舞 & inspirational /ˌɪnspəˈreɪʃənəl/ 鼓舞人心的
-
+## 1)inspire [激发，鼓舞] & inspirational [鼓舞人心的]
 
 ## 2)cultivated [v.培养]
 > "Cultivated" basically means to grow something.now the thing with "cultivate" is that it's always something good.you usually cultivate things like a good character or a relationship.
@@ -115,23 +115,21 @@
 ## 5)grit /grɪt/ [n.决心，勇气]
 > A person with grit would be doing something proactively. They would be going beyond, just standing there, fighting whatever's coming towards.so someone who has grit also usually has ambition to move forward,this person has courage and determination.That's why we always use this word with entrepreneurs because they do have the courage to build businesses and go forward.
 
-## 6)character /ˈkɛrɪktər/ 性格、角色 
-
+## 6)character [性格、角色]
 - 1. His actions lately really say a lot about his character, don't they? [他最近的行为真的很能反映他的人品，不是吗？]
 
 - 2. Her character in the film is a troubled young woman who finds hope in an unlikely place. [她在电影中的角色是一个年轻的问题女性，在一个不太可能的地方找到了希望]
 
 - 3. I'm having trouble finding my motivation for this character. I think I need to ask the director. [我找对于这个角色的动力有困难。我觉得我要去问问导演] 
 
-## 7)identity /aɪˈdɛntəti/ 身份 
+## 7)identity /aɪˈdɛntəti/ [身份]
 
 # 6.cons
-## 1)ironic /aɪˈrɑːnɪk/ 讽刺的 
+## 1)ironic [讽刺的]
 
+## 2)deceitful /dəˈsitfəl/ [虚伪的、带有欺骗性的]
 
-## 2)deceitful /dəˈsitfəl/ 虚伪的、带有欺骗性的 
-
-## 3)cynical /ˈsɪnɪkəl/ 愤世嫉俗的、冷嘲热讽的
+## 3)cynical /ˈsɪnɪkəl/ [愤世嫉俗的、冷嘲热讽的]
 
 ## 4)dissatisfied with sth [adj.不满意]
 > People who chase their passion or pursue their passion, they often feel dissatisfied, and tend to give up easily because well, passion does wane after all.
@@ -151,12 +149,10 @@
 ## 7)doomed /duːmd/ [adj.注定的]
 > “Being doomed," this means that you're in a situation where the bad situation just can't be avoided. Something bad will happen.It makes me think about the word "fate" because it is this idea that you are fated to do something, and it's always bad.We usually say "doomed to repeat history," So it's always a little bit dramatic.
 
-## 8)entitlement /ɛnˈtaɪtəlmənt/ [认为理所当然]
+## 8)entitlement [认为理所当然]
 
-## 9)instinctively /ɪnˈstɪŋktɪvli/ 本能地
-
-
-
+## 9)instinctively [adv.本能地] & instinct [n.]
+> it means by your instinct,don't think about it.
 
 # 7.theory
 ## 1)rationale /ˌræʃəˈnæl/ [n.基本原理]
@@ -168,10 +164,12 @@
 
 - 3. She rationalized the cost of the new outfit by saying that she needed it for her interview. [她买了一件新套装，解释说是参加面试需要]
 
-## 2)the thing is [问题是；最重要的是] 
+## 2)the thing is [phr.问题是；最重要的是] 
+> basically it's for emphasizing your introducing your main issue or your main point. You can use it for giving a reason or even an excuse.somebody asks you for help, and you say, "oh, I'd love to help you, the thing is I have to do laundry." "OK, next week." 
 
+- Why were you late today? Well, the thing is the traffic was bad.
 
-## 3)harken back /ˈhɑrkən bæk/ 回到主题 
+## 3)harken /ˈhɑrkən/ back  [回到主题]
 
 ## 4)to align /əˈlaɪn/ [v.对齐、一致] & match
 > Align is always more about values or standards,to align means to line up.
@@ -186,10 +184,10 @@
 
 > 2)"match" is just putting two similar things together. "Oh, look. Your shirt and your pants match."
 
-## 5)defining /dɪˈfaɪnɪŋ/ 起决定性作用的、最能代表的
+## 5)defining [起决定性作用的、最能代表的]
 
 # 8.action
-## 1)quit your day job 辞掉社畜的工作
+## 1)quit your day job [phr.辞掉社畜的工作]
 > 1)if you quit your day job, you're probably going to chase your passion.
 
 > 2)we could also use it like "don't quit your day job,just keep working."It could be little mean,so usually we only use that with our friends.
@@ -197,14 +195,17 @@
 ## 2)avenues [n.途径]
 > It's just a different way to say "way." we also use it to talk about a path in life or just different ways. For example at work, maybe you try one method, it doesn't work, so you need to seek out different avenues. 
 
-## 3)occurred /əˈkɜrd/ 发生、出现 
+## 3)It didn't even occurr to me  [phr.我没有意识到]
+> It means I didn't realize.
+
 - 1. An accident occurred last night on the highway. [昨晚公路上发生了一起意外事故]
 
 - 2. Hurricane occurrences have increased due to climate change [由于气候变化飓风出现的可能性也增加了]
 
 - 3. It suddenly occurred to me that I had left my keys at home. [我突然想起我把钥匙落在家里了]
 
-## 4)launched /lɑːntʃt/ 开启 
+## 4)launch [v.开启]
+> so whenever you hear about, you know Facebook or Uber or any kind of like tech startup company, they don't just like began.they always say, "the company was launched." "I am launching company this day." I has this idea of a spaceship launching,so it's like makes it more exciting and and a big deal.
 
 - 1. The new startup launch will be held next week. [新公司的启动仪式将在下周进行]
 
@@ -212,15 +213,19 @@
 
 - 3. Experts believe that Facebook launching its new service will increase profits. [专家认为Facebook新发布的服务会提高其利润]
 
-## 5)moving forward /ˈmuvɪŋ ˈfɔrwərd/ 前进，推进
+## 5)moving forward [前进，推进]
 
 ## 6)go about [phr.着手做，处理]
 > "Go about" basically means "do." Continue doing what you normally do.It does mean how do I do that, but it gives you a greater sense that this person really doesn't know how to even start.And we use this phrase a lot when we are faced with or when we encounter these buzz words. When someone tells you, "You got to think outside of the box.""How do I go about doing that?"
 
-## 7)turns out /tɜrnz aʊt/ 最终的结果
+## 7)turns out [phr.最终的结果]
+> It's like how sth is in the end,what happens.
 
+## 8)you made it [phr.你做到了]
+> you're making sth out of yourself.that means that you've arrived,you've survived.you're successful,you've accomplished sth.
 
-
+## 9)make it happen [phr.实现]
+> So go make it happen means to go out and give it your all, try hard and be successful.
 
 # III.grammar
 ***I know that many of you made miracles happen to get to this day.You've shown between challenging classes and Greek Life...You worked hard, studied late into the night.You’ve survived so much to get to this moment. However you got here, you made it.You have come to this moment of incredible achievement, receiving your degree.***
