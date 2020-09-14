@@ -1,7 +1,14 @@
 # E-cigarettes
-# I.
+# I.E-cigarettes and vaping 
+> Vaping is a relatively new practice, having only become popular within the past decade. Because of its novelty, researchers have warned that there's a lot we still don't know about how the practice impacts the brain and body.
 
+> Given their relatively recent introduction, there has been little time for a scientific body of evidence to develop on the health effects of e-cigarettes," the authors of a large recent report on the overall health effects of vaping wrote.
 
+> Last spring, researchers examining the vapors in several popular e-cigarette brands found evidence that they contained some of the same toxic metals normally found in conventional cigarettes, such as lead [铅]. They also found evidence suggesting that at least some of those toxins were making their way through vapers' bodies. 
+
+> Consistently inhaling high levels of toxic metals has been tied to health problems in the lungs, liver[肝脏] , immune system, heart, and brain, as well as some cancers, according to the US Department of Labor's Occupational Health and Safety Administration [美国劳工部职业安全卫生局].
+
+> To help prevent young people from vaping, states including Michigan, New York, and Massachusetts have banned at least some e-cigarette products.
 
 # II.grammar
 # 1.The whole time… it turns out [一直... 结果发现]

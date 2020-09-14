@@ -12,12 +12,6 @@
 
 > Talk to yourself. You don’t need a listener to practice your speaking. Read an article or watch a movie then summarize it to yourself, or your cat.
 
-# I.
-
-
-
-
-
 # II.grammar
 # 1.(it’s)all good [phr.没事]
 > 1)"All good." So all good is really like this expression. Because its so short and it just means that "you know what? It's fine, everything is good. "Yeah we often also say "It's all good". But it's just a little bit shorter, "all good."That's right. And we frequently use it to respond to apology.
@@ -65,16 +59,18 @@
 
 > 2)A linguist is a person who studies languages.we could talk about a linguist or linguistic as the study of language.
 
-## 4)vicious /'vɪʃəs/ cycle [phr.恶性循环] & escalate /ˈɛskəˌleɪt/ 升级，恶化
-> So this happens a lot. A vicous cycle is when one problem causes another problem, and that problem makes the first problem worse.Exactly. So it is like a repeating circle.
+## 4)vicious /'vɪʃəs/ cycle [phr.恶性循环] & escalate /ˈɛskəˌleɪt/ [v.升级，恶化] & escalator [n.扶梯]
+> 1)So this happens a lot. A vicous cycle is when one problem causes another problem, and that problem makes the first problem worse.Exactly. So it is like a repeating circle.
 
-- 1. Take care of the customer's issues immediately to make sure the problem does not escalate. 马上处理客户的问题，免得问题升级恶化。 
+> 2)So to escalate means for something to become a bigger problem. The idea is that it's going up, it's becoming bigger and bigger and bigger and worse and worse and worse.if you don't catch problems early on or fix them, then they do become worse.
 
-- 2. The salaries of managers here at the company have continued to escalate over the years. 公司经理的工资年年都在增长。 
+- 1. Take care of the customer's issues immediately to make sure the problem does not escalate. [马上处理客户的问题，免得问题升级恶化]
 
-- 3. The cold weather has caused the price of fuel to escalate. 天气寒冷，燃料价格上涨。
+- 2. The salaries of managers here at the company have continued to escalate over the years. [公司经理的工资年年都在增长]
 
-## 5)geographies /ʤiˈɑːgrəfiz/ 地理位置 
+- 3. The cold weather has caused the price of fuel to escalate. [天气寒冷，燃料价格上涨]
+
+## 5)geographies /ʤiˈɑːgrəfiz/ [地理位置]
 > geography is the study, like the scientific study of the world. But in this case, it just means a region, an area.it doesn’t mean like mountains or farmland.it’s kind of more about the culture and the local norms.
 
 ## 6)wiggle /ˈwɪgəl/ room [n.回旋余地] 
@@ -121,7 +117,7 @@
 - So we didn't have anybody looking over our shoulder, we didn't have anybody telling us what to do, what not to do.[没有人替我们保驾护航]
 
 # 5.managment
-## 1)coordinating /ko'ɔrdɪnet/  [v.协调] & coordinate /koʊˈɔːrdəneɪt/ 协调
+## 1)coordinating [v.协调] & coordinate [协调]
 > coordinate is more like, kind of working in an organized way.
 
 ## 2)collaboration [n.合作] 
@@ -136,18 +132,26 @@
 ## 3)cooperate
 > when you cooperate with someone, you don't actually have to do anything.you just have to get along.
 
-## 4)familiarize /fəˈmɪljəˌraɪz/ 熟悉起来 
+## 4)familiarize /fəˈmɪljəˌraɪz/ [v.熟悉起来]
 
-## 5)better acquainted /ˈbɛtər əˈkweɪntɪd/ 熟悉起来 
+## 5)to get acquainted with sb [adj.熟悉起来]
+> so "to get acquainted with someone" means that you've sort of said hi to them before, you know their name, but you don't really know them, you don't really know much else about them.it's just sort of you've only said hello before.
 
-## 6)micromanaging /ˌmaɪkroʊˈmænɪʤɪŋ/ 微管理
-- 1. You should delegate more tasks to your employees instead of micromanaging. 你不该事无巨细什么都管，而应把任务多下放给员工。 
+## 6)get a feel for sb/sth [phr.了解]
+> So when you get a feel for someone or for something because you can get a feel for an activity, that means that you sort of get the overall idea of what something is or how someone will act around you. Maybe if there are really nervous person or if there are really calm person,you sort of get an overall idea about what sort of person they are.
 
-- 2. Some departments have bosses who make life difficult for their employees through micromanaging their work. 一些部门员工日子不好过，因为头头对工作什么都管。 
+> 2)So for example, when you're applying for a job, maybe your resume looks wonderful, someone's resume looks wonderful. But you can't really get a feel for a person whether they seem trustworthy like the work hard, whether they seem smart or not that smart, things like that until you meet them in person.so that's why we call getting a feel for sth.
 
-- 3. Please avoid micromanaging your team by allowing them to work alone. 避免微管理你的团队，让他们各自独立工作。
+## 7)micromanaging [v.微管理]
+> So when you're micromanaging people that means that you're managing everything they do. So you're maybe checking in with them and seeing if they completed a report, and then you check in later to see if they've called the client, so you're managing every single little detail of their day.
 
-## 7)go/get around [phr.应对] & there’s no getting around here [phr.没办法]
+- 1. You should delegate more tasks to your employees instead of micromanaging. [你不该事无巨细什么都管，而应把任务多下放给员工]
+
+- 2. Some departments have bosses who make life difficult for their employees through micromanaging their work. [一些部门员工日子不好过，因为头头对工作什么都管]
+
+- 3. Please avoid micromanaging your team by allowing them to work alone. [避免微管理你的团队，让他们各自独立工作]
+
+## 8)go/get around [phr.应对] & there’s no getting around here [phr.没办法]
 > so it bascially means overcome.
 
 - 1. I don't see how we can get around this problem without asking for more funding.
@@ -156,14 +160,26 @@
 
 - 3. Although gambling was banned, clever businesses found a loophole to get around the law.
 
+## 8)to monitor sth
+> So to monitor something is to keep track of something, to watch it. You hear this word a lot in hospitals, with people that are sick. We need to monitor the patient to see how they're doing, maybe they're going to get worse, maybe they're going to get better.
+
+## 9)utilization [n.使用情况] & productivity [n.产出]
+> Utilization is a very fancy word to mean how much they're doing.Are they working a lot? Are they not really working?
+
+## 10）up to speed 
+> So to be up to speed means to be updated, to know what's going on right now. So if you're up to speed, that means that you're on track and you don't need any additional training.
+
 # 6.meeting
-## 1)brainstorming /ˈbreɪnˌstɔrmɪŋ/ 头脑风暴
+## 1)brainstorming[n.头脑风暴]
+> So brainstorming, this means to think of ideas, so you could think of it as a storm in your brain, there all these ideas, and there they are flying around, there's a big storm. And when you're brainstorming, you sort of spit them out, they come out.
 
-## 2)teleconference /tɛləˈkɑnfrəns/ 视频会议 
+## 2)teleconference  [n.视频会议]
+> So this is a word that combines two separate words, "telephone" and "conference". So this is when you have a lot of people on one phone call. And so the idea is that it's like a conference where you have lots of people meeting together, but instead, it's through a telephone.
 
-## 3)webinar /ˈwɛbəˌnɑr/ 网上会议
+## 3)webinar /ˈwɛbəˌnɑr/ [n.网上会议]
+> so a "webinar", this is a combination of two words, "web" and "seminar".So this webinar is usually on the Internet, and if you set a certain time for this webinar then it'll make it easier for your whole team, your remote team to attend the webinar.
 
-## 4)face time 面对面相处的时间
+## 4)face time [n.面对面相处的时间]
 > it just means face to face in person.this is name after a piece of software
 
 ## 5)initiate /ɪ'nɪʃɪet/ [v.发起、开始] & initial [adj.] & take initiative [带头] & initiating 
@@ -172,6 +188,9 @@
 > 3)we also say "take initiative". Like at work if you're the person who is kind of proactive, you want to like begin a new project, and you know, you go to your boss with the proposal. You're taking initiative. You're the first one to have this idea and start it.
 
 > 4)Exactly. And so here "initiating" kind of means to start the conversation.
+
+## 6)action items
+> So "action items", these are the things that need to get done, the things that people need to do. So for example, if Jessica has to contact a few clients by the end of the week, then that's an action item she has to do it by the end of the week.
 
 # 7.when it comes down to it [phr.归根到底] & the bottom line [重点]
 >  So "when it comes down to it", this is kind of a long expression is just a chunk, we always say it together like this "when it comes down to it". And it's just like the general idea.
