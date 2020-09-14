@@ -14,10 +14,14 @@
 # 4. Give examples
 > Whenever possible, make sure you give examples. This will be especially beneficial if they are new to the role, or if they haven’t carried out the task before.
 
-# I.
+# I.Is micromanaging bad for your office?
+> Micromanage is a word with almost zero positive connotations in English. And it's easy to understand why: who hasn't had a boss constantly breathing down their neck about something [挑毛病] at work? Or more simply, who hasn't had a boss that just doesn't give them the space to do their job? Doesn't this affect productivity, both at the individual, and the company level?
 
+> As annoying as it can be, there are times when micromanaging becomes necessary. And we're not talking about the kind of employees that need a bit more guidance from or control by the manager. No, we mean times when the higher-ups [领导层] needs to play a larger role in ensuring that the workflow remains smooth. For example, during times when the company is changing direction or strategy [调整战略方向], or during a major leadership shake-up, it's easy to imagine coordination becoming harder and harder.
 
+> On the other hand, when things are running more smoothly, that's when the manager needs to ease up on the micromanaging. This is the time when the best managers give their employees the space to create and grow.
 
+> So, the next time someone tells you that micromanaging is a negative thing, you can tell them that it's not always as bad as it sounds. Remember, at the end of the day, micromanaging is still managing.
 
 # II.grammar
 # 1 give instructions or advice 
@@ -38,51 +42,63 @@
 - Once that's all done, you'll need to contact the caterer to arrange for the snacks.
 
 # 2.prefixes:Micro- & macro- 
-> Micro- means small or reduced, whereas Macro- usually talks about the bigger picture or large-scale. The most common examples of micro- and macro- come from the field of economics. Generally speaking microeconomics refers to the study of individuals and business decisions, whereas macroeconomics focuses on higher-up country and government decisions. 
+> 1)Micro- means small or reduced, whereas Macro- usually talks about the bigger picture or large-scale. The most common examples of micro- and macro- come from the field of economics. Generally speaking microeconomics refers to the study of individuals and business decisions, whereas macroeconomics focuses on higher-up country and government decisions. 
 
-- 1. Have you ever looked at a human hair under a microscope? 你从显微镜下看过人头发吗？ 
+> 2)There is microeconomics, and macroeconomics.So macro would deal with bigger, maybe like societal trends in economics.Micro could be much smaller, focusing on like a smaller area in economics.Supply and demand, that's kind of stuff.
 
-- 2. My mother never uses the microwave. She says it's unsafe. 我妈妈从来不用微波炉。她说不安全。 
+- 1. Have you ever looked at a human hair under a microscope? [你从显微镜下看过人头发吗]
 
-- 3. Our organization helps African villagers find access to micro-loans. 我们的组织帮助非洲村民找到微型贷款的途径。 
+- 2. My mother never uses the microwave. She says it's unsafe. [我妈妈从来不用微波炉。她说不安全]
 
-- 4. We'll postpone the expansion plans until the macro environment improves. 我们会推迟拓展计划，直到大环境进步。 
+- 3. Our organization helps African villagers find access to micro-loans. [我们的组织帮助非洲村民找到微型贷款的途径]
 
-- 5. I can't come out tonight. I've gotta cram for my macroeconomics test tomorrow. 我今晚出不来。我要为了明天的宏观经济考试突击一晚上。
+- 4. We'll postpone the expansion plans until the macro environment improves. [我们会推迟拓展计划，直到大环境进步]
+
+- 5. I can't come out tonight. I've gotta cram for my macroeconomics test tomorrow. [我今晚出不来。我要为了明天的宏观经济考试突击一晚上]
 
 # 3.coordinate
-## 1)on board /ɑ:n bɔːrd/ 加入队伍、加入公司
+## 1)on board [phr.加入队伍、加入公司]
+> when you're on board, you are now part of the team, you know you're working with the other.
 
-## 2)workflow /ˈwɝːkfloʊ/ 工作流程
+## 2)workflow [n.工作流程]
+> the flow is just kind of how the work gets down,how things will work.
 
-## 3)delegating /ˈdeləɡeɪtɪŋ/ 分配、指派 
-- 1. You work too hard. You really should delegate more of your work to your assistant. 你工作太辛苦了。你真的应该给你的助手多分配一些任务。 
+## 3)delegating [v.分配、指派] & assigning  [v.分发]
+> 1)Where is delegating, if you're a good leader, you understand who you need to assign certain tasks to, based upon their specific skill set.if you're going to delegate something,you're going to assign, but you can't just assign anything. You need to assign, thoughtfully, you need be smart and know why you are assigning, what your signing.
 
-- 2. Learning to delegate properly is one of the first things a good manager must do. 学习如何适当的分配任务是一位优秀管理者的必修课。 
+- 1. You work too hard. You really should delegate more of your work to your assistant. [你工作太辛苦了。你真的应该给你的助手多分配一些任务]
 
-- 3. My boss is leaving on vacation next week, but she still hasn't delegated any tasks to me. 我的老板下周去度假，不过她还没给我分配任何任务。
+- 2. Learning to delegate properly is one of the first things a good manager must do. [学习如何适当的分配任务是一位优秀管理者的必修课]
 
-## 4)assigning /əˈsaɪnɪŋ/ 分发
-- 1. Our philosophy teacher always gives us interesting assignments. 我们的哲学老师总会给我们一些有意思的作业。 
+- 3. My boss is leaving on vacation next week, but she still hasn't delegated any tasks to me. [我的老板下周去度假，不过她还没给我分配任何任务]
 
-- 2. For the conference we were assigned a handsome young interpreter. 大会给我们安排了一位帅气的年轻翻译。
+> 2)a signing is kind of more just like the action, or giving to somebody, we could think about it as, delegate is like the idea, and assign is the actual action.Delegating takes a little more thought and just assigning. But assigning you do after carefully having decided to delegate.
 
-- 3. As a young reporter, being assigned to Paris was a dream come true. 作为一名年轻的记者，能被派驻巴黎简直是美梦成真。
+- 1. Our philosophy teacher always gives us interesting assignments. [我们的哲学老师总会给我们一些有意思的作业]
 
-## 5)up to speed /ʌp tu spid/ 了解最新情况
+- 2. For the conference we were assigned a handsome young interpreter. [大会给我们安排了一位帅气的年轻翻译]
 
-## 6)loop me in /lup mi ɪn/ 把我包括、通知我
+- 3. As a young reporter, being assigned to Paris was a dream come true. [作为一名年轻的记者，能被派驻巴黎简直是美梦成真]
 
-## 7)spearhead /ˈspɪrˌhɛd/ 带领、带头
-- 1. Our old CEO has returned in a consulting role to help spearhead our new online efforts. 我们原来的CEO作为咨询回到公司，来协助领导我们新的线上业务。 
+## 4)in-house [内部的、公司内的]
 
-- 2. We're still looking for someone who can help us spearhead the project. 我们还在找一个能领导我们项目的人。 
+## 5)up to speed [phr.了解最新情况]
+> It means everybody knows what's going on.So when you spearhead something, it kind of means that you, you know, you kick it off, or you start，or take charge.
 
-- 3. The program was spearheaded by local entrepreneurs so that every child can enjoy a nutritious lunch. 这个项目由当地企业家牵头，让每个孩子都能吃到营养午餐。
+## 6)loop me in/in the loop [phr.有事通知我]
+> so if you're in the loop, you're in the circle of these people, and everyone knows what's going on.
 
-## 8)the buck stops with you /ðə bʌk stɑps wɪð ju/ 你是最终负责人
+## 7)spearhead /ˈspɪrˌhɛd/ [v.带领、带头]
+> a spear [n.茅] is a weapon.
 
-## 9)in-house /ɪn-haʊs/ 内部的、公司内的
+- 1. Our old CEO has returned in a consulting role to help spearhead our new online efforts. [我们原来的CEO作为咨询回到公司，来协助领导我们新的线上业务]
+
+- 2. We're still looking for someone who can help us spearhead the project. [我们还在找一个能领导我们项目的人]
+
+- 3. The program was spearheaded by local entrepreneurs so that every child can enjoy a nutritious lunch. [这个项目由当地企业家牵头，让每个孩子都能吃到营养午餐]
+
+## 8)the buck stops here/with you [phr.你是最终负责人]
+> Sometimes we hear this phrase as the buck stops here, or the buck stops with me. It means it's my responsibility.
 
 # 4.marketing campaign [n.营销活动] 
 > 1)so marketing is,it's letting people know what's going on. you can't plan an event and just hope people will come.You need to hire some famous band to sing a song about your event.get a model to talk about your event. Or celebrity.These can all be things that happen inside a campaign.
@@ -107,13 +123,16 @@
 ## 4)venue [n.场地]
 > so a venue is just a place where an event happens.and a venue can be small, can be big, can be a sports stadium.Or a tiny little restaurant. It's just like a place where an event happens.But we wouldn't say that for, like meeting our friends, like, "where is our venue for meeting this Saturday".
 
-# 5.see to that /si tu ðæt/ 确保完成
+## 5)action items
+> So "action items", these are the things that need to get done, the things that people need to do. So for example, if Jessica has to contact a few clients by the end of the week, then that's an action item she has to do it by the end of the week.
 
+# 5.I'll see to that [phr.确保完成]
+> it just means make sure.I'll ensure that happens.
 
-# 6.bumped up /bʌmpt ʌp/ 增加、扩充 & expanding /ɪkˈspændɪŋ/ 扩张
+# 6.bumped up [phr.增加、扩充] & expanding [扩张]
 
-
-
+# 7.buffer [n. & v.缓冲]
+> so buff can just means strong,muscular.but buffer is a space or a time that will protect you.that will give you some insurance.so here we're talking about production buffer. so they're talking about a 2 or 3 day buffer. So basically it means, they have 2 or 3 days to kind of work with, to make sure that everything is okay.
 
 # III.pattern
 ***Hi, Mark. Have you started planning next year's seminar?***

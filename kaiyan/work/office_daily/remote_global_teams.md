@@ -118,9 +118,12 @@
 
 # 5.managment
 ## 1)coordinating [v.协调] & coordinate [协调]
-> coordinate is more like, kind of working in an organized way.
+> when you coordinate, you want to make sure that they move together.coordinate is more kind of working in an organized way.
 
-## 2)collaboration [n.合作] 
+## 2)cooperate
+> when you cooperate with someone, you don't actually have to do anything.you just have to get along.like an office,people are doing their, their own thing.
+
+## 3)collaboration [n.合作] 
 > Whether coordination or coordinating, it involves planning.that's doing something that's complicated in a more effective way.
 
 - 1. Collaboration between the two countries increased and brought economic prosperity.
@@ -128,9 +131,6 @@
 - 2. Jay-Z collaborated with other musicians to produce an award-winning album.
 
 - 3. The two businesses worked in collaboration with each other to expand their consumer bases.
-
-## 3)cooperate
-> when you cooperate with someone, you don't actually have to do anything.you just have to get along.
 
 ## 4)familiarize /fəˈmɪljəˌraɪz/ [v.熟悉起来]
 
@@ -188,9 +188,6 @@
 > 3)we also say "take initiative". Like at work if you're the person who is kind of proactive, you want to like begin a new project, and you know, you go to your boss with the proposal. You're taking initiative. You're the first one to have this idea and start it.
 
 > 4)Exactly. And so here "initiating" kind of means to start the conversation.
-
-## 6)action items
-> So "action items", these are the things that need to get done, the things that people need to do. So for example, if Jessica has to contact a few clients by the end of the week, then that's an action item she has to do it by the end of the week.
 
 # 7.when it comes down to it [phr.归根到底] & the bottom line [重点]
 >  So "when it comes down to it", this is kind of a long expression is just a chunk, we always say it together like this "when it comes down to it". And it's just like the general idea.
