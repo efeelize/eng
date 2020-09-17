@@ -18,48 +18,66 @@
 
 > 3)In the “it turns out” clause, you can use the simple present [一般现在时] “it turns out” or the past tense.[过去时态]
 
-- 1. The whole time I thought she was American, but it turns out she was British. 我一直以为她是美国人，结果发现她是英国人。 
+- 1. The whole time I thought she was American, but it turns out she was British. [我一直以为她是美国人，结果发现她是英国人]
 
-- 2. The whole time he was telling me that he was working late, it turns out that he was gambling. 他一直跟我说他工作到很晚，结果发现他是在赌博。 
+- 2. The whole time he was telling me that he was working late, it turns out that he was gambling. [他一直跟我说他工作到很晚，结果发现他是在赌博]
 
-- 3. The whole time I assumed they were a couple, it turns out they're just old friends.我一直以为他们是一对，结果发现他们只是老朋友。
+- 3. The whole time I assumed they were a couple, it turns out they're just old friends.[我一直以为他们是一对，结果发现他们只是老朋友]
 
 # 2.cigarettes
-## 1)vaping /ˈveɪpɪŋ/ 吸食电子烟 
+## 1)vaping /ˈveɪpɪŋ/ 【n.吸食电子烟]
+> we don't really use the word "smoke" with e-cigrettes.we usually say vaping,and that means just use one of those small electric cigarettes.
 
-## 2）e-cigarettes /iː-ˈsɪɡərets/ 电子烟 
+## 2）e-cigarettes [电子烟]
 
-## 3）cartridges /ˈkɑːrtrɪdʒɪz/ （设备中可替换的）芯，囊，管，筒
+## 3）cartridges /ˈkɑːrtrɪdʒɪz/ [（设备中可替换的）芯，囊，管，筒]
+> It's usually a container that you put into some kind of machine, so I always think about an ink cartridge.
 
-## 4)hooked /hʊkt/ 上瘾的
+## 4)be hooked on sth/get hooked [adj.上瘾的]
+> So you can say that "Someone is hooked," "I'm hooked on smoking," or you can say, "get hooked." But just remember, it doesn't have to necessarily be a bad thing, you can be hooked on learning.
 
-## 5)fixes /ˈfɪksɪz/ 让人上瘾的东西
+## 5)fixes [n.让人上瘾的东西]
+> We're talking about someone who is addicted to something, getting to enjoy it or to use it.like a lot of people have a sweet tooth and they are like, "I need to get my sugar fix."
 
-# 3.catch on /kæʧ ɑːn/ 盛行起来、流行起来 &  all the rage /ɑːl ðə reɪʤ/ 风靡一时，十分流行 
+# 3.catch on [phr.盛行起来、流行起来] &  all the rage [phr.风靡一时，十分流行] 
+> "catch on," you can use this phrase really about anything, anything that has become popular.I think it's important to note that,it's been around for a bit and then it becomes popular.
 
+# 4.stigma /ˈstɪgmə/ [n.侮辱、污名] 
+> it's something that is very, very bad and it's something that people carry. for example, if someone has a really bad disease, that's a stigma.And it could also be something that we look down on to.
 
-# 4.stigma /ˈstɪgmə/ 侮辱、污名 & ironic 讽刺的 & ring hollow /rɪŋ ˈhɑːloʊ/ 显得虚假，听起来不诚恳 
-- 1. These days there is virtually no stigma surrounding online dating. 如今，人们几乎不再以网上交友为耻了。 
+- 1. These days there is virtually no stigma surrounding online dating. [如今，人们几乎不再以网上交友为耻了]
 
-- 2. She showed deep compassion for even the most stigmatized people in society. 她深怀同情，即便是对社会上承担了最多骂名的人。 
+- 2. She showed deep compassion for even the most stigmatized people in society. [她深怀同情，即便是对社会上承担了最多骂名的人]
 
-- 3. A stigma still surrounds mental health, which is why we don't seriously discuss it. 人们仍然耻于谈论心理健康，所以我们不认真探讨这个问题。
+- 3. A stigma still surrounds mental health, which is why we don't seriously discuss it. [人们仍然耻于谈论心理健康，所以我们不认真探讨这个问题]
 
-# 5.have their cake and eat it too  两者兼得 & backlash /ˈbæklæʃ/ 强烈反响；强烈反对 
-- 1. The latest movie caused a lot of backlash against both the studio and the director. 这部最新电影激起了对电影公司和导演的强烈抵制。 
+# 5.have their cake and eat it too  [phr.两者兼得] & backlash /ˈbæklæʃ/ [n.强烈反响；强烈反对] 
+> 1)this is a great phrase to use when you're describing a situation where you get two things that are contradictory, so normally you shouldn't have them at the same time. But if you have your cake and eat it too, you get both of those things.so one example that comes to mind is if you get a job that pays a lot of money, that's a great thing. But typically, these jobs take up a lot of time, so you won't have time to enjoy all this money that you're earning.
 
-- 2. It's safe to assume that any tax increases will be met with backlash from the public. 可以肯定的是，任何增税都会遭到来自公众的强烈反对。 
+> 2)the word lash means to hit.a backlash is really like a public reaction.the public gets really really angry.
 
-- 3. The latest backlash against the company has caused the stock price to sink. 最近对该公司的抵制导致了股价下跌。
+- 1. The latest movie caused a lot of backlash against both the studio and the director. [这部最新电影激起了对电影公司和导演的强烈抵制]
 
+- 2. It's safe to assume that any tax increases will be met with backlash from the public. [可以肯定的是，任何增税都会遭到来自公众的强烈反对]
 
-# 6.outright /ˈaʊtraɪt/ 完全的，彻底的  
-- 1. If you can purchase something outright with cash, you will likely be able to get a discount. 如果你能当场付现金买东西，你可能会享有折扣。 
+- 3. The latest backlash against the company has caused the stock price to sink. [最近对该公司的抵制导致了股价下跌]
 
-- 2. I made my last mortgage payment yesterday, which means that I finally own my home outright. 我昨天付了最后一笔抵押贷款，这意味着我终于拥有了完全属于自己的房子。 
+# 6.outright /ˈaʊtraɪt/ [adj.完全的，彻底的]  
+> so an outright ban is like a complete or total ban, and it does sound kind of weird because it's like kids are smoking nicotine or tobacco.
 
-- 3. Although he won the competition outright, many still believe that he cheated. 虽然他当场赢得了比赛，但许多人仍然认为他作弊了。
+- 1. If you can purchase something outright with cash, you will likely be able to get a discount. [如果你能当场付现金买东西，你可能会享有折扣] 
 
+- 2. I made my last mortgage payment yesterday, which means that I finally own my home outright. [我昨天付了最后一笔抵押贷款，这意味着我终于拥有了完全属于自己的房子]
+
+- 3. Although he won the competition outright, many still believe that he cheated. [虽然他当场赢得了比赛，但许多人仍然认为他作弊了]
+
+# 7.sth rings hollow /ˈhɑːloʊ/ [phr.显得虚假，听起来不诚恳]
+> it's like you can't really believe it.
+
+# 8.sarcasm & irony & ironic [adj.讽刺的] 
+> 1)the biggest difference between sarcasm and irony is,  sarcasm is a type of irony, but it's something you do with your voice, like, "Err! Great job! Johnny." 
+
+> 2)But irony is much richer and deeper and just like we said, it's used in stories and in life when you expect one thing to happen, but then something else,usually the opposite thing happens, and you know it's kind of funny, or interesting.
 
 # III.pattern
 ***Look at all those kids vaping over there. When did this thing catch on?***
