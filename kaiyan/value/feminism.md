@@ -54,7 +54,19 @@
 ## 2)underappreciated [adj.未得到充分重视的，未得到正确评价的] & overappreciated
 > So when I think of underappreciated, I often think of working mothers.or just working women in general or just the amount of labor that women have to do on a day-to-day basis. That is not only underrepresented in our economy, but also underappreciated by people in general.
 
-# 4.power
+# 4.opinion
+## 1)speaking of which... 
+> this is sth that we used to kind of change the topic a little but still stay,like stay within the general kind of subject.
+
+## 2)some sources say this... 
+> usually whenever I read that my eyebrow goes up a bit might my skeptical eyebrows. like which sources.
+
+## 3)Oh man,don't even get me started.
+> 1)a lot of people want to say "like God". But you can't always say "God"around so many people".So you probably just like man or in really kind of casual situations you might hear dude.We've used "geez" a lot lately and it's not the geez is the wrong word to use. It's just kind of it's not as powerful as saying God or man or even as Lisa just mentioned dude. 
+
+> 2)don't even get me started,this kind of means that if you allow me to talk about this subject. I will talk about it forever.
+
+# 5.power
 ## 1)empowerment /ɪmˈpaʊɚmənt/ [n.赋权]
 > empowerment means to give sb power.you can empower people with knowledge or opportunities.
 
@@ -70,17 +82,20 @@
 ## 3)clout /klaʊt/ [n.影响力] 
 > women having more clout in society and companies possibly considering hiring more women to tap into the female perspective.
 
-## 4)entitled [有权享受]  
-- 1. According to his job description, he is entitled to twenty sick days a year. 根据他的职位说明，他每年有二十天的病假。 
+## 4)entitled [v.有权享受]  & has a sense of entitlement 
+> 1)so it means you have the right to do it.but it can be entitled to other things,like I'm entitled to my opinion.or you're also entitled to a vacation.
 
-- 2. Dealing with entitled children was her least favorite activity as a babysitter. 作为一名保姆，她最不喜欢的活动就是与那些有权力的孩子打交道。 
+- 1. According to his job description, he is entitled to twenty sick days a year. [根据他的职位说明，他每年有二十天的病假]
 
-- 3. He received a voucher entitling him to a free meal at a restaurant nearby. 他收到了一张代金券，可以在附近的一家餐馆免费用餐。
+- 2. Dealing with entitled children was her least favorite activity as a babysitter. [作为一名保姆，她最不喜欢的活动就是与那些有权力的孩子打交道]
 
+- 3. He received a voucher entitling him to a free meal at a restaurant nearby. [他收到了一张代金券，可以在附近的一家餐馆免费用餐]
 
-## 5)under law [根据法律]
+> 2)That's one thing we hear a lot today especially the older generation, the baby boomers. They always say that our generation the younger generation has a sense of entitlement.and this just basically means that we feel that we have the right to do many things that maybe we shouldn't be allowed to do.
 
-# 5.work
+## 5)under law [phr.根据法律]
+
+# 6.work
 ## 1)tap into [phr.发掘、进入；利用] 
 > 1)so "tap into" really makes me think about using resources or finding a way to use resources like, for example, to tap into an oil well.you would actually set up a tap and you would use this tap to take out the oil.
 
@@ -92,45 +107,72 @@
 
 - 3. Luckily for them, they have a large amount of resources that they can tap into. [他们很幸运，有很多可以发掘利用的资源]
 
-## 2)come along [加入] 
+## 2)come along [phr.加入] 
 
+## 3)C-suite [企业高管层,如CEO、CTO、COO] & executive [n.主管]
+> 1）these are all the people at the top,but it's kind of long to say executives or to list all the different Cs,so we just say C-suite.
 
-## 3)C-suite [企业高管层,如CEO、CTO、COO]
-> these are all the people at the top,but it's kind of long to say executives or to list all the different Cs,so we just say C-suite.
+> 2)So executive refers to people in positions of power who can make decisions.
 
 ## 4)level the playing field [phr.创造公平竞争环境] 
 > so often you need to level the playing field for markets,and that often means making things more fair for companies.it could be a very theoretical approach.
 
-## 5)pay gap [薪资差距] 
+## 5)gender/wage pay gap issue [n.薪资差距] 
+> In this case, it's between men getting paid a certain amount and women getting paid much less for the same job.
 
+## 6)glass ceiling /ˈsilɪŋ/ [n.玻璃天花板]
+> as you guys can imagine that glass ceiling is an invisible barrier that stops women from achieving higher positions.
 
-## 6)glass ceiling /ˈsilɪŋ/ 玻璃天花板
+## 7)reading up on sth [v.熟知;专攻;对…了如指掌] 
+> 1)reading up on is kind of like you're reading something to get information.You're studying basically.But you could also behave reading up on the Olympics.
 
+> 2)We wouldn't really say I'm reading up on a novel, but if you did say that it kind of sounds like you're studying the novel, you're not reading it for pleasure.
 
-## 7)reading up [熟知;专攻;对…了如指掌] 
+## 8)counterparts [n.竞争对手、对等物]
+> 1)counterpart just means the person that's in the same position as you but on the other side.
 
-## 8)counterparts [对手、对等物]
+> 2)Or It could be a different company.maybe we've talked a few times here on Open Language about Schmopen Danguage. Maybe there's another host over there we could consider that to be our counterpart.
 
 ## 9)work day [工作日] &  get time off [放假]
+> 1)regular work day just like it sounds is a normal day.
 
-# 6.gender
-## 1)sexism [性别歧视] 
+> 2)so you can say get a day off work,get a week off work or even get a half day off work.
 
-## 2)gender equality [性别平等]
+## 10)rally and conference
+> 1）rally, so you might think of this as this kind of like gathering, you might have had when you were in university, basically it's kind of like when a lot of people come together to support a common idea or cause.
 
-## 3)male dominated [男性主导的]
+> 2)conference is just get a bunch of people together and we just talk.so they give presentations and this is really common for business conference.
 
-## 4)metoo movement [美国反性骚扰运动]
+# 7.gender
+## 1)sexism [n.性别歧视] 
+> so sexism is the idea that one gender is somehow better than the other gender.So sexism could be discrimination against men or could be discrimination against women.
 
-## 5)feminism
-- 1. For Emma Watson, outspoken feminism is a way of life. 对于Emma Waston来说，坦率地谈论女权主义就是她的生活方式。 
+## 2)gender equality [n.性别平等]
+> this is the equaity between genders,
 
-- 2. Once I saw a feminist say that abortions should be legal and be free. 我曾经看到过一位女权主义者说堕胎应该合法化并能自由选择。 
+## 3)male dominated [adj.男性主导的] & male dominated industries
+> 1)male dominated here just means you know controlled by men. 
 
-- 3. Feminism may have liberated the feminists, but it has still to change the lives of the majority of women. 女权主义可能解放了女权主义者，但它也需要去改变大多数女性的命运。
+> 2)And male dominated industries, this is no secret to their called the STEM, science, technology, engineering and math.
 
+## 4)metoo movement [n.美国反性骚扰运动]
+> 1)So this is probably like the most recent example or wave. I guess you could say of feminism there have been several waves throughout history. One was a hundred years ago, one was fifty years ago, one was thirty years ago.
 
-# 7. translated /trænzˈleɪtɪd/ [v.转化]
+> 2)This one though has basically come in direct response to, well basically started with Harvey Weinstein.It was sexual harassment,it was just enough people finally came forward.there are a lot of people who can say "me too". They see Harvey Weinstein. They see Bill Cosby. They see these men and, not just Hollywood but other male dominated industries and thought you know what. "Guys also sexually harassed me and I don't want to say anything.but now here's a million other people who have said something.so people all over the world have been saying me too.
+
+## 5)feminism & feminist
+> so generally speaking feminism is about equality.it's about having equal rights for both men and women.
+
+- 1. For Emma Watson, outspoken feminism is a way of life. [对于Emma.Waston来说，坦率地谈论女权主义是她的生活方式]
+
+- 2. Once I saw a feminist say that abortions should be legal and be free. [我曾经看到过一位女权主义者说堕胎应该合法化并能自由选择]
+
+- 3. Feminism may have liberated the feminists, but it has still to change the lives of the majority of women. [女权主义可能解放了女权主义者，但它也需要去改变大多数女性的命运]
+
+## 6)protest [v.抗议]
+> Protest you're trying to go against something.
+
+# 8. translated /trænzˈleɪtɪd/ [v.转化]
 > So "translated" can be used to say that something changes or perhaps transfers from one thing to another.I often think about theories. Some theories really don't translate well to actual practice. It sounds good in theory.
 
 - 1. Can you give me any concrete examples of how you could translate this theory into practice? [你能给我举一些具体的例子，说明你如何把理论应用于实践吗？]
@@ -138,15 +180,6 @@
 - 2. The skills that she learned as a public speaker translated well into her position as a brand ambassador. [她通过公众演讲掌握诸多技能， 帮助她胜任品牌大使一职]
 
 - 3. They've had some difficulty with translating their offline success into online success. [在尝试把线下成功转化成线上成功的过程中，他们遇到了一些困难]
-
-# 8.concrete [adj.具体的] & concerted /kənˈsɝːtɪd/ [adj.一致的]
-> 1)it is specific,it is the opposite of abstratc.they're things that you actually can put into practice.
-
-- Do you have any concrete suggestions?
-
-> 2)When something is "concerted," it means that it's been planned or done together.
-
-- It's really difficult to just put the onus on one person. It requires the concerted efforts of everyone essentially.
 
 # 9. putting the onus /ˈoʊnəs/ on  [phr.使......承担责任] & the onus is on sb
 
@@ -159,16 +192,28 @@
 
 > 2)the opposite is marginal,it is a number that often doesn't matter.it's small.
 
-# 11.fueling /ˈfjuːəlɪŋ/ [ptcp.加强] & driving 
+# 11.fueling /ˈfjuːəlɪŋ/ [ptcp.加强] & driving & step up [phr.增加、加大力度]
 > 1)"fuel" seems like less of a direct cause. It's just sort of adding to the cause.So it's something that often keeps people's feelings and ideas active, It makes them stronger, but it doesn't necessarily cause them to have these feelings.it can be used for positive things, but it's often use for negative things.
 
 - you could fuel someone's fear or fuel someone's anger.
 
 > 2)both of these two words means to push sth forward.driving could be also causing.
 
+> 3)So step up here it has two basic meanings. One of them is step up to the challenge and the other one is to improve sth.You can kind of imagine a sort of a staircase and you're kind of moving upwards to improvement.
 
+# 12.concrete [adj.具体的] & concerted /kənˈsɝːtɪd/ [adj.一致的]
+> 1)it is specific,it is the opposite of abstratc.they're things that you actually can put into practice.
 
+- Do you have any concrete suggestions?
 
+> 2)When something is "concerted," it means that it's been planned or done together.
+
+- It's really difficult to just put the onus on one person. It requires the concerted efforts of everyone essentially.
+
+# 13.rectify [v.改正] 
+> It's powerful to say and it also usually involves some some big decisions some huge change.So rectify kind of means to correct a situation.So you might want to rectify any injustice you might have felt at work.
+
+# 14.inclusive [adj.包容的] & exclusive [adj.专用的;独家的]
 
 # III.pattern
 ***Hey. Do you guys get a half-day off for women on International Women's Day?***
