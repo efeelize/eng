@@ -106,9 +106,18 @@
 
 > This form is always written “had better,” never “have better.” There is also no “to” before the verb. Finally, it’s usually shortened to “ 'd better .”这个短语经常写成“had better”，而不是“have better”。后面直接接动词不加“to”。“had better”经常缩写为“ 'd better ”。
 
-# 5.frustration
+# 5.let me know if...
+> this is a polite way to offer help to sb.
+
+- let me know if you need any help.
+
+- let me know if you encounter any problems.
+
+- let me know if you get bogged down.
+
+# 6.frustration
 ## 1)hiccups /'hikʌp/ [n.小问题、打嗝]
-> 1）It just means a little problem.So we're not really going to use it for big problems. For example, travel hiccups, right? A travel hiccup might be that there is a traffic jam.
+> 1）It just means a little problem,but usually one that we can fix pretty quickly.So we're not really going to use it for big problems. For example, travel hiccups, a travel hiccup might be that there is a traffic jam.
 
 > 2)a hiccup, the original meaning of a hiccup is when you you you're talking and and this annoying sound that keeps you from talking in finishing a sentence.
 
@@ -142,10 +151,14 @@
 
 > 2)we really had to stretch our imaginations to think of a positive way to use this phrase.like:he's fam mail [粉丝来信] is piling up.
 
-## 6）distractions [n.使人分心的事] & distract [v.] & distracting [adj.]
-> 1)distractions:these are just things that take your attention away.
+## 6）to be swamped with sth [ptcp.淹没] & to be bogged down with sth [phr.陷入困境]
+> 1)a swamp is like a muddy area like a muddy pond or lake, So when you step into it, you sink, and it's really hard to move in.so we can sink into a swamp. We can also sink into our work. If we have too much work, it buries us.
 
-> 2)distract:So we all know what distracts us at work. It's usually our phone, or maybe our computer, or it could be a distracting co-worker.a really chatty co-worker.
+> 2)Now to be swamped with something means that you are overwhelmed with work, you have too much of it. So we often say "swamped with work," but we can change this as well. We can say the customer service department was swamped with complaints.
+
+> 3)When you're bogged down, you might be a little bit stuck. Now a bog is actually similar to a swamp. It's like a muddy area that's hard to get out of when you walk into it.
+
+> 4)But when you're bogged down with something, it means that maybe you're too focused on just one or two things, and it's really slowing you down.it's taking up more time than you expected.so you could get bogged down with the details, you're spending too much time thinking about it. 
 
 ## 7)tight [adj.金钱拮据的]
 > 1)She says "it's going to be tight", which means that the schedule will be tight.Yeah, not your clothes. I mean, I mean my clothes are already pretty tight. Yeah this means you don't have enough time, maybe not enough time.
@@ -159,12 +172,23 @@
 
 > 2)Right, so the opposite would be if you can afford something, like you can afford to delay something, it means you can do that and it won't make any problems.For example, if I wake up really early, so I have a lot of time to get to work, so I can afford to sit there and have a coffee.
 
-## 9)bogged down [陷入困境]
+## 9)alleviate /əˈliːvieɪt/ [v.减轻，缓解]
+> 1)So to "alleviate" means to reduce this, to make it better.you're not making it go away completely, you're just lessening it.
 
+> 2)I know a lot of people who work in customer service. They want to alleviate the customers' concerns, so they'll answer their questions and try to make them happy.or you could alleviate someone's fear, so you make them less afraid. Or even alleviate pain. We take drugs and painkillers to reduce that pain. 
 
-## 10)alleviate /əˈliːvieɪt/ 减轻，缓解
+- 1. This medicine should alleviate your heartburn. [这种药可以减轻你的胃灼热症状]
 
-# 6.plan 
+- 2. Tammy tried to alleviate the tension between the two boys. [Tammy试图缓和两个男孩之间的紧张关系]
+
+- 3. I'm willing to do anything to alleviate the problem. [为了缓解这个问题，我愿意做任何事情]
+
+## 10)distractions [n.使人分心的事] & distract [v.] & distracting [adj.]
+> 1)distractions:these are just things that take your attention away.
+
+> 2)distract:So we all know what distracts us at work. It's usually our phone, or maybe our computer, or it could be a distracting co-worker.a really chatty co-worker.
+
+# 7.plan 
 ## 1)find the time [phr.抽时间、找时间] & make the time 
 > 1)to find the time to do something," and it just means that, well, you look at your schedule, you see an open space and hey, you find the time to do an activity.like "I can't find the time to go to the gym." Or find the time to have a social life for some. If you're working, you know, until 10/11 pm at night, it's difficult!
 
@@ -183,27 +207,30 @@
 
 > 2)or bosses always assign tasks to the employees.For example, a boss can assign a day to have interviews.
 
-## 5)delegating /ˈdeləɡeɪtɪŋ/ 分配，指派
+## 5)delegate to sb [v.分配、指派]
+> so when you delegate, you give out work. You give out responsibilities to other people, usually at work.So a good manager knows how to delegate tasks. They know how much work to give without swamping their employees.
 
+## 6)to prioritize sth [v.确定优先次序] & priority [n.]
+> So to prioritize something is to decide which is the most important, to decide which things have to be done first.You could prioritize a thing or a person. For example, maybe you might want to prioritize a customer or your family.
 
-## 6)prioritize [确定优先次序] 
+## 7)set aside [phr.留出…用于]
+> So "to set aside" just means to save this for later. So when you set aside some time, you could say, "All right. At the end of the week, let's spend thirty minutes talking about this."Or when I was a teenager, I worked at a grocery store and I set aside all my money, so I could buy a car one day.or you could set aside money for emergencies.
 
+## 8)optimize /ˈɑːptəmaɪz/ [v.优化，充分利用]
+> So "optimize," that just means to make something as good as possible, make it more effective, make it more efficient.So you can optimize your time by making a very effective and tight schedule.or you can optimize a process at work by creating a better workflow. 
 
-## 7)set aside /set əˈsaɪd/ 留出…用于
+- 1. How do you think we could optimize our work procedures? [你认为我们怎样才能优化工作流程？]
 
+- 2. You'll sustain a lot of loss if you don't optimize energy use. [如果不优化能源使用，你将承受很大的损失]
 
-## 8)optimize /ˈɑːptəmaɪz/ 优化，充分利用
-- 1. How do you think we could optimize our work procedures? 你认为我们怎样才能优化工作流程？ 
+- 3. I need to optimize my computer for speed and energy. [我需要优化电脑的速度和电池]
 
-- 2. You'll sustain a lot of loss if you don't optimize energy use. 如果不优化能源使用，你将承受很大的损失。 
+## 9)coordinating [v.] & cooperate [v.] & collaborate [v.]
+> 1)"coordinate" means to make things work together.So when you're coordinating, you're making things work together or you're helping different people work together.For example, if you're coordinating an event, you might book the venue, tell the presenters who is presenting, where, and when. These are types of things that you will do if you are coordinating.
 
-- 3. I need to optimize my computer for speed and energy. 我需要优化电脑的速度和电池。
+> 2)"cooperate" means to work together for a purpose, if you cooperate at a meeting, that means you talk a lot and you help other people and you work together.you're doing something together with a purpose.For example, you can cooperate with the police to find a killer.
 
-
-## 9)coordinating [协调，配合]
-
-
-
+> 3)when you "collaborate," you usually produce something. So "collaborate" is similar because it includes working together, but usually, when you collaborate, you produce something,So two musicians might collaborate to make a song. 
 
 ## 10)milestones [n.里程碑]
 > milestones are just important events.Like in someone's life. but for work a milestone might be, like completing a stage in the project. like the development of that project, it's a really important event.but when you're planning these milestones, you want to map everything out.So just like you can see there has the word, map. When you map out something, you make a map, it's like a visual plan. because sometimes when you look at just words, it's not easy to understand.
@@ -211,25 +238,23 @@
 ## 11)mindset [n.思维方式]
 > And mindset is just the attitude that you have or I guess the, you're kind of perspective, the way you think.Kind of like a mix of attitude, and your way of thinking, so somebody who has a positive mindset is a positive person. They're probably thinking it's going to be, we can work through that.
 
-
-
-# 7.parctice
+# 8.parctice
 ## 1）put that into parctice [phr.付诸于实践]
 > To "put it into practice" means to actually do this, to actually practice this idea. there's lots of things that we can put into practice. We can put, for example, our values into practice.Or if we're talking about English, you can put that grammar into practice.That is a very, very practical thing that you can put into practice. So basically, you can put anything into practice. It just means "do it."
 
 ## 2）ran into [phr.遇到]
 > It's kind of like running into a wall, but not that actually. It's when you come across or encounter something that makes you stop.Yeah, it's when you find something unexpectedly.Exactly. I remember one time I was traveling in Europe, and I ran into a friend.Or well, I mean, you could even just run into a friend at a store.That's true. So in that way, it can be a good thing. In this case, it's not a good thing.Yeah, so they ran into some issues, right? She unexpectedly found some issues.Some problems, exactly. So that's why they're behind schedule, but this is a problem as Kevin says, "well we'd better get those numbers right".
 
-## 3）To be on top of sth
-> It is an idiom that means "to be in control of a situation" or "to be fully informed about something." It's frequently used to assure someone that a problem or task is under control and is being dealt with appropriately.
+## 3）be (not) on top of sth
+> 1)It is an idiom that means "to be in control of a situation" or "to be fully informed about something." It's frequently used to assure someone that a problem or task is under control and is being dealt with appropriately.
 
-> Likewise, Christina uses this idiom in today's dialogue to assure her boss that the team is in control and the work is being done.
+> 2)so we often use it to assure other people like our bosses, so we can say we're on top of the problem. But if you're not on top of it, then that means you're missing deadlines. You're making mistakes. You don't know what's going on.
 
-- 1. They're always on top of their game. 他们总能掌控自己的工作。 
+- 1. They're always on top of their game. [他们总能掌控自己的工作]
 
-- 2. Don't worry. We're on top of the problem. 别担心，我们正在处理这个问题。 
+- 2. Don't worry. We're on top of the problem. [别担心，我们正在处理这个问题]
 
-- 3. If we don't get on top of the whole global warming issue, the consequences will be catastrophic. 如果我们不能完全掌控全球变暖问题，后果将是灾难性的。
+- 3. If we don't get on top of the whole global warming issue, the consequences will be catastrophic. [如果我们不能完全掌控全球变暖问题，后果将是灾难性的]
 
 ## 4）devote yourself to sb & dedicate 
 > 1)when you devote yourself to them, you give your time to this person.In kind of a loving way.Just notice the preposition here, devote my mornings "to" important stuff."devote" is just more emotional. it's almost like dedicate plus emotion. So you might devote yourself to your wife, and that sounds better than to dedicate yourself to your wife.so devotion has more of an emotional sense.
@@ -249,20 +274,10 @@
 
 > 2) the adjective is "minimal" and, for example, someone might put minimal effort in at work.
 
-
-## 8)alleviate /əˈliːvieɪt/ 减轻，缓解
-- 1. This medicine should alleviate your heartburn. 这种药可以减轻你的胃灼热症状。 
-
-- 2. Tammy tried to alleviate the tension between the two boys. Tammy试图缓和两个男孩之间的紧张关系。 
-
-- 3. I'm willing to do anything to alleviate the problem. 为了缓解这个问题，我愿意做任何事情。
-
-## 9)take up [v.培养习惯]
+## 8)take up [v.培养习惯]
 > take up, which means start doing something. So I could take up the guitar, but I'm not gonna take on the guitar. Take up a hobby is like because I like it, I want to do it.
 
-
-
-# 7.deadline
+# 9.deadline
 ## 1)tight/hard deadlines/schedule
 > 1)we often use the word, tight. This is a collocation, you just don't have much time, like you could have a tight schedule.And maybe you have all these meetings lined up in one day, and you have no break.
 
@@ -303,7 +318,10 @@
 
 > 2)But what do we use the word "speed"?Well, probably because in a race, if you're behind, you need to catch up, you need to gain more speed.
 
-# 8.conscientious /ˌkɑːnʃiˈenʃəs/ 勤勉认真的，一丝不苟的
+# 8.be conscientious /ˌkɑːnʃiˈenʃəs/ of sth  [adj.勤勉认真的，一丝不苟的]
+> 1)so "conscientious." This just means to be careful and deal with it in like a serious way.So you could be conscientious of the time, so you're constantly checking the time and you're always giving people enough time to do their work.
+
+> 2)Or conscientious of other people's feelings, so you're empathetic. You understand what they're feeling.
 
 # III.pattern
 ***Christina, am I going to see those reports on my desk before the deadline this time?***
