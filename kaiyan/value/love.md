@@ -1,5 +1,4 @@
 # Love
-
 # I.Quick facts on dating culture in the US 
 # 1.Marriage is not (always) the ultimate goal
 > American people will think through and through before they decide to get married. They will make sure that their partner is the right one worth spending their life with. Thus, people who date in America are not all ended up being married. 
