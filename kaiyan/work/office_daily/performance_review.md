@@ -134,7 +134,7 @@
 ## 8) peer evalutaion/assessments [n.同事互评]
 > you could say peer evaluation and sometimes people do say peer evaluation.
 
-## 9) performance evaluation [n.绩效考核]
+## 9) performance evaluation/review [n.绩效考核]
 > we can evaluate other things besides employees,Maybe you don't know what school you're gonna go to, so you say, "I need to evaluate my options."
 
 ## 10) performance-based/non-performance-based [adj.(不)基于绩效的] 
@@ -222,15 +222,16 @@
 
 > 2)equal means the same.
 
-## 13）on the level [phr.诚实的、实在的]
+## 13）sb is on the level [phr.诚实的、实在的] & straight up [phr.一五一十、实在的]
+> if sb is on the level,they're honest,they're fair.
 
+## 14）proactive [adj.积极主动的] & reactive [adj.被动反应] 
 
-## 14）proactive [积极主动的]
+## 15）valuable contribution [n.重大的贡献、有价值的贡献]
+> If you ask "how can I get this exceeds expectation". That's a selfish thing, but if I ask how can I make the company better, how can I make them more valuable contribution, do better things, you're talking about the success of the company.your boss is gonna be more receptive to that.
 
-
-## 15）valuable contribution [重大的贡献、有价值的贡献]
-
-
+## 16)bombed sth [v.表现差劲、完败]
+> so when you bomb something, often used for a test, for example, you fail it, it's just not good.you can use this in so many places, and so many situations, like you bomb an interview, you can bomb a test, even like movies can bomb.sometimes movies that have huge anticipation, they bomb at the box office.
 
 # 8. operate related
 ## 1）implementation [n.实施] & to implement [v.] &  actionable [adj.可行的;可诉的]
@@ -263,6 +264,9 @@
 
 > 2)And we can replace it with the thing that we want to bring up, so we can say bring our problems up.You can say "bring it up" or "bring the thing up," but you cannot say "bring up it."Make sure you have the "it" between.
 
+## 7）move forward [phr.进行下一步]
+> we say this all this time to progress,to get past sth bad,and make it better.
+
 # 9.opinion related
 ## 1)perspective
 - Tom always has a unique perspective on how to solve difficult problems.[对于如何解决难题，汤姆总是有独到的见解]
@@ -291,9 +295,8 @@
 ## 7)prompts /prɔmpt/ [v.& n.提示]
 > it's kind of some message or a signal to do sth,if you're taking an English test or any kind of test, the prompt is the question.So you've got like a question and ABCD, pick one where the prompt is the question.and that not comes up a lot to in listening tests.listen to the prompts.
 
-## 8)straight up [一五一十、实在的]
-
-
+## 8)take [n.观点]
+> this is a really common expression if you want sb's opinion.what's your take.
 
 # 10.aligned [v.对齐] 
 > So they need to make sure that the manager's goals for the subject and the subject's goals for themselves are the same.so both the manager and the employee want the employee to grow,If their goals are aligned.
