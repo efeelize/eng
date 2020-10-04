@@ -20,18 +20,15 @@
 
 # II.grammar
 # 1.to catch up to/with sb or sth
-> 1)It means to reach an equal level, status or point of progress.
+> 1)this uses of this word are pretty neutral,It means to reach an equal level, status or point of progress.Or catching up with old friends, you're chatting, or maybe catching up to someone physically versus speed. 
 
 - It will be a long while yet before I catch up to Mark's level.
 
-> 2)It refers to the moment when a person experiences the negative consequences of an innate or biological problem or prolonged behavior. We frequently use it for things such as age.
+> 2)This one is negative,it's kind of like if you have like a bad behavior and you do it for a long time, then eventually you're gonna face the consequences.It refers to the moment when a person experiences the negative consequences of an innate or biological problem or prolonged behavior. We frequently use it for things such as age.
 
-- I can't run as fast as I could before. I think my age is finally catching up to
-me.
-
+- I can't run as fast as I could before. I think my age is finally catching up to me.
 
 - If you smoke a pack a day, it will eventually catch up with you.
-
 
 - All that drinking is going to catch up to you sooner or later.[你喝这么多酒迟早会让你尝到苦头的]
 
@@ -40,7 +37,8 @@ me.
 - You might be perfectly fine with working overtime now, but all those hours will eventually catch up with you and cause you to burn out.[你可能现在觉得加班完全没有问题，但所有这些时间最终会让你尝到苦头，导致你疲惫不堪]
 
 # 2.hair
-## 1)starnds /strændz/ [条，根，缕]
+## 1)starnds /strændz/ [n.条，根，缕]
+> we use this word "strands" with things like DNA.if you guys like to floss your teeth, you use a the strand of dental floss.
 
 - 1. She wore three strands of beads around her neck.[她脖子上戴着三串珠子]
 
@@ -48,13 +46,13 @@ me.
 
 - 3. Hair strands can be individually transplanted into the bald areas of the scalp.[头发丝可以单个移植到头皮的脱发部位]
 
-## 2)scalp /skælp/ 头皮
+## 2)scalp /skælp/ [n.头皮]
+> so scalp is the skin on the top of your head.so hair grows through or out of your skin.
 
+## 3)hair restoration /restəˈreɪʃən/ [n.头发修复]
 
-## 3)hair restoration /her ˌrestəˈreɪʃən/ 头发修复
-
-
-## 4)transplant /trænˈsplænt/ 移植
+## 4)transplant /trænˈsplænt/ [n.移植]
+> so you see it a lot in medical contexts like heart transplants, liver transplants.But we can even use this for things like people, you could say, like, "I'm a transplant from New York."
 
 - 1. My grandfather needed a kidney transplant.[我的祖父需要肾脏移植]
 
@@ -62,15 +60,17 @@ me.
 
 - 3. I'm a transplant from New York.[我是从纽约搬过来的]
 
-## 5)perm /pɝːm/ 烫发，卷发
+## 5)perm /pɝːm/ [n.烫发，卷发]
 
-
-## 6)hair loss & going bald
+## 6)hair loss & going bald & male pattern baldness
 > so hair loss is a much nicer way to say "going bald."
 
-# 3.heredity /həˈredəti/ 遗传 & genetics /dʒəˈnet̬ɪks/ 遗传学
+# 3.heredity /həˈredəti/ [n.遗传] & hereditary [adj.] & genetics /dʒəˈnet̬ɪks/ [n.遗传学]
+> 1)heredity is a fancy word for your genes.if your heredity is catching up to you and you're going bald,then maybe baldness in your family is hereditary.
 
-# 4.ultraviolet rays /ˌʌltrəˈvaɪələt reɪz/ 紫外线
+> 2)genetics is just the study of genes.
+
+# 4.ultraviolet/UV rays /ˌʌltrəˈvaɪələt/ [n.紫外线]
 
 # III.pattern
 ***Will, I feel like my hair has been getting thinner lately.***
