@@ -1,14 +1,15 @@
-# Book_relationship
-# I.
+# Book_Men are from Mars,Woman are from Venus
+# I.reacting to stress
+> Everybody reacts differently to stress, but according to John Gray, the way in which men and women react couldn't be any more different. He writes that when men get stressed out, they withdraw temporarily, "retreating into their caves." The might go tinker with their cars in the garage, play video games, read books, or go to spend time with friends. In their "caves", men can take a time-out and free their minds of the problem at hand, thus allowing them to re-examine the problem later from a fresh perspective.
 
+> Gray argues that this male retreat is incredibly difficult for women to understand. When women are under a lot of stress, their natural reaction is to talk with someone close to them about it, even if talking doesn't necessarily provide an immediate solution. So if the source of stress is the relationship itself (or something else that affects both parties in the relationship), it's not difficult for conflict to arise. As the women try to get closer, the men will pull away, which will then likely lead to even more conflict.
 
+# II.the story of "Men are from Mars,Woman are from Venus"
+> As so often is the case in the world of literature, art imitates life [在文学的世界里经常是艺术反映生活]. Before writing “Men are From Mars, Women are from Venus,” author John Gray was facing numerous challenges in his daily life. In the 1970s, Gray was a monk [修道士], inhabiting the world of meditation and yoga. However, after realizing that meditation couldn’t help his bipolar brother, he began to study psychology.
 
+> The next problem came in in the form of women, something completely alien to a celibate monk like Gray who had grown up in a house full of boys. When women upset him, he would remove himself from the situation to meditate and analyze what had happened. One day shortly after his wife had given birth, the couple began fighting. When he attempted to walk out of the room, his wife told him to come over and hold her. They both began to cry and soften. The monk-turned-psychologist was on to something.
 
-
-# II.
-
-
-
+> As for the planetary metaphor in the title? Well, we have director Steven Speilberg to thank for that. When Gray was formulating his ideas in the 1980s, Speilberg had already released his classic blockbuster "E.T. the Extra-Terrestrial," which sparked an renewed interest nationally about aliens and space. If not for Spielberg's adorable little alien, Gray's masterpiece might have had a different title: "Men speak French, Women speak Japanese" possibly?
 
 # III.grammar
 # 1.metaphors
