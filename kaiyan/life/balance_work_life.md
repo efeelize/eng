@@ -25,42 +25,38 @@
 
 - 3. The new CEO is doing wonders for the company. We're back on top.[新上任的CEO给公司创造了奇迹。我们又重回巅峰了]
 
-# 2.unplug /ʌnˈplʌɡ/ 暂时从... 中脱离
-- 1. I'm so stressed at work. I need to unplug and get some R&R.[我工作压力太大了。我得脱离出来然后休养恢复一下]
-
-- 2. I feel like I just can't unplug from my work.[我感觉我就是无法从工作中脱离出来]
-
-- 3. My boss is very plugged into the pulse of the company. She always knows what's going on.[我的上司非常了解公司的一举一动，她总能知道公司发生了什么事]
-
-
-
-my mind is still spinning /maɪ maɪnd ɪz stɪl ˈspɪnɪŋ/ 我的大脑还在运转
-
-# ruminating /ˈruːməneɪtɪŋ/ 沉思，长时间思考
-- 1. You've been ruminating about your breakup for too long. It's not healthy.[你对你分手的事情已经想了太久了，这不健康]
-
-- 2. I ruminated for weeks about whether I should propose or not.[我认真想了好几周到底要不要求婚]
-
-- 3. I try not to ruminate too much about my work. I just remember that I always did my best and try to learn from my mistakes.[我试着不去想太多工作的事。我只要记得我一直很努力并能从错误中吸取教训]
-
-
-compulsion /kəm'pʌlʃən/ 强烈冲动；强烈欲望
-immerse /ɪˈmɝːs/ 浸入、沉浸
-
-# burning out /ˈbɝːnɪŋ aʊt/ 极度劳累；疲劳过度
+# 2.work
+## 1)burning out /ˈbɝːnɪŋ aʊt/ 极度劳累；疲劳过度
 - 1. My coworker has been coming in late, complaining, and getting sloppy. Maybe she's burning out.[我的同事最近总迟到、抱怨，而且变得很马虎。她可能是劳累过度了]
 
 - 2. A: Hey, do you want to go play soccer? B: Sorry, man. I'm still burnt out from yesterday's game.[A: 嘿，你想踢足球吗？B: 不好意思啊，我昨天比赛太累了还没恢复呢]
 
 - 3. I constantly find ways to help my career and rejuvenate myself so I don't become burnt-out.[我总是不断地找办法帮助自己事业并且恢复活力，这样我就不会疲劳过度]
 
+## 2)unplug /ʌnˈplʌɡ/ 暂时从... 中脱离
+- 1. I'm so stressed at work. I need to unplug and get some R&R.[我工作压力太大了。我得脱离出来然后休养恢复一下]
 
-channel /ˈʧænəl/ 引导；把…导入，将…引入
-meditation /ˌmedəˈteɪʃən/ 冥想
-decompress /ˌdiːkəmˈpres/ （使）放松；（使）减压
+- 2. I feel like I just can't unplug from my work.[我感觉我就是无法从工作中脱离出来]
 
+- 3. My boss is very plugged into the pulse of the company. She always knows what's going on.[我的上司非常了解公司的一举一动，她总能知道公司发生了什么事]
 
+## 3)my mind is still spinning 我的大脑还在运转
 
+# 4.relax
+## 1)ruminating /ˈruːməneɪtɪŋ/ 沉思，长时间思考 
+- 1. You've been ruminating about your breakup for too long. It's not healthy.[你对你分手的事情已经想了太久了，这不健康]
+
+- 2. I ruminated for weeks about whether I should propose or not.[我认真想了好几周到底要不要求婚]
+
+- 3. I try not to ruminate too much about my work. I just remember that I always did my best and try to learn from my mistakes.[我试着不去想太多工作的事。我只要记得我一直很努力并能从错误中吸取教训]
+
+## 2)immerse /ɪˈmɝːs/ 浸入、沉浸
+
+## 3)meditation /ˌmedəˈteɪʃən/ 冥想 & decompress /ˌdiːkəmˈpres/ （使）放松；（使）减压
+
+## 4)compulsion /kəm'pʌlʃən/ 强烈冲动；强烈欲望
+
+## 5)channel /ˈʧænəl/ 引导；把…导入，将…引入
 
 # III.pattern
 ***Hi, Sarah. What's on your mind today?***

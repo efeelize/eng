@@ -1,4 +1,4 @@
-# minimum wage
+# Minimum wage
 # I.minimum wage in American
 > In recent years across much of North America, there has been a big push from thousands of workers to increase the minimum wage to $15 per hour. The movement, now dubbed the “Fight for $15 Movement”, was initially intended for McDonald’s employees, but quickly spread to support a significant pay increase for practically all low-wage workers across many industries. With cities like Seattle, New York City and Washington, D.C. vowing to increase their respective minimum wages to $15 an hour, it is evident that the social movement has not gone unnoticed. Nevertheless, much debate about the economic outcome of the proposed pay increase remains.
 
@@ -10,15 +10,50 @@
 
 - 3. The numbers are in: the president’s approval rating has hit a new low.[数据显示：总统的支持率已降至新低]
 
-# 2.crunching a few salary numbers /ˈkrʌnʧɪŋ ə fju ˈsæləri ˈnʌmbərz/ 算工资
-minimum wage /ˌmɪnɪməm ˈweɪdʒ/ 最低工资
-goes into effect /goʊz ˈɪntu ɪˈfɛkt/ 生效
-weighing our options /ˈweɪɪŋ ˈaʊər ˈɑpʃənz/ 权衡选择
-letting anyone go /ˈlɛtɪŋ ˈɛniˌwʌn goʊ/ 解雇员工
-benefits package /ˈbɛnəfɪts ˈpækəʤ/ 福利待遇
-margins /ˈmɑrʤənz/ 利润，盈余
+# 2.salary
+## 1)crunching a few salary numbers [phr.算工资]
+> 1)It is when you have to calculate a lot of numbers.it's like the image I get is you're taking so many numbers here and there, your receipts and everything else and you're kind of trying to combine them, push them together into one number that you can then file for your taxes.
 
-# razor-thin /ˈreɪzər-θɪn/ 极薄的
+> 2)or to try to keep your business afloat.
+
+## 2)minimum wage [n.最低工资] & wage & salary 
+> 1)minimum wage is the lowest leagl amount that you can pay.
+
+> 2)wage is more like by the hour.
+
+> 3)so salary is basically more of a white-collar concept,it's more like by the month or the year.
+
+## 3)living wage [最低生活工资、能支撑生活的工资]
+
+## 4)fight for 15 [为15美元最低工资而战]
+
+## 5)a hill to die on [值得为之奋斗、拼搏的事情]
+
+## 6）benefits package [福利待遇]
+> this could be anything from like dental benefits, going to the dentist for free. In America, health insurance is a huge benefit, like people will not quit their terrible job for fear of losing their health insurance.
+
+# 3.assess
+## 1）paint all business owners with the same brush [一概而论、以偏概全]
+
+
+## 2）weighing our/your options [phr.权衡选择]
+> it's when there are two choices, but both of them have kind of pros and cons, so you have to balance them.So if I do A, this will happen, but this will also happen. If I do B, maybe the first thing won't happen so much, but the second thing will be so much more of.
+
+## 3）progressive 进步分子
+
+## 4）letting anyone go [phr.解雇员工] & you're fired & lay off 
+> 1)this is just a nice polite way to say "you're fired."
+
+> 2)often times you let sb go,it's maybe not their fault.like we didn't have the money,we crunched the numbers,we weighed our options and we had to let him go.
+
+> 3)lay off is when there might be the intention of bringing them back, like a factory worker would get laid off when production is low, But then when they want to increase production again, they'll call Connor back up, "We need you, son, back in the factory floor. 
+
+## 5）eliminate /ɪˈlɪməˌneɪt/ 彻底去除
+
+## 6）goes into effect [phr.生效]
+> we should say like the law goes into effect,policy ,or even some governement legislation.
+
+# 4.razor-thin /ˈreɪzər-θɪn/ 极薄的
 - 1. It was a razor-thin victory in the last election.[上次选举中获胜的一方仅有微弱优势]
 
 - 2. George said he will only have pastrami on his sandwich if the slices are razor-thin.[George只吃三明治里切得超级薄的熏牛肉片]
@@ -26,31 +61,21 @@ margins /ˈmɑrʤənz/ 利润，盈余
 - 3. Do models even eat? They always look razor-thin![模特们会吃东西吗？他们看起来都是纸片人!]
 
 
+# 5.top down 
+- 1. Trickle-down economics is a top-down economic strategy that involves reducing the taxes of the wealthy.[涓滴经济学是一种自上而下的经济策略，涉及到减少富人的税收]
 
-pass any cost increases onto /pæs ˈɛni kɑst ɪnˈkrisəz ˈɑntu/ 把上涨的成本转嫁给
-progressive /prəˈgresɪv/ 进步分子
-fight for 15 /faɪt fɔr 15/ 为15美元最低工资而战
-a hill to die on /ə hɪl tu daɪ ɑn/ 值得为之奋斗、拼搏的事情
-eliminate /ɪˈlɪməˌneɪt/ 彻底去除
-living wage /ˈlɪvɪŋ weɪʤ/ 最低生活工资、能支撑生活的工资
+- 2. I have never worked at a company that didn’t have a top-down management structure.[我从未在一家没有严密管理结构的公司工作过]
 
-# framed /freɪmd/ 设计；组织
+- 3. Do you always have to take a top-down approach to parenting?[你总是要做那种高高在上父母吗?]
+
+# 6.framed /freɪmd/ 设计；组织
 - 1. Johnny isn’t guilty, he’s been framed![Johnny无罪，他被陷害了！]
 
 - 2. No matter how you frame the discussion, gun control is a controversial topic.[无论你如何设计讨论，枪支管制都是一个有争议的话题]
 
 - 3. She framed her questions carefully.[她小心地表达了问题]
 
-
-paint all business owners with the same brush /peɪnt ɔl ˈbɪznəs ˈoʊnərz wɪð ðə seɪm brʌʃ/ 一概而论、以偏概全
-
-
-# top down 
-- 1. Trickle-down economics is a top-down economic strategy that involves reducing the taxes of the wealthy.[涓滴经济学是一种自上而下的经济策略，涉及到减少富人的税收]
-
-- 2. I have never worked at a company that didn’t have a top-down management structure.[我从未在一家没有严密管理结构的公司工作过]
-
-- 3. Do you always have to take a top-down approach to parenting?[你总是要做那种高高在上父母吗?]
+# 7.pass any cost increases onto [把上涨的成本转嫁给] & margins [利润，盈余]
 
 
 # III.pattern

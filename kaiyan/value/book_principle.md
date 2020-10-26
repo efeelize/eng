@@ -16,16 +16,10 @@
 
 - 3. We solved the issue in the business strategy.[我们解决了商业战略中的问题]
 
-# 2.unconventional /ˌʌnkənˈvenʃənəl/ 非传统的; 非常规的; 不循规蹈矩的
-principles /ˈprɪnsəpəlz/ 原则
-cultivated /ˈkʌltəveɪt̬ɪd/ 培养
-refined /rəˈfaɪnd/ 精炼
-lays out /leɪz aʊt/ 罗列、说明
-resolving /riˈzɑlvɪŋ/ 解决
-cornerstones /ˈkɔrnərˌstoʊnz/ 基础; 奠基石
-transparency /trænˈspærənsi/ 透明度
+# 2.unconventional 非传统的; 非常规的; 不循规蹈矩的
 
-# radical /ˈrædɪkəl/ 极端的、极致的
+
+# 3.radical [adj.极端的、极致的] & pushing your limits [phr.促使自己打破极限、挑战自己]
 - 1. There was a radical transformation in the way people think.[人们的思维方式发生了根本性的转变]
 
 - 2. Radicalism of any sort should be criticized before being accepted.[任何形式的激进主义在被接受之前都应该受到批评]
@@ -33,37 +27,31 @@ transparency /trænˈspærənsi/ 透明度
 - 3. She described herself as a radical feminist.[她形容自己是一个激进的女权主义者]
 
 
-pushing your limits /ˈpʊʃɪŋ jʊər ˈlɪməts/ 促使自己打破极限、挑战自己
-maximizing /ˈmæksəmaɪzɪŋ/ 最大化
-inferior /ɪnˈfɪriər/ 次等的
-fall short /fɔl ʃɔrt/ 缺乏; 不足
-alternatives /ɑːlˈtɝːnət̬ɪv/ 其它的选择
-maturity /məˈʧʊrəti/ 成熟
-trigger /ˈtrɪɡɚ/ 引发
+# 4.principles [原则]
 
+# 5.cultivated [培养]
 
-# illustrious
+# 6.refined /rəˈfaɪnd/ 精炼 & lays out [罗列、说明] & illustrious
 - 1. The actor was born into an illustrious family, so he was privileged.[这位演员出身于一个显赫的家庭，他总享受优待]
 
 - 2. She had a long, illustrious career at the top of her field.[她在她领域里名列前茅，拥有长期且辉煌的职业生涯]
 
 - 3. The activist received the illustrious award for his work in political activism.[这位社会活动家因其在政治活动中的工作而获得了杰出的奖项]
 
-# cohesive
+# 7.cohesive
 - 1. The manager said we have to be more cohesive as a team and less divisive.[经理说，作为一个团队，我们必须更有凝聚力，而不是起内讧]
 
 - 2. His thoughts and ideas weren’t very cohesive, so I couldn’t figure out his main idea.[他的想法观点总是前后不一，所以我搞不懂他主要想表达什么]
 
 - 3. The lack of cohesion in the party cost us votes in the election.[党内缺乏凝聚力使我们在选举中失去了选票]
 
+# 8.cornerstones /ˈkɔrnərˌstoʊnz/ [基础; 奠基石]
 
 
+# 9.transparency [透明度] & alternatives [其它的选择]
 
 
-
-
-
-
+# 10.inferior /ɪnˈfɪriər/ 次等的 & fall short /fɔl ʃɔrt/ 缺乏; 不足
 
 # III.pattern
 > Ray Dalio is one of the world's leading investors and entrepreneurs. In his book, Principles, he shares the unconventional guidelines and values that he's cultivated and refined over the course of his illustrious career.
