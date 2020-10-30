@@ -39,7 +39,8 @@
 ## 2）weighing our/your options [phr.权衡选择]
 > it's when there are two choices, but both of them have kind of pros and cons, so you have to balance them.So if I do A, this will happen, but this will also happen. If I do B, maybe the first thing won't happen so much, but the second thing will be so much more of.
 
-## 3）progressive 进步分子
+## 3）progressive [n.进步分子]
+> so progressive basically means left, leaning, you could say liberal. Again, in America these phrases they have kind of unique meanings, generally speaking a progressive is someone who wants change, the future, new ideas, you know there's usually a lot of support for helping, you know, the most marginalized, if you can use margin again. Marginalized people in society and the government has a big role to play in that.
 
 ## 4）letting anyone go [phr.解雇员工] & you're fired & lay off 
 > 1)this is just a nice polite way to say "you're fired."
@@ -53,13 +54,14 @@
 ## 6）goes into effect [phr.生效]
 > we should say like the law goes into effect,policy ,or even some governement legislation.
 
-# 4.razor-thin /ˈreɪzər-θɪn/ 极薄的
+# 4.razor-thin vicitory/majority/win [adj.极薄的]
+> let's say it during an election, let's say Connor and I were both running for president, I get 49.5% of the vote and Connor gets 50.5%.that is a razor-thin victory.
+
 - 1. It was a razor-thin victory in the last election.[上次选举中获胜的一方仅有微弱优势]
 
 - 2. George said he will only have pastrami on his sandwich if the slices are razor-thin.[George只吃三明治里切得超级薄的熏牛肉片]
 
 - 3. Do models even eat? They always look razor-thin![模特们会吃东西吗？他们看起来都是纸片人!]
-
 
 # 5.top down 
 - 1. Trickle-down economics is a top-down economic strategy that involves reducing the taxes of the wealthy.[涓滴经济学是一种自上而下的经济策略，涉及到减少富人的税收]
@@ -75,8 +77,8 @@
 
 - 3. She framed her questions carefully.[她小心地表达了问题]
 
-# 7.pass any cost increases onto [把上涨的成本转嫁给] & margins [利润，盈余]
-
+# 7.pass any cost increases onto sb [phr.把上涨的成本转嫁给] 
+> so you know if the price of food goes up, then the restaurant will pass on that price increase to all of the diners.sb has to pay for it,that's business.
 
 # III.pattern
 ***How's business, Frank?***
