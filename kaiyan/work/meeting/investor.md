@@ -1,7 +1,5 @@
-# Investors
-# I.
-
-# II.grammar
+# Pitching to investors
+# I.grammar
 # 1.once
 > 1)The numerical “once”: meaning “one time.”
 
@@ -23,65 +21,92 @@ Microsoft.[曾被视为全球最具创新性的公司]
 - 5. Once we have released the new product, we will need to start work on collecting customer feedback.[我们发布新产品后，就要开始收集客户反馈]
 
 # 2.plan
-## 1)investor deck 投资计划
+## 1)investor deck [n.投资计划]
+> so an investor deck and a business plan are similar; An investor deck is maybe includes other information just for the investors, something more detailed, profile of the people in the start-up company, the idea.
 
-## 2)business plan 经营计划
+## 2)business plan [n.经营计划]
+> a business plan you're probably familiar with: reports on projected profit and costs and all those things.a business plan would be a part of an investor deck.
 
-## 3)exit strategy 退出策略
+## 3)exit strategy [n.退出策略]
+> 1)so exit strategy is very important in VC pitches because most start-ups really, the goal is not for the original entrepreneur to make this a career and to stay with the company for twenty or thirty years; they want to start a company; they want to make money and sell it; so now can make a whole lot of money and then start a new idea.
 
-## 4)sustainable competitive advantage 可持续竞争优势
+> 2)so for VC use and for a lot of start-up entrepreneurs, exit strategy is sort of the ultimate goal.That's what they want, that's where they want to get to.
 
-## 5)market penetration 市场渗透
+## 4)sustainable competitive advantage [n.可持续竞争优势]
+> when Warren Buffett was asked what's the one thing you look for in a new company to invest in, this was his answer: sustainable competitive advantage;that's when it became kind of a catch phrase, but it literally just means competitive advantage, so something that gives you an advantage over your competitors.
+
+## 5)market penetration [市场渗透]
 - 1. We were able to successfully achieve market penetration with a low-cost high-volume strategy.我们通过低成本，高产量的策略成功实现市场渗透。
-2. Apple was able to achieve significant market penetration in the cell phone industry within one year of the iPhone’s launch.[iPhone推出不到一年，Apple就实现了手机行业极大的市场渗透]
-3. Our current market penetration stands at 15%, but we hope to increase this to 20% this year.[我们现在的市场渗透率是15%，但我们希望今年能提高到20%]
 
-## 6)barriers to entry 进入门槛
+- 2. Apple was able to achieve significant market penetration in the cell phone industry within one year of the iPhone’s launch.[iPhone推出不到一年，Apple就实现了手机行业极大的市场渗透]
+
+- 3. Our current market penetration stands at 15%, but we hope to increase this to 20% this year.[我们现在的市场渗透率是15%，但我们希望今年能提高到20%]
+
+## 6)barriers to entry 【n.进入门槛]
+> so when you are launching a business, when you have a business idea, it's very important to consider it's the barrier to entry high or low; of course ideally you wants to be in an industry with high barriers to entry which means it's not so easy for a lot of people to compete with you.
+
+## 7)prototype [n.样机]
+> so a prototype is like an early stage product; maybe it's a little bit simpler. It doesn't have all the features and functions built out, but it will show your investors what this thing kind of works.
 
 # 3.funds
-## 1)overheads 经常费用
+## 1)overheads [经常费用]
 
-## 2)capital raise 融资
+## 2)capital raise [融资]
 
-## 3)use of proceeds  资金用途
+## 3)use of proceeds [phr.资金用途]
+> business lingo,this just means basically how are you going to use the money that's invested,how are you going to use the money you receive.
 
-## 4)infusion /ɪnˈfjuʒən/ 注资
+## 4)cash infusion /ɪnˈfjuʒən/ [n.注资] & infuse [v.]
+> an infusion means kind of a sudden input of something was sudden rush of resources in this case of money in this case, but it's to put something into, to infuse into.This is a word you also hear a lot in the world of, you know, start-ups of investing, raising money.Especially a cash infusion is very common to hear.
 
-## 5)angel investor /ˈeɪnʤəl ɪnˈvɛstər/ 天使投资人
+## 5)VC/venture capitalists & angel investor [n.天使投资人]
+> 1)venture capitalists work in a company usually there's few of them, they combine their firms.
 
-## 6）overheads
+> 2)an angel investor is a type of a venture capitalist.an angel investor usually is a single undividual,or a group of investors.
+
+## 6）overheads [n.经常费用]
+> overheads basically means your fixed costs.
+
 - 1. The overhead costs of our consulting agency are low, because we work remotely and do not need physical office space.[我们咨询公司的经营成本很低，因为我们远程工作，不需要实体办公室]
 
 - 2. Overheads for manufacturing include inventory costs, maintaining and running the factory, and worker salaries.[生产经营成本包括存货成本，工厂维护与运营，还有工人工资。]
 
 - 3. Unless we can reduce overheads, we will not be able to make this business profitable, because our volume of production is relatively low.[我们没法盈利，除非降低经营成本，因为我们的产量比较低]
 
-# 4.conglomerate /kənˈglɑmərət/ 联合企业
+# 4.conglomerate /kənˈglɑmərət/ [n.联合企业]
+> a conglomerate basically is a very big company, a corporation usually with lots of different subsidiaries, maybe in different sectors.it's even bigger than a corporation.
 
-# 5.credentials /krəˈdɛnʃəlz/ 履历
+# 5.credentials /krəˈdɛnʃəlz/ [n.履历]
+> this would be qualifications.it doesn't just have to be a degree from university or specific certification; it can just be all of your experience, means you have great credentials.
 
-# 6.sustainability 可持续 & radical 极端的 & unparalleled /ənˈpɛrəˌlɛld/ 无可比拟的
+# 6.sustainability [n.可持续] 
+> so sustainablility itself just means it's able to continue without using up all its resources,so it renews itself.
 
+# 7.market viability
+> market viability simply means there is a market for that, people are actually willing to pay for it to buy it.
 
-# 7.viability
 - 1. The viability of this product is clear because no other solution in the market exists.[产品可行性非常明显，市场上没有其他方案]
 
 - 2. We offer the only viable alternative to traditional energy resources.[我们提供唯一区别于传统能源的可行替代品]
 
 - 3. High cost of manufacturing weaken the other viabilities of this product.[高成产成本削弱了这个产品的其他可行性]
 
-# 8.scalabe
+# 8.scalabe [adj.成规模的] & scalability [n.]
+> so "scalable" literally means it's able to be grown or increased.If production is scalable, it means we have the ability to make this in greater numbers; 
+
 - 1. Although early tests of the product have been successful, we must determine if growth is scalable.[虽然产品的早期测试是成功的，我们必须确定增长是成规模的]
 
 - 2. Although early competitors had a stronger product, we were the only company to achieve scalable production, which contributed to our success.[虽然早期的竞争者们产品更好，只有我们实现了规模化生产，这是我们成功的原因之一]
 
 - 3. Because manufacturing relies on this rare resource, production is not scalable.[因为生产要靠这种稀有材料，所以生产不是成规模的]
 
+# 9.radical [adj.极端的]
+> so when we talk about innovations, the word radical usually is pretty positive, yeah; sometimes it can be negative to mean very extreme.
 
+# 10.unparalleled /ənˈpɛrəˌlɛld/ [adj.无可比拟的]
+> it's a very positive thing,it means it's the best.it's a very formal word.you could say our team is unparalleled.Or maybe in a marketing copyright brochure you'll find this word a lot.
 
-
-
-# III.pattern
+# II.pattern
 ***Jonathan, thanks for coming today; after receiving your investor deck and business plan, we’re eager to hear more about your company.***
 
 ***Mark, I'm thrilled to be here. Today I'd like to introduce you to the BetterBright: an industrial-strength lightbulb that uses no electricity! BetterBright's goal is to make the world a brighter place through environmental sustainability and radical innovation.***
