@@ -1,9 +1,6 @@
 # Investors
 # I.
 
-
-
-
 # II.grammar
 # 1.once
 > 1)The numerical “once”: meaning “one time.”

@@ -23,18 +23,20 @@
 
 > 3)so salary is basically more of a white-collar concept,it's more like by the month or the year.
 
-## 3)living wage [最低生活工资、能支撑生活的工资]
+## 3)living wage [n.最低生活工资、能支撑生活的工资]
 
-## 4)fight for 15 [为15美元最低工资而战]
+## 4)fight for 15 [phr.为15美元最低工资而战]
+> the 15 here refers to dollars.
 
-## 5)a hill to die on [值得为之奋斗、拼搏的事情]
+## 5)a hill to die on [phr.值得为之奋斗、拼搏的事情]
+> it's not seriously a set phrase,the ides is set as long as that twin concepts of hill and dying on a hill,as long as they're both there,then I think the metaphor works.
 
 ## 6）benefits package [福利待遇]
 > this could be anything from like dental benefits, going to the dentist for free. In America, health insurance is a huge benefit, like people will not quit their terrible job for fear of losing their health insurance.
 
 # 3.assess
-## 1）paint all business owners with the same brush [一概而论、以偏概全]
-
+## 1）paint all business owners with the same brush [phr.一概而论、以偏概全]
+> It meaning just to kind of lump them all together, to put them all in the same pile and same category just to not be able to distinguish between like Rockefeller and like to some guy who has a grass cutting business.
 
 ## 2）weighing our/your options [phr.权衡选择]
 > it's when there are two choices, but both of them have kind of pros and cons, so you have to balance them.So if I do A, this will happen, but this will also happen. If I do B, maybe the first thing won't happen so much, but the second thing will be so much more of.
@@ -49,13 +51,13 @@
 
 > 3)lay off is when there might be the intention of bringing them back, like a factory worker would get laid off when production is low, But then when they want to increase production again, they'll call Connor back up, "We need you, son, back in the factory floor. 
 
-## 5）eliminate /ɪˈlɪməˌneɪt/ 彻底去除
-
-## 6）goes into effect [phr.生效]
+## 5）goes into effect [phr.生效]
 > we should say like the law goes into effect,policy ,or even some governement legislation.
 
-# 4.razor-thin vicitory/majority/win [adj.极薄的]
-> let's say it during an election, let's say Connor and I were both running for president, I get 49.5% of the vote and Connor gets 50.5%.that is a razor-thin victory.
+# 4.razor-thin vicitory/majority/win [adj.极薄的] & money-grubbing [adj.抢钱的]
+> 1）let's say it during an election, let's say Connor and I were both running for president, I get 49.5% of the vote and Connor gets 50.5%.that is a razor-thin victory.
+
+> 2)they're just sort of so eager to make every little penny they're looking for and every little corner.
 
 - 1. It was a razor-thin victory in the last election.[上次选举中获胜的一方仅有微弱优势]
 
@@ -63,22 +65,26 @@
 
 - 3. Do models even eat? They always look razor-thin![模特们会吃东西吗？他们看起来都是纸片人!]
 
-# 5.top down 
+# 5.top down [phr.自上而下的]
 - 1. Trickle-down economics is a top-down economic strategy that involves reducing the taxes of the wealthy.[涓滴经济学是一种自上而下的经济策略，涉及到减少富人的税收]
 
 - 2. I have never worked at a company that didn’t have a top-down management structure.[我从未在一家没有严密管理结构的公司工作过]
 
 - 3. Do you always have to take a top-down approach to parenting?[你总是要做那种高高在上父母吗?]
 
-# 6.framed /freɪmd/ 设计；组织
+# 6.framed [v.设计；组织]
+> you think about a movie, like every single scene in a movie, every single shot in a movie, is framed a certain way, the director has chosen how to present this to you.
+
 - 1. Johnny isn’t guilty, he’s been framed![Johnny无罪，他被陷害了！]
 
 - 2. No matter how you frame the discussion, gun control is a controversial topic.[无论你如何设计讨论，枪支管制都是一个有争议的话题]
 
 - 3. She framed her questions carefully.[她小心地表达了问题]
 
-# 7.pass any cost increases onto sb [phr.把上涨的成本转嫁给] 
-> so you know if the price of food goes up, then the restaurant will pass on that price increase to all of the diners.sb has to pay for it,that's business.
+# 7.pass any cost increases onto sb [phr.把上涨的成本转嫁给] & fat cat 
+> 1)so you know if the price of food goes up, then the restaurant will pass on that price increase to all of the diners.sb has to pay for it,that's business.
+
+> 2)And then "fat cat" here is another word we often use for like rich boss.which it's kind of negative a little bit.
 
 # III.pattern
 ***How's business, Frank?***
