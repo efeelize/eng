@@ -7,17 +7,20 @@
 > Don’t try to frame the questions in such a way that you get a desired response. Rather, genuinely ask the customers what their concerns are. Remember that the questions need to be part of a conversation. If you can demonstrate that you are committed to solving your customers’ problems, then you will find your customer base expanding.
 
 # II.5 types of customer loyalty programs
-## 1)points prpgrams
-> 
+## 1)points prpgrams [积分制度]
+> Points programs are among the most popular types of customer loyalty programs. Simply put, every time your customer makes a purchase, they earn points. The points can be redeemed for credit toward their next purchase, discounted services, or giveaways.
 
+## 2)tier-based programs [等级制度]
+> Tier programs start with a points program that allows customers to earn rewards with every purchase. However, tier programs are like video games; once you complete one level of spending, loyal customers can unlock a new level that gives them access to bigger benefits and more perks.
 
-## 2)tier-based programs
+## 3)value-based programs [基于创造价值的制度]
+> A value-based rewards program offers your company an opportunity to build customer engagement through your shared commitment to a project or cause. The benefit of the value-based customer loyalty program is that it allows customers to feel like their purchase, whether big or small, is connected to a larger mission that improves the lives of others.
 
-## 3)value-based programs
-
-## 4)spend-based programs
+## 4)spend-based programs [基于花费的制度]
+> How do you reward those customers who are spending more money in a shorter period of time? Spend-based customer rewards programs allow companies to reward their highest paying clientele. Airlines, in particular, are transitioning from the points method to spend-based programs. Those travelers who reach elite status sooner are rewarded with perks like complimentary lounge access and early boarding.
 
 ## 5)gaming programs
+> Gaming programs introduce an element of fun into the mundane task of making a purchase. Gaming-based customer loyalty programs allow customers to get excited about spending money at the places they love the most.
 
 # III.grammar
 # 1.quotes
@@ -97,21 +100,38 @@
 
 > 3)a trade stocks could be your investment portfolio.
 
-## 6)customer loyalty [客户忠诚度] & Net Promoter Score [净推荐值]
+## 6)customer loyalty [客户忠诚度] & Net Promoter data/Score [净推荐值]
+> 1)it's a way to measure customer loyalty.customer are also promoters.when they but sth,they promote your company just because they have it."net"here is a remainder[n.余数] after you've substracted everything else.
 
-## 7)optimize /ˈɑːptəmaɪz/ [优化，充分利用] & segment /ˈseɡmənt/ [细分，分割]
+> 2)it's based on the satisfaction of the customer, the services, all the overall value of everything, the goods and services.at the end of the day, the company gets a score that they can use to make decisions about who they should sell stuff to.
 
+## 7)optimize /ˈɑːptəmaɪz/ [优化，充分利用] & incentivize [v.激励] & incentive [n.]
+> 1)we use this a lot in business. One example, though outside of business, would be like, you can optimize your workout. So that means you can learn new techniques, maybe hire a personal trainer, and that way you'll get strong faster and be more healthy.
 
-## 8)incentivize & non-monetary 非金钱的，非货币的
+> 2)if you're in business,you're always trying to incenticize your customer to but stuff.and this just means to encourage your customers to but stuff.you give motivation to encourage them.
+
+## 8)segment [v.细分、分割]
+> so customer segmentation is all about dividing your customers into groups, usually by demographics like age, gender, those kinds of things.and we often do this for advertising reasons.
+
+## 8)non-monetary [adj.非金钱的，非货币的] & financial 
+> in the US and Canada,the monetary unit is called the dollar.non-monetary means you want to offer them sth that's not related to money.like when cutsomer buys a product,maybe the company offers them a warranty,like an extra-long warranty,that's non-monetary.
+
 - 1. Stock options are a great way to incentivize employees.[股票期权是激励员工的好方法]
 
 - 2. Our committee is focused on incentivizing people to change socially undesirable behaviors.[我们的委员会致力于激励人们改变社会上的不良行为]
 
 - 3. Employee incentives need to be aligned with company goals.[员工激励需要与公司目标保持一致]
 
-## 9)perks [额外待遇] & value-added [增值的]
+> 2)finanical is more about all kinds of money things like managing money,but monetary is strictly money.
 
-## 10)exclusive [独家的]
+## 9)perks [额外待遇] & value-added [增值的]
+> 1)a perk is like sth extra that you get.It's a little bit different than a gift because a perk comes with a purchase.it's a bit like a bonus.lke you didn't expect it.when you get  a great job,we might get perks and benefits.like you get the free health insurance,those kinds of things.
+
+> 2)value-added just means it makes sth extra special by adding some feature or increasing its value in some way.
+
+## 10)exclusive [adj.独家的]
+> so you might hear of an exclusive party, and that means only certain people can come. Or like an exclusive club, it makes me think of like a golf club. Maybe you have to make over a hundred thousand dollars a year to join this exclusive golf club.
+
 - 1. If you sign up for their premium plan, you have access to all kinds of exclusive content.[如果你注册了他们的高级服务计划，你就可以访问各种独家内容]
 
 - 2. Only the richest and most powerful are allowed to attend this exclusive event.[只有最富有和最有权势的人才可以参加这个独家活动]
@@ -130,8 +150,14 @@
 
 - 3. We did our job properly. If you’re not satisfied with the results, you can’t blame us.[我们很好地完成了自己的工作。如果你对结果不满意，也不能怪我们]
 
-# 7.frustrate /ˈfrʌˌstreɪt/ [adj.困扰、让人厌烦的] & detractors /dɪˈtræktɚs/ [贬损者]
-> usually if you're feeling frustrated,you are kind of sensitive.
+# 7.frustrate /ˈfrʌˌstreɪt/ [adj.困扰、让人厌烦的] & detractors /dɪˈtræktɚs/ [贬损者] & haters [n.] & detract [v.]
+> 1)usually if you're feeling frustrated,you are kind of sensitive.
+
+> 2)detractors are a little bit more negative.they are the kind of people that will say mean things or bad things about your company usuallt not for a good reason.
+
+> 3)sometimes we just call them "haters."" It's not a very formal word, but haters are the kind of people that would like to leave nasty comments online or maybe twist facts to make things sound worse than they really are.
+
+> 4)to detract means to make sth seem less valuable,and it's often unfairly.
 
 - 1. Our customers all say that our new website is too frustrating to use.[客户都说我们的新网站很难用]
 
