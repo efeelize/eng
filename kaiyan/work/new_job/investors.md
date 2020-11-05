@@ -69,16 +69,24 @@ Microsoft.[曾被视为全球最具创新性的公司]
 ## 4)cash infusion /ɪnˈfjuʒən/ [n.注资] & infuse [v.]
 > an infusion means kind of a sudden input of something was sudden rush of resources in this case of money in this case, but it's to put something into, to infuse into.This is a word you also hear a lot in the world of, you know, start-ups of investing, raising money.Especially a cash infusion is very common to hear.
 
-## 5)VC/venture capitalists [风险资本] & angel investor [n.天使投资人]
+## 5)VC/venture capitalists [风险资本] & venture capital funding & angel investor [n.天使投资人]
 > 1)venture capitalists work in a company usually there's few of them, they combine their firms.
 
-> 2)an angel investor is a type of a venture capitalist.an angel investor usually is a single undividual,or a group of investors.
+> 2)venture capital funding is just an another form what's called private equity.
 
-## 6)crowdfunding [众筹]
+> 3)an angel investor is a type of a venture capitalist.an angel investor usually is a single undividual,or a group of investors.
 
-## 7)middleman /ˈmɪdəlˌmæn/ 中间人，中介人
+## 6)crowdfunding [n.众筹] & campaign
+> it's really just like an online fundraiser.this is really good for sb have a lot of popular support but you may not be able to get funding from like government or a bank or institution like that.So these crowdfunding campaigns are really good for things like renewable energy, things that don't get a lot of support from institutions.
 
-## 8)stock options [股票期权] & ownership stakes
+> when we try to use crowdfunding sites,we basically call that a compaign.it's usually used in politics.So you have political campaigns, often advertising campaigns and you can also use this as a verb. We are campaigning.
+
+## 7)middleman /ˈmɪdəlˌmæn/ [n.中间人，中介人] & intermediary & agent
+> so the middleman is the bank or the government and they take the products and they sell them and they make a profit.
+
+## 8)stock options [n.股票期权] & ownership stakes
+> if you're an employee at a company,if that company has stock,they might offer that to you.you can but stocks for a fixed price or even a discounted price.it's gonna be cheaper.you probably have access to early buying opportunity,like before the price goes up.
+
 - 1. The principal shareholder has more than a 50% stake in the company.[主要股东占有公司50%以上股份]
 
 - 2. People have a stake in conserving the environment for future generations.[人类为子孙后代保护环境，功在当代，利在千秋]
@@ -125,7 +133,9 @@ Microsoft.[曾被视为全球最具创新性的公司]
 # 6.conglomerate /kənˈglɑmərət/ [n.联合企业]
 > a conglomerate basically is a very big company, a corporation usually with lots of different subsidiaries, maybe in different sectors.it's even bigger than a corporation.
 
-# 7.easier said than done [phr.说起来容易、做起来难] & doable /ˈduːəbəl/ [可行的]
+# 7.easier said than done [phr.说起来容易、做起来难] & doable /ˈduːəbəl/ [adj.可行的]
+
+> 2)doable is just able to do.
 
 # 8.phrase verb
 ## 1)similar meaning
