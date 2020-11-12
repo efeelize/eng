@@ -1,7 +1,13 @@
 # livestreaming_e_commerce
-# I.
+# I.How livestreaming will transform global e-commerce in 2020
+# 1.how e-commerce livestreaming started
+> Livestreaming began in 2014 when Taobao and Mogujie started to use it to entertain young female shoppers and sell low- to mid-range apparel. With livestreaming, hosts tried on different types of clothes and users could interact with them through live chat windows. Viewers could ask about how the fabric looked and felt in real-life scenarios, and even ask hosts to try on items with different sets of accessories.
 
+# 2.livestreaming today
+> In 2018 and 2019, livestreaming began to take off. Livestream stars such as Viya Huang and Austin Li reached celebrity status as millions of fans watched their livestreaming sessions. Over 100,000 brands and sellers leveraged livestreaming to promote their products, including American and foreign brands like M.A.C., Levi's, Ralph Lauren.
 
+# 3.the future:going global
+> Livestreaming ecommerce is going global. Korea and Japan were some of the first countries to do it, and Alibaba has brought the practice to Russia and Southeast Asia. Now Amazon and Wayfair are using livestream sessions to draw in their customers too.
 
 # II.grammar
 # 1.to be at a/the crossroads [phr.处在一个重要变化发生的时刻]
