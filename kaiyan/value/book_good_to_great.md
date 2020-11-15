@@ -12,7 +12,7 @@
 > A quiet and deliberate process of figuring out what needs to be done for best future results and taking those steps one by one, pushing the flywheel in a consistent direction until it achieves a breakthrough point.
 
 # II.grammar
-# 1.participal phrase [n.分词短语]
+# 1.participal /ˌpɑrtɪˈsɪpiəl/ phrase [n.分词短语]
 > 1)In this lesson, the speaker uses the participial phrase “never giving up hope” to add information to the sentence. Participial phrases are frequently used as adjectives to modify the noun or pronoun in the main
 clause. For example: The man, smiling and waving, said hello. “Smiling and waving” tells us about “the man.”
 
@@ -40,39 +40,38 @@ clause. For example: The man, smiling and waving, said hello. “Smiling and wav
 
 - 3. The internet heralded a new era of communication.[因特网预示了一个通讯的新时代的来临]
 
+# 4.ferocious /fəˈroʊʃəs/ [adj.凶猛的，强烈的]
+> It really makes you think of an animal,another way we use ferocious could be like a storm,like there's a lot of rain,tore the roof off your house.
 
+# 5.resolve /rɪˈzɑːlv/ [n.决心，坚决]
+> It means like you're gonna get sth done.like you really are going to do this,really strong determination,situations in life might strengthen your resolve.
 
-ferocious /fəˈroʊʃəs/ 凶猛的，强烈的
-resolve /rɪˈzɑːlv/ 决心，坚决
-intense /ɪnˈtens/ 强烈的
-Expending /ɪkˈspendɪŋ/ 花费
+# 6.expending [v.花费]
+> it's like spending.it kind of is often used in the context of spending too much,and if you're like expending all of your emotions,you're gonna be tired.
 
-# buy your way to /baɪ jʊr weɪ tuː/ 花钱来获得
+# 7.buy your way to sth [phr.花钱来获得]
+> buy your way to the top,just means using money to get your success,buy your way to happiness.
+
 - 1. You can't just buy your way to happiness.[你不能花钱买到幸福]
 
 - s2. He thinks he can just buy his way out of this mess. He should think again.[他认为他可以花钱摆脱困境。他应该再想想]
 
 - 3. She bought her way into the inner circles of the organization.[她花钱进入了该组织的内部圈子]
 
+# 8.a function of [phr.与...有关]
+> it kind of means "related to" or "depends on this".
 
-a function of /ə ˈfʌŋkʃən ɑːv/ 与...有关
-circumstance /ˈsɝːkəmstæns/ 环境；状况；境遇
+# 9.conscious decision/choice [adj.有意识的] & subconscious 
+> so when you're consciously doing something, you are thinking about doing it. You're making the decision, telling yourself, "I'm going to do this." And then you do it. That's what we call a "conscious decision" or "conscious choice."
 
-
-conscious /ˈkɑːnʃəs/ 有意识的
 - 1. I would never consciously offend you.[我决不会有意冒犯你]
 
 - 2. She is way too conscious of what people think about her.[她太在意别人对她的看法了]
 
 - 3. I visited my friend in the hospital, but she's still unconscious.[我去医院看望了我的朋友，但她仍然昏迷不醒]
 
-brutal facts /ˈbruːt̬əl fækts/ 残酷的事实
-discipline /ˈdɪsəplɪn/ 纪律；约束
-attain /əˈteɪn/ 获得
-settle /ˈsetəl/ 安定下来
-
-
-
+# 10.brutal facts [n.残酷的事实]
+> brutal could be like a brutal attack.but bruta facts is more about these facts don't care about your feelings.
 
 # III.pattern
 ***What sets apart a good company or individual from a great one? In his book Good to Great, author Jim Collins used data from over 1,000 companies to answer that question. Year after year, the book has been heralded as one of the best business books on the market.***
