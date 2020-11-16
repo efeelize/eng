@@ -1,7 +1,16 @@
 # gift_economy
-# I.
+# I.tips for picking gifts
+# 1.give problem-solves
+> When it comes to how to pick gifts, find a problem in your recipient's life and solve it with your generosity. For examples: Get their knives sharpened, buy them black-out blinds, or pay for a handyman to go to their house and fix up the little things like squeaky doors, broken light switches, and leaking sinks.
 
+# 2. don't give them more problems
+> People don't like having to make decisions, so don't pick a gift that makes them decide. When you buy someone a gift card, you're giving them a problem by passing the decision-making burden to them. For example, if you gift a massage or cooking lessons, schedule it, too. So they don't have to decide.
 
+# 3.be practical,not flashy
+> Our choices in gifts tend to be selfish. We want the glory of being great gift-givers, so we buy presents with a maximum bedazzlement factor. Flashy flowers, for example.
+
+# 4.put the "present" in presentation
+> Write a thoughtful letter full of sentiments. Disguise a small gift in a giant package, make it a scavenger hunt, or wrap a gag gift and reveal the real one afterward.
 
 # II.grammar
 # 1.just because...doesn't mean ...
