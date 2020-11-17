@@ -1,7 +1,12 @@
 # book_sleep
-# I.
+# I.More about the author Nick Littlehales: the man who showed Cristiano Ronaldo how to sleep
+> Nick Littlehales, author of Sleep is the world's leading sleep expert. He was a pro-golfer and worked in marketing in the bedding industry. It didn't take him long to connect the dots.
 
+> After building a career as a sleep recovery expert for elite athletes such as Cristiano Ronaldo, Nick Littlehales was convinced that he could help the wider population sleep better.
 
+> His intends to promote a new approach to sleep: from mapping your own sleep cycle, adopting napping, setting the optimum room temperature, to choosing the perfect bedding.
+
+> Since its publication, Sleep has helped to start a revolution and inspired numerous books on sleeping.
 
 # II.grammar
 # 1.Idioms describing sleep 

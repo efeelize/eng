@@ -1,9 +1,6 @@
 # marketing_copy
-# I.
-
-
-
-
+# I.marketing campagin.
+> Marketing has undergone a renaissance of sorts since the full maturing of the internet. While internet marketing involves many of the same skillsets as traditional marketing, there are key differences in tone and approach. These differences include an awareness of how individuals interact with digital media vs print media and the exigencies of search engine optimization. As such, digital marketing is still in a process of selfdefinition and exploration, both in the United States and globally.
 
 # II.grammar
 # 1.namely
@@ -15,11 +12,10 @@
 
 - 3. The threats of global climate change, namely rising sea levels and increasingly extreme weather, are no longer theoretical – they are now being felt everywhere and are only going to worsen.[全球气候变化的威胁，特别是海平面上升和极端天气的增多，都已不再是理论。他们已经在各地出现了，而且只会变得更糟]
 
-
 # 2.marketing copy [市场文案] & campaign [活动]
 
-
-# 3.misses the mark [偏离目标、没有达到要求] & tall order [高标准、难达到的目标] & perspective [角度]
+# 3.misses the mark [phr.偏离目标、没有达到要求] & tall order [高标准、难达到的目标] & perspective [角度]
+> 1)so basically,it doesn't accomplish what it's supposed to be doing.this is not a positive thing.
 
 - 1. I thought the main dish was delicious, but the apricot dessert really missed the mark for me.[我觉得主菜挺好吃的，不过杏仁甜点不对我胃口]
 
@@ -27,7 +23,12 @@
 
 - 3. I'd like to ensure that the deliverable that we push out in the next week doesn't miss the mark in any regard.[我希望我们推到下周的目标在任何方面都不会有偏差]
 
-# 4.optimized /ˈɑːptəmaɪzd/ [优化] & narrative /ˈnærətɪv/ [叙述手法] & knack /næk/ [窍门、天赋]
+> 2)tall order,it doesn't have to do with height,just means that's a little bit difficult,or challenging.
+
+> 3)persepective being like the view,the angle,kind of that you see sth from.
+
+# 4.optimized /ˈɑːptəmaɪzd/ [优化] & narrative /ˈnærətɪv/ [叙述手法] & a knack for sth [n.窍门、天赋] & stylistically /stai'listikli/ [adv.在文体上] & punchy [adj.有力，强劲]
+> 1)a knack is a talent,it's a gift.it is sth very special inside of you,you can do it.and you always hear this as a knack for sth.
 
 - 1. Ever since Tiffany was a little girl, she's always had a knack for building things.[当Tiffany还是个小姑娘的时候，她就有了造东西的窍门]
 
@@ -35,9 +36,15 @@
 
 - 3. He clearly got his knack for cooking from his dad, who was a chef at a restaurant his entire childhood.[很明显他从他爸爸那里学到了烹饪的窍门，他爸在小孩的时候就是餐厅厨师了]
 
-# 5.attention spans /spænz/ [维持注意力的时间] & call to action [呼吁用户采取行动]
+> 2)stylistically,it contains style,in terms of style,or with regards to style.
 
-# 6.succinct /səkˈsɪŋkt/ 简洁 & definitive /dɪˈfɪnɪtɪv/ 明确、清晰 & magnetic /mægˈnɛtɪk/ 有磁性、吸引人的
+> 3)punchy,people use it in many different ways,but the general feeling ,the tone of this word puchy itself is strong.
+
+# 5.attention spans /spænz/ [n.维持注意力的时间] & call to action [呼吁用户采取行动]
+> that's always the call to action that's kind of a standard improtant component of a marketing message or campaign.
+
+# 6.succinct /səkˈsɪŋkt/ [adj.简洁] & definitive /dɪˈfɪnɪtɪv/ [adj.明确、清晰] & magnetic /mægˈnɛtɪk/ [adj.有磁性、吸引人的] & magnet 
+> 1)succinct means short,so it's kind of a long sophisticated word that just means short.you can't say this about a person,it's usually referring to the content of some sort of especially words.
 
 - 1. His speaking style was direct and succinct, like a true politician.[他的说话风格直接简短，像个真正的政客]
 
@@ -45,7 +52,12 @@
 
 - 3. I appreciate that she was succinct in breaking up with me, but I wish she would have explained her reasons more in depth.[我很感激她简洁的分手，不过我希望她能更深入的解释一下理由]
 
-# 7.generic /ʤəˈnɛrɪk/ 大众化、没有特色 & unique /juːˈniːk/ 独特
+> 2)definitive from the word define.it just means having a clear point.it's well-defined basically and more definitive.
+
+> 3)so a magnet is powerful,it attracts.magnetic is sth just attractive.it needs to have more attracting power.we often say he has a magnetic personality,they attract other people to him or her.and so beyond being magnetic it should be short and sweet.
+
+# 7.generic /ʤəˈnɛrɪk/ [adj.大众化、没有特色] & unique /juːˈniːk/ [adj.独特]
+> generic is just standard,common,boring,general.so it just means very average,commonplace,and often when you being short and sweet,it can sound generic,because it's kind of the old.
 
 - 1. It's a cool city, but many of the neighborhoods feel pretty generic and lack a spark.[这个城市很酷，不过很多街区都是同类的没什么火花]
 
