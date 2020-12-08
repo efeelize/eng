@@ -1,4 +1,4 @@
-# book_predictably_irrational.
+# Book_predictably_irrational.
 # I.preduictably irrational by Dan Ariely
 ## 1)the book in 3 sentences
 - many of our behaviors are misguided.
@@ -40,45 +40,51 @@
 - 3. In analyzing the buyer data, we've discovered that buyers were more likely to buy an item if the price had
 been written in red.[通过分析买家数据，我们发现，如果价格用红色标注，买家就更有可能购买该商品]
 
-# 2.irrational /ɪˈræʃənəl/ 非理性的
+# 2.irrational /ɪˈræʃənəl/ [adj.非理性的] & rational 
 - 1. People tend to make irrational decisions when gripped by intense emotions.[当人们被强烈的情绪控制时，往往会做出非理性的决定]
 
 - 2. There must be some kind of rational explanation for why this happened.[一定有某种合理的原因来解释为什么这会发生]
 
 - 3. He rationalized the cost by saying that the more expensive suite was better quality.[他说越贵的家具套装质量越好，从而使费用合理化]
 
-behavioral economist /bɪˈheɪvjɚəl iˈkɑːnəmɪst/ 行为经济学家
-posits /ˈpɑːzɪts/ 认定
-systematic /ˌsɪstəˈmætɪk/ 系统性的
-makes you and the people around you tick [激发你和你周围的人（作出决定）]
-lead you astray /əˈstreɪ/ [把你引入歧途]
+# 3.behavioral economist  [n.行为经济学家]
+> behavioral economist study why we make decisions and why we buy certain things.sp an economist is sb who usually works in a university or for government or for a big company,and they study how money is made and how it's used by countries or business.
 
-# relativity /ˌreləˈtɪvət̬i/ 相对性
-- 1. Value is relative, but sometimes relativity can be a trap.
-价值是相对的，但有时相对性可能是个陷阱。
-2. She weighed the relative advantages of taking a plane over a train.
-她权衡了乘飞机相比于乘火车的优势。
-3. I'm relatively satisfied with my new job.
-我对新工作相对比较满意。
+# 4.posits /ˈpɑːzɪts/ [v.认定]
+> it just means he suggests this idea or theory.we use this a lot when we're talking about theories or like big ideas.it's very academic.for example,in an essay I could say sth like "we posit that a more flexible work schedule will actually improve productivity."so I can use this to present my theory or my ideas in an academic paper.
 
+# 5.systematic /ˌsɪstəˈmætɪk/ [adj.系统性的]
+> a systematic way or like a systematic approach to doing sth.
 
-covet /ˈkʌvət/ 渴望
+# 6.what makes you and the people around you tick [phr.激发你和你周围的人（作出决定）]
+> what makes people tick means what motivates you to make these decisions in your life or when you're shopping.for example,we frequently watch documentaries sor books about famous people,like CEOs,because we want to know what makes them tick.
 
-# arbitrary /ˈɑːrbətreri/ 任意的，随机的
+# 7.sth leads you/us astray /əˈstreɪ/ [phr.把你引入歧途]
+> it means i misleads you.
+
+# 8.relativity /ˌreləˈtɪvət̬i/ [n.相对性]
+> relativity is juding things in comparison to others,and we do this every time we go shopping.to understand if sth is a good deal or not,we compare it to the things beside it.
+
+- 1. Value is relative, but sometimes relativity can be a trap.[价值是相对的，但有时相对性可能是个陷阱]
+
+- 2. She weighed the relative advantages of taking a plane over a train.[她权衡了乘飞机相比于乘火车的优势]
+
+- 3. I'm relatively satisfied with my new job.[我对新工作相对比较满意]
+
+# 9.covet /ˈkʌvət/ [v.渴望]
+> to covet sth means to want sth,to want sth that sb else has.
+
+# 10.arbitrary /ˈɑːrbətreri/ [adj.任意的，随机的]
+> arbitrary means that there's no particular reason for this.so when we make arbitrary decisons,we make these decisions based on our feeling or maybe chance.but not because of a particular well-thought-out reason.
+
 - 1. Did you have a particular reason for that decision or was it just arbitrary?[你有什么特别的理由做出这个决定吗？还是这个决定只是任意的]
 
 - 2. The current team lists are pretty arbitrary, so feel free to rearrange them.[当前的团队列表非常随机，所以可以随意重新排列]
 
 - 3. We need a third party to arbitrate the dispute.[我们需要第三方来仲裁争议]
 
-
-
-
-antidote /ˈæntidoʊt/ 对抗方式，缓解办法
-
-
-
-
+# 11.antidote /ˈæntidoʊt/ [n.对抗方式，缓解办法]
+> an antidoe can be like a solution for a problem,or it can also actually be like a medicine，like if you eat some poison,you need to take an atidote to cure yourself.Or if we get bored,there's a lot of healthy antidoes,like exercising or studying.
 
 # III.pattern
 ***Predictably Irrational: The Hidden Forces That Shape Our Decisions is the brainchild of behavioral economist Dan Ariely.***
