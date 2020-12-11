@@ -1,7 +1,19 @@
 # Book_deep_work
-# I.
+# I.5 deep work practice that'll change your life
+# 1. distance yourself from social media
+> Cull the Twitters, Instagrams, Facebooks of your social media life by ruthlessly discarding any site that doesn't inherently contribute to a quality life.
 
+# 2.give yourself a strict period of time to spend working 
+> The more you give yourself limits, the less time you have for wool-gathering as you dither between a newsletter, your Facebook feed, and The New York Times.
 
+# 3.use repetitive tasks to work out concepts 
+> Instead of zoning out to your favorite podcast, flicking through the radio, or zoning out to your third viewing of Game of Thrones, you can train your mind to use trapped time to work on the knotty sections of your deep work.
+
+# 4.actions speak louder than words
+> This includes: Focus on the wildly important, act on lead measures, and create a cadence of accountability.
+
+# 5.aviod shallow work 
+> Checking email, filling in a spreadsheet, tweaking the monthly slide update — these are all examples of shallow work.
 
 # II.grammar
 # 1.anything but...
@@ -13,55 +25,50 @@
 
 - 3. I'm down for doing anything but going skydiving. I'm too scared![除了跳伞让我做什么都行。我太害怕了]
 
-# 2.cognitive /ˈkɑːɡnət̬ɪv/ 认知能力的
+# 3.cognitive /ˈkɑːɡnət̬ɪv/ [adj.认知能力的] & cognition [n.]
+> so cognitive is more of a biological term,and it means related to thinking or the processes of the mind.cognitive scientists study our brains and how we think.
+
 - 1. Children's cognitive development is crucial for school teachers to understand.[学校教师能理解儿童的认知发展是至关重要的]
 
 - 2. He was cognitively impaired from the accident.[事故使他的认知能力受损]
 
 - 3. I'm studying human cognition and psychology in graduate school.[我在研究生院学习人类认知和心理学]
 
+# 2.distraction -free concentration
+## 1）in the zone [phr.全神贯注的状态]
+> a lot of people say when you start to work ,and you get absorbed in your work,you again lose track of your time,and you get in the zone.
 
-
-
-flow state /floʊ steɪt/ 心流状态
-
-
-# 3.in the zone [phr.全神贯注的状态]
 - 1. It's hard to get in the zone when it's so noisy outside.[外面太吵了，很难集中注意力]
 
 - 2. Don't bug me! I'm in the zone![别烦我！我正全神贯注呢！]
 
 - 3. This morning I was totally in the zone during my workout.[今天早上锻炼时，我完全处于聚精会神的状态]
 
+## 2)flow state [心流状态]
 
+## 3）methodically /məˈθɑːdɪkli/ [有方法地；有系统地]
 
+## 4)rigorous /'rɪɡərəs/ [adj.严格的，严谨的]
+> rigorous means it's strict,you might have a very rigorous 
 
+# 3.busywork [n.消磨时间的工作；累人而无价值的工作]
+> so busywork is day-to-day,small tasks that take up time,but they're not really real value,they're not really that improtant.it's often the work that you do,just to make yourself look busy,like when your boss suddenly comes into the room.like answering a quick email,scheduling the next meeting.that's all busywork.
 
+# 4.good/strong work ethic [n.工作准则，职业道德]
+> it's related to ethics like morals,but really this phrase just means how hard do you work.if you have a good work ethic,it means you work hard.
 
-busywork /ˈbɪziwɝːk/ 消磨时间的工作；累人而无价值的工作
-work ethic /wɝːk ˈeθɪk/ 工作准则，职业道德
-rigorous /'rɪɡərəs/ 严格的，严谨的
-regimen /ˈreʤəmən/ 生活规则，养生之道
-methodically /məˈθɑːdɪkli/ 有方法地；有系统地
+# 5.regimen /ˈreʤəmən/ [生活规则，养生之道]
 
-# reorienting /riˈɔːriəntɪŋ/ 调整，转变方向
+# 6.reorienting /riˈɔːriəntɪŋ/ 调整，转变方向
 - 1. The company is starting to reorient its focus on a broader demographic.[公司开始将关注点转向更广泛的群体]
 
 - 2. Once I became a parent, I really had to reorient my values and goals.[我刚为人父母时，就真的不得不重新定位我的价值观和目标了]
 
 - 3. There's been a huge reorientation of the company's policy.[公司的政策有了重大的调整]
 
+# 7.cultivating [培养；养成]
 
-
-
-cultivating /ˈkʌltəveɪtɪŋ/ 培养；养成
-transformative /trænsˈfɔːrmət̬ɪv/ 颠覆性的，彻底改观的
-
-
-
-
-
-
+# 8.transformative [颠覆性的，彻底改观的]
 
 # III.pattern
 ***Ever feel like your hard work isn't producing real results?***
