@@ -50,7 +50,7 @@
 ## 3）methodically /məˈθɑːdɪkli/ [有方法地；有系统地]
 
 ## 4)rigorous /'rɪɡərəs/ [adj.严格的，严谨的]
-> rigorous means it's strict,you might have a very rigorous.
+> rigorous means it's strict,you might have a very rigorous.so you might have a very rigorous schedule,and that means that maybe your schedule is very tight.you have to fit in a lot of different things,or maybe you might undergo a very rigorous test.
 
 ## 5)apply/put good/strong work ethic 
 > it is a common phraase that we have.it's related to ethics like morals,but really this just means how hard you do work,if you have a good work ethic,it means you work hard.and when you have a strong work ethic,you usually do everything on time.you don't miss the deadline.
@@ -61,18 +61,24 @@
 # 4.good/strong work ethic [n.工作准则，职业道德]
 > it's related to ethics like morals,but really this phrase just means how hard do you work.if you have a good work ethic,it means you work hard.
 
-# 5.regimen /ˈreʤəmən/ [生活规则，养生之道]
+# 5.regimen /ˈreʤəmən/ [n.生活规则，养生之道]
+> so regimen is like a set of rules that you follow,and the sense of this word is that it's quite strict.we often use it when we talk about health,like a diet regimen.or some women have a very strict beauty regimen.
 
-# 6.reorienting /riˈɔːriəntɪŋ/ [调整，转变方向]
+# 6.orient & reorient /riˈɔːriəntɪŋ/ [v.调整，转变方向] 
+> 1)orient means to point yourself in this direction.like companies,they might have a customer-oriented approach.or family-oriented or a person could even be work-oriented.
+
+> 2)we reorient ourselves,that just means we're taking our focus from sth to another.
+
 - 1. The company is starting to reorient its focus on a broader demographic.[公司开始将关注点转向更广泛的群体]
 
 - 2. Once I became a parent, I really had to reorient my values and goals.[我刚为人父母时，就真的不得不重新定位我的价值观和目标了]
 
 - 3. There's been a huge reorientation of the company's policy.[公司的政策有了重大的调整]
 
-# 7.cultivating [培养；养成]
+# 7.transformative [adj.颠覆性的，彻底改观的] & transformational [adj.]
+> 1)it's usually used in a positive way to talk about a big change.so when we're talking about focus,sth as simple as sleep can have a transformative effect on your work.
 
-# 8.transformative [颠覆性的，彻底改观的]
+> 2)transformational is basically the same word.
 
 # III.pattern
 ***Ever feel like your hard work isn't producing real results?***
