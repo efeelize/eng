@@ -16,7 +16,7 @@
 > Checking email, filling in a spreadsheet, tweaking the monthly slide update — these are all examples of shallow work.
 
 # II.grammar
-# 1.anything but...
+# 1...is anything but...
 > The phrase "anything but" is a great way to emphasize what something is not. It means "it can be many things, but it is absolutely not this." Verbs, nouns or adjectives can follow "anything but."
 
 - 1. I ate too much sushi this week, so tonight I want anything but sushi.[我这周吃了太多寿司，所以今晚我无论吃什么也不想吃寿司了]
@@ -44,12 +44,16 @@
 
 - 3. This morning I was totally in the zone during my workout.[今天早上锻炼时，我完全处于聚精会神的状态]
 
-## 2)flow state [心流状态]
+## 2)flow state [n.心流状态]
+> it's when everything is just flowing,all these idea are coming together,and you're able to concentrate.
 
 ## 3）methodically /məˈθɑːdɪkli/ [有方法地；有系统地]
 
 ## 4)rigorous /'rɪɡərəs/ [adj.严格的，严谨的]
-> rigorous means it's strict,you might have a very rigorous 
+> rigorous means it's strict,you might have a very rigorous.
+
+## 5)apply/put good/strong work ethic 
+> it is a common phraase that we have.it's related to ethics like morals,but really this just means how hard you do work,if you have a good work ethic,it means you work hard.and when you have a strong work ethic,you usually do everything on time.you don't miss the deadline.
 
 # 3.busywork [n.消磨时间的工作；累人而无价值的工作]
 > so busywork is day-to-day,small tasks that take up time,but they're not really real value,they're not really that improtant.it's often the work that you do,just to make yourself look busy,like when your boss suddenly comes into the room.like answering a quick email,scheduling the next meeting.that's all busywork.
@@ -59,7 +63,7 @@
 
 # 5.regimen /ˈreʤəmən/ [生活规则，养生之道]
 
-# 6.reorienting /riˈɔːriəntɪŋ/ 调整，转变方向
+# 6.reorienting /riˈɔːriəntɪŋ/ [调整，转变方向]
 - 1. The company is starting to reorient its focus on a broader demographic.[公司开始将关注点转向更广泛的群体]
 
 - 2. Once I became a parent, I really had to reorient my values and goals.[我刚为人父母时，就真的不得不重新定位我的价值观和目标了]
