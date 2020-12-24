@@ -45,6 +45,13 @@
 
 > 2)a bond is basically usually with the government and it's like a certificate of money, that you are lending the government your money. So it kind of goes into a big government bank account that generates a lot of interest. And then after a fixed term, so usually five years or ten years, you are allowed to get your money back. And the risk with these are kind of moderates, because the government doesn't want to lose its money.
 
+## 1) high yield bonds & trash bonds & a higher yield trash bonds 
+> 1)sth is high yield means that you're getting a lot from it.
+
+> 2)a trash bonds is a very risky bond,it means that the seller might not pay you back because you know he's still trying to get all the money.
+
+> 3)a higher yield trash bond means that you might make a lot of money from this bonds,it's very dependable.
+
 # 7.property/real estate [n.房地产] & property [n.财产] & real estate agents/realtor /ˈriəltɚ/ /realetor
 > 1)Real estate are things that you can touch, like buildings.land,property,house and apartment. so those are all examples of real estate. we're talking about real estate, essentially like a condo, a house, some sort of physical thing that you live in. real estate, so this is basically the whole major category of buying and selling property, and owing property.so it's like property but this is more specific to land or buildings.
 
@@ -170,6 +177,14 @@
 # 6.market & marketing
 > “market ”the activity or the job,try not to confuse the word "market" for "marketing," marketing is about advertising.it's a different thing, so we never really say "stock marketing." that's not even a thing. 
 
+## 1）bull/bear  market  [n.牛/熊市]
+> 1)so the bull market would be a market that is going very rapidly,that's very strong.
+
+> 2)the market slows down would be a bear market.
+
+## 2）emerging market
+> so it's almost like new or growing markets,we're talking about places in the world that aren't established,they're not old and dependable,they're new and exciting.
+
 # 7.budget [v.做预算] & planning ahead [phr.提前规划]
 > 1)I usually try to budget, especially when I am traveling. So maybe on my next trip, I will budget, maybe two thousand or three thousand dollars.
 
@@ -210,10 +225,29 @@
 # 12.crackdown [n.强制取缔] & drug trafficking /'træfɪk/ [n.非法交易]
 > so if there's a problem with something, then government will often create new laws, for the police to enforce.so this could be like drug trafficking.so if that's increasing, there's a crackdown on drug traffickers, meaning that's where the law enforcement is focusing their attention
 
-# 13.
+# 13.liquidity /lɪˈkwɪdəti/ [n.流动资金]
+> we heared all about liquidity in the finance.maybe in your company the accountant will talk about this,it's basically just to have money,cash in hand.
 
-# 14
+# plunge /plʌnʤ/ 猛跌，骤降
+- 1. Housing prices in the US took a huge plunge this month.[美国的房价这个月大幅下跌]
 
+- 2. The car went off the road and plunged into the abyss.[车子开出道路滑入深渊]
+
+- 3. The value of our stock has taken a major plunge.[我们股票的市值大幅下跌]
+
+# weigh in /weɪ ɪn/ 加入
+- 1. Carol usually weighs in with good ideas at our meetings.[Carol经常在会议上提出好点子]
+
+- 2. Many factors weighed into our decision to fire you.[许多原因综合起来让我们决定解雇你]
+
+- 3. I still don't think we can come to a decision. I'd like a few more people to weigh in.[我觉得我们还不能做决定，我想多叫些人参加讨论]
+
+# profitable /ˈprɑːfɪt̬əbəl/ 有利可图的
+- 1. This business is very profitable.[这桩生意利润丰厚]
+
+- 2. I think we can be profitable if we reduce our operational costs.[我觉得如果减少我们的运营开支我们的利润可以增加]
+
+- 3. Real estate is one of the most profitable businesses in the world.[房地产是世界上利润最丰厚的产业之一]
 
 # V.pattern
 ***Hey Peter, did you do any shopping over Chinese New Year?***
@@ -283,6 +317,23 @@
 ***Oh, I didn't know you could do that. Can you buy bitcoin in China?***
 
 ***Well, I know people who invest in bitcoin, but it just gets me muddled up so I stay away.***
+
+# V.pattern
+***Sorry to bother you sir, but I have some bad news.***
+
+***What is it?***
+
+***Well, the stock market just took a huge plunge and we've lost a lot of money!***
+
+***What do you mean? What happened?***
+
+***There are many factors that weigh in, but NASDAQ is down 200 points and the Dow Jones indicator also suffered! Our portfolio is worth half of what it was worth one week ago.***
+
+***How is this possible? You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return!***
+
+***I know sir! We didn't expect a bull market to become a bear market all of a sudden. On the other hand,you still have some high yield trash bonds and government bonds that will give us enough liquidity to cut our losses and reinvest in emerging markets. We could potentially make this tragedy work for us and make us think outside the box.***
+
+***Do what you have to do! One other thing, don't tell the rest of the stockholders about this. If they find out,it's the end of this company!***
 
 
 
