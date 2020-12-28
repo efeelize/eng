@@ -74,11 +74,11 @@
 
 - 3. She has impaired liver function from years of alcohol consumption.[由于饮酒多年，她的肝功能受到了损伤]
 
-# 10.innate /ɪˈneɪt/ [天生的]
-> innate just means that we're born with it.we don't learn it later.
+# 10.innate /ɪˈneɪt/ [adj.天生的]
+> innate just means that we're born with it.we don't learn it later.for example,we often talk about sb's personality traits,sb is innately generous or sb has an innate ability to win a race.
 
-# 11.territoriality [领地意识]
-> 
+# 11.lizard brains
+> this is an idea that a lot scientists use when talking about part of our mind or our brains that's just very 
 
 # III.pattern
 ***What's the matter Jim? You look perturbed.***
