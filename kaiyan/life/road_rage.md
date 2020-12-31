@@ -14,13 +14,15 @@
 # II.grammar
 # 1.idioms come from cars and driving
 ## 1)in the driver's seat
-- when you're in the driver's seat,you are in control,but as many people who are in the driver's seat,there's no shortage of people who want to challenge you for control.
+> when you're in the driver's seat,you are in control,but as many people who are in the driver's seat,there's no shortage of people who want to challenge you for control.
 
-## 2)backseat driver
-- it refers to sb to tries to establish and maintain control over every situation.
+## 2)backseat driver & backseat 
+> 1)it refers to sb to tries to establish and maintain control over every situation.
+
+> 2)the back seat is not as important as the front seat.so this phrase basically means that sth is less important or it takes less responsiblity.or takes less precedence for now.
 
 ## 3)a takes a backseat to B
-- it means that A is less important than B,or is forced to take a lesser position than B.
+> it means that A is less important than B,or is forced to take a lesser position than B.
 
 - 1. I refuse to drive anywhere with my mother: She is such a backseat driver![我不会开着车带我妈妈去任何地方的：她总是在我开车时瞎指挥]
 
@@ -57,13 +59,10 @@
 # 6.road rage /roʊd reɪdʒ/ 路怒症
 > it basicaly taking about being on the road driving and just flying off the handle.
 
-# 7.weaving /ˈwiːvɪŋ/ 迂回行进，穿行
-
-
-# 8.under the influence [在...影响下；醉酒影响下（驾车）]
+# 7.under the influence [在...影响下；醉酒影响下（驾车）]
 > it often used when we're talking about drunk while driving.if sb gets arrested,you could say."I was driving under the influence,so I got arrested."
 
-# 9.impaired /ɪmˈperd/ [adj.受损的]
+# 8.impaired /ɪmˈperd/ [adj.受损的]
 > 1)“impaired means it's damaged or disabled,usually when we're talking about health.if sb is visualy impaired,it means their eyes are not very good,they need glasses or sth.
 
 > 2)there's also impaired driving,which is what results from these impaired emotions,your emotions are not normal,they are damaged.
@@ -74,11 +73,11 @@
 
 - 3. She has impaired liver function from years of alcohol consumption.[由于饮酒多年，她的肝功能受到了损伤]
 
-# 10.innate /ɪˈneɪt/ [adj.天生的]
+# 9.innate /ɪˈneɪt/ [adj.天生的]
 > innate just means that we're born with it.we don't learn it later.for example,we often talk about sb's personality traits,sb is innately generous or sb has an innate ability to win a race.
 
-# 11.lizard brains
-> this is an idea that a lot scientists use when talking about part of our mind or our brains that's just very 
+# 10.lizard brains
+> this is an idea that a lot scientists use when talking about part of our mind or our brains that's just very emotional.so this lizard brain that we all have is so strong that the rational or the reasonable part of our brains.
 
 # III.pattern
 ***What's the matter Jim? You look perturbed.***

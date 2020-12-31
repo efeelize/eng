@@ -1,4 +1,4 @@
-# plastic surgery
+# plastic surgery/cosmetic medicine
 
 # I.The most popular plastic surgeries in the U.S.
 > The decision to get plastic /'plæstɪk/ surgery is a personal one. But as a nation, the United States is showing an increased interest in plastic surgery.
@@ -28,43 +28,107 @@
 
 - It's been years since we painted the house.Maybe we should get it done.[请人再刷一下]
 
-# 2.plastic [adj.可塑的] surgery  & plasticity /plæˈstɪsətɪ/ [n.可塑性] &  reconstructive & cosmetic surgery /kɑz'mɛtɪk/
+# 2.you should talk & you're one to talk [phr.你就会说别人] & I wouldn't talk [phr.我可不会这么说] & you shouldn't talk [phr.你快别说了]
+> In today's lesson, Kathy sarcastically said, "You should talk." Because it's sarcasm, the meaning is actually "you shouldn't talk." In the dialogue, Carter has the same problem that he criticizes others about, so Kathy uses this expression to point out his double standard. It's a common expression but should be used carefully, as sarcasm always has the possibility of being rude.
+
+- 1. A: My roommate is so messy. B: You should talk. You never sweep the floor![A:我室友太邋遢了。B: 你还说别人呢。你从来不扫地]
+
+- 2. A: I think you should cut back on fatty foods. B: You're one to talk. You stuffed your face with that pizza last night.[A: 我觉得你得少吃高脂肪食物了。B: 你就会说别人。昨晚那个披萨你可是吃得狼吞虎咽的]
+
+- 3. A: I hate people who cut in line! B: You should talk. You always do![A: 我讨厌插队的人！B:你还说别人呢。你自己总插队!]
+
+
+# 3.medicine
+## 1）botox /ˈboʊt̬ɑːks/ 肉毒杆菌素 
+> botox:it just firms [v.紧致] the skin, it makes it look tighter, so you don't have those wrinkles and lines.But sometimes, it can make their skin or their face or whatever look a little puffy /'pʌfi/ [adj.饱满].
+
+
+
+# 4.body
+## 1)double eyelid /ˈdʌbəl ˈaɪlɪd/ 双眼皮
+
+## 2)saggy /'sæɡi/ [adj.皮肤松弛的] 
+> 1)So saggy, it means that something is not tight.So in this case, your skin, your skin will be loose. I guess it's kind of drooping.
+
+## 3)chubby [adj,胖乎乎的] & rolls [n.赘肉]
+> 1)chubby means that you're a little bit fat, but it's cute.Like chubby little kids are really cute, babies are chubby.
+
+> 2)rolls are the fat folds, and usually around your stomach.Yeah, if you sit down, you might see some rolls, like most people do. but we don't really want to say like fat folds or anything right? Like rolls, rolls sounds much better.
+
+# 5.aesthetically 
+## 1)insecure [adj.不自信的]
+> So insecure, the opposite, of course, is secure, which kind of means safe, like you know, I feel much more secure in a car, when I'm wearing a seat belt. But we also use it for people, if a person is insecure, it means they don't have any confidence. and they're usually worried about something, like maybe they worry about their kind of personality, maybe they worry about their appearance.
+
+
+## 2)body dysmorphia /dɪsˈmɔːrfiə/ 身体畸形恐惧症
+
+## 3)aesthetically /esˈθet̬ɪkəli/ 审美地，美学上地
+- 1. I got advice from a designer to arrange my living room more aesthetically.
+我从一位设计师那里得到了建议，把我的客厅布置得更加美观。
+
+- 2. The company has a reputation for having both functional and aesthetically pleasing products.
+这家公司以生产兼具实用性和美观性的产品而闻名。
+
+- 3. I love the way the director uses aesthetics in this movie. It's simply a work of art.
+我喜欢导演在这部电影中对美学的运用。简直就是件艺术品。
+
+
+## 4)quest for the perfection [[phr.追求完美]]
+> 1)now quest is a little bit of a formal old word, but we do use it in these chunks like a quest for perfection or quest for truth.Yes, or quest for like self-fulfillment?Yeah, like a lot of people from North America go to India on, like a spiritual quest.Yeah, you're searching for something, it's you're not just traveling without a goal, you have a specific goal, something you're looking for.
+
+## 5)get to you [phr.影响你]
+> when something gets to you, it finally starts to like affect you.Yeah, it starts to bother you.maybe you're at work right? And your boss is very controlling and you try to endure it, but eventually, it gets to you. But you know what, just make sure that you don't let it get to you.Yeah, especially criticism, you know, don't let that get to you, because everybody is great just the way they are.
+
+## 6)overkill /ˈoʊvɚkɪl/ 多此一举，适得其反
+- 1. My friend sets 10 alarms every morning. I think it's a bit overkill.
+我朋友每天早上定十个闹钟。我觉得有点多此一举了。
+2. Seems like you went a little overkill on the makeup.
+你的妆化得好像有点过了。
+3. I always bring a lot of safety gear, but my friends think it's overkill.
+我总会带很多安全装备，但我朋友觉得是多此一举。
+
+
+## 7)commonplace /ˈkɑːmənpleɪs/ 常见的；普遍的
+
+## 8)prerogative 
+- 1. As the CEO, it's his prerogative to go whichever direction he thinks is best.
+作为首席执行官，他有权选择他认为最好的方向。
+
+- 2. I don't like the girl he's dating, but it's his prerogative, so I won't interfere.
+我不喜欢跟他约会的那个女孩，但这是他的权利，所以我不会干涉。
+
+- 3. If a person wants to get plastic surgery, that's their prerogative, but they might regret it later.
+如果有人想做整形手术，这是他们的权利，但可能之后他们会后悔。
+
+# 6.# 2.surgery
+## 1）transplant /trænˈsplænt/ 移植
+
+## 2)going under the knife [phr.动手术] 
+> it doesn't matter what kind of surgery it is. When you get surgery, we say you're going under the knife.
+
+## 3)nose job [n.鼻子整形]
+> we use this expression something job, it's like when you do some kind of work like in this case, of course a nose job, but let's say if you decide to paint your house, that might be called...a paint job.Or at work, if you have to do some work really really fast, your boss might ask you, hey, can you do a rush job?We could also say like possibly, an eye job or a boob job, which is the area of your chest. But we do not use this for every single body part.you don't say like mouth job or something else like that. Yeah, an interesting thing here, Elis says Hannah got her eyes done.
+
+## 4)botch /bɑːtʃ/ jobs  搞砸的事情；拙劣的工作
+
+## 5)plastic surgery & plasticity /plæˈstɪsətɪ/ [n.可塑性] &  reconstructive & cosmetic surgery 
 > 1)the plastic here is kind of, from the idea that plastic means that something is flexible and can bend right? It can change.So fake is the opposite of natural. Sometimes we often say plastic too, like this person doesn't look real, they look like they are made from plastic.
 
 > 2) reconstructive /ˌrikən'strʌktɪv/ ：so that means they're kind of rebuilding you right? So this happens after an accident like a car crash, and they need to maybe rebuild your face a little bit.Exactly, yeah. If there's a burn, burned victims have to get reconstructive plastic surgery
 
 > 3)so cosmetics have to do with makeup and things that you add to your face. It's not really something for health, it's just to improve your appearance.So this is a type of surgery to change your appearance.this one we're talking about today, which is called cosmetic surgery.
 
-# 3.going under the knife [phr.动手术] & nose job [n.鼻子整形]
-> 1）it doesn't matter what kind of surgery it is. When you get surgery, we say you're going under the knife.
+## 6)facelift /'feslɪft/ [n.拉皮] & over-the-hill [phr.衰老]
+> 1)facelift:(1)so this is often to stretch your skin tighter.Or sometimes, you know, some people want that kind of slanted /'slɑ:ntid/ eyes[上挑的眼睛].（2）so we also use this word facelift for other things like a house?Yeah, and you could even say it for like a brand, you want to give a brand a facelift.Yeah, because maybe they're not popular anymore right? So they need to change their brands, so people like them.
 
-> 2)we use this expression something job, it's like when you do some kind of work like in this case, of course a nose job, but let's say if you decide to paint your house, that might be called...a paint job.Or at work, if you have to do some work really really fast, your boss might ask you, hey, can you do a rush job?We could also say like possibly, an eye job or a boob job, which is the area of your chest. But we do not use this for every single body part.you don't say like mouth job or something else like that. Yeah, an interesting thing here, Elis says Hannah got her eyes done.
+> 2)So over-the-hill means your past, the best part of your life.And it's only going to go down from hill.
 
-# 4.saggy /'sæɡi/ [adj.皮肤松弛的] & chubby [adj,胖乎乎的] & facelift /'feslɪft/ [n.拉皮] & botox & liposuction /'lɪposʌkʃən/ & over-the-hill [phr.衰老] & breast implants [n.丰胸] & rolls [n.赘肉]
-> 1)So saggy, it means that something is not tight.So in this case, your skin, your skin will be loose. I guess it's kind of drooping.
+## 7) liposuction /'lɪposʌkʃən/ 
+> so lipo means fat.and suction means suck out.so they're basically vacuuming your fat out.
 
-> 2)chubby means that you're a little bit fat, but it's cute.Like chubby little kids are really cute, babies are chubby.
+## 8)breast implants [n.丰胸] 
+> this is because of saggy boobs. Or not always you know. So breast, breast is that chest area right? And implants are basically things that you put inside, and in this case, to make them look bigger and rounder.And implant, yeah, anything like organ or just something you put in your body, like that you can get a tooth implant.Yeah, yeah, or you could even get a chin implant, if you're talking about cosmetic surgery.
 
-> 3)facelift:(1)so this is often to stretch your skin tighter.Or sometimes, you know, some people want that kind of slanted /'slɑ:ntid/ eyes[上挑的眼睛].（2）so we also use this word facelift for other things like a house?Yeah, and you could even say it for like a brand, you want to give a brand a facelift.Yeah, because maybe they're not popular anymore right? So they need to change their brands, so people like them.
-
-> 4)botox:it just firms [v.紧致] the skin, it makes it look tighter, so you don't have those wrinkles and lines.But sometimes, it can make their skin or their face or whatever look a little puffy /'pʌfi/ [adj.饱满].
-
-> 5)so lipo means fat.and suction means suck out.so they're basically vacuuming your fat out.
-
-> 6）So over-the-hill means your past, the best part of your life.And it's only going to go down from hill.
-
-> 7)this is because of saggy boobs. Or not always you know. So breast, breast is that chest area right? And implants are basically things that you put inside, and in this case, to make them look bigger and rounder.And implant, yeah, anything like organ or just something you put in your body, like that you can get a tooth implant.Yeah, yeah, or you could even get a chin implant, if you're talking about cosmetic surgery.
-
-> 8) rolls are the fat folds, and usually around your stomach.Yeah, if you sit down, you might see some rolls, like most people do. but we don't really want to say like fat folds or anything right? Like rolls, rolls sounds much better.
-
-# 5.insecure [adj.不自信的]
-> So insecure, the opposite, of course, is secure, which kind of means safe, like you know, I feel much more secure in a car, when I'm wearing a seat belt. But we also use it for people, if a person is insecure, it means they don't have any confidence. and they're usually worried about something, like maybe they worry about their kind of personality, maybe they worry about their appearance.
-
-# 6.quest for the perfection [[phr.追求完美]]
-> 1)now quest is a little bit of a formal old word, but we do use it in these chunks like a quest for perfection or quest for truth.Yes, or quest for like self-fulfillment?Yeah, like a lot of people from North America go to India on, like a spiritual quest.Yeah, you're searching for something, it's you're not just traveling without a goal, you have a specific goal, something you're looking for.
-
-# 7.get to you [phr.影响你]
-> when something gets to you, it finally starts to like affect you.Yeah, it starts to bother you.maybe you're at work right? And your boss is very controlling and you try to endure it, but eventually, it gets to you. But you know what, just make sure that you don't let it get to you.Yeah, especially criticism, you know, don't let that get to you, because everybody is great just the way they are.
 
 # III.pattern
 ***Tim, how would you feel if I got plastic surgery done?***
@@ -93,8 +157,30 @@
 
 ***Aw, I feel prettier already.***
 
+# III.pattern
+***Hey, Carter. I've been thinking about getting some botox and doing double eyelid surgery.***
 
+***Really? That seems overkill. Don't you know that beauty comes from within?***
 
+***You should talk. You're always obsessing about your hair thinning. Maybe you could get a hair transplant.***
+
+***Hah, be nice. If people want to enhance their appearance, that's their prerogative. But it won't solve body dysmorphia.***
+
+***Many surgeons require mental assessments to rule that out.***
+
+***But what about botch jobs? Invasive procedures have complications.***
+
+***Horror stories like that are extremely rare, especially in non-surgical procedures.***
+
+***Maybe I just don't like that unnatural, plasticky look. It's not aesthetically pleasing.***
+
+***Those people probably went to a sketchy clinic. Good clinics don't come cheap.***
+
+***Speaking of cheap, don't tons of Americans go to Mexico to go under the knife?***
+
+***Yep, and South Korea is a booming medical tourism destination for Asia.***
+
+***It's certainly become commonplace. So, are you going to get mentally assessed then?***
 
 
 

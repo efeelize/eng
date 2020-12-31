@@ -24,14 +24,19 @@
 
 - 3. They’ll need to park on the other side of the driveway.[他们得停在车道那一边]
 
-# 2.health insurance plan [健康保险计划]
+# 2.surgery
+## 1）botox [n.肉毒杆菌素]
+> a lot of people get botox in various parts of their face,just to get rid of the wrinkles.
+
+## 2）double eyelid [n.双眼皮]
+> when people get surgery for "double eyelid," we can even just say"I got my eyes done" or "I got my eyelid done.""
+
+# health insurance plan [健康保险计划]
 - 1. I don’t have a health insurance plan.[我没有健康保险方案]
 
 - 2. What sort of health insurance plan do you have?[你的健康保险方案是哪种的?]
 
 - 3. My health insurance plan doesn’t cover dental.[我的健康保险方案不包括牙科]
-
-
 
 queries [问题]
 senior executives [高级主管]
