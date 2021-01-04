@@ -1,7 +1,16 @@
 # Atomic_habits
-# I.
+# I.four atomic habits that will change your life
+# 1.prepare your day the night before
+> Take the evening to prepare for tomorrow. Pack your bag, make your lunch, and check your calendar for meetings. It gives so much calm to your evenings, knowing that everything is ready for tomorrow.
 
+# 2.use a timer to increase productivity
+> Creating a feeling of scarcity helps with productivity and reaching your goals. Set a timer for each task and complete it within that time frame. Productivity techniques like the Pomodoro timer are popular, where you work for 25 minutes and have a 5-minute break.
 
+# 3.write down your thoughts
+> When you feel like you have many things on your mind, write it down. It will take your thoughts from your head to the paper. A great moment to write down your thoughts is right before you go to bed. Empty your mind with everything that comes up, and you will have a good night's sleep.
+
+# 4.put your phone away
+> Train yourself to be on your phone less during the day. Using your phone has a significant impact on your productivity. When you stop working on the task at hand, it takes an average of 23 minutes and 15 seconds to get back on track. There are many ways to stop your phone addiction. Installing certain apps or having a time limit is a great start.
 
 # II.grammar
 # 1.such being the case
@@ -18,7 +27,6 @@ project until they come up with a viable solution."
 
 - 3. We were surrounded by the enemy on all sides. Such being the case, we had no choice but to surrender.[我们被敌人四面包围。这种情况下，我们别无选择只能投降了]
 
-
 # 2.critically acclaimed /ˈkrɪtɪkəli əˈkleɪmd/ 广受好评的
 sustainable /səˈsteɪnəbəl/ 可持续的，能长期维持的
 incremental /ˌɪŋkrəˈment̬əl/ 递增的，渐进的
@@ -32,37 +40,25 @@ enticing /ɪnˈtaɪsɪŋ/ 诱人的，有吸引力的
 friction /'frɪkʃən/ 摩擦
 
 # reinforce /ˌriːɪnˈfɔːrs/ 强化，加深
-- 1. Homework helps students reinforce the concepts that they learn in school.
-家庭作业能帮助学生巩固在学校学到的知识概念。
+- 1. Homework helps students reinforce the concepts that they learn in school.[家庭作业能帮助学生巩固在学校学到的知识概念]
 
-- 2. It's common practice for companies to reinforce good performance with rewards like yearly bonuses.
-公司们常常会使用年度奖金等奖励来强化好的工作表现。
+- 2. It's common practice for companies to reinforce good performance with rewards like yearly bonuses.[公司们常常会使用年度奖金等奖励来强化好的工作表现]
 
-- 3. Sir, we just lost the 40th battalion. I think it's time to send for the reinforcements.
-长官，我们刚损失了第40营。我觉得是时候派军增援了。
+- 3. Sir, we just lost the 40th battalion. I think it's time to send for the reinforcements.[长官，我们刚损失了第40营。我觉得是时候派军增援了]
 
 # friction 
-- 1. Sensitive topics such as politics and religion have been a source of friction for the two friends.
-政治和宗教等敏感话题一直是这两个好友间摩擦的根源。
+- 1. Sensitive topics such as politics and religion have been a source of friction for the two friends.[政治和宗教等敏感话题一直是这两个好友间摩擦的根源]
 
-- 2. He had a habit of giving unsolicited advice that would cause friction in the workplace.
-他总会不请自来地主动提出建议，这可能会在工作场合引发摩擦。
+- 2. He had a habit of giving unsolicited advice that would cause friction in the workplace.[他总会不请自来地主动提出建议，这可能会在工作场合引发摩擦]
 
-- 3. To reduce friction, you could go to a gym on the way home, thus removing the obstacle of time.
-为了减少阻碍，你可以在回家的路上去健身房，这样就能消除时间障碍。
+- 3. To reduce friction, you could go to a gym on the way home, thus removing the obstacle of time.[为了减少阻碍，你可以在回家的路上去健身房，这样就能消除时间障碍]
 
 # boil down
-- 1. Everything boils down to money!
-一切都是因为钱！
+- 1. Everything boils down to money![一切都是因为钱]
 
-- 2. I'd like to be a better cook, but it all boils down to my lack of time.
-我想成为一名更好的厨师，但归根到底我没有时间。
+- 2. I'd like to be a better cook, but it all boils down to my lack of time.[我想成为一名更好的厨师，但归根到底我没有时间]
 
-- 3. They boiled down the core concepts of the campaign into two easy-to-follow slides.
-他们把这项活动的核心概念归纳成了两张简单易懂的幻灯片。
-
-
-
+- 3. They boiled down the core concepts of the campaign into two easy-to-follow slides.[他们把这项活动的核心概念归纳成了两张简单易懂的幻灯片]
 
 # III.pattern
 ***In order to make big changes, first you have to think small, says habit expert James Clear.***
