@@ -12,6 +12,10 @@
 # 4.put your phone away
 > Train yourself to be on your phone less during the day. Using your phone has a significant impact on your productivity. When you stop working on the task at hand, it takes an average of 23 minutes and 15 seconds to get back on track. There are many ways to stop your phone addiction. Installing certain apps or having a time limit is a great start.
 
+# I.
+
+
+
 # II.grammar
 # 1.such being the case
 > "Such being the case" is a formal phrase that means "since this is the case" or "under these circumstances."Here "such" is a pronoun that refers to a previous statement.
@@ -73,6 +77,69 @@ project until they come up with a viable solution."
 # 9.enticing /ɪnˈtaɪsɪŋ/ [adj.诱人的，有吸引力的]
 > so when sth's enticing,it's attractive,it draws you to it.we usually use enticing for things like opportunities,for example,and an enticing opportunity can lead you to change jobs or move across the world.
 
+
+New Year's resolutions /nu jɪrz ˌrɛzəˈluʃənz/ 新年决心
+willpower /ˈwɪlˌpaʊər/ 意志力
+vague /veɪg/ 模糊的
+relevant /ˈreləvənt/ 相关的
+
+# plateaus /plæˈtoʊz/ 瓶颈期
+- 1. I've been learning English for six years, but lately I feel like I've plateaued.[我学英语六年了，但是最近我感觉进入停滞期了]
+
+- 2. Two months into my new workout routine, I hit a plateau when my progress slowed considerably.[我的新锻炼计划已经进行两个月了，现在已经进入了瓶颈期，进步非常慢]
+
+- 3. When you find yourself plateauing, it might be time to reevaluate your strategy.[当你发现自己停滞不前，也许是时候重新评估自己的策略了]
+
+sticking points /ˈstɪkɪŋ pɔɪnts/ 僵持点
+adjust /əˈdʒʌst/ 调整
+linear /ˈlɪniər/ 直线型的
+
+# hit resistance /rɪˈzɪstəns/ 阻力
+- 1. It's normal to hit a plateau, especially when it comes to something that you've been doing for a long time.[遇到瓶颈很正常，特别是那些你已经做了一段时间的事情]
+
+- 2. Halfway through the marathon, you might feel like you've hit a wall, but you will eventually break through the resistance.[马拉松跑到半程，你会感觉自己好像撞上了一堵墙，但是你最终能够突破阻碍]
+
+- 3. We hit a few roadblocks along the way when we began implementing new changes to the policy.[刚开始实施新政策时，我们遇到了一系列的阻碍]
+
+- 4. Change, whether big or small, is almost always met with resistance.[改变，不管是大是小，几乎都会遇到阻力]
+
+- 5. Resistance training is more effective than cardio for burning fat and slimming down.[阻力训练比有氧运动对燃脂减重更有效]
+
+- 6. Those who frequently face resistance are better at overcoming obstacles.[常遇到阻碍的人通常更善于克服困难。]
+
+
+rapid /ˈræpɪd/ 快速的
+publicize /ˈpʌblɪˌsaɪz/ 公布
+
+# priority /praɪˈɔːrət̬i/ 优先权
+- 1. Sending priority mail does cost more, but you are ensured a quicker delivery date.[发优先件需要额外交钱，但可以保证更快送达]
+
+- 2. Priority seating is reserved for the elderly, the disabled, pregnant women, and those with young children.[优先座位是留给老弱病残孕和带小孩的乘客的]
+
+- 3. If you don't prioritize the important things ahead of the trivial, it's hard to hit your deadlines.[如果你不把重要的事情优先去做，就很难如期完成任务]
+
+
+slip up /slɪp ʌp/ 失误、跌倒
+resilience /rɪˈzɪljəns/ 坚韧
+relapses /rɪˈlæpsɪz/ 故态复萌
+acknowledge /əkˈnɑːlɪdʒ/ 承认
+
+# track
+- 1. Tracking your progress by writing it down will keep you motivated when improvement slows.[写下你的进步会在你进步减缓的时候激励你]
+
+- 2. My dad keeps track of our family finances across multiple spreadsheets in Excel.[爸爸在几张Excel表里记录着家庭财务账]
+
+# temporary 
+- 1. This is just a temporary fix, darling, I know duct tape won't magically repair our leaky pipe.[亲爱的，这只是暂时的应急措施，我知道胶带不可能神奇地修好我们漏的水管。]
+
+- 2. He was hired as a temp to work here until Max and Beth are back in the office.[他是作为临时工被聘用的，等到Max和Beth回来]
+
+- 3. We found a beautiful apartment in the heart of the city! Unfortunately, we'll only be living there temporarily.[我们在城市中心找到了一个很漂亮的公寓！不幸的是，我们只是暂住]
+
+
+
+
+
 # III.pattern
 ***In order to make big changes, first you have to think small, says habit expert James Clear.***
 
@@ -92,7 +159,22 @@ project until they come up with a viable solution."
 
 ***With these easy steps, Clear argues that anyone can adopt habits and achieve long-term success.***
 
+# III.pattern
+***Many of us make New Year's resolutions but very few of us keep them.Achieving our goals isn't just about willpower. It's about developing the right skills and strategies that, with patience, will lead to success.***
 
+***Here are some practical tips that will help you increase your chances of that success, be it with learning English or with other things in life:***
+
+***1. Clearly define your goals:Many people like to make grand statements such as, "This is the year I'm going to finally..." but these goals are often too general and vague.Instead, set SMART goals for yourself: goals that are specific, measurable, achievable, relevant and timebound.***
+
+***2. Track your progress:If you can measure it, you can change it. These measurements will help motivate you.They will also help you to identify plateaus or "sticking points" in your progress so you can adjust your efforts.***
+
+***3. Have patience:Progress is never linear. Some people will see changes right away but hit resistance later in their efforts.For others, initial progress may be painfully slow but then they suddenly achieve rapid breakthroughs.***
+
+***4. Publicize your goals to friends and family;Yes, it takes some personal courage to share something that you might actually fail at, but friends and family will also help hold you accountable and give you support.***
+
+***5. Put it on your schedule:"I just can't find the time" is simply an excuse. We all choose to spend our time the way we do - whether it's eating junk food or going to the gym.Make your new goals a priority by actually scheduling them into your calendar.Think of these time blocks as important appointments. Don't easily skip them or schedule something else over them.***
+
+***6. Get up when you slip up:Resilience is the key. Don't turn relapses or temporary failures into excuses for giving up.Instead, acknowledge the mistake and recommit to the path.***
 
 
 

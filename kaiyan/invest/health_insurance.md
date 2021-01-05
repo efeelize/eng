@@ -24,55 +24,74 @@
 
 - 3. They’ll need to park on the other side of the driveway.[他们得停在车道那一边]
 
-# 2.surgery
-## 1）botox [n.肉毒杆菌素]
-> a lot of people get botox in various parts of their face,just to get rid of the wrinkles.
-
-## 2）double eyelid [n.双眼皮]
-> when people get surgery for "double eyelid," we can even just say"I got my eyes done" or "I got my eyelid done.""
-
-# health insurance plan [健康保险计划]
+# 2.health insurance plan [健康保险计划]
 - 1. I don’t have a health insurance plan.[我没有健康保险方案]
 
 - 2. What sort of health insurance plan do you have?[你的健康保险方案是哪种的?]
 
 - 3. My health insurance plan doesn’t cover dental.[我的健康保险方案不包括牙科]
 
-queries [问题]
-senior executives [高级主管]
+## 1)coverage  [n.保险覆盖]
+> "what is your insurance coverage" means what insurance cover for,or provides payment for.so you will hear question like,what does my insurance plan cover,or how good is your coverage?
 
-# dental /ˈdentəl/ 牙科的
-- 1. Does this plan have dental coverage?[这个方案包括牙科保险吗？]
+## 2)premium /ˈpriːmiəm/ [n.保费]
+> a monthly premium is the amount of money that you pay for your insurance,the premium is the same amount every month,but it's the part that you specifically pay.
 
-- 2. I have to get a root canal and I don’t have dental insurance.[我得做根管治疗，而我没有牙科保险]
+## 3)deductible /dɪˈdʌktəbəl/ [n.免赔额]
+> the deductible typically means it's an amount of money that you pay upfront for a particular medical condition.
 
-- 3. What’s your dental provider?[谁给你提供牙科服务]
+## 4)to opt out/in
+> 1)so if you pot out,that means you choose not to,or choose no.
 
+> 2)and you can also opt in,which means you choose to do sth.
 
-
-
-
-coverage  [保险覆盖]
-premium /ˈpriːmiəm/ [保费]
-deductible /dɪˈdʌktəbəl/ [免赔额]
-primary care /ˈpraɪˌmɛri kɛr/ [初级护理]
-inpatient /ˈɪnˌpeɪʃənt/ [住院病人]
-outpatient /ˈaʊtˌpeɪʃənt/ [门诊病人]
+# 3.branch
+## 1)primary care /ˈpraɪˌmɛri kɛr/ [初级护理]
 
 
-# maternity /məˈtɜrnɪti/ [孕产]
+## 2)inpatient /ˈɪnˌpeɪʃənt/ [住院病人]
+
+## 3)outpatient /ˈaʊtˌpeɪʃənt/ [门诊病人]
+
+## 4)maternity /məˈtɜrnɪti/ [孕产]
 - 1. The maternity room was full of newborns and mothers.[妇产科病房里都是新生儿和妈妈们]
 
 - 2. She didn’t want to leave her baby in the maternity room.[她不想把她的婴儿留在妇产科病房]
 
 - 3. Because he was born premature, he had to stay in the maternity room for several weeks.[他是个早产儿，只得在妇产科病房待了许多周]
 
-generic /ʤəˈnɛrɪk/ 非专利的
-prescription drugs /prɪˈskrɪpʃən drʌgz/ 处方药
-optometrist /ɑpˈtɑmətrɪst/ 验光师
-pediatric /ˌpidiˈætrɪk/ 儿科的
+## 5)dental /ˈdentəl/ 【adj.牙科的]
+> 
 
-# won't cost you a penny 
+- 1. Does this plan have dental coverage?[这个方案包括牙科保险吗？]
+
+- 2. I have to get a root canal and I don’t have dental insurance.[我得做根管治疗，而我没有牙科保险]
+
+- 3. What’s your dental provider?[谁给你提供牙科服务]
+
+## 6)optometrist /ɑpˈtɑmətrɪst/ 验光师
+
+
+## 7)pediatric /ˌpidiˈætrɪk/ 儿科的
+
+
+# 4.medcine
+## 1)generic /ʤəˈnɛrɪk/ 非专利的
+
+
+## 2)prescription drugs /prɪˈskrɪpʃən drʌgz/ 处方药
+
+
+# 5.vaccine 
+## 1)immune system [n.免疫系统]
+
+## 2）get vaccinated/get the vaccine [phr.打疫苗]
+
+## 3）vaccine roll-out plan [phr.疫苗推广计划]
+
+## 4）2 doses [n.2剂]
+
+# 6.won't cost you a penny 
 - 1. She got a full scholarship and it won’t cost her a penny to go to college.[她获得全额奖学金，上大学不需花一分钱]
 
 - 2. It won't cost him a penny to upgrade.[他升级的话不用花一分钱]
