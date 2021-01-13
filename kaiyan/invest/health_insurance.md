@@ -46,14 +46,22 @@
 > 2)and you can also opt in,which means you choose to do sth.
 
 # 3.branch
-## 1)primary care /ˈpraɪˌmɛri kɛr/ [初级护理]
+## 1)primary care / general physicain /GP [n.初级护理] 
+> 1）it's sb who treats you for general.if you have a cold,a little bit sick,general types of conditions they can treat all of them.so they are your primary care doctors.
 
+## 2）specialist doctor & urgent care 
+> 1）then if you want to get sb who is more specialized,you go to see a specialist doctor.so maybe a skin specialist who specializes in sth going on with our skin or rash.
 
-## 2)inpatient /ˈɪnˌpeɪʃənt/ [住院病人]
+> 2) the thrid type of doctor is urgent care.if you had a car accident and you're hurt really badly,you go to an urgent care doctor.it is similar to emergency room,emergency doctor.sometimes those are used interchangeably,they're the same thing.so I could need to go to the emergency room,I need to go to urgent care.
 
-## 3)outpatient /ˈaʊtˌpeɪʃənt/ [门诊病人]
+## 3)inpatient [n.住院病人] & outpatient [n.门诊病人]
+> 1)an inpatient literally means you need to stay in the hospital as a patient.you need to be hospitalized,so usually that's you need to stay at the hospital for 12,24 hours,maybe even longer.
 
-## 4)maternity /məˈtɜrnɪti/ [孕产]
+> 2)the health plan would cover outpatient doctor visits,so the smaller things are getting a cold or getting a small cut.and usually you will need to pay a much higher premium for that.
+
+## 4)maternal [adj.母性的] & maternity /məˈtɜrnɪti/ [n.孕产]
+> it means motherly or sth realted to another,so "maternity" is the word for anything related to giving birth to a child or children.
+
 - 1. The maternity room was full of newborns and mothers.[妇产科病房里都是新生儿和妈妈们]
 
 - 2. She didn’t want to leave her baby in the maternity room.[她不想把她的婴儿留在妇产科病房]
@@ -61,26 +69,23 @@
 - 3. Because he was born premature, he had to stay in the maternity room for several weeks.[他是个早产儿，只得在妇产科病房待了许多周]
 
 ## 5)dental /ˈdentəl/ 【adj.牙科的]
-> 
-
 - 1. Does this plan have dental coverage?[这个方案包括牙科保险吗？]
 
 - 2. I have to get a root canal and I don’t have dental insurance.[我得做根管治疗，而我没有牙科保险]
 
 - 3. What’s your dental provider?[谁给你提供牙科服务]
 
-## 6)optometrist /ɑpˈtɑmətrɪst/ 验光师
+## 6)optometrist /ɑpˈtɑmətrɪst/ [验光师]
 
-
-## 7)pediatric /ˌpidiˈætrɪk/ 儿科的
-
+## 7)pediatric /ˌpidiˈætrɪk/ [adj.儿科的] & pediatrician [n.儿科医生]
+> so pediatric literally just means for children,so pediatric eye exams meaning eye exams for youth,or for children,and the doctor who specializes in this field is known as a pediatrician.
 
 # 4.medcine
-## 1)generic /ʤəˈnɛrɪk/ 非专利的
+## 1)generic /ʤəˈnɛrɪk/ [adj.非专利的]
+> so they are talk about generic or brand,and it's very much like any other product,there are brand names meaning a name of company that's very famous brand.for example, jewelry,diamond rings,a brand name might be Tiffany or Cartier,but you can also just walk to a generic jeweler and it's still a diamond ring ,and it might cost a lot less.and it's because you're not paying for the name.you're paying for what you associate with,maybe the quality of that name,but it's still a diamond,it's just a different appeal.
 
-
-## 2)prescription drugs /prɪˈskrɪpʃən drʌgz/ 处方药
-
+## 2)prescription drugs /prɪˈskrɪpʃən/ [处方药]
+> prescription drugs syou can't just buy them in the pharmacy,you need a doctor's prescription.the doctor has to prescribe those drugs to you.
 
 # 5.vaccine 
 ## 1)immune system [n.免疫系统]
@@ -97,10 +102,6 @@
 - 2. It won't cost him a penny to upgrade.[他升级的话不用花一分钱]
 
 - 3. Don’t worry it won’t cost you a penny.[别担心，你一分钱都不必花]
-
-
-
-
 
 # III.pattern
 ***Jaime, Mr. Davis said you had some questions concerning your health insurance plan.***
