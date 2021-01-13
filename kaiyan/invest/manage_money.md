@@ -213,7 +213,7 @@
 
 > 3) If you are not so diligent about managing money, you know, it's a journey of a thousand miles begins with one step,That's kind of the hardest thing to do, is to actually look at your expenses to see how they add up and start to, you know, just basically build your savings. it's easier said than done but you won't regret it.
 
-# 11.balance your portfolio [n.投资组合] & artist's portfolio [n.画家作品集]
+# 11.balance your portfolio [n.投资组合] & artist's portfolio [n.画家作品集]  & profitable /ˈprɑːfɪt̬əbəl/ [adj.有利可图的]
 > 1)so "portfolio" to me is like what businessmen carry that little folder thing.To carry all their paperwork.All the papers and stuff like that. 
 
 > 2)But for investments, it's a little different.originally, the investors would have had their shares.In there you carry your shares around. Nowadays, nobody really gets physical shares. You have the right to them but it's probably all done through computers. 
@@ -222,32 +222,31 @@
 
 > 4)"Keep some high-risk ones so as to balance your portfolio." this idea of radically changing something, changing it completely. If you go from having all these really high-risk, high-reward things to having low-risk, low-reward, you're going to find that you're not going to make as much money. You still want to make a little bit of money.or your kids need to go to college, whatever happens, as you get older. The key here is that you want to "balance your portfolio."
 
+- 1. This business is very profitable.[这桩生意利润丰厚]
+
+- 2. I think we can be profitable if we reduce our operational costs.[我觉得如果减少我们的运营开支我们的利润可以增加]
+
+- 3. Real estate is one of the most profitable businesses in the world.[房地产是世界上利润最丰厚的产业之一]
+
 # 12.crackdown [n.强制取缔] & drug trafficking /'træfɪk/ [n.非法交易]
 > so if there's a problem with something, then government will often create new laws, for the police to enforce.so this could be like drug trafficking.so if that's increasing, there's a crackdown on drug traffickers, meaning that's where the law enforcement is focusing their attention
 
 # 13.liquidity /lɪˈkwɪdəti/ [n.流动资金]
 > we heared all about liquidity in the finance.maybe in your company the accountant will talk about this,it's basically just to have money,cash in hand.
 
-# plunge /plʌnʤ/ 猛跌，骤降
+# 14.plunge /plʌnʤ/ [v.猛跌，骤降]
 - 1. Housing prices in the US took a huge plunge this month.[美国的房价这个月大幅下跌]
 
 - 2. The car went off the road and plunged into the abyss.[车子开出道路滑入深渊]
 
 - 3. The value of our stock has taken a major plunge.[我们股票的市值大幅下跌]
 
-# weigh in /weɪ ɪn/ 加入
+# 15.weigh in /weɪ ɪn/ [加入]
 - 1. Carol usually weighs in with good ideas at our meetings.[Carol经常在会议上提出好点子]
 
 - 2. Many factors weighed into our decision to fire you.[许多原因综合起来让我们决定解雇你]
 
 - 3. I still don't think we can come to a decision. I'd like a few more people to weigh in.[我觉得我们还不能做决定，我想多叫些人参加讨论]
-
-# profitable /ˈprɑːfɪt̬əbəl/ 有利可图的
-- 1. This business is very profitable.[这桩生意利润丰厚]
-
-- 2. I think we can be profitable if we reduce our operational costs.[我觉得如果减少我们的运营开支我们的利润可以增加]
-
-- 3. Real estate is one of the most profitable businesses in the world.[房地产是世界上利润最丰厚的产业之一]
 
 # V.pattern
 ***Hey Peter, did you do any shopping over Chinese New Year?***
