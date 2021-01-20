@@ -1,6 +1,6 @@
-# Type A personality
+# Dealing with difficult people at work 
 # I.Type A and B personality theory
-> The type A and B personality theory is quite well-known both in the medical community [医学界] and pop culture[流行文化]. It was formulated by two cardiologists /'kɑrdɪ'ɑlədʒɪst/ [n.心脏病专家], Meyer Friedman and R. H. Rosenman, during the 1950s. The research was originally conducted to investigate how different types of personalities can increase the risk of coronary /'kɔrənɛri/  disease [n.冠心病]. In psychology /saɪ'kɑlədʒi/ [n.心理学], this personality theory is mainly concerned with how people respond to stress.
+> The type A and B personality theory is quite well-known both in the medical community [医学界] and pop culture[流行文化]. It was formulated by two cardiologists /'kɑrdɪ'ɑlədʒɪst/ [n.心脏病专家], Meyer Friedman and R. H. Rosenman, during the 1950s. The research was originally conducted to investigate how different types of personalities can increase the risk of coronary /'kɔrənɛri/  disease [n.冠心病]. In psychology /saɪ'kɑlədʒi/ [n.心理学], this p ersonality theory is mainly concerned with how people respond to stress.
 
 # 1.Type A personality
 > Type A individuals tend to be very competitive and self-critical[自我批判]. They are usually high-achievers and are in a race to achieve higher goals.[为了达成更高的目标而不懈奋进]
@@ -43,7 +43,28 @@
 
 - There’s never all that much work to do on Friday.[没有那么多工作要做]
 
-# 2.hyper- & hyper-organized [adj.非常井井有条的]
+# 2.anger idioms
+- 1. The way she treats her husband really gets under my skin.[她对待她老公的方式让我很不舒服]
+
+- 2. Your behavior is trying my patience.[你的举动是在考验我的耐心]
+
+- 3. When people tap their foot under the table, it gets on my nerves.[有人在桌子下面抖腿，我就心烦]
+
+- 4. My parents are driving me up the wall! I need to move out.[我爸妈快把我逼疯了！我必须搬出去]
+
+# 3.success idioms
+- 1. Despite the economic downturn, we’ve really been crushing it.[虽然经济下滑，我们做的还是很好]
+
+- 2. The reporters gave him a difficult question, but he nailed the answer.[记者提的问题很刁钻，但他对答如流]
+
+- 3. My son always aces his tests at school.[我儿子在学校成绩很棒]
+
+- 4. We made a killing last quarter, especially in the developing markets.[我们表现抢眼，尤其是开发市场]
+
+
+
+
+# hyper- & hyper-organized [adj.非常井井有条的]
 > 1)hyper means over or just very.we use hyper for a lot of different words like I could also say like hyper-energetic.Or like hyper-active.
 
 > 2)in this situation right hyper-organized means a very organized person. when I look at this another like spoken way of saying this you could say she's super organized.
@@ -129,6 +150,129 @@
 
 > 2)if you get along well with someone like you said, you don't have disagreements, you're not gonna fight, you probably like the same stuff and probably think the same about a lot of things, right? So when you get along well with someone, it basically feels like you have a very friendly relationship with someone.
 
+
+
+
+
+
+
+# 13.utmost /ˈʌtˌmoʊst/ 最多的
+straight-shooter /streɪt-ˈʃutər/ 心直口快的人
+rub people the wrong way /rʌb ˈpipəl ðə rɔŋ weɪ/ 惹人不快、冒犯到人
+coddled /ˈkɑdəld/ 呵护、哄
+
+# outright /ˈaʊtraɪt/ 完全的
+- 1. That is an outright lie! I have never even met this person.[这是个彻头彻尾的谎言！我从来没见过这个人]
+
+- 2. His plan to restore customer confidence is an outright fantasy.[他重拾客户信心的计划完全是个幻想]
+
+- 3. Our office renovations were an outright disaster.[我们办公室的翻新工程完全是场灾难]
+
+
+tattle-tale /ˈtætəl-teɪl/ 告密的人、打小报告的人
+insulted /ɪnˈsʌltɪd/ 侮辱
+abusive /əˈbjuːsɪv/ 侮辱性的、欺凌
+
+# mediocre /ˌmidiˈoʊkər/ 平庸、二流
+- 1. Lately, they’ve been attracting only mediocre talent.[最近他们吸引的人才都资质平平]
+
+- 2. Come on, the service was mediocre at best![得了吧，这服务最多就是二流水平！]
+
+- 3. It was an interesting idea for a film, but the acting was so mediocre.[电影创意不错，不过表演太一般了]
+
+
+demoralizing /dɪˈmɔrəˌlaɪzɪŋ/ 打击士气
+frankness /ˈfræŋknəs/ 坦率
+
+# integrate /ˈɪntəˌgreɪt/ 融合、融入
+- 1. The new CEO wants us to start integrating her ideas before next quarter.[新任CEO希望我们在新季度前融入她的想法]
+
+- 2. Integrating the units we acquired during the merger is proving to be quite difficult for the company.[事实证明，并购后的部门整合对公司而言很艰难]
+
+- 3. He integrated many different styles of music into his performance.[他把很多不同的音乐风格都整合到自己的表演里了]
+
+
+# confidential /ˌkɑnfəˈdɛnʃəl/ 保密的、机密的
+- 1. Lawyers are expected to keep information about their clients confidential.[律师应该对自己客户的信息保密]
+
+- 2. Please reread the section of the contract about confidentiality.[请重读一下合同的保密条款]
+
+- 3. Do you trust that she will really keep that confidential?[你相信她能保守秘密吗]
+
+
+# crushing it /ˈkrʌʃɪŋ ɪt/ 干得很好
+
+# instrumental /ˌɪnstrəˈmɛntəl/ 决定性的、至关重要的
+- 1. Our group was instrumental in bringing about the new policy.[我们小组在新政策的推行上，做了举足轻重的贡献]
+
+- 2. It must be said that she was instrumental in our latest success.[不得不说，在我们最近取得的成功中，她起了至关重要的作用]
+
+- 3. I think she will prove to be instrumental at our company.[我认为事实会证明，她将对公司起关键性的作用]
+
+
+
+# sustain /səˈsteɪn/ 保持、维持
+- 1. Sustaining the kind of growth that we’ve seen over the past quarter will not be easy.
+要持续我们上一季度的增长不是件容易的事。
+2. We encourage our employees to eat a healthy lunch that can sustain them throughout the afternoon.
+我们鼓励员工午饭吃得健康一点，有精力面对下午的工作。
+3. It is almost impossible to sustain a conversation with that person.
+跟那个人持续交谈简直是不可能的事。
+
+
+# demanding /dɪˈmændɪŋ/ 高要求、严苛的
+- 1. I’ve worked at many offices, but have never met a boss so demanding as ours.[我在很多公司工作过，不过还没遇到过要求这么高的老板]
+
+- 2. Mountain climbing is both physically and emotionally demanding.[爬山在体力和意志上要求都很高]
+
+- 3. You should be more demanding of your graduate students, professor.[教授，你对研究生的要求应该再高一点]
+
+
+
+# striving /ˈstraɪvɪŋ/ 全力争取
+- 1. We are striving to build a better corporate culture.[我们在努力营造更好的企业文化]
+
+- 2. I strove to make myself understood, before realizing that no one was listening.[我曾经尝试努力表达自己，后来发现根本没人要听]
+
+- 3. Always strive to reach your goals, even if you are shooting for the moon.[即使目标遥不可及，也要尽最大努力达成]
+
+
+adjust /əˈdʒʌst/ 适应
+shooting for the moon /ˈʃutɪŋ fɔr ðə mun/ 目标远大、心有宏图
+
+# elevate /ˈɛləˌveɪt/ 提升
+- 1. We can elevate this conversation above insults and bad language.[我们可以让这场谈话脱离侮辱和脏话]
+
+- 2. Simple exercises can help you elevate your heart rate, making it easier to lose weight.[简单的运动可以帮你提高心率，更容易减重]
+
+- 3. Our CEO is amazing: he elevates advertising into a kind of art.[我们CEO很厉害：他把做广告提升到艺术的高度]
+
+coach /koʊʧ/ 培养、训练
+expectations /ˌekspekˈteɪʃənz/ 期待
+content /kənˈtent/ 满足
+cuddly /ˈkʌdli/ 和乐融融
+grit /grɪt/ 决心、毅力
+
+# shift /ʃɪft/ 转变
+- 1. This cultural shift took place between the 1950’s and the 1960’s.[这场文化变迁发生在1950年代到1960年代]
+
+- 2. I predict that there will be a big shift in the coming decades with genetic engineering.[我预言，在几十年后基因工程会有重大转变]
+
+- 3. The balance of power has shifted from the CEO to the Board.[势力架构从CEO转移到了董事会]
+
+
+
+exceptional /ɪkˈsɛpʃənəl/ 杰出的
+
+# cohesive /koʊˈhisɪv/ 和谐、团结的
+- 1. In the army, if the unit is not cohesive, then everyone will suffer.[在军队，如果部队不团结，每个人都会受到影响]
+
+- 2. Team-building exercises can help co-workers bond and become more cohesive.[团队建设可以让员工们建立更好的关系，变得更团结]
+
+- 3. You have a lot of really great ideas, but you need to put them into a cohesive proposal before you talk to the boss.[你有不少好想法，不过跟老板说之前，要把它们整合成一个整体性的提议]
+
+
+
 # IV.pattern
 ***Oh, man. I’m doing a project with Alyssa, but I’m worried because she’s so type A.***
 
@@ -168,6 +312,70 @@
 ***Agreed. I'd even say she's the most attentive employee at the company.***
 
 ***Sounds like we may have a new employee of the month.***
+
+# V.Pattern
+***William, thanks for taking the time to meet with me today. I wouldn't have bothered you if I had other options.***
+
+***No problem. I understand that this is a delicate issue. So you have some concerns about the way Amanda works.***
+
+***First of all, let me say that I have the utmost respect for her professionally. She's done some really amazing things since she got here and the numbers speak for themselves. But I also have some serious reservations about how she has been managing the team, namely her communication style and how she interacts with people.***
+
+***I know she's a straight-shooter and that could rub people the wrong way.***
+
+***And that's fine. We don't expect to be coddled. But I think there's a line between pushing your team to get the most out of them and outright disrespect for people.***
+
+***Of course. So how has Amanda treated you or people on your team with disrespect?***
+
+***I don't want to be a tattle-tale. I'm simply recounting events that happened. On more than one occasion,she has openly insulted members of the team, myself included. She has used abusive language such as 'dumb', 'mediocre'.***
+
+***Greg, I'm not siding with Amanda. I just want to get the details. So I'm gonna have to ask you, did she use those words to critique the work or people?***
+
+***Well, both. And even if she's talking about work, this kind of attitude and language is extremely damaging and demoralizing.***
+
+***Of course. And I'm really glad you've brought it to my attention. You've been with us for a long time, Greg.You know the kind of organization that we want to build here.***
+
+***Yes. That's' why I wanted to talk to you about this, because I know why people love working here and when they do their best kind of work. I don't want to see that lost.***
+
+***Again, I really appreciate your frankness and loyalty. I'll have a thorough conversation with Amanda and work with her to better integrate with the team.***
+
+***Thanks for your time, William. One more thing, you know this could potentially be risky for me.***
+
+***Of course I do. You have my word this will be kept confidential.***
+
+# V.pattern
+***William, you wanted to see me?***
+
+***That's right. Would you like some coffee or tea?***
+
+***No, I'm fine. So what is it?***
+
+***Well, you're crushing it here. We've had the best quarter in the company's history. And you've played an instrumental role in that.***
+
+***I'm very glad to hear that. But we still need to do a lot more if we want to sustain the growth.***
+
+***So how are you finding working with your team? Do you think you have the people and support to achieve what we set out to do?***
+
+***In general, yes. I know I can be demanding on my team. But if we are striving to do big and groundbreaking things, we all need to push ourselves far beyond what we're comfortable with.***
+
+***Yes, and that's why we brought you here. We believe you are exactly the kind of leader we need in order to realize our ambitions. But I'm also aware that some of our people might find it hard to adjust to a new style and pace.***
+
+***William, when you’re shooting for the moon, the nature of the work is bound to be challenging.***
+
+***Yes, I agree. But I'd also like for us to coach our team members and help them elevate themselves in order to continue our success.***
+
+***I get that. But I also do believe that we need to set higher expectations for our employees. It's easy to be cuddly and pleasant, but you risk creating an environment where people are content with just good enough.***
+
+***Amanda, I admire your grit. We're all working towards the same goal here. I'd like to see how we could work together to get our team members to think the same way rather than feeling negative about it.***
+
+***I believe it requires a cultural shift. People need to understand that we are trying to do exceptional things, for the company as well as for their professional development.***
+
+***Yeah, I agree. But I'd still like to strike a balance between extracting the most out of our employees and creating a cohesive workplace.***
+
+***Ok, William, I get it. I'll make adjustments where necessary. But I hope you can also take the lead in creating a company culture where everyone strives for the best.***
+
+***Of course. Please trust me on that. I appreciate your candidness as always.***
+
+
 
 
 
