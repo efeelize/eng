@@ -1,11 +1,5 @@
 # Financial_crisis
-# I.
-
-
-
-
-
-# II.grammar
+# I.grammar
 # 1.how
 - 1. How fast can you complete this project?[你多快能完成这个项目？]
 
@@ -17,7 +11,8 @@
 
 - 5. How hot does the oven need to be to cook a chicken?[烤箱要调到多热才能烤一只鸡？]
 
-# 2.gory details /ˈgɔri dɪˈteɪlz/ 血淋淋的细节
+# 2.gory details [phr.血淋淋的细节]
+> gory comes from "gore",like blood and guts,that's why it sounds a little bit scary.so "gory details" means all the little details of a negative,or shocking,or bad situation.
 
 - 1. Spare me the gory details. How are we going to survive this financial crisis?[惨不忍睹的细节就不用跟我说了，我们这次金融危机要怎么度过难关？]
 
@@ -35,7 +30,8 @@ inventory /ˌɪnvənˈtɔri/ 存货总值
 
 getting rid of /ˈgɛtɪŋ rɪd ʌv/ 摆脱
 
-redundancies /rɪˈdʌndənsiz/ 裁员
+# redundancies /rɪˈdʌndənsiz/ [n.裁员]
+> 
 
 # governing /ˈgʌvərnɪŋ/ 管理
 - 1. The lack of regulations governing city transportation has led to many traffic accidents.[缺少严格规章管理的城市交通导致了数起交通事故]
