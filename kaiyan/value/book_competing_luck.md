@@ -1,7 +1,21 @@
 # book_competing_luck
-# I.
+# I.How to execute job-to-be-done theory
+> Jobs-to-be-Done innovation theory is the subject of the book Competing Against Luck. The central idea behind the theory is: "Your customers are not buying your products, they are hiring them to get a job done," which will be demonstrated here with concrete measures.
 
+# 1.define your customer's jobs 
+> Define a job as the progress that a person is trying to make in a particular circumstance with three dimensions: functional, social and emotional dimensions.
 
+# 2.identify all the needs in customer's job
+> Customer needs contain a direction, a metric and a goal, which offers more detail about what "quickly and efficiently" means to the job executors.
+
+# 3.find the unmet needs in your customer's job
+> Finding unmet needs is how you precisely articulate and quantify your customers' struggles.
+
+# 4.segment your customers 
+> With Jobs-to-be-Done, the target is the job executors with the most unmet needs. They are the most underserved customers and therefore the segment who is most likely to buy ("hire") your product to get the job done.
+
+# 5.generate ideas and plan your roadmap
+> To build on the ideas or to choose which product features to build now and which to postpone, priority needs should be calculated and considered.
 
 # II.grammar
 # 1.he contents
@@ -13,51 +27,57 @@
 
 - 3. The victim, I gathered, was under extreme duress and unlikely to drop charges.[据我所知，受害者受到了极端胁迫，不太可能放弃指控]
 
-# 2.disruptive innovation /dɪsˈrʌptɪv ˌɪnəˈveɪʃən/ 颠覆性创新
+# 2.disruptive /dɪsˈrʌptɪv/ innovation [phr.颠覆性创新]
+> it means innovations that essentially change the market.
 
-# 3.predictive /prɪ'dɪktɪv/ 预言性的，预测的；前瞻的
+# 3.predictive [adj.] &  predictive text
+> 1)this is growth that you can count on,it's going to happen because you can predict it.
+
+> 2)a lot of computers or phones,they have predictive text algorithms[n.算法].so they know what you're going to text next. 
+
 - 1. Over the years, the predictive accuracy of our market forecasts has vastly improved.[这些年来，我们对市场预测的准确性有很大的提高]
 
 - 2. Predictive text algorithms increase the speed of our typing by autofilling common phrases in emails.[预测文本算法通过自动填充电子邮件中的常见短语，以提高我们的打字速度]
 
 - 3. The plot was painfully predictable and nearly a third of the audience fell asleep halfway through.[故事情节毫无悬念，近三分之一的观众中途睡着了]
 
-sinks or floats /sɪŋks ɔːr floʊts/ 成败
-contends /kənˈtendz/ 主张
+# 4.sinks or floats/sink or swim [n.成败]
+> 1)sinks or floats here just means fails or succeeds.
 
-# gaining traction /ɡeɪnɪŋ ˈtrækʃən/ （产品等）变得流行
+> 2)this is actually similar to "sink or swim".it means your success is up to you.
+
+# 5.gaining traction [phr.(产品等）变得流行]
+> gaining traction is all about gaining popularity and that staying power that really drives your product.if you don't have any traction,you are just going to be stuck in one place.if you're in a car,your tires will be spinning,but you will not be moving,so you obviously will not be succeeding in that sense.
+
 - 1. You need a viral marketing campaign to help you gain traction over your competitors.[你需要一个迅速有效的营销活动帮助你获得超过竞争对手的吸引力]
 
 - 2. Their conservative approach and failure to innovate caused them to lose traction.[他们保守的方法和创新失败导致他们失去了吸引力]
 
 - 3. In our digital age, new ideas and terms gain traction much more quickly than before.[数字时代，新思想和新术语比以往能更快地获得青睐]
 
+# 6.reframing [ptcp.重构]
+> wo don't only need to use this word in business,or when talking about pictures,you can "reframe" lots of things,like reframing your mindset.
 
+# 7.pinpointing /ˈpɪnpɔɪntɪŋ/ [v.准确指出，确定]
+> people use it to indicate a specific location,we could pinpoint the cause of the company's failure or pinpoint a company's reason for growth.
 
-reframing /ˌriːˈfreɪmɪŋ/ 重构
-pinpointing /ˈpɪnpɔɪntɪŋ/ 准确指出，确定
-causal mechanisms /ˈkɑːzəl ˈmekənɪzəmz/ 因果机制
-harness /ˈhɑːrnəs/ 利用
-hone in on /hoʊn ɪn ɑːn/ 专注
+# 8.causal mechanisms [n.因果机制]
+> "causal mechanisms" are essentially those drivers that motivate us to do sth.
 
-# friction /'frɪkʃən/ 摩擦
+# 9.harness /ˈhɑːrnəs/ [v.利用] & harnessing knowledge/solar power 
+> so a harness is sth you put on a horse and it helps you to control that horse.
+
+# 10.hone in on [phr.专注]
+> it means really focus on this,so as you're analyzing the situation and the experience.
+
+# 11.friction 
+> so the friction is basically the obstacle or problems that inhibits sb from buying his.
+
 - 1. His micromanaging tendencies are causing friction in the workplace.[他的微观管理倾向在职场中引起了摩擦]
 
 - 2. Athletic clothing is typically made from slippery fabric to reduce friction while running.[运动服通常由光滑的面料制成，以减少跑步时的摩擦]
 
 - 3. Improving the experience of your product has much to do with alleviating friction such as long waits or complicated instruction manuals.[改善产品体验应当解决一些问题，如长时间等待或繁杂的说明书]
-
-
-
-remedy /ˈremədi/ 补救；解决
-
-
-
-
-
-
-
-
 
 # III.patttern
 ***Two decades ago, Clayton Christensen revolutionized business with his theory of disruptive innovation.***
