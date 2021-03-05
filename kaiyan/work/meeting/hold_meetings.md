@@ -1,5 +1,5 @@
 # hold_meetings
-# I.
+# I.most meetings waste time 
 
 
 
@@ -50,41 +50,46 @@ unstable 不稳定的
 
 - 3. We have to make an unscheduled stop to pick up my friend before continuing on to the airport.[我们得临时去接一下我的朋友，然后再继续去机场
 
-
 # 3.ground rules [phr.基本法则、基础规则，有实际操作意义的]
+> it just means basic rules,if you think of ground is like the foundation and these rules are for like behavior.
 
-# 4.consistently /kənˈsɪstəntli/ 持续性地、一贯性地
+# 4.consistently [adv.持续性地、一贯性地] & consistent [adj.]
 - 1. Steven Spielberg’s movies are consistently entertaining and well-directed.[斯皮尔伯格的电影一直都很有意思，导演技艺也很精湛]
 
 - 2. The soccer team is one of the best in the league, but he’s not consistent enough.[那个足球队是联赛里最好的，但是却不是很稳定]
 
 - 3. My friend's test scores are consistently high because he studies hard.[我朋友的测试成绩一直很高，因为他学习一直很努力]
 
+# 5.enforce [v.实施、执行]
+> so enforce is just to make sb obey a rule or a law,so with police officers for example,we call them law enforcement officers.they make people follow those laws.
 
-
-crucial /ˈkruːʃəl/ 至关重要
-
-# enforce /ɛnˈfɔrs/ 实施、执行
 - 1. Police officers are installing road cameras to enforce distracted driving laws.[警察在安装马路摄像头，以落实分心驾驶法律法规]
 
 - 2. Teachers should be gentle and kind but also enforce some discipline to young students.[老师们应该亲和友善但是同时也应该严肃执行规则纪律]
 
 - 3. Inspectors came to our office to enforce new regulations.[督导来到我们办公室来帮助落实办公室新规]
 
-# constructive /kənˈstrʌktɪv/ 建设性的
+# 6.procedural [adj.程序性的]
+> its basically this steps you have to take to do sth.
+
+# 7.constructive [adj.建设性的]
+> we usually say constructive criticism,you're being positive and you trying to build their idea or build their skill.to help them improve.
+
 - 1. If you don’t have anything constructive to say, don’t say anything at all.[如果你想说的没有什么建设性，那就干脆不要说了]
 
 - 2. The meeting was very constructive toward meeting our year-end goal.[对于完成公司年度目标来说这次会议非常有建设性]
 
 - 3. My boss always works constructively with employees to resolve any conflicts.[我老板总是能够有建设性地解决同事之间的争端]
 
+# 8.desirable [adj.称心如意的、令人满意的]
+> desire is sth that you want,just like you could use this as a desirable qualities,a desirable job.
 
-abstract /ˈæbstrækt/ 抽象的
-desirable /dɪˈzaɪrəbəl/ 称心如意的、令人满意的
-outcome /ˈaʊtˌkʌm/ 成果
-reasoning /ˈriːzənɪŋ/ 推理、逻辑
-specific /spəˈsɪfɪk/ 具体的
-calling someone out /ˈkɔlɪŋ ˈsʌmˌwʌn aʊt/ 针对某人
+# 9.behavioral [adj.行为的]
+> 
+
+# 10.calling someone out [phr.针对某人]
+
+
 relevant /ˈreləvənt/ 相关的、相关性的
 address /əˈdres/ 提出、处理
 systematically /ˌsɪstəˈmætɪkli/ 系统地
