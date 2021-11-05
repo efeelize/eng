@@ -1,4 +1,4 @@
-# Health_insurance_paln.md
+# Health_insurance_paln
 
 # I.a step-by-step gude to choosing a Health Insurance Plan in the US
 # 1.choose your health plan marketplace
