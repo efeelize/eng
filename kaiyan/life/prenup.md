@@ -32,59 +32,68 @@ It's a variant of "God forbid." It's most commonly used in these three ways:
 ## 5)With a "that" conjunction:[用于“that”之前]
 - Heaven forbid that I get fired![但愿我不会被解雇]
 
+- 1. Heaven forbid, we lose the deal. We'll have to find another supplier.[但愿我们不会输掉这笔交易。否则我们得另找供应商]
 
-1. Heaven forbid, we lose the deal. We'll have to find another supplier.
-但愿我们不会输掉这笔交易。否则我们得另找供应商。
-2. If, heaven forbid, you were in a horrific accident, I wouldn't know what to do with myself.
-但愿不会发生，但如果你出了可怕的事故，我就不知道该怎么办了。
-3. A: It looks like it might rain on my wedding day. B: Heaven forbid!
-A: 我结婚那天好像要下雨。B: 但愿不会如此。
+- 2. If, heaven forbid, you were in a horrific accident, I wouldn't know what to do with myself.[但愿不会发生，但如果你出了可怕的事故，我就不知道该怎么办了]
 
-# 2.prenup /ˈpriːnʌp/ 婚前协议
-premarital /ˌpriːˈmerət̬əl/ 婚前的
-inheritances /ɪnˈherɪtənsɪz/ 继承；遗产
+- 3. A: It looks like it might rain on my wedding day. B: Heaven forbid![A: 我结婚那天好像要下雨。B:但愿不会如此]
 
-# ambivalent /æm'bɪvələnt/ （心情）矛盾的；模棱两可的
-- 1. She has pretty ambivalent feelings towards her father, who left her when she was young.
-她对年幼时离开她的父亲怀有复杂的感情。
-2. I felt a great deal of ambivalence about leaving my hometown for a new job far away.
-对于离开家乡到很远的地方去开始新工作，我感到犹豫不决。
-3. He was ambivalent and confused about telling his boss how he felt.
-他很矛盾和困惑，不知是否要告诉老板自己的感受。
+# 2.prenup /ˈpriːnʌp/ [n.婚前协议] & premarital /ˌpriːˈmerət̬əl/ 婚前的 & postnup
+> 1)prenup is short for prenuptial agreement.
 
+> 2)a lot of people get "premarital counseling" before they get married.
 
+> 3)a postnup means after marriage.
 
-grudges /ˈɡrʌdʒɪz/ 怨恨；积怨
-friction /'frɪkʃən/ 摩擦，不和
-accumulated /əˈkjuːmjəleɪtɪd/ 积累；积聚；积攒
-divvy up /ˈdɪvi ʌp/ 分割，分摊
-amicably /'æmɪkəbli/ 友好地
-liabilities /ˌlaɪəˈbɪlət̬iz/ 债务，负债
+# 3.nuptial [adj.婚礼的]
+> so nuptial is basically a fancy word for being married.Those promises we make on our wedding day are sometimes called nuptial vows.
 
+# 4.inheritances /ɪnˈherɪtənsɪz/ [n.继承；遗产]
+> it's money or assets you get when sb like your partent die,and they leave that wealth to you.
 
-# ramifications /ˌræməfəˈkeɪʃənz/ 可能的后果；衍生结果；派生影响
-- 1. The new company policy has broad ramifications for employees.
-公司的新政策对员工有广泛的影响。
-2. Try to consider the wide-reaching ramifications of what you're suggesting.
-要尝试考虑你的建议产生的广泛影响。
-3. We explored every possible ramification before setting things into motion.
-在事情付诸行动之前，我们探讨了所有可能产生的结果
+# 5.ambivalent /æm'bɪvələnt/ [adj.（心情）矛盾的；模棱两可的]
+> so ambivalent is another way to say that you have complicated but conflicting thoughts about sth.
 
+- 1. She has pretty ambivalent feelings towards her father, who left her when she was young.[她对年幼时离开她的父亲怀有复杂的感情]
 
+- 2. I felt a great deal of ambivalence about leaving my hometown for a new job far away.[对于离开家乡到很远的地方去开始新工作，我感到犹豫不决]
 
+- 3. He was ambivalent and confused about telling his boss how he felt.[他很矛盾和困惑，不知是否要告诉老板自己的感受]
 
-# bite the bullet [咬紧牙关应付，硬着头皮应付
-- 1. I know it sounds tough, but I think you should just bite the bullet.
-我知道这听起来很难，但我认为你应该咬紧牙关试试。
-2. At the end of the day, it was my mistake, so I'll bite the bullet and accept the consequences.
-归根结底，是我的错，所以我会咬紧牙关，承担后果。
-3. I hate going to the dentist, but I'd better just bite the bullet and go.
-我讨厌看牙医，但我最好还是硬着头皮去看。
+# 6.grudge /ˈɡrʌdʒɪz/ [n.怨恨；积怨]
+> so grudge is some resentment or dislike or bad feeling about sb,often because of sth that they did to you.often this grudges last a very long time.
 
+# 7.friction [n.摩擦，不和]
+> It basically like conflict.When you have friction between two people,there's some tension.People are probably not getting along very well.
 
-# 3.
+# 8.accumulate [v.积累；积聚；积攒]
+> It means to collect or gradually increase over a long time,we always use it with wealth,assets.But we can also say things like "accumulate experience."
 
+# 9.divvy up /ˈdɪvi/ [phr.分割，分摊]
+> it just a more casual way to say "divide".You can divvy up almost anything.you can divvy up the profits from a company.
 
+# 10.amicably /'æmɪkəbli/ [adv.友好地] & amicable [adj.]
+
+# 11.liability  [n.债务，负债] & to be liable for sth
+> it is a fancy word for debt in a financial sense.
+
+# 12.ramification /ˌræməfəˈkeɪʃən/ [可能的后果；衍生结果；派生影响]
+> It means some indirect consequences that maybe we did not intend,but we really need to consider before we decide to do this.
+
+- 1. The new company policy has broad ramifications for employees.[公司的新政策对员工有广泛的影响]
+
+- 2. Try to consider the wide-reaching ramifications of what you're suggesting.[要尝试考虑你的建议产生的广泛影响]
+
+- 3. We explored every possible ramification before setting things into motion.[在事情付诸行动之前，我们探讨了所有可能产生的结果]
+
+# 13.bite the bullet [phr.咬紧牙关应付，硬着头皮应付]
+> it usually sth unpleasant.if often implies that you are doing sth or finally doing sth that you have been putting off or that is fairly unpleasant.
+
+- 1. I know it sounds tough, but I think you should just bite the bullet.[我知道这听起来很难，但我认为你应该咬紧牙关试试]
+
+- 2. At the end of the day, it was my mistake, so I'll bite the bullet and accept the consequences.[归根结底，是我的错，所以我会咬紧牙关，承担后果]
+
+- 3. I hate going to the dentist, but I'd better just bite the bullet and go.[我讨厌看牙医，但我最好还是硬着头皮去看]
 
 # III.pattern
 ***, Matt. I might add Tom's name to my house before we get married. If so, should I get a prenup?***
