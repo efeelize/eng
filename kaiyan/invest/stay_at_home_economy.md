@@ -46,18 +46,23 @@ It's similar to "regarding" and is often used to limit a topic. For instance, "I
 
 - 3. Debate over whether or not productivity should be measured has grown as more companies pivot to remote work.[随着越来越多的公司转向远程工作，关于是否应该衡量生产力的争论也在增加]
 
-# 7.made a killing [phr.大赚一笔]
+# 7.make a killing [phr.大赚一笔]
 
 # 8.pendulum effect [n.钟摆效应]
+> 1)pendulum is sth that swings back and forth,it had sth that hung down and it swung back and forth,and swung back and forth and made that sound tick-tock,tick-tock.
 
-# 9.acclimatized /əˈklaɪmət̬aɪzd/ [适应]
+> 2)a pendulun effect is like when we start doing one thing,and then we come back and do another thing.We can also use this to describe business.it's basically when one thing goes from one extreme to another.
+
+# 9.acclimatize to sth /əˈklaɪmət̬aɪzd/ [v.适应]
 - 1. I haven't acclimatized to the time difference yet, so I'm still waking up at 3 AM.[我还没有适应时差，所以我还是会在凌晨3点醒来]
 
 - 2. It'll take some time for the team to acclimatize to the new working conditions.[团队需要一些时间来适应新的工作环境]
 
 - 3. The failure of the company was partly due to inadequate acclimatization after the merger.[公司失败的部分原因是合并后的适应性不足]
 
-# 10.hybrid /ˈhaɪbrɪd/ 混合
+# 10.hybrid /ˈhaɪbrɪd/ [n.混合]
+> a hybrid vehicle is a vehicle that uses gas and electricity.
+
 - 1. The school's hybrid teaching style combines both in-class and online learning.[学校的混合教学模式结合了课内和线上学习的模式]
 
 - 2. The government is pushing citizens to invest in hybrid or electric cars to reduce carbon emissions.[政府正在推动大家购买混合动力或电动汽车以减少碳排放]
