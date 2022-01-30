@@ -19,45 +19,45 @@ effects.
 
 - 3. They shook hands, and with that a lasting friendship had been formed.[他们握了握手，从此建立了一段持久的友谊]
 
-# 2.kidult /ˈkɪdʌlt/ 童心未泯的成人
+# 2.kidult /ˈkɪdʌlt/ [n.童心未泯的成人]
+> It's when adult do kid things.
 
-# proliferating /prəˈlɪfəreɪtɪŋ/ 激增；扩散（原形：proliferate）
-- 1. Tech companies proliferated in the 1990s as the economy continued to boom.
-随着经济持续繁荣，科技公司在20世纪90年代大量涌现。
-2. Our local ecology will be devastated if the foreign insect is permitted to proliferate.
-如果允许境外昆虫大量繁殖，我们当地的生态环境将受到破坏。
-3. The two countries agreed to sign a weapons proliferation treaty.
-两国同意签署一项有关武器扩散的条约。
+# 3.proliferate /prəˈlɪfəreɪt/ [v.激增；扩散]
+> so when new things,new ideas,new technology starts to increase and spread,we can say "proliferated."
 
-juvenile /'dʒʊvənaɪl/ 青少年的
-purchasing power /ˈpɝːtʃəsɪŋ ˌpaʊɚ/ 购买力
+- 1. Tech companies proliferated in the 1990s as the economy continued to boom.[随着经济持续繁荣，科技公司在20世纪90年代大量涌现]
 
-# indulge /ɪnˈdʌlʤ/ 放纵；沉迷
-- 1. You can indulge your senses at our picturesque resort island.
-您可以在我们风景如画的度假岛上尽情放松享受。
-2. I exercise every day so that I don't feel guilty about indulging my sweet tooth from time to time!
-我每天都锻炼，这样的话我就不会因为偶尔放纵自己吃甜食而感到内疚了！
-3. Women do not indulge in violent crime at nearly the same rate as men do.
-男女在暴力事件中的占比有所差别。
+- 2. Our local ecology will be devastated if the foreign insect is permitted to proliferate.[如果允许境外昆虫大量繁殖，我们当地的生态环境将受到破坏]
 
+- 3. The two countries agreed to sign a weapons proliferation treaty.[两国同意签署一项有关武器扩散的条约]
 
-qualms /kwɑːmz/ 疑虑；不安（原形：qualm）
-mundane /mənˈdeɪn/ 单调的；平凡的
+# 4.juvenile /'dʒʊvənaɪl/ [adj & n.青少年的]
+> we can also use it to say,like a person is being childish.
 
-# transitory /'trænsətɔri/ 短暂的；转瞬即逝的
+# 5.purchasing power [n.购买力] & act their age [成熟；行为与年纪相符]
+
+# 6.indulge [v.放纵；沉迷]
+> when you are indulging,you're purchasing or consuming or enjoying sth that you don't need,but that you probably really want.
+
+- 1. You can indulge your senses at our picturesque resort island.[您可以在我们风景如画的度假岛上尽情放松享受]
+
+- 2. I exercise every day so that I don't feel guilty about indulging my sweet tooth from time to time![我每天都锻炼，这样的话我就不会因为偶尔放纵自己吃甜食而感到内疚了]
+
+- 3. Women do not indulge in violent crime at nearly the same rate as men do.[男女在暴力事件中的占比有所差别]
+
+# 7.qualm /kwɑːmz/ [n.疑虑；不安]
+> a qualm is sth that makes you uncomfortable.It is an issue,it's like a moral issue.
+
+# 8.mundane /mənˈdeɪn/ [adj.单调的；平凡的]
+> it's a very philosophical word.we're usually talking about mundane jobs,responsibilities,tasks.
+
+# 9.transitory /'trænsətɔri/ [adj.短暂的；转瞬即逝的]
 - 1. The doctor assured her that any side effects of the medication would be transitory.[医生向她保证，药物的任何副作用都是短时的]
 
 2. Poets often use symbols like water to describe the transitory nature of life.
 诗人经常使用水来象征生命的短暂。
 3. We are currently experiencing a transitory disruption of our supply chains.
 我们目前正经历着供应链的短时中断。
-
-
-act their age /ækt ðer eɪdʒ/ 成熟；行为与年纪相符
-adulting /əˈdʌltɪŋ/ 以成年人方式行事（原形：adult）
-
-
-
 
 # III.pattern
 ***just got back from Shanghai Disney. Practically every other person I saw there was an adult!***
