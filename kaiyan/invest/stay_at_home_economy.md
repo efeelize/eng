@@ -2,9 +2,11 @@
 # I.Out with the old,in with the new:the stay-at-home economy might be here to stay
 > The COVID-19 pandemic has ignited an explosion of the stay-at-home economy. Many countries are imposing strict lockdown measures to reduce the spread of the coronavirus, which ultimately has led to a rapid transformation to working from home.
 
+> The Internet has long empowered consumers with a more efficient path to the products and services they need to consume in their everyday lives. Noticeably, the disruption of the traditional shopping model reduced the time consumers spend traveling to and from traditional "brick-and-mortar" stores. Of course, now the pandemic has forced them to do even more shopping online. 
 
+> Besides, the Internet has enabled some businesses and governments to do well in the new "working at home" environment. And the adoption of video streaming services allows students to continue to study at home. The demand for home entertainment, such as video games, live broadcasting, and online movies, has also increased. 
 
-
+> Online activity is grabbing the lion's share of all commerce and human activity at the moment. Will those traditional jobs return or is this a shocking new paradigm brought on by a pandemic? We don't know, but staying in is the new going out for now. 
 
 # II.grammar
 # 1.insofar as sth ... is concerned
@@ -19,44 +21,48 @@ It's similar to "regarding" and is often used to limit a topic. For instance, "I
 
 - 3. Insofar as streaming is concerned, Youtube and Netflix have greatly outpaced their North American competitors.[就流媒体而言，Youtube和Netflix已经大大超过了它们在北美的竞争对手]
 
-# 2.pandemic /pænˈdemɪk/ 大流行病
+# 2.pandemic /pænˈdemɪk/ [n.大流行病] & epidemic 
+> 1)pandemic is when a disease spreads around the world to many different places.
 
-# jumped on the bandwagon 跟随潮流
+> 2) so an epidemic is when a disease spreads,but it spreads in a small area.
 
-# game changer  改变游戏规则的人或事，颠覆性的人或事
+# 3.jumped on the (n.) bandwagon [phr.跟随潮流]
+> a bandwagon is like a vehicle,and the idea is that everyone gets into the same direction.
 
-# accelerated /əkˈselɚeɪt̬ɪd/ 加速
+- jumped on the bread baking bandwagon.
 
-# pivoted /ˈpɪvətɪd/ 转变、调整
+# 4.game changer [n.改变游戏规则的人或事，颠覆性的人或事]
+> It is sth that really affects a situation or business.It really affects a situation or business.
+
+# 5.to accelerat sth  
+> it means to speed it up.
+
+# 6.pivot /ˈpɪvətɪd/ [v.转变、调整]
+> pivot just means to change or change direction.
+
 - 1. If the app wants to stay afloat, it will have to pivot to meet the new market.[如果这个应用程序想存活下去，它将不得不转型以满足新的市场]
 
 - 2. The pivot to online learning will impact the way schools conduct classes going forward.[向线上教育转型将影响学校今后的上课方式]
 
 - 3. Debate over whether or not productivity should be measured has grown as more companies pivot to remote work.[随着越来越多的公司转向远程工作，关于是否应该衡量生产力的争论也在增加]
 
-# made a killing 大赚一笔
+# 7.made a killing [phr.大赚一笔]
 
-# pendulum effect 钟摆效应
+# 8.pendulum effect [n.钟摆效应]
 
-# acclimatized /əˈklaɪmət̬aɪzd/ 适应
+# 9.acclimatized /əˈklaɪmət̬aɪzd/ [适应]
 - 1. I haven't acclimatized to the time difference yet, so I'm still waking up at 3 AM.[我还没有适应时差，所以我还是会在凌晨3点醒来]
 
 - 2. It'll take some time for the team to acclimatize to the new working conditions.[团队需要一些时间来适应新的工作环境]
 
 - 3. The failure of the company was partly due to inadequate acclimatization after the merger.[公司失败的部分原因是合并后的适应性不足]
 
-
-
-
-# hybrid /ˈhaɪbrɪd/ 混合
+# 10.hybrid /ˈhaɪbrɪd/ 混合
 - 1. The school's hybrid teaching style combines both in-class and online learning.[学校的混合教学模式结合了课内和线上学习的模式]
 
 - 2. The government is pushing citizens to invest in hybrid or electric cars to reduce carbon emissions.[政府正在推动大家购买混合动力或电动汽车以减少碳排放]
 
 - 3. We're hoping the company will move toward a hybrid work model where employees only need to come in on a needs basis.[我们希望公司能朝着混合的工作模式发展，员工只需要按需来上班]
-
-# stay-at-home economy /ˈsteɪ ət hoʊm iˈkɑːnəmi/ 宅家经济
-
 
 # III.pattern
 ***Hey Jen, want to hit the gym with me this Friday?***

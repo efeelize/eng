@@ -20,46 +20,43 @@
 - 3. A: I can't believe she broke up with me! What did I do wrong? B: It could just be that she wasn't ready for a relationship.[A: 我不敢相信她和我分手了! 我做错了什么？B：可能只是她还没有准备好谈恋爱]
 
 # 2.terse /tɝːs/ 简洁生硬的
-overanalyzing /oʊvɚˈænəlaɪzɪŋ/ 过度分析
-thicker-skinned /θɪkər-skɪnd/ 厚脸皮的
-in tune with /ɪn tuːn wɪð/ 理解
-sensory input /ˈsensəri ˈɪnpʊt/ 感觉输入
-perceive /pɚˈsiːv/ 感知
 
-# agitated /ˈædʒəteɪtɪd/ 激动不安的
+# 3.overanalyzing /oʊvɚˈænəlaɪzɪŋ/ 过度分析
+
+# 4.thicker-skinned /θɪkər-skɪnd/ 厚脸皮的
+
+# 5.in tune with /ɪn tuːn wɪð/ 理解
+
+# 6.sensory input /ˈsensəri ˈɪnpʊt/ 感觉输入
+
+# 7.perceive /pɚˈsiːv/ 感知
+
+# 8.agitated /ˈædʒəteɪtɪd/ 激动不安的
 - 1. My husband is very easily agitated when he doesn't get a good sleep.[我的丈夫在没睡好时非常容易激动]
 
 - 2. My little brother is so agitating. I wish he would leave me alone.[我的弟弟很烦人，希望他能离我远点]
 
 - 3. Cheap moisturizers may end up agitating your skin.[廉价的乳液可能会刺激你的皮肤]
 
+# 9.stimulation /ˌstɪmjəˈleɪʃən/ 刺激
 
-
-
-stimulation /ˌstɪmjəˈleɪʃən/ 刺激
-
-# agonizing /ˈæɡənaɪzɪŋ/ 感到痛苦
+# 10.agonizing /ˈæɡənaɪzɪŋ/ 感到痛苦
 - 1. Stop agonizing about this decision. Just make a choice![不要再为这个决定苦恼了，做出选择吧!]
 
 - 2. I can't take the suspense of this movie! It's agonizing![我受不了这电影的悬念感了! 太痛苦了!]
 
 - 3. The little boy cried like he was in utter agony.[小男孩哭了起来，非常痛苦的样子]
 
-# advantageous /ˌædvænˈteɪdʒəs/ 有利的
+# 11.advantageous /ˌædvænˈteɪdʒəs/ 有利的
 - 1. Having a degree in business can be very advantageous when applying for a job.[在申请工作时，拥有商学位是非常有利的]
 
 - 2. The high tax rate isn't advantageous for low income earners.[高税率对低收入者来说不太有利]
 
 - 3. Preventing disease through a healthy lifestyle is more advantageous than fighting it with treatment.[通过健康的生活方式来预防疾病比通过治疗来对抗疾病更有优势。]
 
-empathy /ˈempəθi/ 共情，同理心
-intuition /ˌɪntuːˈɪʃən/ 直觉
+# 12.empathy /ˈempəθi/ 共情，同理心
 
-
-
-
-
-
+# 13.intuition /ˌɪntuːˈɪʃən/ 直觉
 
 # III.pattern
 ***Hey Carey, can I talk to you? It feels like my new coworkers don't appreciate me.***

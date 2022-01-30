@@ -21,43 +21,59 @@
 
 - 3. I don't let my kids watch violent TV shows. I know what would happen if I did: Monkey see, monkey do.[我不让孩子们看有暴力内容的电视剧。我知道让他们看会有什么后果：他们会有样学样]
 
-# 2.impulse /ˈɪmpʌls/ 冲动
+# 2.impulse /ˈɪmpʌls/ [n.冲动] & impulsive [adj.]
+> 1)impulse is just some signal,some instinct to do sth without thinking like you see it and your impulse is I need that,I must have it,I will buy it now.
+
+> 2)Both are okay,you could say "impulsive buy." It's more common to say "an impulse buy."
+
 - 1. When I get insulted, my first impulse is to get defensive.[当我被冒犯的时候，我的第一反应就是自卫]
 
 - 2. It's hard to resist the impulse to scroll through social media when you're bored.[无聊的时候很难抵挡得了刷社交媒体的冲动]
 
 - 3. Jim needs to learn to control his impulsive eating behaviour if he wants to shed some pounds.[如果Jim想减肥的话，他得学会控制他的冲动暴食行为]
 
-# cave /keɪv/ 让步，屈服
+# 3.cave /keɪv/ [v.让步，屈服] & cave in [phr.] & cave to sth.
+> It just means that you can't resist it.
+
 - 1. After years of using my bike to commute, I finally caved and bought a new car.[在骑自行车通勤很多年之后，我终于放弃了，买了辆新车]
 
 - 2. Don't cave in and agree with your parents just because you want to please them.[不要仅仅因为你想取悦父母就屈从于他们的想法]
 
 - 3. I didn't want to relocate for work, but then my boss threatened to fire me, so I caved to his demands.[我不想因为工作而搬家，但是老板威胁说要开除我，所以我只能答应他的要求]
 
+# 4.sth is triggered by sth else  
+> 1)It means sth caused sth to happen.
 
+> 2)these days a lot of young people use this word "triggered","Oh,I'm so triggered," to mean that they're upset.
 
-# triggered /ˈtrɪɡɚd/ 引发，引起
 - 1. The tsunami was triggered by a massive offshore earthquake.[这次海啸是由一场巨大的近海地震引发的]
 
 - 2. An illness can be triggered by stress or too much overtime at work.[压力过大或加太多班可能会诱发疾病]
 
 - 3. Scent is the most powerful memory trigger.[气味最能触发记忆]
 
+# 5.instant gratification [n.即时满足] & delayed gratification
+> With instant gratification,you get sth good now,but sth bad later.
 
+# 6.retail therapy [n.购物疗法]
+> I love new things,even if I have like the best thing,I just want sth new,I don't care if it's even better.I just want it new,but it's really important for us to be happy with the things we have already.
 
-instant gratification /ˈɪnstənt ˌɡrætɪfɪˈkeɪʃən/ 即时满足
-retail therapy /ˈriːteɪl ˌθerəpi/ 购物疗法
-paradoxically /ˌpærəˈdɑːksɪkli/ 自相矛盾地
-buyer's remorse /ˈbaɪɚz rɪˈmɔːrs/ 买家懊悔，事后悔恨
-pass up /pæs ʌp/ 放过，放弃，错过（机会）
-compels /kəmˈpelz/ 迫使
-bombarded /bɑːmˈbɑːrdɪd/ 连续轰炸
-influencers /ˈɪnfluənsɚz/ 网红，有影响力的人
-drastic /ˈdræstɪk/ 激烈的
+# 7.paradoxically /ˌpærəˈdɑːksɪkli/ [adv.自相矛盾地] & paradox [n.] & pardoxical [adj.]
 
+# 8.buyer's remorse /rɪˈmɔːrs/ [买家懊悔，事后悔恨]
+> remorse is just a bad feeling you get from doing sth,so it could be like regret or guilt or even like sadness.
 
+# 9.pass up [phr.放过，放弃，错过（机会）]
 
+# 10.compel [v.迫使] & compelling [adj.引人注目的、令人信服的]
+> a compelling argument is a strong argument that it makes us believe it.
+
+# 11.bombarded /bɑːmˈbɑːrdɪd/ [ptcp.连续轰炸]
+> it means that we're constantly getting it.We 're constantly receiving it,kind of like we're being attacked by them.
+
+# 12.influencers  [n.网红，有影响力的人]
+
+# 13.drastic [adj.激烈的]
 
 # III.pattern
 ***Eric, check out this new skirt! I saw it online for half off and had to get it.***
